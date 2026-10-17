@@ -1,0 +1,2467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-21" tipo="precepto" titulo="ITC-BT-21">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-21</p>
+        <p class="anexo_tit">INSTALACIONES INTERIORES O RECEPTORAS. TUBOS Y CANALES PROTECTORAS</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. TUBOS PROTECTORES</p>
+        <p class="parrafo_2">1.1 Generalidades</p>
+        <p class="parrafo">1.2 Características mínimas de los tubos, en función del tipo de instalación</p>
+        <p class="parrafo_2">1.2.1 Tubos en canalizaciones fijas en superficie</p>
+        <p class="parrafo">1.2.2 Tubos en canalizaciones empotradas</p>
+        <p class="parrafo">1.2.3 Canalizaciones aéreas o con tubos al aire</p>
+        <p class="parrafo">1.2.4 Tubos en canalizaciones enterradas</p>
+        <p class="parrafo_2">2. INSTALACIÓN Y COLOCACIÓN DE LOS TUBOS</p>
+        <p class="parrafo_2">2.1 Prescripciones generales</p>
+        <p class="parrafo">2.2 Montaje fijo en superficie</p>
+        <p class="parrafo">2.3 Montaje fijo empotrado</p>
+        <p class="parrafo">2.4 Montaje al aire</p>
+        <p class="parrafo_2">3. CANALES PROTECTORAS</p>
+        <p class="parrafo_2">3.1 Generalidades</p>
+        <p class="parrafo">3.2 Características de las canales</p>
+        <p class="parrafo_2">4. INSTALACIÓN Y COLOCACIÓN DE LAS CANALES</p>
+        <p class="parrafo_2">4.1 Prescripciones generales</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>TUBOS PROTECTORES</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>1.1</strong>
+          <strong>Generalidades</strong>
+        </p>
+        <p class="parrafo_2">Los tubos protectores pueden ser:</p>
+        <p class="parrafo_2">– Tubo y accesorios metálicos.</p>
+        <p class="parrafo">– Tubo y accesorios no metálicos.</p>
+        <p class="parrafo">– Tubo y accesorios compuestos (constituidos por materiales metálicos y no metálicos).</p>
+        <p class="parrafo_2">Los tubos se clasifican según lo dispuesto en las normas siguientes:</p>
+        <p class="parrafo_2">UNE-EN 50.086-2-1: Sistemas de tubos rígidos</p>
+        <p class="parrafo_2">UNE-EN 50.086-2-2: Sistemas de tubos curvables</p>
+        <p class="parrafo_2">UNE-EN 50.086-2-3: Sistemas de tubos flexibles</p>
+        <p class="parrafo_2">UNE-EN 50.086-2-4: Sistemas de tubos enterrados</p>
+        <p class="parrafo_2">Las características de protección de la unión entre el tubo y sus accesorios no deben ser inferiores a los declarados para el sistema de tubos.</p>
+        <p class="parrafo">La superficie interior de los tubos no deberá presentar en ningún punto aristas, asperezas o fisuras susceptibles de dañar los conductores o cables aislados o de causar heridas a instaladores o usuarios.</p>
+        <p class="parrafo">Las dimensiones de los tubos no enterrados y con unión roscada utilizados en las instalaciones eléctricas son las que se prescriben en la UNE-EN 60.423. Para los tubos enterrados, las dimensiones se corresponden con las indicadas en la norma UNE-EN 50.086-2-4. Para el resto de los tubos, las dimensiones serán las establecidas en la norma correspondiente de las citadas anteriormente. La denominación se realizará en función del diámetro exterior.</p>
+        <p class="parrafo">El diámetro interior mínimo deberá ser declarado por el fabricante.</p>
+        <p class="parrafo">En lo relativo a la resistencia a los efectos del fuego considerados en la norma particular para cada tipo de tubo, se seguirá lo establecido por la aplicación de la Directiva de Productos de la Construcción (89/106/CEE)</p>
+        <p class="parrafo_2">
+          <strong>1.2</strong>
+          <strong>Características mínimas de los tubos, en función del tipo de instalación</strong>
+        </p>
+        <p class="parrafo_2">1.2.1 Tubos en canalizaciones fijas en superficie</p>
+        <p class="parrafo_2">En las canalizaciones superficiales, los tubos deberán ser preferentemente rígidos y en casos especiales podrán usarse tubos curvables. Sus características mínimas serán las indicadas en la tabla 1.</p>
+        <p class="centro_cursiva">Tabla 1. Características mínimas para tubos en canalizaciones superficiales ordinarias fijas</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Característica</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Código</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Grado</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la compresión</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Fuerte</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al impacto</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Media</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura mínima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">-5 ºC</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura máxima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">+60 ºC</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al curvado</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1-2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Rígido/curvable</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Propiedades eléctricas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1-2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Continuidad eléctrica/aislante</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración de objetos sólidos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Contra objetos D ≥ 1 mm</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración del agua</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Contra gotas de agua cayendo verticalmente cuando el sistema de tubos está inclinado 15º</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la corrosión de tubos metálicos y compuestos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Protección interior y exterior media</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la tracción</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No declarada</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la propagación de la llama</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No propagador</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a las cargas suspendidas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No declarada</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">El cumplimiento de estas características se realizará según los ensayos indicados en las normas UNE-EN 50.086-2-1, para tubos rígidos y UNE-EN 50.086-2-2, para tubos curvables.</p>
+        <p class="parrafo">Los tubos deberán tener un diámetro tal que permitan un fácil alojamiento y extracción de los cables o conductores aislados. En la tabla 2 figuran los diámetros exteriores mínimos de los tubos en función del número y la sección de los conductores o cables a conducir.</p>
+        <p class="centro_cursiva">Tabla 2. Diámetros exteriores mínimos de los tubos en función del número y la sección de los conductores o cables a conducir</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="3">
+                <p class="cabeza_tabla">Sección nominal de los conductores unipolares (mm<sup>2</sup>)</p>
+              </th>
+              <th class="cabeza_tabla" colspan="5">
+                <p class="cabeza_tabla">Diámetro exterior de los tubos (mm)</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla" colspan="5">
+                <p class="cabeza_tabla">Número de conductores</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">2</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">3</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">4</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">5</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">1,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">10</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">35</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">95</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">120</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">185</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">240</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">Para más de 5 conductores por tubo o para conductores aislados o cables de secciones diferentes a instalar en el mismo tubo, su sección interior será, como mínimo igual a 2,5 veces la sección ocupada por los conductores.</p>
+        <p class="parrafo_2">1.2.2 Tubos en canalizaciones empotradas</p>
+        <p class="parrafo_2">En las canalizaciones empotradas, los tubos protectores podrán ser rígidos, curvables o flexibles y sus características mínimas se describen en la tabla 3 para tubos empotrados en obras de fábrica (paredes, techos y falsos techos), huecos de la construcción o canales protectoras de obra y en la tabla 4 para tubos empotrados embebidos en hormigón.</p>
+        <p class="parrafo">Las canalizaciones ordinarias precableadas destinadas a ser empotradas en ranuras realizadas en obra de fábrica (paredes, techos y falsos techos) serán flexibles o curvables y sus características mínimas para instalaciones ordinarias serán las indicadas en la tabla 4.</p>
+        <p class="centro_cursiva">Tabla 3. Características mínimas para tubos en canalizaciones empotradas ordinarias en obra de fábrica (paredes, techos y falsos techos), huecos de la construcción y canales protectoras de obra</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Característica</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Código</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Grado</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la compresión</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Ligera</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al impacto</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Ligera</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura mínima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">-5 ºC</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura máxima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">+60 ºC</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al curvado</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1-2-3-4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Cualquiera de las especificadas</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Propiedades eléctricas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No declaradas</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración de objetos sólidos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Contra objetos D ≥ 1 mm</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración del agua</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Contra gotas de agua cayendo verticalmente cuando el sistema de tubos está inclinado 15º</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la corrosión de tubos metálicos y compuestos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Protección interior y exterior media</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la tracción</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No declarada</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la propagación de la llama</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No propagador</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a las cargas suspendidas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No declarada</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="centro_cursiva">Tabla 4. Características mínimas para tubos en canalizaciones empotradas ordinarias embebidas en hormigón y para canalizaciones precableadas</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Característica</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Código</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Grado</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la compresión</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Media</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al impacto</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Media</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura mínima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">-5 ºC</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura máxima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">+90 ºC<sup>(1)</sup></p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al curvado</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1-2-3-4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Cualquiera de las especificadas</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Propiedades eléctricas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No declaradas</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración de objetos sólidos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Protegido contra el polvo</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración del agua</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Protegido contra el agua en forma de lluvia</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la corrosión de tubos metálicos y compuestos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Protección interior y exterior media</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la tracción</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No declarada</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la propagación de la llama</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No propagador</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a las cargas suspendidas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No declarada</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="cita"><sup>(1)</sup> Para canalizaciones precableadas ordinarias empotradas en obra de fábrica (paredes, techos y falsos techos) se acepta una temperatura máxima de instalación y servicio código 1; +60 ºC.</p>
+        <p class="parrafo_2">El cumplimiento de las características indicadas en las tablas 3 y 4 se realizará según los ensayos indicados en las normas UNE-EN 50.086-2-1, para tubos rígidos, UNE-EN 50.086-2-2, para tubos curvables y UNE-EN 50.086-2-3, para tubos flexibles.</p>
+        <p class="parrafo">Los tubos deberán tener un diámetro tal que permitan un fácil alojamiento y extracción de los cables o conductores aislados. En la Tabla 5 figuran los diámetros exteriores mínimos de los tubos en función del número y la sección de los conductores o cables a conducir.</p>
+        <p class="centro_cursiva">Tabla 5. Diámetros exteriores mínimos de los tubos en función del número y la sección de los conductores o cables a conducir</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="3">
+                <p class="cabeza_tabla">Sección nominal de los conductores unipolares (mm<sup>2</sup>)</p>
+              </th>
+              <th class="cabeza_tabla" colspan="5">
+                <p class="cabeza_tabla">Diámetro exterior de los tubos (mm)</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla" colspan="5">
+                <p class="cabeza_tabla">Número de conductores</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">2</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">3</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">4</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">5</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">1,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">10</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">35</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">95</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">120</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">185</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">240</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">Para más de 5 conductores por tubo o para conductores o cables de secciones diferentes a instalar en el mismo tubo, su sección interior será como mínimo, igual a 3 veces la sección ocupada por los conductores.</p>
+        <p class="parrafo_2">1.2.3 Canalizaciones aéreas o con tubos al aire</p>
+        <p class="parrafo_2">En las canalizaciones al aire, destinadas a la alimentación de máquinas o elementos de movilidad restringida, los tubos serán flexibles y sus características mínimas para instalaciones ordinarias serán las indicadas en la Tabla 6.</p>
+        <p class="parrafo">Se recomienda no utilizar este tipo de instalación para secciones nominales de conductor superiores a 16 mm<sup>2</sup>.</p>
+        <p class="centro_cursiva">Tabla 6. Características mínimas para canalizaciones de tubos al aire o aéreas</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Característica</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Código</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Grado</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la compresión</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Fuerte</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al impacto</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Media</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura mínima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">-5 ºC</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura máxima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">+60 ºC</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al curvado</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Flexible</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Propiedades eléctricas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1/2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Continuidad/aislado</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración de objetos sólidos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Contra objetos D ≥ 1 mm</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración del agua</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Protegido contra las gotas de agua cayendo verticalmente cuando el sistema de tubos está inclinado 15º</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la corrosión de tubos metálicos y compuestos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Protección interior mediana y exterior elevada</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la tracción</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Ligera</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la propagación de la llama</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No propagador</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a las cargas suspendidas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Ligera</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">El cumplimiento de estas características se realizará según los ensayos indicados en la norma UNE-EN 50.086-2-3.</p>
+        <p class="parrafo">Los tubos deberán tener un diámetro tal que permitan un fácil alojamiento y extracción de los cables o conductores aislados. En la Tabla 7 figuran los diámetros exteriores mínimos de los tubos en función del número y la sección de los conductores o cables a conducir.</p>
+        <p class="centro_cursiva">Tabla 7. Diámetros exteriores mínimos de los tubos en función del número y la sección de los conductores o cables a conducir</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="3">
+                <p class="cabeza_tabla">Sección nominal de los conductores (mm<sup>2</sup>)</p>
+              </th>
+              <th class="cabeza_tabla" colspan="5">
+                <p class="cabeza_tabla">Diámetro exterior de los tubos (mm)</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla" colspan="5">
+                <p class="cabeza_tabla">Número de conductores</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">2</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">3</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">4</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">5</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">1,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">10</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo">Para más de 5 conductores por tubo o para conductores o cables de secciones diferentes a instalar en el mismo tubo, su sección interior será como mínimo, igual a 4 veces la sección ocupada por los conductores.</p>
+        <p class="parrafo_2">1.2.4 Tubos en canalizaciones enterradas</p>
+        <p class="parrafo_2">En las canalizaciones enterradas, los tubos protectores serán conformes a lo establecido en la norma UNE-EN 50.086-2-4 y sus características mínimas serán, para las instalaciones ordinarias las indicadas en la tabla 8.</p>
+        <p class="centro_cursiva">Tabla 8. Características mínimas para tubos en canalizaciones enterradas</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Característica</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Código</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Grado</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la compresión</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">NA</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">250 N / 450 N / 750 N</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al impacto</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">NA</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Ligero / Normal / Normal</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura mínima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">NA</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">NA</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura máxima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">NA</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">NA</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al curvado</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1-2-3-4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Cualquiera de las especificadas</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Propiedades eléctricas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No declaradas</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración de objetos sólidos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Protegido contra objetos D ≥ 1 mm</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración del agua</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Protegido contra el agua en forma de lluvia</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la corrosión de tubos metálicos y compuestos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Protección interior y exterior media</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la tracción</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No declarada</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la propagación de la llama</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No declarada</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a las cargas suspendidas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No declarada</p>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="3">
+                <p class="cita">Notas:</p>
+                <p class="cita">NA: No aplicable</p>
+                <p class="cita">(*) Para tubos embebidos en hormigón aplica 250 N y grado Ligero; para tubos en suelo ligero aplica 450 N y grado Normal; para tubos en suelos pesados aplica 750 N y grado Normal</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">Se considera suelo ligero aquel suelo uniforme que no sea del tipo pedregoso y con cargas superiores ligeras, como por ejemplo, aceras, parques y jardines. Suelo pesado es aquel del tipo pedregoso y duro y con cargas superiores pesadas, como por ejemplo, calzadas y vías férreas.</p>
+        <p class="parrafo">El cumplimiento de estas características se realizará según los ensayos indicados en la norma UNE-EN 50.086-2-4.</p>
+        <p class="parrafo">Los tubos deberán tener un diámetro tal que permitan un fácil alojamiento y extracción de los cables o conductores aislados. En la Tabla 9 figuran los diámetros exteriores mínimos de los tubos en función del número y la sección de los conductores o cables a conducir.</p>
+        <p class="centro_cursiva">Tabla 9. Diámetros exteriores mínimos de los tubos en función del número y la sección de los conductores o cables a conducir.</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="3">
+                <p class="cabeza_tabla">Sección nominal de los conductores unipolares (mm<sup>2</sup>)</p>
+              </th>
+              <th class="cabeza_tabla" colspan="5">
+                <p class="cabeza_tabla">Diámetro exterior de los tubos (mm)</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla" colspan="5">
+                <p class="cabeza_tabla">Número de conductores</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">≤ 6</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">7</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">8</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">9</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">10</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">1,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">32</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">10</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">90</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">90</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">90</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">90</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">110</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">110</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">35</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">90</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">110</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">110</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">110</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">125</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">110</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">110</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">125</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">125</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">140</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">125</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">125</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">140</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">160</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">160</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">95</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">140</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">140</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">160</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">160</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">180</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">120</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">160</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">160</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">180</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">180</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">200</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">180</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">180</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">200</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">200</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">225</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">185</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">180</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">200</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">225</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">225</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">250</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">240</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">225</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">225</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">250</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">250</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">Para más de 10 conductores por tubo o para conductores o cables de secciones diferentes a instalar en el mismo tubo, su sección interior será como mínimo, igual a 4 veces la sección ocupada por los conductores.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>INSTALACIÓN Y COLOCACIÓN DE LOS TUBOS</strong>
+        </p>
+        <p class="parrafo_2">La instalación y puesta en obra de los tubos de protección deberá cumplir lo indicado a continuación y en su defecto lo prescrito en la norma UNE 20.460-5-523 y en las ITC-BT-19 e ITC-BT-20.</p>
+        <p class="parrafo_2">
+          <strong>2.1</strong>
+          <strong>Prescripciones generales</strong>
+        </p>
+        <p class="parrafo_2">Para la ejecución de las canalizaciones bajo tubos protectores, se tendrán en cuenta las prescripciones generales siguientes:</p>
+        <p class="parrafo_2">– El trazado de las canalizaciones se hará siguiendo líneas verticales y horizontales o paralelas a las aristas de las paredes que limitan el local donde se efectúa la instalación.</p>
+        <p class="parrafo">– Los tubos se unirán entre sí mediante accesorios adecuados a su clase que aseguren la continuidad de la protección que proporcionan a los conductores.</p>
+        <p class="parrafo">– Los tubos aislantes rígidos curvables en caliente podrán ser ensamblados entre sí en caliente, recubriendo el empalme con una cola especial cuando se precise una unión estanca.</p>
+        <p class="parrafo">– Las curvas practicadas en los tubos serán continuas y no originarán reducciones de sección inadmisibles. Los radios mínimos de curvatura para cada clase de tubo serán los especificados por el fabricante conforme a UNE-EN 50.086-2-2.</p>
+        <p class="parrafo">– Será posible la fácil introducción y retirada de los conductores en los tubos después de colocarlos y fijados éstos y sus accesorios, disponiendo para ello los registros que se consideren convenientes, que en tramos rectos no estarán separados entre sí más de 15 metros. El número de curvas en ángulo situadas entre dos registros consecutivos no será superior a 3. Los conductores se alojarán normalmente en los tubos después de colocados éstos.</p>
+        <p class="parrafo">– Los registros podrán estar destinadas únicamente a facilitar la introducción y retirada de los conductores en los tubos o servir al mismo tiempo como cajas de empalme o derivación.</p>
+        <p class="parrafo">– Las conexiones entre conductores se realizarán en el interior de cajas apropiadas de material aislante y no propagador de la llama. Si son metálicas estarán protegidas contra la corrosión. Las dimensiones de estas cajas serán tales que permitan alojar holgadamente todos los conductores que deban contener. Su profundidad será al menos igual al diámetro del tubo mayor más un 50 % del mismo, con un mínimo de 40 mm. Su diámetro o lado interior mínimo será de 60 mm. Cuando se quieran hacer estancas las entradas de los tubos en las cajas de conexión, deberán emplearse prensaestopas o racores adecuados.</p>
+        <p class="parrafo">– En ningún caso se permitirá la unión de conductores como empalmes o derivaciones por simple retorcimiento o arrollamiento entre sí de los conductores, sino que deberá realizarse siempre utilizando bornes de conexión montados individualmente o constituyendo bloques o regletas de conexión; puede permitirse asimismo, la utilización de bridas de conexión. El retorcimiento o arrollamiento de conductores no se refiere a aquellos casos en los que se utilice cualquier dispositivo conector que asegure una correcta unión entre los conductores aunque se produzca un retorcimiento parcial de los mismos y con la posibilidad de que puedan desmontarse fácilmente. Los bornes de conexión para uso doméstico o análogo serán conformes a lo establecido en la correspondiente parte de la norma UNE-EN 60.998.</p>
+        <p class="parrafo">– Durante la instalación de los conductores para que su aislamiento no pueda ser dañado por su roce con los bordes libres de los tubos, los extremos de éstos, cuando sean metálicos y penetren en una caja de conexión o aparato, estarán provistos de boquillas con bordes redondeados o dispositivos equivalentes, o bien los bordes estarán convenientemente redondeados.</p>
+        <p class="parrafo">– En los tubos metálicos sin aislamiento interior, se tendrá en cuenta las posibilidades de que se produzcan condensaciones de agua en su interior, para lo cual se elegirá convenientemente el trazado de su instalación, previendo la evacuación y estableciendo una ventilación apropiada en el interior de los tubos mediante el sistema adecuado, como puede ser, por ejemplo, el uso de una "T" de la que uno de los brazos no se emplea.</p>
+        <p class="parrafo">– Los tubos metálicos que sean accesibles deben ponerse a tierra. Su continuidad eléctrica deberá quedar convenientemente asegurada. En el caso de utilizar tubos metálicos flexibles, es necesario que la distancia entre dos puestas a tierra consecutivas de los tubos no exceda de 10 metros.</p>
+        <p class="parrafo">– No podrán utilizarse los tubos metálicos como conductores de protección o de neutro.</p>
+        <p class="parrafo">– Para la colocación de los conductores se seguirá lo señalado en la ITC-BT-20.</p>
+        <p class="parrafo">– A fin de evitar los efectos del calor emitido por fuentes externas (distribuciones de agua caliente, aparatos y luminarias, procesos de fabricación, absorción del calor del medio circundante, etc.) las canalizaciones se protegerán utilizando los siguientes métodos eficaces:</p>
+        <p class="parrafo_2">•  Pantallas de protección calorífuga</p>
+        <p class="parrafo">•  Alejamiento suficiente de las fuentes de calor</p>
+        <p class="parrafo">•  Elección de la canalización adecuada que soporte los efectos nocivos que se puedan producir</p>
+        <p class="parrafo">• Modificación del material aislante a emplear</p>
+        <p class="parrafo_2">
+          <strong>2.2</strong>
+          <strong>Montaje fijo en superficie</strong>
+        </p>
+        <p class="parrafo_2">Cuando los tubos se coloquen en montaje superficial se tendrán en cuenta, además, las siguientes prescripciones:</p>
+        <p class="parrafo_2">– Los tubos se fijarán a las paredes o techos por medio de bridas o abrazaderas protegidas contra la corrosión y sólidamente sujetas. La distancia entre éstas será, como máximo, de 0,50 metros. Se dispondrán fijaciones de una y otra parte en los cambios de dirección, en los empalmes y en la proximidad inmediata de las entradas en cajas o aparatos.</p>
+        <p class="parrafo">– Los tubos se colocarán adaptándose a la superficie sobre la que se instalan, curvándose o usando los accesorios necesarios.</p>
+        <p class="parrafo">– En alineaciones rectas, las desviaciones del eje del tubo respecto a la línea que une los puntos extremos no serán superiores al 2 por 100.</p>
+        <p class="parrafo">– Es conveniente disponer los tubos, siempre que sea posible, a una altura mínima de 2,50 metros sobre el suelo, con objeto de protegerlos de eventuales daños mecánicos.</p>
+        <p class="parrafo">– En los cruces de tubos rígidos con juntas de dilatación de un edificio, deberán interrumpirse los tubos, quedando los extremos del mismo separados entre sí 5 centímetros aproximadamente, y empalmándose posteriormente mediante manguitos deslizantes que tengan una longitud mínima de 20 centímetros.</p>
+        <p class="parrafo_2">
+          <strong>2.3</strong>
+          <strong>Montaje fijo empotrado</strong>
+        </p>
+        <p class="parrafo_2">Cuando los tubos se coloquen empotrados, se tendrán en cuenta, las recomendaciones de la tabla 8 y las siguientes prescripciones:</p>
+        <p class="parrafo_2">– En la instalación de los tubos en el interior de los elementos de la construcción, las rozas no pondrán en peligro la seguridad de las paredes o techos en que se practiquen. Las dimensiones de las rozas serán suficientes para que los tubos queden recubiertos por una capa de 1 centímetro de espesor, como mínimo. En los ángulos, el espesor de esta capa puede reducirse a 0,5 centímetros.</p>
+        <p class="parrafo">– No se instalarán entre forjado y revestimiento tubos destinados a la instalación eléctrica de las plantas inferiores.</p>
+        <p class="parrafo">– Para la instalación correspondiente a la propia planta, únicamente podrán instalarse, entre forjado y revestimiento, tubos que deberán quedar recubiertos por una capa de hormigón o mortero de 1 centímetro de espesor, como mínimo, además del revestimiento.</p>
+        <p class="parrafo">– En los cambios de dirección, los tubos estarán convenientemente curvados o bien provistos de codos o "T" apropiados, pero en este último caso sólo se admitirán los provistos de tapas de registro.</p>
+        <p class="parrafo">– Las tapas de los registros y de las cajas de conexión quedarán accesibles y desmontables una vez finalizada la obra. Los registros y cajas quedarán enrasados con la superficie exterior del revestimiento de la pared o techo cuando no se instalen en el interior de un alojamiento cerrado y practicable.</p>
+        <p class="parrafo">– En el caso de utilizarse tubos empotrados en paredes, es conveniente disponer los recorridos horizontales a 50 centímetros como máximo, de suelo o techos y los verticales a una distancia de los ángulos de esquinas no superior a 20 centímetros.</p>
+        <p class="centro_cursiva">Tabla 10</p>
+        <table class="tabla_ancha">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Elemento constructivo</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Colocación del tubo antes de terminar la construcción y revestimiento (*)</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Preparación de la roza o alojamiento durante la construcción</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Ejecución de la roza después de la construcción y revestimiento</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Observaciones</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p>Muros de:</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td colspan="1" rowspan="13">
+                <p class="cuerpo_tabla_centro">Únicamente en rozas verticales y en las horizontales situadas a una distancia del borde superior del muro inferior a 50 cm. La roza, en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo.</p>
+                <p class="cuerpo_tabla_centro">La roza en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo. No se colocarán los tubos en diagonal.</p>
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">ladrillo macizo</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">X</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">ladrillo hueco, siendo el n.º de huecos en sentido transversal:</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">– uno</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">X</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">– dos o tres</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">X</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">– más de tres</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">X</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">bloques macizos de hormigón</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">X</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">X</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">bloques huecos de hormigón</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">X</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">NO</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">hormigón en masa</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">X</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">hormigón armado</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">X</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p>Forjados:</p>
+              </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">placas de hormigón</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">NO</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">forjados con nervios</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">NO</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">forjados con nervios y elementos de relleno</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">NO (**)</p>
+              </td>
+              <td colspan="1" rowspan="4">
+                <p class="cuerpo_tabla_centro">(**)  Es admisible practicar un orificio en la cara inferior del forjado para introducir los tubos en un hueco longitudinal del mismo.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">forjados con viguetas y bovedillas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">NO (**)</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">forjados con viguetas y tableros y revoltón</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">NO (**)</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">de rasilla</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">SI</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">NO</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="cita">X: Difícilmente aplicable en la práctica</p>
+        <p class="cita">(*): Tubos blindados únicamente</p>
+        <p class="parrafo_2">
+          <strong>2.4</strong>
+          <strong>Montaje al aire</strong>
+        </p>
+        <p class="parrafo_2">Solamente está permitido su uso para la alimentación de máquinas o elementos de movilidad restringida desde canalizaciones prefabricadas y cajas de derivación fijadas al techo. Se tendrán en cuenta las siguientes prescripciones:</p>
+        <p class="parrafo_2">La longitud total de la conducción en el aire no será superior a 4 metros y no empezará a una altura inferior a 2 metros.</p>
+        <p class="parrafo">Se prestará especial atención para que las características de la instalación establecidas en la tabla 6 se conserven en todo el sistema especialmente en las conexiones.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>CANALES PROTECTORAS</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Generalidades</strong>
+        </p>
+        <p class="parrafo_2">La canal protectora es un material de instalación constituido por un perfil de paredes perforadas o no perforadas, destinado a alojar conductores o cables y cerrado por una tapa desmontable, según se indica en la ITC-BT-01 "Terminología".</p>
+        <p class="parrafo">Las canales serán conformes a lo dispuesto en las normas de la serie UNE-EN 50.085 y se clasificarán según lo establecido en la misma.</p>
+        <p class="parrafo">Las características de protección deben mantenerse en todo el sistema. Para garantizar éstas, la instalación debe realizarse siguiendo las instrucciones del fabricante.</p>
+        <p class="parrafo">En las canales protectoras de grado IP4X o superior y clasificadas como «canales con tapa de acceso que solo puede abrirse con herramientas» según la norma UNE-EN 50.085-1, se podrá:</p>
+        <p class="parrafo_2">a) Utilizar conductor aislado, de tensión asignada 450/750 V.</p>
+        <p class="parrafo">b) Colocar mecanismos tales como interruptores, tomas de corrientes, dispositivos de mando y control, etc., en su interior, siempre que se fijen de acuerdo con las instrucciones del fabricante.</p>
+        <p class="parrafo">c) Realizar empalmes de conductores en su interior y conexiones a los mecanismos.</p>
+        <p class="parrafo_2">En las canales protectoras de grado de protección inferior a IP4X ó clasificadas como «canales con tapa de acceso que puede abrirse sin herramientas», según la norma UNE-EN 50.085-1, sólo podrá utilizarse conductor aislado bajo cubierta estanca, de tensión asignada mínima 300/500 V.</p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Características de las canales</strong>
+        </p>
+        <p class="parrafo_2">En las canalizaciones para instalaciones superficiales ordinarias, las características mínimas de las canales serán las indicadas en la tabla 11.</p>
+        <p class="centro_cursiva">Tabla 11. Características mínimas para canalizaciones superficiales ordinarias</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Característica</p>
+              </th>
+              <th class="cabeza_tabla" colspan="2">
+                <p class="cabeza_tabla">Grado</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Dimensión del lado mayor de la sección transversal</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">≤ 16 mm</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">&gt; 16 mm</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al impacto</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Muy ligera</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Media</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura mínima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">+15 ºC</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–5 ºC</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura máxima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">+60 ºC</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">+60 ºC</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Propiedades eléctricas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Aislante</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Continuidad eléctrica/aislante</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración de objetos sólidos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">no inferior a 2</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración de agua</p>
+              </td>
+              <td colspan="2">
+                <p class="cuerpo_tabla_centro">No declarada</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la propagación de la llama</p>
+              </td>
+              <td colspan="2">
+                <p class="cuerpo_tabla_centro">No propagador</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">El cumplimiento de estas características se realizará según los ensayos indicados en las normas UNE-EN 50.085.</p>
+        <p class="parrafo">El número máximo de conductores que pueden ser alojados en el interior de una canal será el compatible con un tendido fácilmente realizable y considerando la incorporación de accesorios en la misma canal.</p>
+        <p class="parrafo">Salvo otras prescripciones en instrucciones particulares, las canales protectoras para aplicaciones no ordinarias deberán tener unas características mínimas de resistencia al impacto, de temperatura mínima y máxima de instalación y servicio, de resistencia a la penetración de objetos sólidos y de resistencia a la penetración de agua, adecuadas a las condiciones del emplazamiento al que se destina; asimismo las canales serán no propagadoras de la llama. Dichas características serán conformes a las normas de la serie UNE-EN 50.085.</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>INSTALACIÓN Y COLOCACIÓN DE LAS CANALES</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>4.1</strong>
+          <strong>Prescripciones generales</strong>
+        </p>
+        <p class="parrafo_2">– La instalación y puesta en obra de las canales protectoras deberá cumplir lo indicado en la norma UNE 20.460 -5-52 y en las Instrucciones ITC-BT-19 e ITC-BT-20.</p>
+        <p class="parrafo">– El trazado de las canalizaciones se hará siguiendo preferentemente líneas verticales y horizontales o paralelas a las aristas de las paredes que limitan al local donde se efectúa la instalación.</p>
+        <p class="parrafo">– Las canales con conductividad eléctrica deben conectarse a la red de tierra, su continuidad eléctrica quedará convenientemente asegurada.</p>
+        <p class="parrafo">– No se podrán utilizar las canales como conductores de protección o de neutro, salvo lo dispuesto en la Instrucción ITC-BT-18 para canalizaciones prefabricadas.</p>
+        <p class="parrafo">– La tapa de las canales quedará siempre accesible.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

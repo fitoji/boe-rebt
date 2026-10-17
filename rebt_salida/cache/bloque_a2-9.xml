@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a2-9" tipo="precepto" titulo="Artículo 27">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 27. Accidentes.</p>
+        <p class="parrafo">A efectos estadísticos y con objeto de poder determinar las principales causas, así como disponer las eventuales correcciones en la reglamentación, se debe poseer los correspondientes datos sistematizados de los accidentes más significativos. Para ello, cuando se produzca un accidente que ocasione daños o víctimas, la compañía suministradora deberá redactar un informe que recoja los aspectos esenciales del mismo. En los quince primeros días de cada trimestre, deberán remitir a las Comunidades Autónomas y al centro directivo competente en materia de seguridad industrial del Ministerio de Ciencia y Tecnología, copia de todos los informes realizados.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

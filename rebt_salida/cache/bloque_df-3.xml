@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="df-3" tipo="precepto" titulo="Disposición final tercera">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Disposición final tercera. Entrada en vigor.</p>
+        <p class="parrafo_2">El Reglamento electrotécnico para baja tensión, adjunto al presente Real Decreto, entrará en vigor, con carácter obligatorio, para todas las instalaciones contempladas en su ámbito de aplicación, al año de su publicación en el «Boletín Oficial del Estado». No obstante, podrá aplicarse, voluntariamente, desde la fecha de dicha publicación.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

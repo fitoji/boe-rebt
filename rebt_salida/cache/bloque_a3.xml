@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a3" tipo="precepto" titulo="Artículo 3">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 3. Instalación eléctrica.</p>
+        <p class="parrafo">Se entiende por instalación eléctrica todo conjunto de aparatos y de circuitos asociados en previsión de un fin particular: producción, conversión, transformación, transmisión, distribución o utilización de la energía eléctrica.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

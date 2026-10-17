@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="df" tipo="precepto" titulo="Disposición final primera">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Disposición final primera. Habilitación normativa.</p>
+        <p class="parrafo_2">El presente Real Decreto se dicta al amparo del título competencial establecido en la disposición final única de la Ley 21/1992, de 16 de julio, de Industria, en concreto, de las competencias que corresponden al Estado conforme al artículo 149.1.1.ª y 13.ª de la Constitución, relativas a la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales, así como sobre las bases y condiciones de la planificación general de la actividad económica.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

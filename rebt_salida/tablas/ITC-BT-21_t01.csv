@@ -1,0 +1,13 @@
+Característica,Código,Grado
+Resistencia a la compresión,4,Fuerte
+Resistencia al impacto,3,Media
+Temperatura mínima de instalación y servicio,2,-5 ºC
+Temperatura máxima de instalación y servicio,1,+60 ºC
+Resistencia al curvado,1-2,Rígido/curvable
+Propiedades eléctricas,1-2,Continuidad eléctrica/aislante
+Resistencia a la penetración de objetos sólidos,4,Contra objetos D ≥ 1 mm
+Resistencia a la penetración del agua,2,Contra gotas de agua cayendo verticalmente cuando el sistema de tubos está inclinado 15º
+Resistencia a la corrosión de tubos metálicos y compuestos,2,Protección interior y exterior media
+Resistencia a la tracción,0,No declarada
+Resistencia a la propagación de la llama,1,No propagador
+Resistencia a las cargas suspendidas,0,No declarada

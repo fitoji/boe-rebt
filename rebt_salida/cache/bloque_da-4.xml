@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="da-4" tipo="precepto" titulo="Disposición adicional cuarta">
+      <version id_norma="BOE-A-2010-8190" fecha_publicacion="20100522" fecha_vigencia="20100523">
+        <p class="articulo">Disposición adicional cuarta. Obligaciones en materia de información y reclamaciones.</p>
+        <p class="parrafo">Las empresas instaladoras en baja tensión deben cumplir las obligaciones de información de los prestadores y las obligaciones en materia de reclamaciones establecidas, respectivamente, en los artículos 22 y 23 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.</p>
+        <blockquote>
+          <p class="nota_pie">Se añade por el art. 7.5 del Real Decreto 560/2010, de 7 de mayo. <a class="refPost">Ref. BOE-A-2010-8190#aseptimo</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

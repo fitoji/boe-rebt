@@ -1,0 +1,9 @@
+DIMENSIONES (m),,
+Número de derivaciones,ANCHURA L (m),
+Número de derivaciones,"Profundidad P = 0,15 m
+ Una fila","Profundidad P = 0,30 m
+ Dos filas"
+Hasta 12,0 65,0 50
+13-24,"1,25","0,65"
+25-36,"1,85","0,95"
+36-48,"2,45","1,35"

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="da-3" tipo="precepto" titulo="Disposición adicional tercera">
+      <version id_norma="BOE-A-2010-8190" fecha_publicacion="20100522" fecha_vigencia="20100523">
+        <p class="articulo">Disposición adicional tercera. Modelo de declaración responsable.</p>
+        <p class="parrafo">Corresponderá a las comunidades autónomas elaborar y mantener disponibles los modelos de declaración responsable. A efectos de facilitar la introducción de datos en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, el órgano competente en materia de seguridad industrial del Ministerio de Industria, Turismo y Comercio elaborará y mantendrá actualizada una propuesta de modelos de declaración responsable, que deberá incluir los datos que se suministrarán al indicado registro, y que estará disponible en la sede electrónica de dicho Ministerio.</p>
+        <blockquote>
+          <p class="nota_pie">Se añade por el art. 7.4 del Real Decreto 560/2010, de 7 de mayo. <a class="refPost">Ref. BOE-A-2010-8190#aseptimo</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

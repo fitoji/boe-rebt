@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a2-6" tipo="precepto" titulo="Artículo 24">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 24. Excepciones.</p>
+        <p class="parrafo">Sin perjuicio de lo establecido en el apartado 1 del artículo 6, cuando sea materialmente imposible cumplir determinadas prescripciones del presente Reglamento, sin que sea factible tampoco acogerse al apartado 3.b) del artículo anterior, el titular de la instalación que se pretenda realizar deberá presentar, ante el órgano competente de la Comunidad Autónoma, previamente al procedimiento contemplado en el artículo 18, una solicitud de excepción, exponiendo los motivos de la misma e indicando las medidas de seguridad alternativas que se propongan, las cuales, en ningún caso, podrán rebajar los niveles de protección establecidos en el Reglamento.</p>
+        <p class="parrafo">El citado órgano competente podrá desestimar la solicitud, requerir la modificación de las medidas alternativas o conceder la autorización de excepción, que será siempre expresa, entendiéndose el silencio administrativo como desestimatorio.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

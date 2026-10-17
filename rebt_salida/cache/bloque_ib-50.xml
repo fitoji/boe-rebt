@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-50" tipo="precepto" titulo="ITC-BT-50">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-50</p>
+        <p class="anexo_tit">INSTALACIONES ELÉCTRICAS EN LOCALES QUE CONTIENEN RADIADORES PARA SAUNAS</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO Y CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. CONDICIONES GENERALES DE INSTALACIÓN</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>OBJETO Y CAMPO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">El objeto de la presente Instrucción es determinar los requisitos de instalación de los equipos eléctricos en locales que contienen radiadores para saunas.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>CONDICIONES GENERALES DE INSTALACIÓN</strong>
+        </p>
+        <p class="parrafo_2">Las prescripciones particulares para la instalación de los equipos eléctricos en locales que contienen radiadores para saunas son las establecidas en la norma UNE 20.460-7-703.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

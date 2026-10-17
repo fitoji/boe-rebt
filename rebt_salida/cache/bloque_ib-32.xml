@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-32" tipo="precepto" titulo="ITC-BT-32">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-32</p>
+        <p class="anexo_tit">INSTALACIONES CON FINES ESPECIALES. MAQUINAS DE ELEVACIÓN Y TRANSPORTE</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. ÁMBITO DE APLICACIÓN</p>
+        <p class="parrafo">2. REQUISITOS GENERALES</p>
+        <p class="parrafo">3. PROTECCIÓN PARA GARANTIZAR LA SEGURIDAD</p>
+        <p class="parrafo_2">3.1 Protección contra los contactos directos</p>
+        <p class="parrafo">3.2 Protección contra sobreintensidades</p>
+        <p class="parrafo_2">4. SECCIONAMIENTO Y CORTE</p>
+        <p class="parrafo_2">4.1 Corte por mantenimiento mecánico</p>
+        <p class="parrafo">4.2 Corte y parada de emergencia</p>
+        <p class="parrafo_2">5. APARAMENTA</p>
+        <p class="parrafo_2">5.1 Interruptores</p>
+        <p class="parrafo">5.2 Interruptores en el lado de la alimentación de la instalación</p>
+        <p class="parrafo_2">6. DISPOSICIÓN DE LA TOMA DE TIERRA Y CONDUCTORES DE PROTECCIÓN</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>ÁMBITO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">Esta instrucción trata de los requisitos particulares de los sistemas de instalación del equipo eléctrico de grúas, aparatos de elevación y transporte y otros equipos similares tales como escaleras mecánicas, cintas transportadoras, puentes rodantes, cabrestantes, andamios eléctricos, etc.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>REQUISITOS GENERALES</strong>
+        </p>
+        <p class="parrafo_2">La instalación en su conjunto se podrá poner fuera de servicio mediante un interruptor omnipolar general de accionamiento manual, colocado en el circuito principal. Este interruptor deberá estar situado en lugares fácilmente accesibles desde el suelo, en el mismo local o recinto en el que esté situado el equipo eléctrico de accionamiento y será fácilmente identificable mediante un rótulo indeleble.</p>
+        <p class="parrafo">Las canalizaciones que vayan desde el dispositivo general de protección al equipo eléctrico de elevación o de accionamiento deberán estar dimensionadas de manera que el arranque del motor no provoque una caída de tensión superior al 5 %.</p>
+        <p class="parrafo">Únicamente en el caso de que las máquinas destinadas exclusivamente al transporte de mercancías no dispongan de jaulas para el transporte, se permitirá la instalación de interruptores suspendidos de la extremidad de la canalización móvil.</p>
+        <p class="parrafo">Las canalizaciones móviles de mando y señalización se podrán colocar bajo la misma envolvente protectora de las demás líneas móviles, incluso si pertenecen a circuitos diferentes, siempre que cumplan las condiciones establecidas en la Instrucción ITC-BT-20.</p>
+        <p class="parrafo">En las instalaciones en el exterior para servicios móviles se utilizarán cables flexibles con cubierta de policloropeno o similar según UNE 21.027 ó UNE 21.150.</p>
+        <p class="parrafo">Los ascensores, las estructuras de todos los motores, máquinas elevadoras, combinadores y cubiertas metálicas de todos los dispositivos eléctricos en el interior de las cajas o sobre ellas y en el hueco, se conectarán a tierra.</p>
+        <p class="parrafo">Se considerarán conectados a tierra los equipos montados sobre elementos de estructura metálica del edificio si dicha estructura ha sido conectada previamente a tierra y satisface las siguientes prescripciones:</p>
+        <p class="parrafo_2">– su continuidad eléctrica está asegurada, ya sea por construcción, ya sea por medio de conexiones apropiadas, de manera que estén protegidas contra deterioros mecánicos, químicos o electroquímicos.</p>
+        <p class="parrafo">– su conductibilidad debe ser adecuada a este uso</p>
+        <p class="parrafo">– sólo podrá ser desmontada si se han previsto medidas compensatorias</p>
+        <p class="parrafo">– ha sido estudiada y adaptada para este uso</p>
+        <p class="parrafo_2">La estructura metálica de la caja soportada por los cables elevadores metálicos que pasen por poleas o tambores de la máquina elevadora se considerarán conectados a tierra con la condición de ofrecer toda garantía en las conexiones eléctricas entre ellos y tierra. Si esto no se cumpliera se instalará un conductor especial de protección.</p>
+        <p class="parrafo">Las vías de rodadura de toda grúa de taller estarán unidas a un conductor de protección.</p>
+        <p class="parrafo">Los locales, recintos, etc. en los que esté instalado el equipo eléctrico de accionamiento, sólo deberán ser accesibles a personas cualificadas. Cuando sus dimensiones permitan penetrar en él, deberán adoptarse las disposiciones relativas a las instalaciones en locales afectos a un servicio eléctrico según lo establecido en la ITC-BT-30. En estos lugares se colocará un esquema eléctrico de la instalación.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>PROTECCIÓN PARA GARANTIZAR LA SEGURIDAD</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Protección contra los contactos directos</strong>
+        </p>
+        <p class="parrafo_2">En los sistemas colectores y conjunto de anillos colectores, los cables y barras colectoras, así como los montajes de las vías de rodadura deben estar encerrados o alejados, de forma que cualquiera que tenga acceso a las zonas correspondientes de la instalación, por ejemplo, los pasillos de las guías de deslizamiento o los pasillos de la viga portagrúa, incluyendo los puntos de acceso, tenga protección frente al contacto directo con las partes en tensión, de acuerdo con el apartado 2 de la ITC-BT-24.</p>
+        <p class="parrafo">En las áreas donde sólo se admite el acceso de personas con formación específica, debe existir una protección por puesta fuera de alcance por alejamiento, para el caso de los cables o barras colectoras, de acuerdo con el apartado 2.4 de la ITC-BT-24. En este caso, el límite del volumen de accesibilidad inferior a la superficie susceptible de ocupación por personas, finaliza en los límites de dicha superficie.</p>
+        <p class="parrafo">La protección mediante la colocación fuera del alcance está pensada únicamente para evitar el contacto accidental con las partes en tensión.</p>
+        <p class="parrafo">Los cables y barras colectoras deben estar dispuestos o protegidos de forma que incluso con una carga oscilante no puedan entrar en contacto con el aparejo de izar ni con ningún cable de control, cadenas de accionamiento, elementos similares que sean conductores eléctricos.</p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Protección contra sobreintensidades</strong>
+        </p>
+        <p class="parrafo_2">El equipo eléctrico se protegerá mediante uno o más dispositivos automáticos de protección que actúen en caso de una sobreintensidad provocada por sobrecarga o cortocircuito. Este requisito no es aplicable a equipos diseñados para resistir sobreintensidades por si mismos.</p>
+        <p class="parrafo">El funcionamiento de los dispositivos de protección contra sobreintensidades para los accionadores de los frenos mecánicos producirá la desconexión simultánea de los accionadores del movimiento correspondiente.</p>
+        <p class="parrafo">Los dispositivos protectores contra temperatura excesiva que incluyen elementos sensibles a la temperatura (por ejemplo, resistencias dependientes de la temperatura o contactos bimetálicos) y que están montados en o sobre los devanados del motor en combinación con un contactor, no pueden considerarse como una protección suficiente contra una corriente de cortocircuito.</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>SECCIONAMIENTO Y CORTE</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>4.1</strong>
+          <strong>Corte por mantenimiento mecánico</strong>
+        </p>
+        <p class="parrafo_2">Los interruptores deben ser de corte omnipolar y deberá tener los medios necesarios para impedir toda puesta en tensión de las instalaciones de forma imprevista.</p>
+        <p class="parrafo">En el lado de la alimentación de los anillos colectores o barras, debe instalarse un interruptor que permita el aislamiento y desconexión de todos los conductores de línea de la instalación y el conductor neutro.</p>
+        <p class="parrafo">Las instalaciones eléctricas de grúas y aparatos de elevación y transporte, deben estar equipadas con un interruptor de desconexión que permita que la instalación eléctrica quede desconectada durante el mantenimiento y reparación.</p>
+        <p class="parrafo">Los conjuntos de aparamenta deben ser capaces de quedar desconectados. Esta desconexión debe incluir circuitos de potencia y control.</p>
+        <p class="parrafo">Los medios de corte deben estar situados en las proximidades de los conjuntos de aparamenta.</p>
+        <p class="parrafo">Las partes activas de los conjuntos de aparamenta que por motivos de seguridad o mantenimiento deben permanecer en servicio después de la apertura, deben estar marcadas con una etiqueta que indique que están con tensión y protegidas contra un contacto directo no intencionado.</p>
+        <p class="parrafo">Si los circuitos después de los interruptores de desconexión pasan a través de los anillos o barras colectoras, éstos deben estar protegidos contra el contacto directo con un grado de protección de al menos IP2X.</p>
+        <p class="parrafo">Puede prescindirse de los interruptores de desconexión de mantenimiento si los interruptores de emergencia especificados en el apartado 4.2 están conectados a la entrada de la alimentación de la instalación.</p>
+        <p class="parrafo">En el caso de una única grúa puede prescindirse del interruptor de desconexión al cumplir esta función el interruptor situado en la alimentación de la instalación de la grúa.</p>
+        <p class="parrafo_2">
+          <strong>4.2</strong>
+          <strong>Corte y parada de emergencia</strong>
+        </p>
+        <p class="parrafo_2">Cada grúa, aparato de elevación o transporte debe tener uno o más mecanismos de parada de emergencia, en todos los puestos de mando de movimiento. Cuando existen varios circuitos, los mecanismos de parada de emergencia deben ser tales que, con una sola acción, provoquen el corte de toda alimentación apropiada.</p>
+        <p class="parrafo">Los medios de corte de emergencia deben actuar lo más directamente posible sobre los conductores de alimentación apropiados.</p>
+        <p class="parrafo">Debe evitarse la reconexión del suministro después del corte de emergencia mediante enclavamientos mecánicos o eléctricos. La reconexión solamente puede ser posible desde el dispositivo de control desde el cual se realizó el corte de emergencia.</p>
+        <p class="parrafo">Cada grúa debe tener un dispositivo para la parada de emergencia accionado desde el suelo.</p>
+        <p class="parrafo">Cuando la parada de emergencia así lo permita, el corte de emergencia puede realizarse mediante el accionamiento de un interruptor situado en el punto de alimentación de la instalación, si es de corte en carga y esta situado en una posición donde quede fácilmente accesible.</p>
+        <p class="parrafo">Las grúas controladas desde el suelo y los aparatos de elevación deben pararse automáticamente cuando esté desconectado el mecanismo de control de funcionamiento.</p>
+        <p class="parrafo_2">
+          <strong>5.</strong>
+          <strong>APARAMENTA</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>5.1</strong>
+          <strong>Interruptores</strong>
+        </p>
+        <p class="parrafo_2">Los interruptores deberán cumplir la UNE-EN 60.947-2 e instalarse en posiciones que permitan que los ensayos funcionales, se realicen sin peligro.</p>
+        <p class="parrafo">Están también permitidos los contactores como interruptores. Los contactores no deben utilizarse para seccionamiento.</p>
+        <p class="parrafo_2">
+          <strong>5.2</strong>
+          <strong>Interruptores en el lado de la alimentación de la instalación</strong>
+        </p>
+        <p class="parrafo_2">Debe ser posible aislar los anillos del colector y las barras o cables del suministro principal antes del punto de conexión de la grúa, mediante interruptores en el lado del suministro de la instalación para reparaciones y mantenimientos.</p>
+        <p class="parrafo">Los conectores y tomas de corriente conformes a UNE-EN 60.309-1 pueden usarse para este fin.</p>
+        <p class="parrafo">Cuando un anillo colector o barra está alimentado a través de varios interruptores en paralelo por el lado de la alimentación de la instalación, éstos deben estar enclavados de manera que se desconecten todos simultáneamente aún cuando solamente uno de ellos esté funcionando.</p>
+        <p class="parrafo">Solamente debe ser posible poner en servicio un anillo colector accesible o barra desde un lugar tal que el anillo colector o barra quede a la vista.</p>
+        <p class="parrafo">Los interruptores en el lado de la alimentación de la instalación o sus mecanismos de control deben tener un dispositivo de protección contra el cierre intempestivo o no autorizado.</p>
+        <p class="parrafo">En el caso de grúas y aparatos de elevación en lugares de edificación, el interruptor principal de la máquina puede ser utilizado como interruptor del lado de la alimentación de la instalación. El requisito de que este interruptor pueda tener protección contra el cierre intempestivo o no autorizado se considera como satisfecho si hay otras medidas que prevengan la puesta en servicio del aparato de elevación, p.ej. bloqueo por llave o candado.</p>
+        <p class="parrafo_2">
+          <strong>6.</strong>
+          <strong>DISPOSICIÓN DE LA TOMA DE TIERRA Y CONDUCTORES DE PROTECCIÓN</strong>
+        </p>
+        <p class="parrafo_2">Cuando la alimentación se suministra a través de cables colectores, barras colectoras o conjuntos de anillos colectores, el conductor de protección debe tener un anillo colector individual o una barra colectora, cuyos soportes sean claramente visibles y distinguibles de aquellos de los anillos o barras colectoras activos.</p>
+        <p class="parrafo">En lugares donde haya gases corrosivos, humedad o polvo, deben tomarse medidas especiales en los anillos, barras o carriles colectores utilizados como conductores de protección.</p>
+        <p class="parrafo">Los conductores de protección no deben transportar ninguna corriente cuando funcionen normalmente. No tienen que instalarse mediante soportes deslizantes sobre aislantes. Los aparatos de elevación deben conectarse a los conductores de protección no admitié ndose ruedas o rodillos para su conexió n. Los colectores para conductores de protección que no serán intercambiables con los demás colectores.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

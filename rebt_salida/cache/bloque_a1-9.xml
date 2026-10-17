@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a1-9" tipo="precepto" titulo="Artículo 17">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 17. Receptores y puesta a tierra.</p>
+        <p class="parrafo">Sin perjuicio de las disposiciones referentes a los requisitos técnicos de diseño de los materiales eléctricos, según lo estipulado en el artículo 6, la instalación de los receptores, así como el sistema de protección por puesta a tierra, deberán respetar lo dispuesto en las correspondientes instrucciones técnicas complementarias.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

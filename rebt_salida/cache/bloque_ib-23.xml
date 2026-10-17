@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-23" tipo="precepto" titulo="ITC-BT-23">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-23</p>
+        <p class="anexo_tit">INSTALACIONES INTERIORES O RECEPTORAS. PROTECCIÓN CONTRA SOBRETENSIONES</p>
+        <p class="parrafo">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO Y CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. CATEGORÍAS DE LAS SOBRETENSIONES</p>
+        <p class="parrafo_2">2.1 Objeto de las categorías</p>
+        <p class="parrafo">2.2 Descripción de las categorías de sobretensiones</p>
+        <p class="parrafo_2">3. MEDIDAS PARA EL CONTROL DE LAS SOBRETENSIONES</p>
+        <p class="parrafo_2">3.1 Situación natural</p>
+        <p class="parrafo">3.2 Situación controlada</p>
+        <p class="parrafo_2">4. SELECCIÓN DE LOS MATERIALES EN LA INSTALACIÓN</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>OBJETO Y CAMPO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">Esta instrucción trata de la protección de las instalaciones eléctricas interiores contra las sobretensiones transitorias que se transmiten por las redes de distribución y que se originan, fundamentalmente, como consecuencia de las descargas atmosféricas, conmutaciones de redes y defectos en las mismas.</p>
+        <p class="parrafo">El nivel de sobretensión que puede aparecer en la red es función del: nivel isoceraúnico estimado, tipo de acometida aérea o subterránea, proximidad del transformador de MT/BT, etc. La incidencia que la sobretensión puede tener en la seguridad de las personas, instalaciones y equipos, así como su repercusión en la continuidad del servicio es función de:</p>
+        <p class="parrafo_2">– La coordinación del aislamiento de los equipos</p>
+        <p class="parrafo">– Las características de los dispositivos de protección contra sobretensiones, su instalación y su ubicación.</p>
+        <p class="parrafo">– La existencia de una adecuada red de tierras.</p>
+        <p class="parrafo_2">Esta instrucción contiene las indicaciones a considerar para cuando la protección contra sobretensiones está prescrita o recomendada en las líneas de alimentación principal 230/400 V en corriente alterna, no contemplándose en la misma otros casos como, por ejemplo, la protección de señales de medida, control y telecomunicación.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>CATEGORÍAS DE LAS SOBRETENSIONES</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1</strong>
+          <strong>Objeto de las categorías</strong>
+        </p>
+        <p class="parrafo_2">Las categorías de sobretensiones permiten distinguir los diversos grados de tensión soportada a las sobretensiones en cada una de las partes de la instalación, equipos y receptores. Mediante una adecuada selección de la categoría, se puede lograr la coordinación del aislamiento necesario en el conjunto de la instalación, reduciendo el riesgo de fallo a un nivel aceptable y proporcionando una base para el control de la sobretensión.</p>
+        <p class="parrafo">Las categorías indican los valores de tensión soportada a la onda de choque de sobretensión que deben de tener los equipos, determinando, a su vez, el valor límite máximo de tensión residual que deben permitir los diferentes dispositivos de protección de cada zona para evitar el posible daño de dichos equipos. La reducción de las sobretensiones de entrada a valores inferiores a los indicados en cada categoría se consigue con una estrategia de protección en cascada que integra tres niveles de protección: basta, media y fina, logrando de esta forma un nivel de tensión residual no peligroso para los equipos y una capacidad de derivación de energía que prolonga la vida y efectividad de los dispositivos de protección.</p>
+        <p class="parrafo_2">
+          <strong>2.2</strong>
+          <strong>Descripción de las categorías de sobretensiones</strong>
+        </p>
+        <p class="parrafo_2">En la tabla 1 se distinguen 4 categorías diferentes, indicando en cada caso el nivel de tensión soportada a impulsos, en kV, según la tensión nominal de la instalación.</p>
+        <p class="parrafo_2">Categoría I</p>
+        <p class="parrafo_2">Se aplica a los equipos muy sensibles a las sobretensiones y que están destinados a ser conectados a la instalación eléctrica fija. En este caso, las medidas de protección se toman fuera de los equipos a proteger, ya sea en la instalación fija o entre la instalación fija y los equipos, con objeto de limitar las sobretensiones a un nivel específico.</p>
+        <p class="parrafo">Ejemplo: ordenadores, equipos electrónicos muy sensibles, etc.</p>
+        <p class="parrafo_2">Categoría II</p>
+        <p class="parrafo_2">Se aplica a los equipos destinados a conectarse a una instalación eléctrica fija. Ejemplo: electrodomésticos, herramientas portátiles y otros equipos similares.</p>
+        <p class="parrafo_2">Categoría III</p>
+        <p class="parrafo_2">Se aplica a los equipos y materiales que forman parte de la instalación eléctrica fija y a otros equipos para los cuales se requiere un alto nivel de fiabilidad.</p>
+        <p class="parrafo">Ejemplo: armarios de distribución, embarrados, aparamenta (interruptores, seccionadores, tomas de corriente...), canalizaciones y sus accesorios (cables, caja de derivación...), motores con conexión eléctrica fija (ascensores, máquinas industriales...), etc.</p>
+        <p class="parrafo_2">Categoría IV</p>
+        <p class="parrafo_2">Se aplica a los equipos y materiales que se conectan en el origen o muy próximos al origen de la instalación, aguas arriba del cuadro de distribución.</p>
+        <p class="parrafo">Ejemplo: contadores de energía, aparatos de telemedida, equipos principales de protección contra sobreintensidades, etc.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>MEDIDAS PARA EL CONTROL DE LAS SOBRETENSIONES</strong>
+        </p>
+        <p class="parrafo_2">Es preciso distinguir dos tipos de sobretensiones:</p>
+        <p class="parrafo_2">– Las producidas como consecuencia de la descarga directa del rayo. Esta instrucción no trata este caso</p>
+        <p class="parrafo">– Las debidas a la influencia de la descarga lejana del rayo, conmutaciones de la red, defectos de red, efectos inductivos, capacitivos, etc.</p>
+        <p class="parrafo_2">Se pueden presentar dos situaciones diferentes:</p>
+        <p class="parrafo_2">– Situación natural: cuando no es preciso la protección contra las sobretensiones transitorias</p>
+        <p class="parrafo">– Situación controlada: cuando es preciso la protección contra las sobretensiones transitorias</p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Situación natural</strong>
+        </p>
+        <p class="parrafo_2">Cuando se prevé un bajo riesgo de sobretensiones en una instalación (debido a que está alimentada por una red subterránea en su totalidad), se considera suficiente la resistencia a las sobretensiones de los equipos que se indica en la Tabla 1 y no se requiere ninguna protección suplementaria contra las sobretensiones transitorias.</p>
+        <p class="parrafo">Una línea aérea constituida por conductores aislados con pantalla metálica unida a tierra en sus dos extremos, se considera equivalente a una línea subterránea.</p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Situación controlada</strong>
+        </p>
+        <p class="parrafo_2">Cuando una instalación se alimenta por, o incluye, una línea aérea con conductores desnudos o aislados, se considera necesaria una protección contra sobretensiones de origen atmosférico en el origen de la instalación.</p>
+        <p class="parrafo">El nivel de sobretensiones puede controlarse mediante dispositivos de protección contra las sobretensiones colocados en las líneas aéreas (siempre que estén suficientemente próximos al origen de la instalación) o en la instalación eléctrica del edificio</p>
+        <p class="parrafo">También se considera situación controlada aquella situación natural en que es conveniente incluir dispositivos de protección para una mayor seguridad (por ejemplo, continuidad de servicio, valor económico de los equipos, pérdidas irreparables, etc.).</p>
+        <p class="parrafo">Los dispositivos de protección contra sobretensiones de origen atmosférico deben seleccionarse de forma que su nivel de protección sea inferior a la tensión soportada a impulso de la categoría de los equipos y materiales que se prevé que se vayan a instalar.</p>
+        <p class="parrafo">En redes TT o IT, los descargadores se conectarán entre cada uno de los conductores, incluyendo el neutro o compensador y la tierra de la instalación. En redes TN-S, los descargadores se conectarán entre cada uno de los conductores de fase y el conductor de protección. En redes TN-C, los descargadores se conectarán entre cada uno de los conductores de fase y el neutro o compensador. No obstante se permiten otras formas de conexión, siempre que se demuestre su eficacia.</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>SELECCIÓN DE LOS MATERIALES EN LA INSTALACIÓN</strong>
+        </p>
+        <p class="parrafo_2">Los equipos y materiales deben escogerse de manera que su tensión soportada a impulsos no sea inferior a la tensión soportada prescrita en la tabla 1, según su categoría.</p>
+        <p class="parrafo">Los equipos y materiales que tengan una tensión soportada a impulsos inferior a la indicada en la tabla 1, se pueden utilizar, no obstante:</p>
+        <p class="parrafo_2">– en situación natural, cuando el riesgo sea aceptable.</p>
+        <p class="parrafo">– en situación controlada, si la protección contra las sobretensiones es adecuada,</p>
+        <p class="centro_cursiva">Tabla 1</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" colspan="2">
+                <p class="cabeza_tabla">Tensión nominal de la instalación</p>
+              </th>
+              <th class="cabeza_tabla" colspan="4">
+                <p class="cabeza_tabla">Tensión soportada a impulsos 1,2/50 (kv)</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cabeza_tabla">Sistemas trifásicos</p>
+              </td>
+              <td>
+                <p class="cabeza_tabla">Sistemas monofásicos</p>
+              </td>
+              <td>
+                <p class="cabeza_tabla">Categoría IV</p>
+              </td>
+              <td>
+                <p class="cabeza_tabla">Categoría III</p>
+              </td>
+              <td>
+                <p class="cabeza_tabla">Categoría II</p>
+              </td>
+              <td>
+                <p class="cabeza_tabla">Categoría I</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">230/400</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">230</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,5</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">400/690</p>
+                <p class="cuerpo_tabla_centro">1000</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">8</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </version>
+    </bloque>
+  </data>
+</response>

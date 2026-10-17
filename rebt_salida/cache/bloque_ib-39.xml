@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-39" tipo="precepto" titulo="ITC-BT-39">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-39</p>
+        <p class="anexo_tit">INSTALACIONES CON FINES ESPECIALES. CERCAS ELÉCTRICAS PARA GANADO</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO Y CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. ALIMENTACIÓN</p>
+        <p class="parrafo">3. PRESCRIPCIONES PARTICULARES</p>
+        <p class="parrafo_2">
+          <strong>1. OBJETO Y CAMPO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">El objeto de la presente Instrucción es determinar los requisitos particulares de las cercas eléctricas para ganado, su alimentador y su instalación.</p>
+        <p class="parrafo">Se entiende por cerca eléctrica para ganado, a una barrera para animales que comprende uno o varios conductores formados por hilos metálicos, barrotes o alambradas.</p>
+        <p class="parrafo">Se entiende por alimentador de cerca eléctrica, al aparato destinado a suministrar regularmente impulsos de tensión a la cerca a la que está conectado.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>ALIMENTACIÓN</strong>
+        </p>
+        <p class="parrafo_2">El alimentador de cerca eléctrica puede estar alimentado a su vez mediante una de las siguientes formas:</p>
+        <p class="parrafo_2">– Conectado a una red de distribución de energía eléctrica.</p>
+        <p class="parrafo">– Conectado a baterías o acumuladores cuya carga se realiza mediante una red de distribución de energía eléctrica.</p>
+        <p class="parrafo">– Conectados a baterías o acumuladores autónomos, es decir que no están destinados a ser conectados a una red de distribución de energía eléctrica.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>PRESCRIPCIONES PARTICULARES</strong>
+        </p>
+        <p class="parrafo_2">Los alimentadores de cercas eléctricas conectados a una red de distribución de energía eléctrica, deberán cumplir la norma UNE-EN 60.335-2-76 y su circuito de alimentación las prescripciones de las ITC-BT-22, ITC-BT-23 e ITC-BT-24.</p>
+        <p class="parrafo">Los alimentadores se colocarán en lugares donde no puedan quedar cubiertos por paja, heno, etc., y estarán próximos a la cerca que alimentan.</p>
+        <p class="parrafo">Los conductores de la cerca estarán separados de cualquier objeto metálico no perteneciente a la misma, de manera que no haya riesgo de contacto entre ellos.</p>
+        <p class="parrafo">Los conductores de la cerca y los de conexión de ésta a su alimentador no se sujetarán en apoyos correspondientes a otra canalización, sea de alta o baja tensión, de telecomunicación, etc.</p>
+        <p class="parrafo">Los elementos de maniobra de las puertas de la cerca estarán aislados convenientemente de los conductores de la misma y su maniobra tendrá por efecto la puesta fuera de tensión de los conductores comprendidos entre los soportes laterales de la puerta.</p>
+        <p class="parrafo">Entre cercas que no estén alimentadas por un mismo alimentador, se tomarán medidas convenientes para evitar que una persona o animal pueda tocarlas simultáneamente. Normalmente se considera suficiente una separación de 2 m, entre los conductores de unas y otras cercas.</p>
+        <p class="parrafo">Se colocarán carteles de aviso cuando las cercas puedan estar al alcance de personas no prevenidas de su presencia y, en todo caso, cuando estén junto a una vía pública.</p>
+        <p class="parrafo">El mínimo de carteles será de uno por cada alineación recta de la cerca y, en todo caso, a distancias máximas de 50 metros.</p>
+        <p class="parrafo">Los carteles se colocarán en lugares bien visibles y preferentemente sujetos al conductor superior de la cerca si la altura de éste sobre el suelo asegura esa visibilidad; en caso contrario, se colocarán sobre los apoyos de los conductores, de manera que sean visibles tanto desde el exterior como desde el interior del cercado.</p>
+        <p class="parrafo">Los carteles llevarán la indicación «CERCA ELÉCTRICA» escrito sobre un triángulo equilátero de base horizontal con letras negras sobre fondo amarillo. El cartel tendrá unas dimensiones mínimas de 105 × 210 milímetros y las letras 25 milímetros de altura.</p>
+        <p class="parrafo">La toma de tierra del alimentador de la cerca tendrá las características de «tierra separada» de cualquier otra, incluso de la tierra de masa del mismo aparato.</p>
+        <p class="parrafo">Cuando una cerca eléctrica esté situada en una zona particularmente expuesta a los efectos de descargas atmosféricas, el alimentador estará situado en el exterior de los edificios o en un local destinado expresamente a él y se tomarán las medidas de protección apropiadas.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-4" tipo="precepto" titulo="ITC-BT-04">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-04</p>
+        <p class="anexo_tit">DOCUMENTACIÓN Y PUESTA EN SERVICIO DE LAS INSTALACIONES</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO</p>
+        <p class="parrafo">2. DOCUMENTACIÓN DE LAS INSTALACIONES</p>
+        <p class="parrafo_2">2.1 Proyecto</p>
+        <p class="parrafo">2.2 Memoria Técnica de Diseño</p>
+        <p class="parrafo_2">3. INSTALACIONES QUE PRECISAN PROYECTO</p>
+        <p class="parrafo">4. INSTALACIONES QUE REQUIEREN MEMORIA TÉCNICA DE DISEÑO</p>
+        <p class="parrafo">5. EJECUCIÓN Y TRAMITACIÓN DE LAS INSTALACIONES</p>
+        <p class="parrafo">6. PUESTA EN SERVICIO DE LAS INSTALACIONES</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>OBJETO</strong>
+        </p>
+        <p class="parrafo_2">La presente Instrucción tiene por objeto desarrollar las prescripciones del artículo 18 del Reglamento Electrotécnico para Baja Tensión, determinando la documentación técnica que deben tener las instalaciones para ser legalmente puestas en servicio, así como su tramitación ante el Órgano competente de la Administración.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>DOCUMENTACIÓN DE LAS INSTALACIONES</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones en el ámbito de aplicación del presente Reglamento deben ejecutarse sobre la base de una documentación técnica que, en función de su importancia, deberá adoptar una de las siguientes modalidades:</p>
+        <p class="parrafo_2">
+          <strong>2.1</strong>
+          <strong>Proyecto</strong>
+        </p>
+        <p class="parrafo_2">Cuando se precise proyecto, de acuerdo con lo establecido en el apartado 3, éste deberá ser redactado y firmado por técnico titulado competente, quien será directamente responsable de que el mismo se adapte a las disposiciones reglamentarias. El proyecto de instalación se desarrollará, bien como parte del proyecto general del edificio, bien en forma de uno o varios proyectos específicos.</p>
+        <p class="parrafo">En la memoria del proyecto se expresarán especialmente:</p>
+        <p class="parrafo_2">– Datos relativos al propietario;</p>
+        <p class="parrafo">– Emplazamiento, características básicas y uso al que se destina;</p>
+        <p class="parrafo">– Características y secciones de los conductores a emplear;</p>
+        <p class="parrafo">– Características y diámetros de los tubos para canalizaciones;</p>
+        <p class="parrafo">– Relación nominal de los receptores que se prevean instalar y su potencia, sistemas y dispositivos de seguridad adoptados y cuantos detalles sean necesarios de acuerdo con la importancia de la instalación proyectada y para que se ponga de manifiesto el cumplimiento de las prescripciones del Reglamento y sus Instrucciones Técnicas Complementarias.</p>
+        <p class="parrafo">– Esquema unifilar de la instalación y características de los dispositivos de corte y protección adoptados, puntos de utilización y secciones de los conductores.</p>
+        <p class="parrafo">– Croquis de su trazado;</p>
+        <p class="parrafo">– Cálculos justificativos del diseño.</p>
+        <p class="parrafo_2">Los planos serán los suficientes en número y detalle, tanto para dar una idea clara de las disposiciones que pretenden adoptarse en las instalaciones, como para que la Empresa instaladora que ejecute la instalación disponga de todos los datos necesarios para la realización de la misma.</p>
+        <p class="parrafo_2">
+          <strong>2.2</strong>
+          <strong>Memoria Técnica de Diseño.</strong>
+        </p>
+        <p class="parrafo_2">La Memoria Técnica de Diseño (MTD) se redactará sobre impresos, según modelo determinado por el Órgano competente de la Comunidad Autónoma, con objeto de proporcionar los principales datos y características de diseño de las instalaciones. El instalador autorizado para la categoría de la instalación correspondiente o el técnico titulado competente que firme dicha Memoria será directamente responsable de que la misma se adapte a las exigencias reglamentarias.</p>
+        <p class="parrafo">En especial, se incluirán los siguientes datos:</p>
+        <p class="parrafo_2">– Los referentes al propietario;</p>
+        <p class="parrafo">– Identificación de la persona que firma la memoria y justificación de su competencia;</p>
+        <p class="parrafo">– Emplazamiento de la instalación;</p>
+        <p class="parrafo">– Uso al que se destina;</p>
+        <p class="parrafo">– Relación nominal de los receptores que se prevea instalar y su potencia;</p>
+        <p class="parrafo">– Cálculos justificativos de las características de la línea general de alimentación, derivaciones individuales y líneas secundarias, sus elementos de protección y sus puntos de utilización;</p>
+        <p class="parrafo">– Pequeña memoria descriptiva;</p>
+        <p class="parrafo">– Esquema unifilar de la instalación y características de los dispositivos de corte y protección adoptados, puntos de utilización y secciones de los conductores.</p>
+        <p class="parrafo">– Croquis de su trazado;</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>INSTALACIONES QUE PRECISAN PROYECTO.</strong>
+        </p>
+        <p class="parrafo_2"><strong>3.1</strong> Para su ejecución, precisan elaboración de proyecto las nuevas instalaciones siguientes:</p>
+        <p class="cabeza_tabla"> </p>
+        <table>
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Grupo</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Tipo de Instalación</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Límites</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">a</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a industrias, en general</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P&gt;20 kW</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">b</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a:</p>
+                <p class="cuerpo_tabla_izq">– Locales húmedos, polvorientos o con riesgo de corrosión;</p>
+                <p class="cuerpo_tabla_izq">– Bombas de extracción o elevación de agua,</p>
+                <p class="cuerpo_tabla_izq">sean industriales o no.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P&gt;10 kW</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">c</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a:</p>
+                <p class="cuerpo_tabla_izq">– Locales mojados;</p>
+                <p class="cuerpo_tabla_izq">– generadores y convertidores;</p>
+                <p class="cuerpo_tabla_izq">– conductores aislados para caldeo, excluyendo las de viviendas.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P&gt;10 kW</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">d</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">– de carácter temporal para alimentación de maquinaria de obras en construcción.</p>
+                <p class="cuerpo_tabla_izq">– de carácter temporal en locales o emplazamientos abiertos;</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P&gt;50 kW</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">e</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de edificios destinados principalmente a viviendas, locales comerciales y oficinas, que no tengan la consideración de locales de pública concurrencia, en edificación vertical u horizontal.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P&gt;100 kW por caja gral. de protección</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">f</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a viviendas unifamiliares</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P&gt;50 kW</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">g</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de garajes que requieren ventilación forzada</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Cualquiera que sea su ocupación</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">h</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de garajes que disponen de ventilación natural</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">De más de 5 plazas de estacionamiento</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">i</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a locales de pública concurrencia;</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">j</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a:</p>
+                <p class="cuerpo_tabla_izq">– Líneas de baja tensión con apoyos comunes con las de alta tensión;</p>
+                <p class="cuerpo_tabla_izq">– Máquinas de elevación y transporte;</p>
+                <p class="cuerpo_tabla_izq">– Las que utilicen tensiones especiales;</p>
+                <p class="cuerpo_tabla_izq">– Las destinadas a rótulos luminosos salvo que se consideren instalaciones de Baja tensión según lo establecido en la ITC-BT 44;</p>
+                <p class="cuerpo_tabla_izq">– Cercas eléctricas;</p>
+                <p class="cuerpo_tabla_izq">– Redes aéreas o subterráneas de distribución;</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite de potencia</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">k</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Instalaciones de alumbrado exterior.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 5 kW</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">l</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a locales con riesgo de incendio o explosión, excepto garajes</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">m</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de quirófanos y salas de intervención</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">n</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a piscinas y fuentes.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P&gt; 5 kW</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">o</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Todas aquellas que, no estando comprendidas en los grupos anteriores, determine el Ministerio de Ciencia y Tecnología, mediante la oportuna Disposición.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Según corresponda</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">(P = Potencia prevista en la instalación, teniendo en cuenta lo estipulado en la ITC-BT-10)</p>
+        <p class="parrafo_2"><strong>3.2</strong> Asimismo, requerirán elaboración de proyecto las ampliaciones y modificaciones de las instalaciones siguientes:</p>
+        <p class="parrafo_2">a) Las ampliaciones de las instalaciones de los tipos (b,c,g,i,j,l,m) y modificaciones de importancia de las instalaciones señaladas en 3.1;</p>
+        <p class="parrafo">b) Las ampliaciones de las instalaciones que, siendo de los tipos señalados en 3.1. no alcanzasen los límites de potencia prevista establecidos para las mismas, pero que los superan al producirse la ampliación.</p>
+        <p class="parrafo">c) Las ampliaciones de instalaciones que requirieron proyecto originalmente si en una o en varias ampliaciones se supera el 50 % de la potencia prevista en el proyecto anterior.</p>
+        <p class="parrafo_2"><strong>3.3</strong> Si una instalación esta comprendida en más de un grupo de los especificados en 3.1, se le aplicará el criterio más exigente de los establecidos para dichos grupos</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>INSTALACIONES QUE REQUIEREN MEMORIA TÉCNICA DE DISEÑO.</strong>
+        </p>
+        <p class="parrafo_2">Requerirán Memoria Técnica de Diseño todas las instalaciones sean nuevas, ampliaciones o modificaciones no incluidas en los grupos indicados en el apartado 3.</p>
+        <p class="parrafo_2">
+          <strong>5.</strong>
+          <strong>EJECUCIÓN Y TRAMITACIÓN DE LAS INSTALACIONES.</strong>
+        </p>
+        <p class="parrafo_2"><strong>5.1</strong> Todas las instalaciones en el ámbito de aplicación del Reglamento deben ser efectuadas por los instaladores autorizados en baja tensión a los que se refiere la Instrucción Técnica complementaria ITC-BT-03.</p>
+        <p class="parrafo">En el caso de instalaciones que requirieron Proyecto, su ejecución deberá contar con la dirección de un técnico titulado competente.</p>
+        <p class="parrafo">Si, en el curso de la ejecución de la instalación, el instalador autorizado considerase que el Proyecto o Memoria Técnica de Diseño no se ajusta a lo establecido en el Reglamento, deberá, por escrito, poner tal circunstancia en conocimiento del autor de dichos Proyecto o Memoria, y del propietario. Si no hubiera acuerdo entre las partes se someterá la cuestión al Organo competente de la Comunidad Autónoma, para que ésta resuelva en el más breve plazo posible.</p>
+        <p class="parrafo_2"><strong>5.2</strong> Al término de la ejecución de la instalación, el instalador autorizado realizará las verificaciones que resulten oportunas, en función de las características de aquélla, según se especifica en la ITC-BT-05 y en su caso todas las que determine la dirección de obra.</p>
+        <p class="parrafo_2"><strong>5.3</strong> Asimismo, las instalaciones que se especifican en la ITC-BT-05, deberán ser objeto de la correspondiente Inspección Inicial por Organismo de Control.</p>
+        <p class="parrafo"><strong>5.4</strong> Finalizadas las obras y realizadas las verificaciones e inspección inicial a que se refieren los puntos anteriores, instalador autorizado deberá emitir un Certificado de Instalación, según modelo establecido por la Administración, que deberá comprender, al menos, lo siguiente:</p>
+        <p class="parrafo_2">a) los datos referentes a las principales características de la instalación;</p>
+        <p class="parrafo">b) la potencia prevista de la instalación.;</p>
+        <p class="parrafo">c) en su caso, la referencia del certificado del Organismo de Control que hubiera realizado con calificación de resultado favorable, la inspección inicial;</p>
+        <p class="parrafo">d) identificación del instalador autorizado responsable de la instalación;</p>
+        <p class="parrafo">e) declaración expresa de que la instalación ha sido ejecutada de acuerdo con las prescripciones del Reglamento Electrotécnico para Baja Tensión y, en su caso, con las especificaciones particulares aprobadas a la Compañía eléctrica, así como, según corresponda, con el Proyecto o la Memoria Técnica de Diseño.</p>
+        <p class="parrafo_2"><strong>5.5</strong> Antes de la puesta en servicio de las instalaciones, el instalador autorizado deberá presentar ante el Órgano competente de la Comunidad Autónoma, al objeto de su inscripción en el correspondiente registro, el Certificado de Instalación con su correspondiente anexo de información al usuario, por quintuplicado, al que se acompañará, según el caso, el Proyecto o la Memoria Técnica de Diseño, así como el certificado de Dirección de Obra firmado por el correspondiente técnico titulado competente, y el certificado de inspección inicial con calificación de resultado favorable, del Organismo de Control, si procede.</p>
+        <p class="parrafo">El Órgano competente de la Comunidad Autónoma deberá diligenciar las copias del Certificado de Instalación y, en su caso, del certificado de inspección inicial, devolviendo cuatro al instalador autorizado, dos para sí y las otras dos para la propiedad, a fin de que ésta pueda, a su vez, quedarse con una copia y entregar la otra a la Compañía eléctrica, requisito sin el cual ésta no podrá suministrar energía a la instalación, salvo lo indicado en el Artículo 18.3 del Reglamento Electrotécnico para Baja Tensión.</p>
+        <p class="parrafo_2">
+          <strong>5.6</strong>
+          <strong>Instalaciones temporales en ferias, exposiciones y similares.</strong>
+        </p>
+        <p class="parrafo_2">Cuando en este tipo de eventos exista para toda la instalación de la feria o exposición una Dirección de Obra común, podrán agruparse todas las documentaciones de las instalaciones parciales de alimentación a los distintos stands o elementos de la feria, exposición, etc., y presentarse de una sola vez ante el Órgano competente de la Comunidad Autónoma, bajo una certificación de instalación global firmada por el responsable técnico de la Dirección mencionada.</p>
+        <p class="parrafo">Cuando se trate de montajes repetidos idénticos, se podrá prescindir de la documentación de diseño, tras el registro de la primera instalación, haciendo constar en el certificado de instalación dicha circunstancia, que será válida durante un año, siempre que no se produjeran modificaciones significativas, entendiendo como tales las que afecten a la potencia prevista, tensiones de servicio y utilización y a los elementos de protección contra contactos directos e indirectos y contra sobreintensidades y sobretensiones.</p>
+        <p class="parrafo_2">
+          <strong>6.</strong>
+          <strong>PUESTA EN SERVICIO DE LAS INSTALACIONES.</strong>
+        </p>
+        <p class="parrafo_2">El titular de la instalación deberá solicitar el suministro de energía a la Empresas suministradora mediante entrega del correspondiente ejemplar del certificado de instalación.</p>
+        <p class="parrafo">La Empresa suministradora podrá realizar, a su cargo, las verificaciones que considere oportunas, en lo que se refiere al cumplimiento de las prescripciones del presente Reglamento.</p>
+        <p class="parrafo">Cuando los valores obtenidos en la indicada verificación sean inferiores o superiores a los señalados respectivamente para el aislamiento y corrientes de fuga en la ITC-BT-19, las Empresas suministradoras no podrán conectar a sus redes las instalaciones receptoras.</p>
+        <p class="parrafo">En esos casos, deberán extender un Acta, en la que conste el resultado de las comprobaciones, la cual deberá ser firmada igualmente por el titular de la instalación, dándose por enterado. Dicha acta, en el plazo más breve posible, se pondrá en conocimiento del Órgano competente de la Comunidad Autónoma, quien determinará lo que proceda.</p>
+      </version>
+      <version id_norma="BOE-A-2010-8190" fecha_publicacion="20100522" fecha_vigencia="20100523">
+        <p class="anexo_num">ITC-BT-04</p>
+        <p class="anexo_tit">DOCUMENTACIÓN Y PUESTA EN SERVICIO DE LAS INSTALACIONES</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO</p>
+        <p class="parrafo">2. DOCUMENTACIÓN DE LAS INSTALACIONES</p>
+        <p class="parrafo_2">2.1 Proyecto</p>
+        <p class="parrafo">2.2 Memoria Técnica de Diseño</p>
+        <p class="parrafo_2">3. INSTALACIONES QUE PRECISAN PROYECTO</p>
+        <p class="parrafo">4. INSTALACIONES QUE REQUIEREN MEMORIA TÉCNICA DE DISEÑO</p>
+        <p class="parrafo">5. EJECUCIÓN Y TRAMITACIÓN DE LAS INSTALACIONES</p>
+        <p class="parrafo">6. PUESTA EN SERVICIO DE LAS INSTALACIONES</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>OBJETO</strong>
+        </p>
+        <p class="parrafo_2">La presente Instrucción tiene por objeto desarrollar las prescripciones del artículo 18 del Reglamento Electrotécnico para Baja Tensión, determinando la documentación técnica que deben tener las instalaciones para ser legalmente puestas en servicio, así como su tramitación ante el Órgano competente de la Administración.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>DOCUMENTACIÓN DE LAS INSTALACIONES</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones en el ámbito de aplicación del presente Reglamento deben ejecutarse sobre la base de una documentación técnica que, en función de su importancia, deberá adoptar una de las siguientes modalidades:</p>
+        <p class="parrafo_2">
+          <strong>2.1</strong>
+          <strong>Proyecto</strong>
+        </p>
+        <p class="parrafo_2">Cuando se precise proyecto, de acuerdo con lo establecido en el apartado 3, éste deberá ser redactado y firmado por técnico titulado competente, quien será directamente responsable de que el mismo se adapte a las disposiciones reglamentarias. El proyecto de instalación se desarrollará, bien como parte del proyecto general del edificio, bien en forma de uno o varios proyectos específicos.</p>
+        <p class="parrafo">En la memoria del proyecto se expresarán especialmente:</p>
+        <p class="parrafo_2">– Datos relativos al propietario;</p>
+        <p class="parrafo">– Emplazamiento, características básicas y uso al que se destina;</p>
+        <p class="parrafo">– Características y secciones de los conductores a emplear;</p>
+        <p class="parrafo">– Características y diámetros de los tubos para canalizaciones;</p>
+        <p class="parrafo">– Relación nominal de los receptores que se prevean instalar y su potencia, sistemas y dispositivos de seguridad adoptados y cuantos detalles sean necesarios de acuerdo con la importancia de la instalación proyectada y para que se ponga de manifiesto el cumplimiento de las prescripciones del Reglamento y sus Instrucciones Técnicas Complementarias.</p>
+        <p class="parrafo">– Esquema unifilar de la instalación y características de los dispositivos de corte y protección adoptados, puntos de utilización y secciones de los conductores.</p>
+        <p class="parrafo">– Croquis de su trazado;</p>
+        <p class="parrafo">– Cálculos justificativos del diseño.</p>
+        <p class="parrafo_2">Los planos serán los suficientes en número y detalle, tanto para dar una idea clara de las disposiciones que pretenden adoptarse en las instalaciones, como para que la Empresa instaladora que ejecute la instalación disponga de todos los datos necesarios para la realización de la misma.</p>
+        <p class="parrafo_2">
+          <strong>2.2</strong>
+          <strong>Memoria Técnica de Diseño.</strong>
+        </p>
+        <p class="parrafo_2">La Memoria Técnica de Diseño (MTD) se redactará sobre impresos, según modelo determinado por el Órgano competente de la Comunidad Autónoma, con objeto de proporcionar los principales datos y características de diseño de las instalaciones. La empresa instaladora para la categoría de la instalación correspondiente o el técnico titulado competente que firme dicha Memoria será directamente responsable de que la misma se adapte a las exigencias reglamentarias.</p>
+        <p class="parrafo">En especial, se incluirán los siguientes datos:</p>
+        <p class="parrafo_2">– Los referentes al propietario;</p>
+        <p class="parrafo">– Identificación de la persona que firma la memoria y justificación de su competencia;</p>
+        <p class="parrafo">– Emplazamiento de la instalación;</p>
+        <p class="parrafo">– Uso al que se destina;</p>
+        <p class="parrafo">– Relación nominal de los receptores que se prevea instalar y su potencia;</p>
+        <p class="parrafo">– Cálculos justificativos de las características de la línea general de alimentación, derivaciones individuales y líneas secundarias, sus elementos de protección y sus puntos de utilización;</p>
+        <p class="parrafo">– Pequeña memoria descriptiva;</p>
+        <p class="parrafo">– Esquema unifilar de la instalación y características de los dispositivos de corte y protección adoptados, puntos de utilización y secciones de los conductores.</p>
+        <p class="parrafo">– Croquis de su trazado;</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>INSTALACIONES QUE PRECISAN PROYECTO.</strong>
+        </p>
+        <p class="parrafo_2"><strong>3.1</strong> Para su ejecución, precisan elaboración de proyecto las nuevas instalaciones siguientes:</p>
+        <p class="cabeza_tabla"> </p>
+        <table>
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Grupo</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Tipo de Instalación</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Límites</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">a</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a industrias, en general</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P&gt;20 kW</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">b</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a:</p>
+                <p class="cuerpo_tabla_izq">– Locales húmedos, polvorientos o con riesgo de corrosión;</p>
+                <p class="cuerpo_tabla_izq">– Bombas de extracción o elevación de agua,</p>
+                <p class="cuerpo_tabla_izq">sean industriales o no.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P&gt;10 kW</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">c</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a:</p>
+                <p class="cuerpo_tabla_izq">– Locales mojados;</p>
+                <p class="cuerpo_tabla_izq">– generadores y convertidores;</p>
+                <p class="cuerpo_tabla_izq">– conductores aislados para caldeo, excluyendo las de viviendas.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P&gt;10 kW</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">d</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">– de carácter temporal para alimentación de maquinaria de obras en construcción.</p>
+                <p class="cuerpo_tabla_izq">– de carácter temporal en locales o emplazamientos abiertos;</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P&gt;50 kW</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">e</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de edificios destinados principalmente a viviendas, locales comerciales y oficinas, que no tengan la consideración de locales de pública concurrencia, en edificación vertical u horizontal.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P&gt;100 kW por caja gral. de protección</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">f</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a viviendas unifamiliares</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P&gt;50 kW</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">g</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de garajes que requieren ventilación forzada</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Cualquiera que sea su ocupación</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">h</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de garajes que disponen de ventilación natural</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">De más de 5 plazas de estacionamiento</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">i</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a locales de pública concurrencia;</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">j</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a:</p>
+                <p class="cuerpo_tabla_izq">– Líneas de baja tensión con apoyos comunes con las de alta tensión;</p>
+                <p class="cuerpo_tabla_izq">– Máquinas de elevación y transporte;</p>
+                <p class="cuerpo_tabla_izq">– Las que utilicen tensiones especiales;</p>
+                <p class="cuerpo_tabla_izq">– Las destinadas a rótulos luminosos salvo que se consideren instalaciones de Baja tensión según lo establecido en la ITC-BT 44;</p>
+                <p class="cuerpo_tabla_izq">– Cercas eléctricas;</p>
+                <p class="cuerpo_tabla_izq">– Redes aéreas o subterráneas de distribución;</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite de potencia</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">k</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Instalaciones de alumbrado exterior.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 5 kW</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">l</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a locales con riesgo de incendio o explosión, excepto garajes</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">m</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de quirófanos y salas de intervención</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">n</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a piscinas y fuentes.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P&gt; 5 kW</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">o</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Todas aquellas que, no estando comprendidas en los grupos anteriores, determine el Ministerio de Ciencia y Tecnología, mediante la oportuna Disposición.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Según corresponda</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">(P = Potencia prevista en la instalación, teniendo en cuenta lo estipulado en la ITC-BT-10)</p>
+        <p class="parrafo_2"><strong>3.2</strong> Asimismo, requerirán elaboración de proyecto las ampliaciones y modificaciones de las instalaciones siguientes:</p>
+        <p class="parrafo_2">a) Las ampliaciones de las instalaciones de los tipos (b,c,g,i,j,l,m) y modificaciones de importancia de las instalaciones señaladas en 3.1;</p>
+        <p class="parrafo">b) Las ampliaciones de las instalaciones que, siendo de los tipos señalados en 3.1. no alcanzasen los límites de potencia prevista establecidos para las mismas, pero que los superan al producirse la ampliación.</p>
+        <p class="parrafo">c) Las ampliaciones de instalaciones que requirieron proyecto originalmente si en una o en varias ampliaciones se supera el 50 % de la potencia prevista en el proyecto anterior.</p>
+        <p class="parrafo_2"><strong>3.3</strong> Si una instalación esta comprendida en más de un grupo de los especificados en 3.1, se le aplicará el criterio más exigente de los establecidos para dichos grupos</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>INSTALACIONES QUE REQUIEREN MEMORIA TÉCNICA DE DISEÑO.</strong>
+        </p>
+        <p class="parrafo_2">Requerirán Memoria Técnica de Diseño todas las instalaciones sean nuevas, ampliaciones o modificaciones no incluidas en los grupos indicados en el apartado 3.</p>
+        <p class="parrafo_2">
+          <strong>5.</strong>
+          <strong>EJECUCIÓN Y TRAMITACIÓN DE LAS INSTALACIONES.</strong>
+        </p>
+        <p class="parrafo_2"><strong>5.1</strong> Todas las instalaciones en el ámbito de aplicación del Reglamento deben ser efectuadas por las empresas instaladoras en baja tensión a las que se refiere la Instrucción Técnica complementaria ITC-BT-03.</p>
+        <p class="parrafo">En el caso de instalaciones que requirieron Proyecto, su ejecución deberá contar con la dirección de un técnico titulado competente.</p>
+        <p class="parrafo">Si, en el curso de la ejecución de la instalación, la empresa instaladora considerase que el Proyecto o Memoria Técnica de Diseño no se ajusta a lo establecido en el Reglamento, deberá, por escrito, poner tal circunstancia en conocimiento del autor de dichos Proyecto o Memoria, y del propietario. Si no hubiera acuerdo entre las partes se someterá la cuestión al Órgano competente de la Comunidad Autónoma, para que ésta resuelva en el más breve plazo posible.</p>
+        <p class="parrafo_2"><strong>5.2</strong> Al término de la ejecución de la instalación, la empresa instaladora realizará las verificaciones que resulten oportunas, en función de las características de aquélla, según se especifica en la ITC-BT-05 y en su caso todas las que determine la dirección de obra.</p>
+        <p class="parrafo_2"><strong>5.3</strong> Asimismo, las instalaciones que se especifican en la ITC-BT-05, deberán ser objeto de la correspondiente Inspección Inicial por Organismo de Control.</p>
+        <p class="parrafo"><strong>5.4</strong> Finalizadas las obras y realizadas las verificaciones e inspección inicial a que se refieren los puntos anteriores, la empresa instaladora deberá emitir un Certificado de Instalación, suscrito por un instalador en baja tensión que pertenezca a la empresa, según modelo establecido por la Administración, que deberá comprender, al menos, lo siguiente:</p>
+        <p class="parrafo_2">a) los datos referentes a las principales características de la instalación;</p>
+        <p class="parrafo">b) la potencia prevista de la instalación;</p>
+        <p class="parrafo">c) en su caso, la referencia del certificado del Organismo de Control que hubiera realizado con calificación de resultado favorable, la inspección inicial;</p>
+        <p class="parrafo">d) identificación de la empresa instaladora responsable de la instalación y del instalador en baja tensión que suscribe el certificado de instalación;</p>
+        <p class="parrafo">e) declaración expresa de que la instalación ha sido ejecutada de acuerdo con las prescripciones del Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y, en su caso, con las especificaciones particulares aprobadas a la Compañía eléctrica, así como, según corresponda, con el Proyecto o la Memoria Técnica de Diseño.</p>
+        <p class="parrafo_2"><strong>5.5</strong> Antes de la puesta en servicio de las instalaciones, la empresa instaladora deberá presentar ante el Órgano competente de la Comunidad Autónoma, al objeto de su inscripción en el correspondiente registro, el Certificado de Instalación con su correspondiente anexo de información al usuario, por quintuplicado, al que se acompañará, según el caso, el Proyecto o la Memoria Técnica de Diseño, así como el certificado de Dirección de Obra firmado por el correspondiente técnico titulado competente, y el certificado de inspección inicial con calificación de resultado favorable, del Organismo de Control, si procede.</p>
+        <p class="parrafo">El Órgano competente de la Comunidad Autónoma deberá diligenciar las copias del Certificado de Instalación y, en su caso, del certificado de inspección inicial, devolviendo cuatro a la empresa instaladora, dos para sí y las otras dos para la propiedad, a fin de que ésta pueda, a su vez, quedarse con una copia y entregar la otra a la Compañía eléctrica, requisito sin el cual ésta no podrá suministrar energía a la instalación, salvo lo indicado en el Artículo 18.3 del Reglamento Electrotécnico para Baja Tensión.</p>
+        <p class="parrafo_2">
+          <strong>5.6</strong>
+          <strong>Instalaciones temporales en ferias, exposiciones y similares.</strong>
+        </p>
+        <p class="parrafo_2">Cuando en este tipo de eventos exista para toda la instalación de la feria o exposición una Dirección de Obra común, podrán agruparse todas las documentaciones de las instalaciones parciales de alimentación a los distintos stands o elementos de la feria, exposición, etc., y presentarse de una sola vez ante el Órgano competente de la Comunidad Autónoma, bajo una certificación de instalación global firmada por el responsable técnico de la Dirección mencionada.</p>
+        <p class="parrafo">Cuando se trate de montajes repetidos idénticos, se podrá prescindir de la documentación de diseño, tras el registro de la primera instalación, haciendo constar en el certificado de instalación dicha circunstancia, que será válida durante un año, siempre que no se produjeran modificaciones significativas, entendiendo como tales las que afecten a la potencia prevista, tensiones de servicio y utilización y a los elementos de protección contra contactos directos e indirectos y contra sobreintensidades y sobretensiones.</p>
+        <p class="parrafo_2">
+          <strong>6.</strong>
+          <strong>PUESTA EN SERVICIO DE LAS INSTALACIONES.</strong>
+        </p>
+        <p class="parrafo_2">El titular de la instalación deberá solicitar el suministro de energía a la Empresas suministradora mediante entrega del correspondiente ejemplar del certificado de instalación.</p>
+        <p class="parrafo">La Empresa suministradora podrá realizar, a su cargo, las verificaciones que considere oportunas, en lo que se refiere al cumplimiento de las prescripciones del presente Reglamento.</p>
+        <p class="parrafo">Cuando los valores obtenidos en la indicada verificación sean inferiores o superiores a los señalados respectivamente para el aislamiento y corrientes de fuga en la ITC-BT-19, las Empresas suministradoras no podrán conectar a sus redes las instalaciones receptoras.</p>
+        <p class="parrafo">En esos casos, deberán extender un Acta, en la que conste el resultado de las comprobaciones, la cual deberá ser firmada igualmente por el titular de la instalación, dándose por enterado. Dicha acta, en el plazo más breve posible, se pondrá en conocimiento del Órgano competente de la Comunidad Autónoma, quien determinará lo que proceda.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica el apartado 5.4 y se sustituye la expresión "instalador/es autorizado/s" por "empresa/s instaladora/s" por el art. 7, apartados 1 y 15 del Real Decreto 560/2010, de 7 de mayo. <a class="refPost">Ref. BOE-A-2010-8190#aseptimo</a></p>
+        </blockquote>
+      </version>
+      <version id_norma="BOE-A-2014-13681" fecha_publicacion="20141231" fecha_vigencia="20150630">
+        <p class="anexo_num">ITC-BT-04</p>
+        <p class="anexo_tit">DOCUMENTACIÓN Y PUESTA EN SERVICIO DE LAS INSTALACIONES</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO</p>
+        <p class="parrafo">2. DOCUMENTACIÓN DE LAS INSTALACIONES</p>
+        <p class="parrafo_2">2.1 Proyecto</p>
+        <p class="parrafo">2.2 Memoria Técnica de Diseño</p>
+        <p class="parrafo_2">3. INSTALACIONES QUE PRECISAN PROYECTO</p>
+        <p class="parrafo">4. INSTALACIONES QUE REQUIEREN MEMORIA TÉCNICA DE DISEÑO</p>
+        <p class="parrafo">5. EJECUCIÓN Y TRAMITACIÓN DE LAS INSTALACIONES</p>
+        <p class="parrafo">6. PUESTA EN SERVICIO DE LAS INSTALACIONES</p>
+        <p class="parrafo_2">
+          <strong>1. OBJETO</strong>
+        </p>
+        <p class="parrafo_2">La presente Instrucción tiene por objeto desarrollar las prescripciones del artículo 18 del Reglamento Electrotécnico para Baja Tensión, determinando la documentación técnica que deben tener las instalaciones para ser legalmente puestas en servicio, así como su tramitación ante el Órgano competente de la Administración.</p>
+        <p class="parrafo_2">
+          <strong>2. DOCUMENTACIÓN DE LAS INSTALACIONES</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones en el ámbito de aplicación del presente Reglamento deben ejecutarse sobre la base de una documentación técnica que, en función de su importancia, deberá adoptar una de las siguientes modalidades:</p>
+        <p class="parrafo_2">
+          <strong>2.1 Proyecto</strong>
+        </p>
+        <p class="parrafo_2">Cuando se precise proyecto, de acuerdo con lo establecido en el apartado 3, éste deberá ser redactado y firmado por técnico titulado competente, quien será directamente responsable de que el mismo se adapte a las disposiciones reglamentarias. El proyecto de instalación se desarrollará, bien como parte del proyecto general del edificio, bien en forma de uno o varios proyectos específicos.</p>
+        <p class="parrafo">En la memoria del proyecto se expresarán especialmente:</p>
+        <p class="parrafo_2">– Datos relativos al propietario;</p>
+        <p class="parrafo">– Emplazamiento, características básicas y uso al que se destina;</p>
+        <p class="parrafo">– Características y secciones de los conductores a emplear;</p>
+        <p class="parrafo">– Características y diámetros de los tubos para canalizaciones;</p>
+        <p class="parrafo">– Relación nominal de los receptores que se prevean instalar y su potencia, sistemas y dispositivos de seguridad adoptados y cuantos detalles sean necesarios de acuerdo con la importancia de la instalación proyectada y para que se ponga de manifiesto el cumplimiento de las prescripciones del Reglamento y sus Instrucciones Técnicas Complementarias.</p>
+        <p class="parrafo">– Esquema unifilar de la instalación y características de los dispositivos de corte y protección adoptados, puntos de utilización y secciones de los conductores.</p>
+        <p class="parrafo">– Croquis de su trazado;</p>
+        <p class="parrafo">– Cálculos justificativos del diseño.</p>
+        <p class="parrafo_2">Los planos serán los suficientes en número y detalle, tanto para dar una idea clara de las disposiciones que pretenden adoptarse en las instalaciones, como para que la Empresa instaladora que ejecute la instalación disponga de todos los datos necesarios para la realización de la misma.</p>
+        <p class="parrafo_2">
+          <strong>2.2 Memoria Técnica de Diseño.</strong>
+        </p>
+        <p class="parrafo_2">La Memoria Técnica de Diseño (MTD) se redactará sobre impresos, según modelo determinado por el Órgano competente de la Comunidad Autónoma, con objeto de proporcionar los principales datos y características de diseño de las instalaciones. La empresa instaladora para la categoría de la instalación correspondiente o el técnico titulado competente que firme dicha Memoria será directamente responsable de que la misma se adapte a las exigencias reglamentarias.</p>
+        <p class="parrafo">En especial, se incluirán los siguientes datos:</p>
+        <p class="parrafo_2">– Los referentes al propietario;</p>
+        <p class="parrafo">– Identificación de la persona que firma la memoria y justificación de su competencia;</p>
+        <p class="parrafo">– Emplazamiento de la instalación;</p>
+        <p class="parrafo">– Uso al que se destina;</p>
+        <p class="parrafo">– Relación nominal de los receptores que se prevea instalar y su potencia;</p>
+        <p class="parrafo">– Cálculos justificativos de las características de la línea general de alimentación, derivaciones individuales y líneas secundarias, sus elementos de protección y sus puntos de utilización;</p>
+        <p class="parrafo">– Pequeña memoria descriptiva;</p>
+        <p class="parrafo">– Esquema unifilar de la instalación y características de los dispositivos de corte y protección adoptados, puntos de utilización y secciones de los conductores.</p>
+        <p class="parrafo">– Croquis de su trazado;</p>
+        <p class="parrafo_2">
+          <strong>3. INSTALACIONES QUE PRECISAN PROYECTO.</strong>
+        </p>
+        <p class="parrafo_2"><strong>3.1</strong> Para su ejecución, precisan elaboración de proyecto las nuevas instalaciones siguientes:</p>
+        <table class="ning_n_estilo_de_tabla" summary="Tabla de formato">
+          <colgroup>
+            <col/>
+            <col/>
+            <col/>
+          </colgroup>
+          <thead>
+            <tr>
+              <th>
+                <p class="cabeza_tabla">Grupo</p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">Tipo de Instalación</p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">Límites</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">a</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a industrias, en general.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 20 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">b</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a:</p>
+                <p class="cuerpo_tabla_izq">– Locales húmedos, polvorientos o con riesgo de corrosión.</p>
+                <p class="cuerpo_tabla_izq">– Bombas de extracción o elevación de agua, sean industriales o no.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 10 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">c</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a:</p>
+                <p class="cuerpo_tabla_izq">– Locales mojados.</p>
+                <p class="cuerpo_tabla_izq">– Generadores y convertidores.</p>
+                <p class="cuerpo_tabla_izq">– Conductores aislados para caldeo, excluyendo las de viviendas.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 10 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">d</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">– De carácter temporal para alimentación de maquinaria de obras en construcción.</p>
+                <p class="cuerpo_tabla_izq">– De carácter temporal en locales o emplazamientos abiertos.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 50 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">e</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de edificios destinados principalmente a viviendas, locales comerciales y oficinas, que no tengan la consideración de locales de pública concurrencia, en edificación vertical u horizontal.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 100 kW por caja gral. de protección.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">f</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a viviendas unifamiliares.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 50 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">g</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de aparcamientos o estacionamientos que requieren ventilación forzada.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Cualquiera que sea su ocupación.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">h</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de aparcamientos o estacionamientos que disponen de ventilación natural.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">De más de 5 plazas de estacionamiento.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">i</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a locales de pública concurrencia.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">j</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a:</p>
+                <p class="cuerpo_tabla_izq">– Líneas de baja tensión con apoyos comunes con las de alta tensión.</p>
+                <p class="cuerpo_tabla_izq">– Máquinas de elevación y transporte.</p>
+                <p class="cuerpo_tabla_izq">– Las que utilicen tensiones especiales.</p>
+                <p class="cuerpo_tabla_izq">– Las destinadas a rótulos luminosos salvo que se consideren instalaciones de Baja tensión según lo establecido en la ITC-BT-44.</p>
+                <p class="cuerpo_tabla_izq">– Cercas eléctricas.</p>
+                <p class="cuerpo_tabla_izq">– Redes aéreas o subterráneas de distribución.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite de potencia.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">k</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">– Instalaciones de alumbrado exterior.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 5 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">l</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a locales con riesgo de incendio o explosión, excepto aparcamientos o estacionamientos.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">m</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de quirófanos y salas de intervención.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">n</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a piscinas y fuentes.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 5 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                <p class="cuerpo_tabla_centro">z</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a las infraestructuras para la recarga del vehículo eléctrico.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 50 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Instalaciones de recarga situadas en el exterior.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 10 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Todas las instalaciones que incluyan estaciones de recarga previstas para el modo de carga 4.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">o</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Todas aquellas que, no estando comprendidas en los grupos anteriores, determine el Ministerio con competencias en materia de seguridad industrial, mediante la oportuna disposición.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Según corresponda.</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">[P = Potencia prevista en la instalación, teniendo en cuenta lo estipulado en la (ITC) BT-10].</p>
+        <p class="parrafo">No será necesaria la elaboración de proyecto para las instalaciones de recarga que se ejecuten en los grupos de instalación g) y h) existentes en edificios de viviendas, siempre que las nuevas instalaciones no estén incluidas en el grupo z).</p>
+        <p class="parrafo_2"><strong>3.2</strong> Asimismo, requerirán elaboración de proyecto las ampliaciones y modificaciones de las instalaciones siguientes:</p>
+        <p class="parrafo_2">a) Las ampliaciones de las instalaciones de los tipos (b, c, g, i, j, l, m) y modificaciones de importancia de las instalaciones señaladas en 3.1.</p>
+        <p class="parrafo">b) Las ampliaciones de las instalaciones que, siendo de los tipos señalados en 3.1 no alcanzasen los límites de potencia prevista establecidos para las mismas, pero que los superan al producirse la ampliación.</p>
+        <p class="parrafo">c) Las ampliaciones de instalaciones que requirieron proyecto originalmente si en una o en varias ampliaciones se supera el 50 % de la potencia prevista en el proyecto anterior.</p>
+        <p class="parrafo_2"><strong>3.3</strong> Si una instalación está comprendida en más de un grupo de los especificados en 3.1, se le aplicará el criterio más exigente de los establecidos para dichos grupos.</p>
+        <p class="parrafo_2">
+          <strong>4. INSTALACIONES QUE REQUIEREN MEMORIA TÉCNICA DE DISEÑO.</strong>
+        </p>
+        <p class="parrafo_2">Requerirán Memoria Técnica de Diseño todas las instalaciones sean nuevas, ampliaciones o modificaciones no incluidas en los grupos indicados en el apartado 3.</p>
+        <p class="parrafo_2">
+          <strong>5. EJECUCIÓN Y TRAMITACIÓN DE LAS INSTALACIONES.</strong>
+        </p>
+        <p class="parrafo_2"><strong>5.1</strong> Todas las instalaciones en el ámbito de aplicación del Reglamento deben ser efectuadas por las empresas instaladoras en baja tensión a las que se refiere la Instrucción Técnica complementaria ITC-BT-03.</p>
+        <p class="parrafo">En el caso de instalaciones que requirieron Proyecto, su ejecución deberá contar con la dirección de un técnico titulado competente.</p>
+        <p class="parrafo">Si, en el curso de la ejecución de la instalación, la empresa instaladora considerase que el Proyecto o Memoria Técnica de Diseño no se ajusta a lo establecido en el Reglamento, deberá, por escrito, poner tal circunstancia en conocimiento del autor de dichos Proyecto o Memoria, y del propietario. Si no hubiera acuerdo entre las partes se someterá la cuestión al Órgano competente de la Comunidad Autónoma, para que ésta resuelva en el más breve plazo posible.</p>
+        <p class="parrafo_2"><strong>5.2</strong> Al término de la ejecución de la instalación, la empresa instaladora realizará las verificaciones que resulten oportunas, en función de las características de aquélla, según se especifica en la ITC-BT-05 y en su caso todas las que determine la dirección de obra.</p>
+        <p class="parrafo_2"><strong>5.3</strong> Asimismo, las instalaciones que se especifican en la ITC-BT-05, deberán ser objeto de la correspondiente Inspección Inicial por Organismo de Control.</p>
+        <p class="parrafo"><strong>5.4</strong> Finalizadas las obras y realizadas las verificaciones e inspección inicial a que se refieren los puntos anteriores, la empresa instaladora deberá emitir un Certificado de Instalación, suscrito por un instalador en baja tensión que pertenezca a la empresa, según modelo establecido por la Administración, que deberá comprender, al menos, lo siguiente:</p>
+        <p class="parrafo_2">a) los datos referentes a las principales características de la instalación;</p>
+        <p class="parrafo">b) la potencia prevista de la instalación;</p>
+        <p class="parrafo">c) en su caso, la referencia del certificado del Organismo de Control que hubiera realizado con calificación de resultado favorable, la inspección inicial;</p>
+        <p class="parrafo">d) identificación de la empresa instaladora responsable de la instalación y del instalador en baja tensión que suscribe el certificado de instalación;</p>
+        <p class="parrafo">e) declaración expresa de que la instalación ha sido ejecutada de acuerdo con las prescripciones del Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y, en su caso, con las especificaciones particulares aprobadas a la Compañía eléctrica, así como, según corresponda, con el Proyecto o la Memoria Técnica de Diseño.</p>
+        <p class="parrafo_2"><strong>5.5</strong> Antes de la puesta en servicio de las instalaciones, la empresa instaladora deberá presentar ante el Órgano competente de la Comunidad Autónoma, al objeto de su inscripción en el correspondiente registro, el Certificado de Instalación con su correspondiente anexo de información al usuario, por quintuplicado, al que se acompañará, según el caso, el Proyecto o la Memoria Técnica de Diseño, así como el certificado de Dirección de Obra firmado por el correspondiente técnico titulado competente, y el certificado de inspección inicial con calificación de resultado favorable, del Organismo de Control, si procede.</p>
+        <p class="parrafo">El Órgano competente de la Comunidad Autónoma deberá diligenciar las copias del Certificado de Instalación y, en su caso, del certificado de inspección inicial, devolviendo cuatro a la empresa instaladora, dos para sí y las otras dos para la propiedad, a fin de que ésta pueda, a su vez, quedarse con una copia y entregar la otra a la Compañía eléctrica, requisito sin el cual ésta no podrá suministrar energía a la instalación, salvo lo indicado en el Artículo 18.3 del Reglamento Electrotécnico para Baja Tensión.</p>
+        <p class="parrafo_2">
+          <strong>5.6 Instalaciones temporales en ferias, exposiciones y similares.</strong>
+        </p>
+        <p class="parrafo_2">Cuando en este tipo de eventos exista para toda la instalación de la feria o exposición una Dirección de Obra común, podrán agruparse todas las documentaciones de las instalaciones parciales de alimentación a los distintos stands o elementos de la feria, exposición, etc., y presentarse de una sola vez ante el Órgano competente de la Comunidad Autónoma, bajo una certificación de instalación global firmada por el responsable técnico de la Dirección mencionada.</p>
+        <p class="parrafo">Cuando se trate de montajes repetidos idénticos, se podrá prescindir de la documentación de diseño, tras el registro de la primera instalación, haciendo constar en el certificado de instalación dicha circunstancia, que será válida durante un año, siempre que no se produjeran modificaciones significativas, entendiendo como tales las que afecten a la potencia prevista, tensiones de servicio y utilización y a los elementos de protección contra contactos directos e indirectos y contra sobreintensidades y sobretensiones.</p>
+        <p class="parrafo_2">
+          <strong>6. PUESTA EN SERVICIO DE LAS INSTALACIONES.</strong>
+        </p>
+        <p class="parrafo_2">El titular de la instalación deberá solicitar el suministro de energía a la Empresas suministradora mediante entrega del correspondiente ejemplar del certificado de instalación.</p>
+        <p class="parrafo">La Empresa suministradora podrá realizar, a su cargo, las verificaciones que considere oportunas, en lo que se refiere al cumplimiento de las prescripciones del presente Reglamento.</p>
+        <p class="parrafo">Cuando los valores obtenidos en la indicada verificación sean inferiores o superiores a los señalados respectivamente para el aislamiento y corrientes de fuga en la ITC-BT-19, las Empresas suministradoras no podrán conectar a sus redes las instalaciones receptoras.</p>
+        <p class="parrafo">En esos casos, deberán extender un Acta, en la que conste el resultado de las comprobaciones, la cual deberá ser firmada igualmente por el titular de la instalación, dándose por enterado. Dicha acta, en el plazo más breve posible, se pondrá en conocimiento del Órgano competente de la Comunidad Autónoma, quien determinará lo que proceda.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica el apartado 3, con efectos de 30 de junio de 2015, por la disposición final 2 del Real Decreto 1053/2014, de 12 de diciembre. <a class="refPost">Ref. BOE-A-2014-13681</a></p>
+          <p class="nota_pie">Se modifica el apartado 5.4 y se sustituye la expresión "instalador/es autorizado/s" por "empresa/s instaladora/s" por el art. 7, apartados 1 y 15 del Real Decreto 560/2010, de 7 de mayo. <a class="refPost">Ref. BOE-A-2010-8190#aseptimo</a></p>
+        </blockquote>
+      </version>
+      <version id_norma="BOE-A-2020-6472" fecha_publicacion="20200620" fecha_vigencia="20200701">
+        <p class="anexo_num">ITC-BT-04</p>
+        <p class="anexo_tit">DOCUMENTACIÓN Y PUESTA EN SERVICIO DE LAS INSTALACIONES</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO</p>
+        <p class="parrafo">2. DOCUMENTACIÓN DE LAS INSTALACIONES</p>
+        <p class="parrafo_2">2.1 Proyecto</p>
+        <p class="parrafo">2.2 Memoria Técnica de Diseño</p>
+        <p class="parrafo_2">3. INSTALACIONES QUE PRECISAN PROYECTO</p>
+        <p class="parrafo">4. INSTALACIONES QUE REQUIEREN MEMORIA TÉCNICA DE DISEÑO</p>
+        <p class="parrafo">5. EJECUCIÓN Y TRAMITACIÓN DE LAS INSTALACIONES</p>
+        <p class="parrafo">6. PUESTA EN SERVICIO DE LAS INSTALACIONES</p>
+        <p class="parrafo_2">
+          <strong>1. OBJETO</strong>
+        </p>
+        <p class="parrafo_2">La presente Instrucción tiene por objeto desarrollar las prescripciones del artículo 18 del Reglamento Electrotécnico para Baja Tensión, determinando la documentación técnica que deben tener las instalaciones para ser legalmente puestas en servicio, así como su tramitación ante el Órgano competente de la Administración.</p>
+        <p class="parrafo_2">
+          <strong>2. DOCUMENTACIÓN DE LAS INSTALACIONES</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones en el ámbito de aplicación del presente Reglamento deben ejecutarse sobre la base de una documentación técnica que, en función de su importancia, deberá adoptar una de las siguientes modalidades:</p>
+        <p class="parrafo_2">
+          <strong>2.1 Proyecto</strong>
+        </p>
+        <p class="parrafo_2">Cuando se precise proyecto, de acuerdo con lo establecido en el apartado 3, éste deberá ser redactado y firmado por técnico titulado competente, quien será directamente responsable de que el mismo se adapte a las disposiciones reglamentarias. El proyecto de instalación se desarrollará, bien como parte del proyecto general del edificio, bien en forma de uno o varios proyectos específicos.</p>
+        <p class="parrafo">En la memoria del proyecto se expresarán especialmente:</p>
+        <p class="parrafo_2">– Datos relativos al propietario;</p>
+        <p class="parrafo">– Emplazamiento, características básicas y uso al que se destina;</p>
+        <p class="parrafo">– Características y secciones de los conductores a emplear;</p>
+        <p class="parrafo">– Características y diámetros de los tubos para canalizaciones;</p>
+        <p class="parrafo">– Relación nominal de los receptores que se prevean instalar y su potencia, sistemas y dispositivos de seguridad adoptados y cuantos detalles sean necesarios de acuerdo con la importancia de la instalación proyectada y para que se ponga de manifiesto el cumplimiento de las prescripciones del Reglamento y sus Instrucciones Técnicas Complementarias.</p>
+        <p class="parrafo">– Esquema unifilar de la instalación y características de los dispositivos de corte y protección adoptados, puntos de utilización y secciones de los conductores.</p>
+        <p class="parrafo">– Croquis de su trazado;</p>
+        <p class="parrafo">– Cálculos justificativos del diseño.</p>
+        <p class="parrafo_2">Los planos serán los suficientes en número y detalle, tanto para dar una idea clara de las disposiciones que pretenden adoptarse en las instalaciones, como para que la Empresa instaladora que ejecute la instalación disponga de todos los datos necesarios para la realización de la misma.</p>
+        <p class="parrafo_2">
+          <strong>2.2 Memoria Técnica de Diseño.</strong>
+        </p>
+        <p class="parrafo_2">La Memoria Técnica de Diseño (MTD) se redactará sobre impresos, según modelo determinado por el Órgano competente de la Comunidad Autónoma, con objeto de proporcionar los principales datos y características de diseño de las instalaciones. La empresa instaladora para la categoría de la instalación correspondiente o el técnico titulado competente que firme dicha Memoria será directamente responsable de que la misma se adapte a las exigencias reglamentarias.</p>
+        <p class="parrafo">En especial, se incluirán los siguientes datos:</p>
+        <p class="parrafo_2">– Los referentes al propietario;</p>
+        <p class="parrafo">– Identificación de la persona que firma la memoria y justificación de su competencia;</p>
+        <p class="parrafo">– Emplazamiento de la instalación;</p>
+        <p class="parrafo">– Uso al que se destina;</p>
+        <p class="parrafo">– Relación nominal de los receptores que se prevea instalar y su potencia;</p>
+        <p class="parrafo">– Cálculos justificativos de las características de la línea general de alimentación, derivaciones individuales y líneas secundarias, sus elementos de protección y sus puntos de utilización;</p>
+        <p class="parrafo">– Pequeña memoria descriptiva;</p>
+        <p class="parrafo">– Esquema unifilar de la instalación y características de los dispositivos de corte y protección adoptados, puntos de utilización y secciones de los conductores.</p>
+        <p class="parrafo">– Croquis de su trazado;</p>
+        <p class="parrafo_2">
+          <strong>3. INSTALACIONES QUE PRECISAN PROYECTO.</strong>
+        </p>
+        <p class="parrafo_2"><strong>3.1</strong> Para su ejecución, precisan elaboración de proyecto las nuevas instalaciones siguientes:</p>
+        <table class="ning_n_estilo_de_tabla" summary="Tabla de formato">
+          <colgroup>
+            <col/>
+            <col/>
+            <col/>
+          </colgroup>
+          <thead>
+            <tr>
+              <th>
+                <p class="cabeza_tabla">Grupo</p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">Tipo de Instalación</p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">Límites</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">a</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a industrias, en general.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 20 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">b</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a:</p>
+                <p class="cuerpo_tabla_izq">– Locales húmedos, polvorientos o con riesgo de corrosión.</p>
+                <p class="cuerpo_tabla_izq">– Bombas de extracción o elevación de agua, sean industriales o no.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 10 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">c</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a:</p>
+                <p class="cuerpo_tabla_izq">– Locales mojados.</p>
+                <p class="cuerpo_tabla_izq">– Generadores y convertidores.</p>
+                <p class="cuerpo_tabla_izq">– Conductores aislados para caldeo, excluyendo las de viviendas.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 10 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">d</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">– De carácter temporal para alimentación de maquinaria de obras en construcción.</p>
+                <p class="cuerpo_tabla_izq">– De carácter temporal en locales o emplazamientos abiertos.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 50 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">e</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de edificios destinados principalmente a viviendas, locales comerciales y oficinas, que no tengan la consideración de locales de pública concurrencia, en edificación vertical u horizontal.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 100 kW por caja gral. de protección.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">f</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a viviendas unifamiliares.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 50 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">g</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de aparcamientos o estacionamientos que requieren ventilación forzada.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Cualquiera que sea su ocupación.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">h</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de aparcamientos o estacionamientos que disponen de ventilación natural.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">De más de 5 plazas de estacionamiento.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">i</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a locales de pública concurrencia.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">j</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a:</p>
+                <p class="cuerpo_tabla_izq">– Líneas de baja tensión con apoyos comunes con las de alta tensión.</p>
+                <p class="cuerpo_tabla_izq">– Máquinas de elevación y transporte.</p>
+                <p class="cuerpo_tabla_izq">– Las que utilicen tensiones especiales.</p>
+                <p class="cuerpo_tabla_izq">– Las destinadas a rótulos luminosos salvo que se consideren instalaciones de Baja tensión según lo establecido en la ITC-BT-44.</p>
+                <p class="cuerpo_tabla_izq">– Cercas eléctricas.</p>
+                <p class="cuerpo_tabla_izq">– Redes aéreas o subterráneas de distribución.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite de potencia.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">k</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">– Instalaciones de alumbrado exterior.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 5 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">l</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a locales con riesgo de incendio o explosión, excepto aparcamientos o estacionamientos.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">m</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las de quirófanos y salas de intervención.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">n</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a piscinas y fuentes.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 5 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                <p class="cuerpo_tabla_centro">z</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Las correspondientes a las infraestructuras para la recarga del vehículo eléctrico.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 50 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Instalaciones de recarga situadas en el exterior.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">P &gt; 10 kW.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Todas las instalaciones que incluyan estaciones de recarga previstas para el modo de carga 4.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Sin límite.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">o</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Todas aquellas que, no estando comprendidas en los grupos anteriores, determine el Ministerio con competencias en materia de seguridad industrial, mediante la oportuna disposición.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Según corresponda.</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">[P = Potencia prevista en la instalación, teniendo en cuenta lo estipulado en la (ITC) BT-10].</p>
+        <p class="parrafo">No será necesaria la elaboración de proyecto para las instalaciones de recarga que se ejecuten en los grupos de instalación g) y h) existentes en edificios de viviendas, siempre que las nuevas instalaciones no estén incluidas en el grupo z).</p>
+        <p class="parrafo_2"><strong>3.2</strong> Asimismo, requerirán elaboración de proyecto las ampliaciones y modificaciones de las instalaciones siguientes:</p>
+        <p class="parrafo_2">a) Las ampliaciones de las instalaciones de los tipos (b, c, g, i, j, l, m) y modificaciones de importancia de las instalaciones señaladas en 3.1.</p>
+        <p class="parrafo">b) Las ampliaciones de las instalaciones que, siendo de los tipos señalados en 3.1 no alcanzasen los límites de potencia prevista establecidos para las mismas, pero que los superan al producirse la ampliación.</p>
+        <p class="parrafo">c) Las ampliaciones de instalaciones que requirieron proyecto originalmente si en una o en varias ampliaciones se supera el 50 % de la potencia prevista en el proyecto anterior.</p>
+        <p class="parrafo_2"><strong>3.3</strong> Si una instalación está comprendida en más de un grupo de los especificados en 3.1, se le aplicará el criterio más exigente de los establecidos para dichos grupos.</p>
+        <p class="parrafo_2">
+          <strong>4. INSTALACIONES QUE REQUIEREN MEMORIA TÉCNICA DE DISEÑO.</strong>
+        </p>
+        <p class="parrafo_2">Requerirán Memoria Técnica de Diseño todas las instalaciones sean nuevas, ampliaciones o modificaciones no incluidas en los grupos indicados en el apartado 3.</p>
+        <p class="parrafo_2">
+          <strong>5. EJECUCIÓN Y TRAMITACIÓN DE LAS INSTALACIONES.</strong>
+        </p>
+        <p class="parrafo_2"><strong>5.1</strong> Todas las instalaciones en el ámbito de aplicación del Reglamento deben ser efectuadas por las empresas instaladoras en baja tensión a las que se refiere la Instrucción Técnica complementaria ITC-BT-03.</p>
+        <p class="parrafo">En el caso de instalaciones que requirieron Proyecto, su ejecución deberá contar con la dirección de un técnico titulado competente.</p>
+        <p class="parrafo">Si, en el curso de la ejecución de la instalación, la empresa instaladora considerase que el Proyecto o Memoria Técnica de Diseño no se ajusta a lo establecido en el Reglamento, deberá, por escrito, poner tal circunstancia en conocimiento del autor de dichos Proyecto o Memoria, y del propietario. Si no hubiera acuerdo entre las partes se someterá la cuestión al Órgano competente de la Comunidad Autónoma, para que ésta resuelva en el más breve plazo posible.</p>
+        <p class="parrafo_2"><strong>5.2</strong> Al término de la ejecución de la instalación, la empresa instaladora realizará las verificaciones que resulten oportunas, en función de las características de aquélla, según se especifica en la ITC-BT-05 y en su caso todas las que determine la dirección de obra.</p>
+        <p class="parrafo_2"><strong>5.3</strong> Asimismo, las instalaciones que se especifican en la ITC-BT-05, deberán ser objeto de la correspondiente Inspección Inicial por Organismo de Control.</p>
+        <p class="parrafo"><strong>5.4</strong> Finalizadas las obras y realizadas las verificaciones e inspección inicial a que se refieren los puntos anteriores, la empresa instaladora deberá emitir un Certificado de Instalación, suscrito por un instalador en baja tensión que pertenezca a la empresa, según modelo establecido por la Administración, que deberá comprender, al menos, lo siguiente:</p>
+        <p class="parrafo_2">a) los datos referentes a las principales características de la instalación;</p>
+        <p class="parrafo">b) la potencia prevista de la instalación;</p>
+        <p class="parrafo">c) en su caso, la referencia del certificado del Organismo de Control que hubiera realizado con calificación de resultado favorable, la inspección inicial;</p>
+        <p class="parrafo">d) identificación de la empresa instaladora responsable de la instalación y del instalador en baja tensión que suscribe el certificado de instalación;</p>
+        <p class="parrafo">e) declaración expresa de que la instalación ha sido ejecutada de acuerdo con las prescripciones del Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y, en su caso, con las especificaciones particulares aprobadas a la Compañía eléctrica, así como, según corresponda, con el Proyecto o la Memoria Técnica de Diseño.</p>
+        <p class="parrafo_2"><strong>5.5 </strong>Antes de la puesta en servicio de las instalaciones, la empresa instaladora deberá presentar ante el Órgano competente de la Comunidad Autónoma, al objeto de su inscripción en el correspondiente registro, el Certificado de Instalación con su correspondiente anexo de información al usuario, por quintuplicado, al que se acompañará, según el caso, el Proyecto o la Memoria Técnica de Diseño, así como el certificado de Dirección de Obra firmado por el correspondiente técnico titulado competente, y el certificado de inspección inicial del Organismo de Control, si procede.</p>
+        <p class="parrafo">El Órgano competente de la Comunidad Autónoma deberá diligenciar las copias del Certificado de Instalación, devolviendo cuatro a la empresa instaladora, dos para sí y las otras dos para la propiedad, a fin de que esta pueda, a su vez, quedarse con una copia y entregar la otra a la Compañía eléctrica, requisito sin el cual esta no podrá suministrar energía a la instalación, salvo lo indicado en el Artículo 18.3 del Reglamento Electrotécnico para Baja Tensión.</p>
+        <p class="parrafo">Si la documentación técnica indicada se presentase por medios electrónicos, solo será necesaria la presentación de una única copia del certificado de instalación eléctrica en lugar de cinco. En este caso, la administración enviará dicho certificado diligenciado por medios electrónicos a la empresa instaladora, quien deberá entregar una copia (también electrónica) del documento al titular de la instalación y conservar otra para su archivo.</p>
+        <p class="parrafo_2">
+          <strong>5.6 Instalaciones temporales en ferias, exposiciones y similares.</strong>
+        </p>
+        <p class="parrafo_2">Cuando en este tipo de eventos exista para toda la instalación de la feria o exposición una Dirección de Obra común, podrán agruparse todas las documentaciones de las instalaciones parciales de alimentación a los distintos stands o elementos de la feria, exposición, etc., y presentarse de una sola vez ante el Órgano competente de la Comunidad Autónoma, bajo una certificación de instalación global firmada por el responsable técnico de la Dirección mencionada.</p>
+        <p class="parrafo">Cuando se trate de montajes repetidos idénticos, se podrá prescindir de la documentación de diseño, tras el registro de la primera instalación, haciendo constar en el certificado de instalación dicha circunstancia, que será válida durante un año, siempre que no se produjeran modificaciones significativas, entendiendo como tales las que afecten a la potencia prevista, tensiones de servicio y utilización y a los elementos de protección contra contactos directos e indirectos y contra sobreintensidades y sobretensiones.</p>
+        <p class="parrafo_2">
+          <strong>6. PUESTA EN SERVICIO DE LAS INSTALACIONES.</strong>
+        </p>
+        <p class="parrafo_2">El titular de la instalación deberá solicitar el suministro de energía a la Empresas suministradora mediante entrega del correspondiente ejemplar del certificado de instalación.</p>
+        <p class="parrafo">La Empresa suministradora podrá realizar, a su cargo, las verificaciones que considere oportunas, en lo que se refiere al cumplimiento de las prescripciones del presente Reglamento.</p>
+        <p class="parrafo">Cuando los valores obtenidos en la indicada verificación sean inferiores o superiores a los señalados respectivamente para el aislamiento y corrientes de fuga en la ITC-BT-19, las Empresas suministradoras no podrán conectar a sus redes las instalaciones receptoras.</p>
+        <p class="parrafo">En esos casos, deberán extender un Acta, en la que conste el resultado de las comprobaciones, la cual deberá ser firmada igualmente por el titular de la instalación, dándose por enterado. Dicha acta, en el plazo más breve posible, se pondrá en conocimiento del Órgano competente de la Comunidad Autónoma, quien determinará lo que proceda.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica el apartado 5.5 por el art. 5.2 del Real Decreto 542/2020, de 26 de mayo. <a class="refPost">Ref. BOE-A-2020-6472#aq</a></p>
+          <p class="nota_pie">Se modifica el apartado 3, con efectos de 30 de junio de 2015, por la disposición final 2 del Real Decreto 1053/2014, de 12 de diciembre. <a class="refPost">Ref. BOE-A-2014-13681</a></p>
+          <p class="nota_pie">Se modifica el apartado 5.4 y se sustituye la expresión "instalador/es autorizado/s" por "empresa/s instaladora/s" por el art. 7, apartados 1 y 15 del Real Decreto 560/2010, de 7 de mayo. <a class="refPost">Ref. BOE-A-2010-8190#aseptimo</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

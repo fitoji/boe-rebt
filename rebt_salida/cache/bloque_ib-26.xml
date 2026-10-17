@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-26" tipo="precepto" titulo="ITC-BT-26">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-26</p>
+        <p class="anexo_tit">INSTALACIONES INTERIORES EN VIVIENDAS. PRESCRIPCIONES GENERALES DE INSTALACIÓN</p>
+        <p class="parrafo">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. ÁMBITO DE APLICACIÓN</p>
+        <p class="parrafo">2. TENSIONES DE UTILIZACIÓN Y ESQUEMA DE CONEXIÓN</p>
+        <p class="parrafo">3. TOMAS DE TIERRA</p>
+        <p class="parrafo_2">3.1 Instalación</p>
+        <p class="parrafo">3.2 Elementos a conectar a tierra</p>
+        <p class="parrafo">3.3 Puntos de puesta a tierra</p>
+        <p class="parrafo">3.4 Líneas principales de tierra. Derivaciones</p>
+        <p class="parrafo">3.5 Conductores de protección</p>
+        <p class="parrafo_2">4. PROTECCIÓN CONTRA CONTACTOS INDIRECTOS</p>
+        <p class="parrafo">5. CUADRO GENERAL DE DISTRIBUCIÓN</p>
+        <p class="parrafo">6. CONDUCTORES</p>
+        <p class="parrafo_2">6.1 Naturaleza y Secciones</p>
+        <p class="parrafo_2">6.1.1 Conductores activos</p>
+        <p class="parrafo">6.1.2 Conductores de protección</p>
+        <p class="parrafo_2">6.2 Identificación de los conductores</p>
+        <p class="parrafo">6.3 Conexiones</p>
+        <p class="parrafo_2">7. EJECUCIÓN DE LAS INSTALACIONES</p>
+        <p class="parrafo_2">7.1 Sistema de instalación</p>
+        <p class="parrafo">7.2 Condiciones generales</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>ÁMBITO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">Las prescripciones objeto de esta Instrucción son complementarias de las expuestas en la ITC-BT-19 y aplicables a las instalaciones interiores de las viviendas, así como en la medida que pueda afectarles, a las de locales comerciales, de oficinas y a las de cualquier otro local destinado a fines análogos.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>TENSIONES DE UTILIZACIÓN Y ESQUEMA DE CONEXIÓN</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones de las viviendas se consideran que están alimentadas por una red de distribución pública de baja tensión según el esquema de distribución «TT» (ITC-BT-08) y a una tensión de 230 V en alimentación monofásica y 230/400 V en alimentación trifásica.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>TOMAS DE TIERRA</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Instalación</strong>
+        </p>
+        <p class="parrafo_2">En toda nueva edificación se establecerá una toma de tierra de protección, según el siguiente sistema:</p>
+        <p class="parrafo_2">Instalando en el fondo de las zanjas de cimentación de los edificios, y antes de empezar ésta, un cable rígido de cobre desnudo de una sección mínima según se indica en la ITC-BT-18, formando un anillo cerrado que interese a todo el perímetro del edificio. A este anillo deberán conectarse electrodos verticalmente hincados en el terreno cuando, se prevea la necesidad de disminuir la resistencia de tierra que pueda presentar el conductor en anillo. Cuando se trate de construcciones que comprendan varios edificios próximos, se procurará unir entre sí los anillos que forman la toma de tierra de cada uno de ellos, con objeto de formar una malla de la mayor extensión posible.</p>
+        <p class="parrafo">En rehabilitación o reforma de edificios existentes, la toma de tierra se podrá realizar también situando en patios de luces o en jardines particulares del edificio, uno o varios electrodos de características adecuadas.</p>
+        <p class="parrafo">Al conductor en anillo, o bien a los electrodos, se conectarán, en su caso, la estructura metálica del edificio o, cuando la cimentación del mismo se haga con zapatas de hormigón armado, un cierto número de hierros de los considerados principales y como mínimo uno por zapata.</p>
+        <p class="parrafo">Estas conexiones se establecerán de manera fiable y segura, mediante soldadura aluminotérmica o autógena.</p>
+        <p class="parrafo">Las líneas de enlace con tierra se establecerán de acuerdo con la situación y número previsto de puntos de puesta a tierra. La naturaleza y sección de estos conductores estará de acuerdo con lo indicado para ellos en la Instrucción ITC-BT-18.</p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Elementos a conectar a tierra</strong>
+        </p>
+        <p class="parrafo_2">A la toma de tierra establecida se conectará toda masa metálica importante, existente en la zona de la instalación, y las masas metálicas accesibles de los aparatos receptores, cuando su clase de aislamiento o condiciones de instalación así lo exijan.</p>
+        <p class="parrafo">A esta misma toma de tierra deberán conectarse las partes metálicas de los depósitos de gasóleo, de las instalaciones de calefacción general, de las instalaciones de agua, de las instalaciones de gas canalizado y de las antenas de radio y televisión.</p>
+        <p class="parrafo_2">
+          <strong>3.3</strong>
+          <strong>Puntos de puesta a tierra</strong>
+        </p>
+        <p class="parrafo_2">Los puntos de puesta a tierra se situarán:</p>
+        <p class="parrafo_2">a) En los patios de luces destinados a cocinas y cuartos de aseo, etc., en rehabilitación o reforma de edificios existentes.</p>
+        <p class="parrafo">b) En el local o lugar de la centralización de contadores, si la hubiere.</p>
+        <p class="parrafo">c) En la base de las estructuras metálicas de los ascensores y montacargas, si los hubiere.</p>
+        <p class="parrafo">d) En el punto de ubicación de la caja general de protección.</p>
+        <p class="parrafo">e) En cualquier local donde se prevea la instalación de elementos destinados a servicios generales o especiales, y que por su clase de aislamiento o condiciones de instalación, deban ponerse a tierra.</p>
+        <p class="parrafo_2">
+          <strong>3.4</strong>
+          <strong>Líneas principales de tierra. Derivaciones</strong>
+        </p>
+        <p class="parrafo_2">Las líneas principales y sus derivaciones se establecerán en las mismas canalizaciones que las de las líneas generales de alimentación y derivaciones individuales.</p>
+        <p class="parrafo">Únicamente es admitida la entrada directa de las derivaciones de la línea principal de tierra en cocinas y cuartos de aseo, cuando, por la fecha de construcción del edificio, no se hubiese previsto la instalación de conductores de protección. En este caso, las masas de los aparatos receptores, cuando sus condiciones de instalación lo exijan, podrán ser conectadas a la derivación de la línea principal de tierra directamente, o bien a través de tomas de corriente que dispongan de contacto de puesta a tierra. Al punto o puntos de puesta a tierra indicados como a) en el apartado 3.3, se conectarán las líneas principales de tierra. Estas líneas podrán instalarse por los patios de luces o por canalizaciones interiores, con el fin de establecer a la altura de cada planta del edificio su derivación hasta el borne de conexión de los conductores de protección de cada local o vivienda.</p>
+        <p class="parrafo">Las líneas principales de tierra estarán constituidas por conductores de cobre de igual sección que la fijada para los conductores de protección en la Instrucción ITC-BT-19, con un mínimo de 16 milímetros cuadrados. Pueden estar formadas por barras planas o redondas, por conductores desnudos o aislados, debiendo disponerse una protección mecánica en la parte en que estos conductores sean accesibles, así como en los pasos de techos, paredes, etc.</p>
+        <p class="parrafo">La sección de los conductores que constituyen las derivaciones de la línea principal de tierra, será la señalada en la Instrucción ITC-BT-19 para los conductores de protección.</p>
+        <p class="parrafo">No podrán utilizarse como conductores de tierra las tuberías de agua, gas, calefacción, desagües, conductos de evacuación de humos o basuras, ni las cubiertas metálicas de los cables, tanto de la instalación eléctrica como de teléfonos o de cualquier otro servicio similar, ni las partes conductoras de los sistemas de conducción de los cables, tubos, canales y bandejas.</p>
+        <p class="parrafo">Las conexiones en los conductores de tierra serán realizadas mediante dispositivos, con tornillos de apriete u otros similares, que garanticen una continua y perfecta conexión entre aquéllos.</p>
+        <p class="parrafo_2">
+          <strong>3.5</strong>
+          <strong>Conductores de protección</strong>
+        </p>
+        <p class="parrafo_2">Se instalarán conductores de protección acompañando a los conductores activos en todos los circuitos de la vivienda hasta los puntos de utilización.</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>PROTECCIÓN CONTRA CONTACTOS INDIRECTOS</strong>
+        </p>
+        <p class="parrafo_2">La protección contra contactos indirectos se realizará mediante la puesta a tierra de las masas y empleo de los dispositivos descritos en el apartado 2.1 de la ITC-BT-25.</p>
+        <p class="parrafo_2">
+          <strong>5.</strong>
+          <strong>CUADRO GENERAL DE DISTRIBUCIÓN</strong>
+        </p>
+        <p class="parrafo_2">El cuadro general de distribución estará de acuerdo con lo indicado en la ITC-BT-17. En este mismo cuadro se dispondrán los bornes o pletinas para la conexión de los conductores de protección de la instalación interior con la derivación de la línea principal de tierra.</p>
+        <p class="parrafo">El instalador fijará de forma permanente sobre el cuadro de distribución una placa, impresa con caracteres indelebles, en la que conste su nombre o marca comercial, fecha en que se realizó la instalación, así como la intensidad asignada del interruptor general automático, que de acuerdo con lo señalado en las Instrucciones ITC-BT-10 e ITC-BT-25, corresponda a la vivienda.</p>
+        <p class="parrafo_2">
+          <strong>6.</strong>
+          <strong>CONDUCTORES</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>6.1</strong>
+          <strong>Naturaleza y Secciones</strong>
+        </p>
+        <p class="parrafo_2">6.1.1 Conductores activos</p>
+        <p class="parrafo_2">Los conductores activos serán de cobre, aislados y con una tensión asignada de 450/750 V, como mínimo.</p>
+        <p class="parrafo">Los circuitos y las secciones utilizadas serán, los indicados en la ITC-BT-25.</p>
+        <p class="parrafo_2">6.1.2 Conductores de protección</p>
+        <p class="parrafo_2">Los conductores de protección serán de cobre y presentarán el mismo aislamiento que los conductores activos. Se instalarán por la misma canalización que éstos y su sección será la indicada en la Instrucción ITC-BT-19.</p>
+        <p class="parrafo_2">
+          <strong>6.2 Identificación de los conductores</strong>
+        </p>
+        <p class="parrafo_2">Los conductores de la instalación deben ser fácilmente identificados, especialmente por lo que respecta a los conductores neutro y de protección. Esta identificación se realizará por los colores que presenten sus aislamientos. Cuando exista conductor neutro en la instalación o se prevea para un conductor de fase su pase posterior a conductor neutro, se identificarán éstos por el color azul claro. Al conductor de protección se le identificará por el doble color amarillo-verde. Todos los conductores de fase, o en su caso, aquellos para los que no se prevea su pase posterior a neutro, se identificarán por los colores marrón o negro. Cuando se considere necesario identificar tres fases diferentes, podrá utilizarse el color gris.</p>
+        <p class="parrafo_2">
+          <strong>6.3 Conexiones</strong>
+        </p>
+        <p class="parrafo_2">Se realizarán conforme a lo establecido en el apartado 2.11 de la ITC-BT-19.</p>
+        <p class="parrafo">Se admitirá no obstante, las conexiones en paralelo entre bases de toma de corriente cuando éstas estén juntas y dispongan de bornes de conexión previstos para la conexión de varios conductores.</p>
+        <p class="parrafo_2">
+          <strong>7.</strong>
+          <strong>EJECUCIÓN DE LAS INSTALACIONES</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>7.1</strong>
+          <strong>Sistema de instalación</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones se realizarán mediante algunos de los siguientes sistemas:</p>
+        <p class="parrafo_2">Instalaciones empotradas:</p>
+        <p class="parrafo_2">– Cables aislados bajo tubo flexible</p>
+        <p class="parrafo">– Cables aislados bajo tubo curvable</p>
+        <p class="parrafo_2">Instalaciones superficiales:</p>
+        <p class="parrafo_2">– Cables aislados bajo tubo curvable</p>
+        <p class="parrafo">– Cables aislados bajo tubo rígido</p>
+        <p class="parrafo">– Cables aislados bajo canal protectora cerrada</p>
+        <p class="parrafo">– Canalizaciones prefabricadas</p>
+        <p class="parrafo_2">Las instalaciones deberán cumplir lo indicado en las ITC-BT-20 e ITC-BT-21.</p>
+        <p class="parrafo_2">
+          <strong>7.2</strong>
+          <strong>Condiciones generales</strong>
+        </p>
+        <p class="parrafo_2">En la ejecución de las instalaciones interiores de las viviendas se deberá tener en cuenta:</p>
+        <p class="parrafo_2">– No se utilizará un mismo conductor neutro para varios circuitos.</p>
+        <p class="parrafo">– Todo conductor debe poder seccionarse en cualquier punto de la instalación en el que se realice una derivación del mismo, utilizando un dispositivo apropiado, tal como un borne de conexión, de forma que permita la separación completa de cada parte del circuito del resto de la instalación.</p>
+        <p class="parrafo">– Las tomas de corriente en una misma habitación deben estar conectadas a la misma fase.</p>
+        <p class="parrafo">– Las cubiertas, tapas o envolventes, mandos y pulsadores de maniobra de aparatos tales como mecanismos, interruptores, bases, reguladores, etc., instalados en cocinas, cuartos de baño, secaderos y, en general, en los locales húmedos o mojados, así como en aquellos en que las paredes y suelos sean conductores, serán de material aislante.</p>
+        <p class="parrafo">– La instalación empotrada de estos aparatos se realizará utilizando cajas especiales para su empotramiento. Cuando estas cajas sean metálicas estarán aisladas interiormente o puestas a tierra.</p>
+        <p class="parrafo">– La instalación de estos aparatos en marcos metálicos podrá realizarse siempre que los aparatos utilizados estén concebidos de forma que no permitan la posible puesta bajo tensión del marco metálico, conectándose éste al sistema de tierras.</p>
+        <p class="parrafo">– La utilización de estos aparatos empotrados en bastidores o tabiques de madera u otro material aislante, cumplirá lo indicado en la ITC-BT 49.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="da-2" tipo="precepto" titulo="Disposición adicional segunda">
+      <version id_norma="BOE-A-2010-8190" fecha_publicacion="20100522" fecha_vigencia="20100523">
+        <p class="articulo">Disposición adicional segunda. Aceptación de documentos de otros Estados miembros a efectos de acreditación del cumplimiento de requisitos.</p>
+        <p class="parrafo">A los efectos de acreditar el cumplimiento de los requisitos exigidos a las empresas instaladoras, se aceptarán los documentos procedentes de otro Estado miembro de los que se desprenda que se cumplen tales requisitos, en los términos previstos en el artículo 17 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.</p>
+        <blockquote>
+          <p class="nota_pie">Se añade por el art. 7.3 del Real Decreto 560/2010, de 7 de mayo. <a class="refPost">Ref. BOE-A-2010-8190#aseptimo</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

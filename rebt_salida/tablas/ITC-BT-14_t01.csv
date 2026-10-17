@@ -1,0 +1,14 @@
+Secciones (mm^2),,Diámetro exterior de los tubos (mm)
+FASE,NEUTRO,Diámetro exterior de los tubos (mm)
+10 (Cu),10,75
+16 (Cu),10,75
+16 (Al),16,75
+25,16,110
+35,16,110
+50,25,125
+70,35,140
+95,50,140
+120,70,160
+150,70,160
+185,95,180
+240,120,200

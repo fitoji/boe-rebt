@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a1-5" tipo="precepto" titulo="Artículo 13">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 13. Reserva de local.</p>
+        <p class="parrafo">En lo relativo a la reserva de local se seguirán las prescripciones recogidas en la reglamentación por la que se regulen las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

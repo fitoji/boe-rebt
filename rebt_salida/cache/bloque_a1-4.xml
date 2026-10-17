@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a1-4" tipo="precepto" titulo="Artículo 12">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 12. Ordenación de cargas.</p>
+        <p class="parrafo">Se establecerán en las correspondientes instrucciones técnicas complementarias prescripciones relativas a la ordenación de las cargas previsibles para cada una de las agrupaciones de consumo de características semejantes, tales como edificios dedicados principalmente a viviendas, edificios comerciales, de oficinas y de talleres para industrias, basadas en la mejor utilización de las instalaciones de distribución de energía eléctrica.</p>
+        <p class="parrafo">Antes de iniciar las obras, los titulares de edificaciones en proyecto de construcción deberán facilitar a la empresa suministradora toda la información necesaria para deducir los consumos y cargas que han de producirse, a fin de poder adecuar con antelación suficiente el crecimiento de sus redes y las previsiones de cargas en sus centros de transformación.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

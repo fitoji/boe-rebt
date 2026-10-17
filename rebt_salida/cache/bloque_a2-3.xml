@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a2-3" tipo="precepto" titulo="Artículo 21">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 21. Inspecciones.</p>
+        <p class="parrafo">Sin perjuicio de la facultad que, de acuerdo con lo señalado en el artículo 14 de la Ley 21/1992, de Industria, posee la Administración pública competente para llevar a cabo, por sí misma, las actuaciones de inspección y control que estime necesarias, el cumplimiento de las disposiciones y requisitos de seguridad establecidos por el presente Reglamento y sus instrucciones técnicas complementarias, según lo previsto en el artículo 12.3 de dicha Ley, deberá ser comprobado, en su caso, por un organismo de control autorizado en este campo reglamentario.</p>
+        <p class="parrafo">A tal fin, la correspondiente instrucción técnica complementaria determinará:</p>
+        <p class="parrafo_2">a) Las instalaciones y las modificaciones, reparaciones o ampliaciones de instalaciones que deberán ser objeto de inspección inicial, antes de su puesta en servicio.</p>
+        <p class="parrafo">b) Las instalaciones que deberán ser objeto de inspección periódica.</p>
+        <p class="parrafo">c) Los criterios para la valoración de las inspecciones, así como las medidas a adoptar como resultado de las mismas.</p>
+        <p class="parrafo">d) Los plazos de las inspecciones periódicas.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

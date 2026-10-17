@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-3" tipo="precepto" titulo="ITC-BT-03">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-03</p>
+        <p class="anexo_tit">INSTALADORES AUTORIZADOS EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO</p>
+        <p class="parrafo">2. INSTALADOR AUTORIZADO EN BAJA TENSIÓN</p>
+        <p class="parrafo">3. CLASIFICACIÓN DE LOS INSTALADORES AUTORIZADOS EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">3.1 Categoría básica (IBTB)</p>
+        <p class="parrafo">3.2 Categoría especialista (IBTE)</p>
+        <p class="parrafo_2">4. CERTIFICADO DE CUALIFICACIÓN INDIVIDUAL EN BAJA TENSIÓN</p>
+        <p class="parrafo">5. AUTORIZACIÓN COMO INSTALADOR EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">5.1 Requisitos</p>
+        <p class="parrafo_2">6. ACTUACIONES DE LOS INSTALADORES AUTORIZADOS EN BAJA TENSIÓN EN COMUNIDADES AUTÓNOMAS DISTINTAS DE AQUELLA DONDE OBTUVIERON LA AUTORIZACIÓN</p>
+        <p class="parrafo">7. OBLIGACIONES DE LOS INSTALADORES AUTORIZADOS EN BAJA TENSIÓN</p>
+        <p class="parrafo">APÉNDICE</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>OBJETO</strong>
+        </p>
+        <p class="parrafo_2">La presente Instrucción Técnica Complementaria tiene por objeto desarrollar las previsiones del artículo 22 del Reglamento Electrotécnico para Baja Tensión, estableciendo las condiciones y requisitos que deben observarse para la certificación de la competencia y la autorización administrativa correspondiente de los instaladores autorizados en el ámbito de aplicación del Reglamento Electrotécnico para Baja Tensión.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>INSTALADOR AUTORIZADO EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">Instalador Autorizado en Baja Tensión es la persona física o jurídica que realiza, mantiene o repara las instalaciones eléctricas en el ámbito del Reglamento Electrotécnico para Baja Tensión y sus Instrucciones Técnicas Complementarias, habiendo sido autorizado para ello según lo prescrito en la presente Instrucción.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>CLASIFICACIÓN DE LOS INSTALADORES AUTORIZADOS EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">Los Instaladores autorizados en Baja Tensión se clasifican en las siguientes categorías:</p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Categoría básica (IBTB).</strong>
+        </p>
+        <p class="parrafo_2">Los instaladores de esta categoría podrán realizar, mantener y reparar las instalaciones eléctricas para baja tensión en edificios, industrias, infraestructuras y, en general, todas las comprendidas en el ámbito del presente Reglamento Electrotécnico para Baja Tensión, que no se reserven a la categoría especialista (IBTE).</p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Categoría especialista (IBTE).</strong>
+        </p>
+        <p class="parrafo_2">Los instaladores y empresas instaladoras de la categoría especialista podrán realizar, mantener y reparar las instalaciones de la categoría Básica y, además, las correspondientes a:</p>
+        <p class="parrafo_2">– Sistemas de automatización, gestión técnica de la energía y seguridad para viviendas y edificios;</p>
+        <p class="parrafo">– sistemas de control distribuido;</p>
+        <p class="parrafo">– sistemas de supervisión, control y adquisición de datos;</p>
+        <p class="parrafo">– control de procesos;</p>
+        <p class="parrafo">– líneas aéreas o subterráneas para distribución de energía;</p>
+        <p class="parrafo">– locales con riesgo de incendio o explosión;</p>
+        <p class="parrafo">– quirófanos y salas de intervención;</p>
+        <p class="parrafo">– lámparas de descarga en alta tensión, rótulos luminosos y similares;</p>
+        <p class="parrafo">– instalaciones generadoras de baja tensión;</p>
+        <p class="parrafo_2">que estén contenidas en el ámbito del presente Reglamento Electrotécnico para Baja Tensión y sus Instrucciones Técnicas complementarias.</p>
+        <p class="parrafo">En los certificados de cualificación individual y de instalador deberán constar expresamente la modalidad o modalidades de entre las citadas para las que se haya sido autorizado, caso de no serlo para la totalidad de las mismas.</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>CERTIFICADO DE CUALIFICACIÓN INDIVIDUAL EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>4.1 Concepto.</strong>
+        </p>
+        <p class="parrafo_2">El Certificado de Cualificación Individual en Baja Tensión es el documento mediante el cual la Administración reconoce a su titular la capacidad personal para desempeñar alguna de las actividades correspondientes a las categorías indicadas en el apartado 3 de la presente Instrucción, identificándole ante terceros para ejercer su profesión en el ámbito del Reglamento Electrotécnico para Baja Tensión.</p>
+        <p class="parrafo">Dicho certificado no capacita, por sí solo, para la realización de dicha actividad, sino que constituirá requisito previo para la obtención del Certificado de Instalador Autorizado en Baja Tensión.</p>
+        <p class="parrafo_2">
+          <strong>4.2 Requisitos.</strong>
+        </p>
+        <p class="parrafo_2">Para obtener el Certificado de Cualificación Individual en Baja Tensión, las personas físicas deberán acreditar ante la Comunidad Autónoma donde radique el interesado:</p>
+        <p class="parrafo_2">a) Encontrarse en edad legal laboral.</p>
+        <p class="parrafo">b) Conocimientos teórico-prácticos de electricidad.</p>
+        <p class="parrafo">Sin perjuicio de lo previsto en la legislación sobre competencias profesionales, se entenderá que reúnen dichos conocimientos las personas que se encuentren en alguna de las siguientes situaciones:</p>
+        <p class="parrafo_2">b.1) Técnicos de grado medio en equipos e instalaciones electrotécnicas, con 1 año de experiencia, como mínimo, en empresas de instalaciones eléctricas y habiendo realizado un curso de 40 horas impartido por una Entidad de Formación Autorizada en Baja Tensión;</p>
+        <p class="parrafo">b.2) Técnicos de grado medio en equipos e instalaciones electrotécnicas, habiendo realizado un curso de 100 horas impartido por una Entidad de Formación Autorizada en Baja Tensión;</p>
+        <p class="parrafo">b.3) Técnicos superiores en instalaciones electrotécnicas;</p>
+        <p class="parrafo">b.4) Técnicos superiores en instalaciones electrotécnicas y experiencia de trabajo en empresas de instalaciones eléctricas;</p>
+        <p class="parrafo">b.5) Titulados de Escuelas Técnicas de Grado Medio o Superior con formación suficiente en el campo electrotécnico.</p>
+        <p class="parrafo">b.6) Titulados de Escuelas Técnicas de Grado Medio o Superior con formación suficiente en el campo electrotécnico y experiencia de trabajo en empresas de instalaciones eléctricas;</p>
+        <p class="parrafo_2">Se admitirán las titulaciones declaradas por la Administración española competente como equivalentes a las mencionadas, así como las titulaciones equivalentes que se determinen por aplicación de la legislación comunitaria o de otros acuerdos internacionales con terceros países, ratificados por el Estado Español.</p>
+        <p class="parrafo">c) Haber superado un examen, ante dicha Comunidad Autónoma, en los siguientes casos:</p>
+        <p class="parrafo_2">c.1) teórico-práctico, en las situaciones b.1) y b.2);</p>
+        <p class="parrafo">c.2) práctico, en las situaciones b.3 y b.5),</p>
+        <p class="parrafo_2">sobre las disposiciones del Reglamento e Instrucciones Técnicas Complementarias correspondientes a la categoría en la que se desea obtener la cualificación, cuyos requisitos, criterios y contenidos mínimos podrán ser definidos mediante resolución del Órgano Competente en materia de Seguridad Industrial del Ministerio de Ciencia y Tecnología.</p>
+        <p class="parrafo_2">
+          <strong>4.3 Concesión y validez.</strong>
+        </p>
+        <p class="parrafo_2">Cumplidos los requisitos de 4.2, la Comunidad Autónoma expedirá el correspondiente Certificado de Cualificación Individual en Baja Tensión, con la anotación de la categoría o categorías correspondientes.</p>
+        <p class="parrafo">El Certificado de Cualificación Individual en Baja Tensión tendrá validez en todo el territorio español.</p>
+        <p class="parrafo">En caso de variación importante del Reglamento respecto del que constituyó la base para la concesión del certificado, y siempre que en la Disposición correspondiente se determine expresamente que, en razón de la misma, sea preciso hacerlo, el titular del certificado deberá solicitar la actualización del mismo, cumpliendo los requisitos que dicha Disposición establezca para ello. En caso de no hacerlo, el certificado solamente será válido para la reglamentación anterior, en tanto en cuanto no sea preciso aplicarla junto con las nuevas disposiciones.</p>
+        <p class="parrafo_2">
+          <strong>5.</strong>
+          <strong>AUTORIZACIÓN COMO INSTALADOR EN BAJA TENSIÓN</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>5.1</strong>
+          <strong>Requisitos.</strong>
+        </p>
+        <p class="parrafo_2">Para obtener la autorización de Instalador en Baja Tensión, a que se refiere el apartado 2 de la presente Instrucción, deberán acreditarse ante la Comunidad Autónoma donde radiquen los interesados, los siguientes requisitos:</p>
+        <p class="parrafo_2">a) Contar con los medios técnicos y humanos que se determinan en el Apéndice de la presente Instrucción, para las respectivas categorías;</p>
+        <p class="parrafo">b) Tener suscrito seguro de responsabilidad civil que cubra los riesgos que puedan derivarse de sus actuaciones, mediante póliza por una cuantía mínima de 600.000 euros para la categoría básica y de 900.000 euros para la categoría especialista, cantidad que se actualizará anualmente, según la variación del índice de precios al consumo, certificada por el Instituto Nacional de Estadística. De dicha actualización se trasladará justificante al Órgano competente de la Comunidad;</p>
+        <p class="parrafo">c) Estar dados de alta en el Impuesto de Actividades Económicas, en el epígrafe correspondiente;</p>
+        <p class="parrafo">d) Estar incluidos en el censo de obligaciones tributarias;</p>
+        <p class="parrafo">e) Estar dados de alta en el correspondiente régimen de la Seguridad Social;</p>
+        <p class="parrafo">f) En el caso de las personas jurídicas, estar constituidas legalmente. Además, deberán aportarse, cumplimentados con los datos de la entidad, los carnets identificativos de las personas físicas dotadas de Certificados de cualificación individual.</p>
+        <p class="parrafo_2"><strong>5.2 Concesión y validez</strong>.</p>
+        <p class="parrafo_2">5.2.1 El Órgano competente de la Comunidad Autónoma, en caso de que se cumplan los requisitos indicados en el apartado anterior, expedirá el correspondiente Certificado de Instalador Autorizado en Baja Tensión, en el cual constará la categoría o categorías que comprenda. Además, constará en el certificado la advertencia de que el mismo no tendrá validez si el instalador no ha sido inscrito en el Registro de Establecimientos Industriales, para lo cual deberá reservarse un apartado en el certificado para su cumplimentación por el Registro.</p>
+        <p class="parrafo">En el caso de personas jurídicas se diligenciarán por la Comunidad Autónoma, asimismo, los carnets individuales identificativos.</p>
+        <p class="parrafo">5.2.2 El Certificado de Instalador Autorizado en Baja Tensión tendrá validez en todo el territorio español, y por un período inicial de 5 años, siempre y cuando se mantengan las condiciones que permitieron su concesión.</p>
+        <p class="parrafo">Se renovará, por un período igual al inicial, siempre que el Instalador autorizado lo solicite al Órgano competente de la Comunidad Autónoma con anterioridad a los 3 meses previos inmediatos a la finalización de su vigencia, y se acredite el mantenimiento de las condiciones que dieron lugar a su anterior autorización.</p>
+        <p class="parrafo">Si el Órgano competente no resolviese sobre la renovación antes de la fecha de caducidad de la autorización, o en los 3 meses posteriores, aquélla se considerará concedida.</p>
+        <p class="parrafo">5.2.3 Cualquier variación en las condiciones y requisitos establecidos para la concesión del certificado deberá ser comunicada al Órgano competente de la Comunidad Autónoma, en el plazo de un mes, si no afecta a la validez del mismo. En caso de que dicha variación supusiera dejar de cumplir los requisitos necesarios para la concesión del certificado, la comunicación deberá ser realizada en el plazo de 15 días inmediatos posteriores a producirse la incidencia, a fin de que el Órgano competente de la Comunidad Autónoma, a la vista de las circunstancias, pueda determinar la cancelación del mismo o, en su caso, la suspensión o prórroga condicionada de la actividad, en tanto se restablezcan los referidos requisitos.</p>
+        <p class="parrafo">La falta de notificación en el plazo señalado en el párrafo anterior, podrá suponer, además de las posibles sanciones que figuran en el Reglamento, la inmediata suspensión cautelar del certificado de Instalador Autorizado en Baja Tensión.</p>
+        <p class="parrafo">Asimismo, el certificado de instalador o de persona jurídica autorizada en Baja Tensión podrá quedar anulado, previo el correspondiente expediente, en caso de que se faciliten, cedan o enajenen certificados de instalación de obras no realizadas por el instalador autorizado.</p>
+        <p class="parrafo_2">
+          <strong>6.</strong>
+          <strong>ACTUACIONES DE LOS INSTALADORES AUTORIZADOS EN BAJA TENSIÓN EN COMUNIDADES AUTÓNOMAS DISTINTAS DE AQUELLA DONDE OBTUVIERON LA AUTORIZACIÓN.</strong>
+        </p>
+        <p class="parrafo_2">Antes de comenzar su actividad en una Comunidad Autónoma distinta de aquélla que les concedió el certificado, los Instaladores Autorizados en Baja Tensión deberán comunicarlo al Órgano competente de la Comunidad Autónoma correspondiente, aportando copia legal de dicho certificado.</p>
+        <p class="parrafo_2">
+          <strong>7.</strong>
+          <strong>OBLIGACIONES DE LOS INSTALADORES AUTORIZADOS EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">Los Instaladores Autorizados en Baja Tensión deben, en sus respectivas categorías:</p>
+        <p class="parrafo_2">a) Ejecutar, modificar, ampliar, mantener o reparar las instalaciones que les sean adjudicadas o confiadas, de conformidad con la normativa vigente y con la documentación de diseño de la instalación, utilizando, en su caso, materiales y equipos que sean conformes a la legislación que les sea aplicable.</p>
+        <p class="parrafo">b) Efectuar las pruebas y ensayos reglamentarios que les sean atribuidos.</p>
+        <p class="parrafo">c) Realizar las operaciones de revisión y mantenimiento que tengan encomendadas, en la forma y plazos previstos.</p>
+        <p class="parrafo">d) Emitir los certificados de instalación o mantenimiento, en su caso.</p>
+        <p class="parrafo">e) Coordinar, en su caso, con la empresa suministradora y con los usuarios las operaciones que impliquen interrupción del suministro.</p>
+        <p class="parrafo">f) Notificar a la Administración competente los posibles incumplimientos reglamentarios de materiales o instalaciones, que observasen en el desempeño de su actividad. En caso de peligro manifiesto, darán cuenta inmediata de ello a los usuarios y, en su caso, a la empresa suministradora, y pondrá la circunstancia en conocimiento del Órgano competente de la Comunidad Autónoma en el plazo máximo de 24 horas.</p>
+        <p class="parrafo">g) Asistir a las inspecciones establecidas por el Reglamento, o las realizadas de oficio por la Administración, si fuera requerido por el procedimiento.</p>
+        <p class="parrafo">h) Mantener al día un registro de las instalaciones ejecutadas o mantenidas.</p>
+        <p class="parrafo">i) Informar a la Administración competente sobre los accidentes ocurridos en las instalaciones a su cargo.</p>
+        <p class="parrafo">j) Conservar a disposición de la Administración, copia de los contratos de mantenimiento al menos durante los 5 años inmediatos posteriores a la finalización de los mismos.</p>
+        <p class="centro_negrita">Apéndice</p>
+        <p class="centro_redonda">MEDIOS MÍNIMOS, TÉCNICOS Y HUMANOS, REQUERIDOS PARA LOS INSTALADORES AUTORIZADOS EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>Medios humanos</strong>
+        </p>
+        <p class="parrafo_2">Al menos una persona dotada de Certificado de Cualificación Individual en Baja Tensión, de categoría igual a cada una de las del Instalador Autorizado en Baja Tensión, si es el caso, en la plantilla de la entidad, a jornada completa. En caso de que una misma persona ostente dichas categorías, bastará para cubrir el presente requisito.</p>
+        <p class="parrafo">Operarios cualificados, en número máximo de 10 por cada persona dotada de Certificado de Cualificación Individual en Baja Tensión, o por cada Técnico superior en instalaciones electrotécnicas o por cada Titulado de Escuelas Técnicas de grado Medio o Superior con formación suficiente en el campo electrotécnico.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>Medios técnicos</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1</strong>
+          <strong>Categoría Básica</strong>
+        </p>
+        <p class="parrafo_2">2.1.1 Local: 25 m².</p>
+        <p class="parrafo_2">2.1.2 Equipos:</p>
+        <p class="parrafo_2">– Telurómetro;</p>
+        <p class="parrafo">– Medidor de aislamiento, según ITC MIE-BT 19;</p>
+        <p class="parrafo">– Multímetro o tenaza, para las siguientes magnitudes:</p>
+        <p class="sangrado_2">Tensión alterna y continua hasta 500 V;</p>
+        <p class="sangrado_2">Intensidad alterna y continua hasta 20 A;</p>
+        <p class="sangrado_2">Resistencia;</p>
+        <p class="parrafo_2">– Medidor de corrientes de fuga, con resolución mejor o igual que 1 mA;</p>
+        <p class="parrafo">– Detector de tensión;</p>
+        <p class="parrafo">– Analizador registrador de potencia y energía para corriente alterna trifásica, con capacidad de medida de las siguientes magnitudes: potencia activa; tensión alterna; intensidad alterna; factor de potencia;</p>
+        <p class="parrafo">– Equipo verificador de la sensibilidad de disparo de los interruptores diferenciales, capaz de verificar la característica intensidad-tiempo;</p>
+        <p class="parrafo">– Equipo verificador de la continuidad de conductores;</p>
+        <p class="parrafo">– Medidor de impedancia de bucle, con sistema de medición independiente o con compensación del valor de la resistencia de los cables de prueba y con una resolución mejor o igual que 0,1 Ω;</p>
+        <p class="parrafo">– Herramientas comunes y equipo auxiliar;</p>
+        <p class="parrafo">– Luxómetro con rango de medida adecuado para el alumbrado de emergencia</p>
+        <p class="parrafo_2">
+          <strong>2.2.</strong>
+          <strong>Categoría Especialista</strong>
+        </p>
+        <p class="parrafo_2">Además de los medios anteriores, deberán contar con los siguientes, según proceda:</p>
+        <p class="parrafo_2">– Analizador de redes, de armónicos y de perturbaciones de red;</p>
+        <p class="parrafo">– electrodos para la medida del aislamiento de los suelos;</p>
+        <p class="parrafo">– aparato comprobador del dispositivo de vigilancia del nivel de aislamiento de los quirófanos;</p>
+        <p class="parrafo_2">
+          <strong>2.3</strong>
+          <strong>Herramientas, equipos y medios de protección individual.</strong>
+        </p>
+        <p class="parrafo_2">Estarán de acuerdo con la normativa vigente y las necesidades de la instalación.</p>
+      </version>
+      <version id_norma="BOE-A-2004-6072" fecha_publicacion="20040405" fecha_vigencia="20040405">
+        <p class="anexo_num">ITC-BT-03</p>
+        <p class="anexo_tit">INSTALADORES AUTORIZADOS EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO</p>
+        <p class="parrafo">2. INSTALADOR AUTORIZADO EN BAJA TENSIÓN</p>
+        <p class="parrafo">3. CLASIFICACIÓN DE LOS INSTALADORES AUTORIZADOS EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">3.1 Categoría básica (IBTB)</p>
+        <p class="parrafo">3.2 Categoría especialista (IBTE)</p>
+        <p class="parrafo_2">4. CERTIFICADO DE CUALIFICACIÓN INDIVIDUAL EN BAJA TENSIÓN</p>
+        <p class="parrafo">5. AUTORIZACIÓN COMO INSTALADOR EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">5.1 Requisitos</p>
+        <p class="parrafo_2">6. ACTUACIONES DE LOS INSTALADORES AUTORIZADOS EN BAJA TENSIÓN EN COMUNIDADES AUTÓNOMAS DISTINTAS DE AQUELLA DONDE OBTUVIERON LA AUTORIZACIÓN</p>
+        <p class="parrafo">7. OBLIGACIONES DE LOS INSTALADORES AUTORIZADOS EN BAJA TENSIÓN</p>
+        <p class="parrafo">APÉNDICE</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>OBJETO</strong>
+        </p>
+        <p class="parrafo_2">La presente Instrucción Técnica Complementaria tiene por objeto desarrollar las previsiones del artículo 22 del Reglamento Electrotécnico para Baja Tensión, estableciendo las condiciones y requisitos que deben observarse para la certificación de la competencia y la autorización administrativa correspondiente de los instaladores autorizados en el ámbito de aplicación del Reglamento Electrotécnico para Baja Tensión.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>INSTALADOR AUTORIZADO EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">Instalador Autorizado en Baja Tensión es la persona física o jurídica que realiza, mantiene o repara las instalaciones eléctricas en el ámbito del Reglamento Electrotécnico para Baja Tensión y sus Instrucciones Técnicas Complementarias, habiendo sido autorizado para ello según lo prescrito en la presente Instrucción.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>CLASIFICACIÓN DE LOS INSTALADORES AUTORIZADOS EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">Los Instaladores autorizados en Baja Tensión se clasifican en las siguientes categorías:</p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Categoría básica (IBTB).</strong>
+        </p>
+        <p class="parrafo_2">Los instaladores de esta categoría podrán realizar, mantener y reparar las instalaciones eléctricas para baja tensión en edificios, industrias, infraestructuras y, en general, todas las comprendidas en el ámbito del presente Reglamento Electrotécnico para Baja Tensión, que no se reserven a la categoría especialista (IBTE).</p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Categoría especialista (IBTE).</strong>
+        </p>
+        <p class="parrafo_2">Los instaladores y empresas instaladoras de la categoría especialista podrán realizar, mantener y reparar las instalaciones de la categoría Básica y, además, las correspondientes a:</p>
+        <p class="parrafo_2">– Sistemas de automatización, gestión técnica de la energía y seguridad para viviendas y edificios;</p>
+        <p class="parrafo">– sistemas de control distribuido;</p>
+        <p class="parrafo">– sistemas de supervisión, control y adquisición de datos;</p>
+        <p class="parrafo">– control de procesos;</p>
+        <p class="parrafo">– líneas aéreas o subterráneas para distribución de energía;</p>
+        <p class="parrafo">– locales con riesgo de incendio o explosión;</p>
+        <p class="parrafo">– quirófanos y salas de intervención;</p>
+        <p class="parrafo">– lámparas de descarga en alta tensión, rótulos luminosos y similares;</p>
+        <p class="parrafo">– instalaciones generadoras de baja tensión;</p>
+        <p class="parrafo_2">que estén contenidas en el ámbito del presente Reglamento Electrotécnico para Baja Tensión y sus Instrucciones Técnicas complementarias.</p>
+        <p class="parrafo">En los certificados de cualificación individual y de instalador deberán constar expresamente la modalidad o modalidades de entre las citadas para las que se haya sido autorizado, caso de no serlo para la totalidad de las mismas.</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>CERTIFICADO DE CUALIFICACIÓN INDIVIDUAL EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>4.1 Concepto.</strong>
+        </p>
+        <p class="parrafo_2">El Certificado de Cualificación Individual en Baja Tensión es el documento mediante el cual la Administración reconoce a su titular la capacidad personal para desempeñar alguna de las actividades correspondientes a las categorías indicadas en el apartado 3 de la presente Instrucción, identificándole ante terceros para ejercer su profesión en el ámbito del Reglamento Electrotécnico para Baja Tensión.</p>
+        <p class="parrafo">Dicho certificado no capacita, por sí solo, para la realización de dicha actividad, sino que constituirá requisito previo para la obtención del Certificado de Instalador Autorizado en Baja Tensión.</p>
+        <p class="parrafo_2">
+          <strong>4.2 Requisitos.</strong>
+        </p>
+        <p class="parrafo_2">Para obtener el Certificado de Cualificación Individual en Baja Tensión, las personas físicas deberán acreditar ante la Comunidad Autónoma donde radique el interesado:</p>
+        <p class="parrafo_2">a) Encontrarse en edad legal laboral.</p>
+        <p class="parrafo">b) Conocimientos teórico-prácticos de electricidad.</p>
+        <p class="parrafo">Sin perjuicio de lo previsto en la legislación sobre competencias profesionales, se entenderá que reúnen dichos conocimientos las personas que se encuentren en alguna de las siguientes situaciones:</p>
+        <p class="parrafo_2">b.1) Técnicos de grado medio en equipos e instalaciones electrotécnicas, con 1 año de experiencia, como mínimo, en empresas de instalaciones eléctricas y habiendo realizado un curso de 40 horas impartido por una Entidad de Formación Autorizada en Baja Tensión;</p>
+        <p class="parrafo">b.2) Técnicos de grado medio en equipos e instalaciones electrotécnicas, habiendo realizado un curso de 100 horas impartido por una Entidad de Formación Autorizada en Baja Tensión;</p>
+        <p class="parrafo">b.3) Técnicos superiores en instalaciones electrotécnicas;</p>
+        <p class="parrafo">b.4) Técnicos superiores en instalaciones electrotécnicas y experiencia de trabajo en empresas de instalaciones eléctricas;</p>
+        <p class="parrafo">b.5) Titulados de Escuelas Técnicas de Grado Medio o Superior con formación suficiente en el campo electrotécnico.</p>
+        <p class="parrafo">b.6) Titulados de Escuelas Técnicas de Grado Medio o Superior con formación suficiente en el campo electrotécnico y experiencia de trabajo en empresas de instalaciones eléctricas;</p>
+        <p class="parrafo_2">Se admitirán las titulaciones declaradas por la Administración española competente como equivalentes a las mencionadas, así como las titulaciones equivalentes que se determinen por aplicación de la legislación comunitaria o de otros acuerdos internacionales con terceros países, ratificados por el Estado Español.</p>
+        <p class="parrafo">c) Haber superado un examen, ante dicha Comunidad Autónoma, en los siguientes casos:</p>
+        <p class="parrafo_2">c.1) teórico-práctico, en las situaciones b.1) y b.2);</p>
+        <p class="parrafo">c.2) práctico, en las situaciones b.3 y b.5),</p>
+        <p class="parrafo_2">sobre las disposiciones del Reglamento e Instrucciones Técnicas Complementarias correspondientes a la categoría en la que se desea obtener la cualificación, cuyos requisitos, criterios y contenidos mínimos podrán ser definidos mediante resolución del Órgano Competente en materia de Seguridad Industrial del Ministerio de Ciencia y Tecnología.</p>
+        <blockquote class="siempreSeVe">
+          <p class="parrafo_2">Téngase en cuenta que se anula, por ser contrario a derecho, el inciso 4.2.c.2, en tanto que incluye a los Ingenieros industriales, por Sentencia del TS de 17 de febrero de 2004. <a class="refPost">Ref. BOE-A-2004-6072</a></p>
+        </blockquote>
+        <p class="parrafo_2">
+          <strong>4.3 Concesión y validez.</strong>
+        </p>
+        <p class="parrafo_2">Cumplidos los requisitos de 4.2, la Comunidad Autónoma expedirá el correspondiente Certificado de Cualificación Individual en Baja Tensión, con la anotación de la categoría o categorías correspondientes.</p>
+        <p class="parrafo">El Certificado de Cualificación Individual en Baja Tensión tendrá validez en todo el territorio español.</p>
+        <p class="parrafo">En caso de variación importante del Reglamento respecto del que constituyó la base para la concesión del certificado, y siempre que en la Disposición correspondiente se determine expresamente que, en razón de la misma, sea preciso hacerlo, el titular del certificado deberá solicitar la actualización del mismo, cumpliendo los requisitos que dicha Disposición establezca para ello. En caso de no hacerlo, el certificado solamente será válido para la reglamentación anterior, en tanto en cuanto no sea preciso aplicarla junto con las nuevas disposiciones.</p>
+        <p class="parrafo_2">
+          <strong>5.</strong>
+          <strong>AUTORIZACIÓN COMO INSTALADOR EN BAJA TENSIÓN</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>5.1</strong>
+          <strong>Requisitos.</strong>
+        </p>
+        <p class="parrafo_2">Para obtener la autorización de Instalador en Baja Tensión, a que se refiere el apartado 2 de la presente Instrucción, deberán acreditarse ante la Comunidad Autónoma donde radiquen los interesados, los siguientes requisitos:</p>
+        <p class="parrafo_2">a) Contar con los medios técnicos y humanos que se determinan en el Apéndice de la presente Instrucción, para las respectivas categorías;</p>
+        <p class="parrafo">b) Tener suscrito seguro de responsabilidad civil que cubra los riesgos que puedan derivarse de sus actuaciones, mediante póliza por una cuantía mínima de 600.000 euros para la categoría básica y de 900.000 euros para la categoría especialista, cantidad que se actualizará anualmente, según la variación del índice de precios al consumo, certificada por el Instituto Nacional de Estadística. De dicha actualización se trasladará justificante al Órgano competente de la Comunidad;</p>
+        <p class="parrafo">c) Estar dados de alta en el Impuesto de Actividades Económicas, en el epígrafe correspondiente;</p>
+        <p class="parrafo">d) Estar incluidos en el censo de obligaciones tributarias;</p>
+        <p class="parrafo">e) Estar dados de alta en el correspondiente régimen de la Seguridad Social;</p>
+        <p class="parrafo">f) En el caso de las personas jurídicas, estar constituidas legalmente. Además, deberán aportarse, cumplimentados con los datos de la entidad, los carnets identificativos de las personas físicas dotadas de Certificados de cualificación individual.</p>
+        <p class="parrafo_2"><strong>5.2 Concesión y validez</strong>.</p>
+        <p class="parrafo_2">5.2.1 El Órgano competente de la Comunidad Autónoma, en caso de que se cumplan los requisitos indicados en el apartado anterior, expedirá el correspondiente Certificado de Instalador Autorizado en Baja Tensión, en el cual constará la categoría o categorías que comprenda. Además, constará en el certificado la advertencia de que el mismo no tendrá validez si el instalador no ha sido inscrito en el Registro de Establecimientos Industriales, para lo cual deberá reservarse un apartado en el certificado para su cumplimentación por el Registro.</p>
+        <p class="parrafo">En el caso de personas jurídicas se diligenciarán por la Comunidad Autónoma, asimismo, los carnets individuales identificativos.</p>
+        <p class="parrafo">5.2.2 El Certificado de Instalador Autorizado en Baja Tensión tendrá validez en todo el territorio español, y por un período inicial de 5 años, siempre y cuando se mantengan las condiciones que permitieron su concesión.</p>
+        <p class="parrafo">Se renovará, por un período igual al inicial, siempre que el Instalador autorizado lo solicite al Órgano competente de la Comunidad Autónoma con anterioridad a los 3 meses previos inmediatos a la finalización de su vigencia, y se acredite el mantenimiento de las condiciones que dieron lugar a su anterior autorización.</p>
+        <p class="parrafo">Si el Órgano competente no resolviese sobre la renovación antes de la fecha de caducidad de la autorización, o en los 3 meses posteriores, aquélla se considerará concedida.</p>
+        <p class="parrafo">5.2.3 Cualquier variación en las condiciones y requisitos establecidos para la concesión del certificado deberá ser comunicada al Órgano competente de la Comunidad Autónoma, en el plazo de un mes, si no afecta a la validez del mismo. En caso de que dicha variación supusiera dejar de cumplir los requisitos necesarios para la concesión del certificado, la comunicación deberá ser realizada en el plazo de 15 días inmediatos posteriores a producirse la incidencia, a fin de que el Órgano competente de la Comunidad Autónoma, a la vista de las circunstancias, pueda determinar la cancelación del mismo o, en su caso, la suspensión o prórroga condicionada de la actividad, en tanto se restablezcan los referidos requisitos.</p>
+        <p class="parrafo">La falta de notificación en el plazo señalado en el párrafo anterior, podrá suponer, además de las posibles sanciones que figuran en el Reglamento, la inmediata suspensión cautelar del certificado de Instalador Autorizado en Baja Tensión.</p>
+        <p class="parrafo">Asimismo, el certificado de instalador o de persona jurídica autorizada en Baja Tensión podrá quedar anulado, previo el correspondiente expediente, en caso de que se faciliten, cedan o enajenen certificados de instalación de obras no realizadas por el instalador autorizado.</p>
+        <p class="parrafo_2">
+          <strong>6.</strong>
+          <strong>ACTUACIONES DE LOS INSTALADORES AUTORIZADOS EN BAJA TENSIÓN EN COMUNIDADES AUTÓNOMAS DISTINTAS DE AQUELLA DONDE OBTUVIERON LA AUTORIZACIÓN.</strong>
+        </p>
+        <p class="parrafo_2">Antes de comenzar su actividad en una Comunidad Autónoma distinta de aquélla que les concedió el certificado, los Instaladores Autorizados en Baja Tensión deberán comunicarlo al Órgano competente de la Comunidad Autónoma correspondiente, aportando copia legal de dicho certificado.</p>
+        <p class="parrafo_2">
+          <strong>7.</strong>
+          <strong>OBLIGACIONES DE LOS INSTALADORES AUTORIZADOS EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">Los Instaladores Autorizados en Baja Tensión deben, en sus respectivas categorías:</p>
+        <p class="parrafo_2">a) Ejecutar, modificar, ampliar, mantener o reparar las instalaciones que les sean adjudicadas o confiadas, de conformidad con la normativa vigente y con la documentación de diseño de la instalación, utilizando, en su caso, materiales y equipos que sean conformes a la legislación que les sea aplicable.</p>
+        <p class="parrafo">b) Efectuar las pruebas y ensayos reglamentarios que les sean atribuidos.</p>
+        <p class="parrafo">c) Realizar las operaciones de revisión y mantenimiento que tengan encomendadas, en la forma y plazos previstos.</p>
+        <p class="parrafo">d) Emitir los certificados de instalación o mantenimiento, en su caso.</p>
+        <p class="parrafo">e) Coordinar, en su caso, con la empresa suministradora y con los usuarios las operaciones que impliquen interrupción del suministro.</p>
+        <p class="parrafo">f) Notificar a la Administración competente los posibles incumplimientos reglamentarios de materiales o instalaciones, que observasen en el desempeño de su actividad. En caso de peligro manifiesto, darán cuenta inmediata de ello a los usuarios y, en su caso, a la empresa suministradora, y pondrá la circunstancia en conocimiento del Órgano competente de la Comunidad Autónoma en el plazo máximo de 24 horas.</p>
+        <p class="parrafo">g) Asistir a las inspecciones establecidas por el Reglamento, o las realizadas de oficio por la Administración, si fuera requerido por el procedimiento.</p>
+        <p class="parrafo">h) Mantener al día un registro de las instalaciones ejecutadas o mantenidas.</p>
+        <p class="parrafo">i) Informar a la Administración competente sobre los accidentes ocurridos en las instalaciones a su cargo.</p>
+        <p class="parrafo">j) Conservar a disposición de la Administración, copia de los contratos de mantenimiento al menos durante los 5 años inmediatos posteriores a la finalización de los mismos.</p>
+        <p class="centro_negrita">Apéndice</p>
+        <p class="centro_redonda">MEDIOS MÍNIMOS, TÉCNICOS Y HUMANOS, REQUERIDOS PARA LOS INSTALADORES AUTORIZADOS EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>Medios humanos</strong>
+        </p>
+        <p class="parrafo_2">Al menos una persona dotada de Certificado de Cualificación Individual en Baja Tensión, de categoría igual a cada una de las del Instalador Autorizado en Baja Tensión, si es el caso, en la plantilla de la entidad, a jornada completa. En caso de que una misma persona ostente dichas categorías, bastará para cubrir el presente requisito.</p>
+        <p class="parrafo">Operarios cualificados, en número máximo de 10 por cada persona dotada de Certificado de Cualificación Individual en Baja Tensión, o por cada Técnico superior en instalaciones electrotécnicas o por cada Titulado de Escuelas Técnicas de grado Medio o Superior con formación suficiente en el campo electrotécnico.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>Medios técnicos</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1</strong>
+          <strong>Categoría Básica</strong>
+        </p>
+        <p class="parrafo_2">2.1.1 Local: 25 m².</p>
+        <p class="parrafo_2">2.1.2 Equipos:</p>
+        <p class="parrafo_2">– Telurómetro;</p>
+        <p class="parrafo">– Medidor de aislamiento, según ITC MIE-BT 19;</p>
+        <p class="parrafo">– Multímetro o tenaza, para las siguientes magnitudes:</p>
+        <p class="sangrado_2">Tensión alterna y continua hasta 500 V;</p>
+        <p class="sangrado_2">Intensidad alterna y continua hasta 20 A;</p>
+        <p class="sangrado_2">Resistencia;</p>
+        <p class="parrafo_2">– Medidor de corrientes de fuga, con resolución mejor o igual que 1 mA;</p>
+        <p class="parrafo">– Detector de tensión;</p>
+        <p class="parrafo">– Analizador registrador de potencia y energía para corriente alterna trifásica, con capacidad de medida de las siguientes magnitudes: potencia activa; tensión alterna; intensidad alterna; factor de potencia;</p>
+        <p class="parrafo">– Equipo verificador de la sensibilidad de disparo de los interruptores diferenciales, capaz de verificar la característica intensidad-tiempo;</p>
+        <p class="parrafo">– Equipo verificador de la continuidad de conductores;</p>
+        <p class="parrafo">– Medidor de impedancia de bucle, con sistema de medición independiente o con compensación del valor de la resistencia de los cables de prueba y con una resolución mejor o igual que 0,1 Ω;</p>
+        <p class="parrafo">– Herramientas comunes y equipo auxiliar;</p>
+        <p class="parrafo">– Luxómetro con rango de medida adecuado para el alumbrado de emergencia</p>
+        <p class="parrafo_2">
+          <strong>2.2.</strong>
+          <strong>Categoría Especialista</strong>
+        </p>
+        <p class="parrafo_2">Además de los medios anteriores, deberán contar con los siguientes, según proceda:</p>
+        <p class="parrafo_2">– Analizador de redes, de armónicos y de perturbaciones de red;</p>
+        <p class="parrafo">– electrodos para la medida del aislamiento de los suelos;</p>
+        <p class="parrafo">– aparato comprobador del dispositivo de vigilancia del nivel de aislamiento de los quirófanos;</p>
+        <p class="parrafo_2">
+          <strong>2.3</strong>
+          <strong>Herramientas, equipos y medios de protección individual.</strong>
+        </p>
+        <p class="parrafo_2">Estarán de acuerdo con la normativa vigente y las necesidades de la instalación.</p>
+        <blockquote>
+          <p class="nota_pie">Se anula el inciso 4.2.c.2, en tanto que incluye a los Ingenieros Industriales, por Sentencia del TS de 17 de febrero de 2004. <a class="refPost">Ref. BOE-A-2004-6072</a></p>
+        </blockquote>
+      </version>
+      <version id_norma="BOE-A-2010-8190" fecha_publicacion="20100522" fecha_vigencia="20100523">
+        <p class="anexo_num">ITC-BT-03</p>
+        <p class="anexo_tit">EMPRESAS INSTALADORAS EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO</p>
+        <p class="parrafo">2. EMPRESA INSTALADORA EN BAJA TENSIÓN</p>
+        <p class="parrafo">3. CLASIFICACIÓN DE LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">3.1 Categoría básica (IBTB)</p>
+        <p class="parrafo">3.2 Categoría especialista (IBTE)</p>
+        <p class="parrafo_2">4. CERTIFICADO DE CUALIFICACIÓN INDIVIDUAL EN BAJA TENSIÓN</p>
+        <p class="parrafo">5. AUTORIZACIÓN COMO INSTALADOR EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">5.1 Requisitos</p>
+        <p class="parrafo_2">6. ACTUACIONES DE LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN EN COMUNIDADES AUTÓNOMAS DISTINTAS DE AQUELLA DONDE OBTUVIERON LA AUTORIZACIÓN</p>
+        <p class="parrafo">7. OBLIGACIONES DE LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN</p>
+        <p class="parrafo">APÉNDICE</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>OBJETO</strong>
+        </p>
+        <p class="parrafo_2">La presente instrucción técnica complementaria tiene por objeto desarrollar las previsiones del artículo 22 del Reglamento electrotécnico para baja tensión, aprobado por Real Decreto 842/2002, de 2 de agosto, estableciendo las condiciones y requisitos que deben observarse para la certificación de la competencia y para la habilitación como empresa instaladora en el ámbito de aplicación de dicho reglamento.</p>
+        <p class="parrafo_2">
+          <strong>2. EMPRESA INSTALADORA E INSTALADOR EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">2.1 Empresa instaladora en baja tensión es la persona física o jurídica que realiza, mantiene o repara las instalaciones eléctricas en el ámbito del Reglamento electrotécnico para baja tensión, aprobado por Real Decreto 842/2002, de 2 de agosto, y sus instrucciones técnicas complementarias, habiendo presentado la correspondiente declaración responsable de inicio de actividad según lo prescrito en esta Instrucción Técnica Complementaria.</p>
+        <p class="parrafo">2.2 Instalador en baja tensión es la persona física que tiene conocimientos para desempeñar alguna de las actividades correspondientes a las categorías indicadas en el apartado 3 de esta Instrucción Técnica Complementaria cumpliendo lo establecido en el apartado 4 de esta Instrucción Técnica Complementaria BT-03.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>CLASIFICACIÓN DE LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">Las Empresas instaladoras en Baja Tensión se clasifican en las siguientes categorías:</p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Categoría básica (IBTB).</strong>
+        </p>
+        <p class="parrafo_2">Los instaladores de esta categoría podrán realizar, mantener y reparar las instalaciones eléctricas para baja tensión en edificios, industrias, infraestructuras y, en general, todas las comprendidas en el ámbito del presente Reglamento Electrotécnico para Baja Tensión, que no se reserven a la categoría especialista (IBTE).</p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Categoría especialista (IBTE).</strong>
+        </p>
+        <p class="parrafo_2">Los instaladores y empresas instaladoras de la categoría especialista podrán realizar, mantener y reparar las instalaciones de la categoría Básica y, además, las correspondientes a:</p>
+        <p class="parrafo_2">– Sistemas de automatización, gestión técnica de la energía y seguridad para viviendas y edificios;</p>
+        <p class="parrafo">– sistemas de control distribuido;</p>
+        <p class="parrafo">– sistemas de supervisión, control y adquisición de datos;</p>
+        <p class="parrafo">– control de procesos;</p>
+        <p class="parrafo">– líneas aéreas o subterráneas para distribución de energía;</p>
+        <p class="parrafo">– locales con riesgo de incendio o explosión;</p>
+        <p class="parrafo">– quirófanos y salas de intervención;</p>
+        <p class="parrafo">– lámparas de descarga en alta tensión, rótulos luminosos y similares;</p>
+        <p class="parrafo">– instalaciones generadoras de baja tensión;</p>
+        <p class="parrafo_2">que estén contenidas en el ámbito del presente Reglamento Electrotécnico para Baja Tensión y sus Instrucciones Técnicas complementarias.</p>
+        <p class="parrafo_2">
+          <strong>4. INSTALADOR EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">El instalador en baja tensión deberá desarrollar su actividad en el seno de una empresa instaladora de baja tensión habilitada y deberá cumplir y poder acreditar ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control, una de las siguientes situaciones:</p>
+        <p class="parrafo_2">a) Disponer de un título universitario cuyo plan de estudios cubra las materias objeto del Reglamento electrotécnico para baja tensión, aprobado por el 842/2002, de 2 de agosto, y de sus Instrucciones Técnicas Complementarias.</p>
+        <p class="parrafo">b) Disponer de un título de formación profesional o de un certificado de profesionalidad incluido en el Catálogo Nacional de Cualificaciones Profesionales, cuyo ámbito competencial coincida con las materias objeto del Reglamento electrotécnico para baja tensión, aprobado por el 842/2002, de 2 de agosto, y de sus ITCs.</p>
+        <p class="parrafo">c) Tener reconocida una competencia profesional adquirida por experiencia laboral, de acuerdo con lo estipulado en el Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, en las materias objeto del Reglamento electrotécnico para baja tensión, aprobado por el 842/2002, de 2 de agosto, y de sus Instrucciones Técnicas Complementarias.</p>
+        <p class="parrafo_2">
+          <strong>5. HABILITACIÓN DE EMPRESAS INSTALADORAS DE BAJA TENSIÓN</strong>
+        </p>
+        <p class="parrafo_2">5.1 Antes de comenzar sus actividades como empresas instaladoras en baja tensión, las personas físicas o jurídicas que deseen establecerse en España deberán presentar ante el órgano competente de la comunidad autónoma en la que se establezcan una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare para qué categoría, y en su caso, modalidad, va a desempeñar la actividad, que cumple los requisitos que se exigen por esta Instrucción Técnica Complementaria, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establecen en el Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y sus respectivas instrucciones técnicas complementarias.</p>
+        <p class="parrafo">5.2 Las empresas instaladoras en baja tensión legalmente establecidos para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español, deberán presentar, previo al inicio de la misma, ante el órgano competente de la comunidad autónoma donde deseen comenzar su actividad, una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare para qué categoría, y en su caso, modalidad, va a desempeñar la actividad, que cumple los requisitos que se exigen por esta Instrucción Técnica Complementaria, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establecen en el Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y sus respectivas instrucciones técnicas complementarias.</p>
+        <p class="parrafo">Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 1837/2008, de 8 de noviembre, por el que se incorporan al ordenamiento jurídico español la Directiva 2005/36/CE, del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, y la Directiva 2006/100/CE, del Consejo, de 20 de noviembre de 2006, relativas al reconocimiento de cualificaciones profesionales así como a determinados aspectos del ejercicio de la profesión de abogado. La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del Real Decreto 1837/2008, de 8 de noviembre.</p>
+        <p class="parrafo">5.3 Las comunidades autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.</p>
+        <p class="parrafo">No se podrá exigir la presentación de documentación acreditativa del cumplimiento de los requisitos junto con la declaración responsable. No obstante, esta documentación deberá estar disponible para su presentación inmediata ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control.</p>
+        <p class="parrafo">5.4 El órgano competente de la comunidad autónoma, asignará, de oficio, un número de identificación a la empresa y remitirá los datos necesarios para su inclusión en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y en su normativa reglamentaria de desarrollo.</p>
+        <p class="parrafo">5.5 De acuerdo con la Ley 21/1992, de 16 de julio, de Industria, la declaración responsable habilita por tiempo indefinido a la empresa instaladora, desde el momento de su presentación ante la Administración competente, para el ejercicio de la actividad en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.</p>
+        <p class="parrafo">5.6 Al amparo de lo previsto en el apartado 3 del artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la Administración competente podrá regular un procedimiento para comprobar a posteriori lo declarado por el interesado.</p>
+        <p class="parrafo">En todo caso, la no presentación de la declaración, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones que deban figurar en dicha declaración habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare la imposibilidad de seguir ejerciendo la actividad y, si procede, se inhabilite temporalmente para el ejercicio de la actividad sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas.</p>
+        <p class="parrafo">5.7 Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria, así como el cese de las actividades, deberá ser comunicado por el interesado al órgano competente de la comunidad autónoma donde presentó la declaración responsable en el plazo de un mes.</p>
+        <p class="parrafo">5.8 Las empresas instaladoras cumplirán lo siguiente:</p>
+        <p class="parrafo_2">a) Disponer de la documentación que identifique a la empresa instaladora, que en el caso de persona jurídica deberá estar constituida legalmente.</p>
+        <p class="parrafo">b) Contar con los medios técnicos y humanos mínimos necesarios para realizar sus actividades en condiciones de seguridad, que se determinan en el Apéndice de esta Instrucción Técnica Complementaria, para las respectivas categorías.</p>
+        <p class="parrafo">c) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio por una cuantía mínima de 600.000 euros para la categoría básica y de 900.000 euros para la categoría especialista. Estas cuantías mínimas se actualizarán por orden del Ministro de Industria, Turismo y Comercio, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.</p>
+        <p class="parrafo_2">5.9 La empresa instaladora habilitada no podrá facilitar, ceder o enajenar certificados de instalación no realizadas por ella misma.</p>
+        <p class="parrafo">5.10 El incumplimiento de los requisitos exigidos, verificado por la autoridad competente y declarado mediante resolución motivada, conllevará el cese de la actividad, salvo que pueda incoarse un expediente de subsanación de errores, sin perjuicio de las sanciones que pudieran derivarse de la gravedad de las actuaciones realizadas.</p>
+        <p class="parrafo">La autoridad competente, en este caso, abrirá un expediente informativo al titular de la instalación, que tendrá quince días naturales a partir de la comunicación para aportar las evidencias o descargos correspondientes.</p>
+        <p class="parrafo">5.11 El órgano competente de la comunidad autónoma dará traslado inmediato al Ministerio de Industria, Turismo y Comercio de la inhabilitación temporal, las modificaciones y el cese de la actividad a los que se refieren los apartados precedentes para la actualización de los datos en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, tal y como lo establece su normativa reglamentaria de desarrollo.</p>
+        <p class="parrafo_2">
+          <strong>6. (Suprimido)</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>7.</strong>
+          <strong>OBLIGACIONES DE LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">Las Empresas Instaladoras en Baja Tensión deben, en sus respectivas categorías:</p>
+        <p class="parrafo_2">a) Ejecutar, modificar, ampliar, mantener o reparar las instalaciones que les sean adjudicadas o confiadas, de conformidad con la normativa vigente y con la documentación de diseño de la instalación, utilizando, en su caso, materiales y equipos que sean conformes a la legislación que les sea aplicable.</p>
+        <p class="parrafo">b) Efectuar las pruebas y ensayos reglamentarios que les sean atribuidos.</p>
+        <p class="parrafo">c) Realizar las operaciones de revisión y mantenimiento que tengan encomendadas, en la forma y plazos previstos.</p>
+        <p class="parrafo">d) Emitir los certificados de instalación o mantenimiento, en su caso.</p>
+        <p class="parrafo">e) Coordinar, en su caso, con la empresa suministradora y con los usuarios las operaciones que impliquen interrupción del suministro.</p>
+        <p class="parrafo">f) Notificar a la Administración competente los posibles incumplimientos reglamentarios de materiales o instalaciones, que observasen en el desempeño de su actividad. En caso de peligro manifiesto, darán cuenta inmediata de ello a los usuarios y, en su caso, a la empresa suministradora, y pondrá la circunstancia en conocimiento del Órgano competente de la Comunidad Autónoma en el plazo máximo de 24 horas.</p>
+        <p class="parrafo">g) Asistir a las inspecciones establecidas por el Reglamento, o las realizadas de oficio por la Administración, si fuera requerido por el procedimiento.</p>
+        <p class="parrafo">h) Mantener al día un registro de las instalaciones ejecutadas o mantenidas.</p>
+        <p class="parrafo">i) Informar a la Administración competente sobre los accidentes ocurridos en las instalaciones a su cargo.</p>
+        <p class="parrafo">j) Conservar a disposición de la Administración, copia de los contratos de mantenimiento al menos durante los 5 años inmediatos posteriores a la finalización de los mismos.</p>
+        <p class="centro_negrita">Apéndice</p>
+        <p class="centro_redonda">MEDIOS MÍNIMOS, TÉCNICOS Y HUMANOS, REQUERIDOS PARA LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">
+          <strong>1. Medios humanos</strong>
+        </p>
+        <p class="parrafo_2">Personal contratado que realice la actividad en condiciones de seguridad, con un mínimo de un instalador para las instalaciones de cada una de las respectivas categorías, o una misma persona si ésta reúne los respectivos requisitos.</p>
+        <p class="parrafo_2">
+          <strong>2. Medios técnicos</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1 Categoría Básica</strong>
+        </p>
+        <p class="parrafo_2">2.1.1 <strong>(Suprimido)</strong></p>
+        <p class="parrafo_2">2.1.2 Equipos:</p>
+        <p class="parrafo_2">– Telurómetro;</p>
+        <p class="parrafo">– Medidor de aislamiento, según ITC MIE-BT 19;</p>
+        <p class="parrafo">– Multímetro o tenaza, para las siguientes magnitudes:</p>
+        <p class="parrafo_2">Tensión alterna y continua hasta 500 V;</p>
+        <p class="parrafo_2">Intensidad alterna y continua hasta 20 A;</p>
+        <p class="parrafo_2">Resistencia;</p>
+        <p class="parrafo_2">– Medidor de corrientes de fuga, con resolución mejor o igual que 1 mA;</p>
+        <p class="parrafo">– Detector de tensión;</p>
+        <p class="parrafo">– Analizador registrador de potencia y energía para corriente alterna trifásica, con capacidad de medida de las siguientes magnitudes: potencia activa; tensión alterna; intensidad alterna; factor de potencia;</p>
+        <p class="parrafo">– Equipo verificador de la sensibilidad de disparo de los interruptores diferenciales, capaz de verificar la característica intensidad-tiempo;</p>
+        <p class="parrafo">– Equipo verificador de la continuidad de conductores;</p>
+        <p class="parrafo">– Medidor de impedancia de bucle, con sistema de medición independiente o con compensación del valor de la resistencia de los cables de prueba y con una resolución mejor o igual que 0,1 Ω;</p>
+        <p class="parrafo">– Herramientas comunes y equipo auxiliar;</p>
+        <p class="parrafo">– Luxómetro con rango de medida adecuado para el alumbrado de emergencia</p>
+        <p class="parrafo_2">
+          <strong>2.2. Categoría Especialista</strong>
+        </p>
+        <p class="parrafo_2">Además de los medios anteriores, deberán contar con los siguientes, según proceda:</p>
+        <p class="parrafo_2">– Analizador de redes, de armónicos y de perturbaciones de red;</p>
+        <p class="parrafo">– electrodos para la medida del aislamiento de los suelos;</p>
+        <p class="parrafo">– aparato comprobador del dispositivo de vigilancia del nivel de aislamiento de los quirófanos;</p>
+        <p class="parrafo_2">
+          <strong>2.3 Herramientas, equipos y medios de protección individual.</strong>
+        </p>
+        <p class="parrafo_2">Estarán de acuerdo con la normativa vigente y las necesidades de la instalación.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica y se sustituye la expresión "instalador/es autorizado/s" por "empresa/s instaladora/s" por el art. 7, apartados 1 y 7 a 14 del Real Decreto 560/2010, de 7 de mayo. <a class="refPost">Ref. BOE-A-2010-8190#aseptimo</a></p>
+          <p class="nota_pie_2">Redactado conforme a la correcciones de errores publicadas en BOE núms. 149, de 19 de junio <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9716" target="_blank">Ref. BOE-A-2010-9716</a>. y 207, de 26 de agosto de 2010 <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2010-13429" target="_blank">Ref. BOE-A-2010-13429</a>.</p>
+          <p class="nota_pie">Se anula el inciso 4.2.c.2, en tanto que incluye a los Ingenieros Industriales, por Sentencia del TS de 17 de febrero de 2004. <a class="refPost">Ref. BOE-A-2004-6072</a></p>
+        </blockquote>
+      </version>
+      <version id_norma="BOE-A-2021-6879" fecha_publicacion="20210428" fecha_vigencia="20210701">
+        <p class="anexo_num">ITC-BT-03</p>
+        <p class="anexo_tit">EMPRESAS INSTALADORAS EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO</p>
+        <p class="parrafo">2. EMPRESA INSTALADORA EN BAJA TENSIÓN</p>
+        <p class="parrafo">3. CLASIFICACIÓN DE LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">3.1 Categoría básica (IBTB)</p>
+        <p class="parrafo">3.2 Categoría especialista (IBTE)</p>
+        <p class="parrafo_2">4. CERTIFICADO DE CUALIFICACIÓN INDIVIDUAL EN BAJA TENSIÓN</p>
+        <p class="parrafo">5. AUTORIZACIÓN COMO INSTALADOR EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">5.1 Requisitos</p>
+        <p class="parrafo_2">6. ACTUACIONES DE LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN EN COMUNIDADES AUTÓNOMAS DISTINTAS DE AQUELLA DONDE OBTUVIERON LA AUTORIZACIÓN</p>
+        <p class="parrafo">7. OBLIGACIONES DE LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN</p>
+        <p class="parrafo">APÉNDICE I</p>
+        <p class="parrafo">APÉNDICE II</p>
+        <p class="parrafo_2">
+          <strong>1. OBJETO</strong>
+        </p>
+        <p class="parrafo_2">La presente instrucción técnica complementaria tiene por objeto desarrollar las previsiones del artículo 22 del Reglamento electrotécnico para baja tensión, aprobado por Real Decreto 842/2002, de 2 de agosto, estableciendo las condiciones y requisitos que deben observarse para la certificación de la competencia y para la habilitación como empresa instaladora en el ámbito de aplicación de dicho reglamento.</p>
+        <p class="parrafo_2">
+          <strong>2. EMPRESA INSTALADORA E INSTALADOR EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">2.1 Empresa instaladora en baja tensión es la persona física o jurídica que realiza, mantiene o repara las instalaciones eléctricas en el ámbito del Reglamento electrotécnico para baja tensión, aprobado por Real Decreto 842/2002, de 2 de agosto, y sus instrucciones técnicas complementarias, habiendo presentado la correspondiente declaración responsable de inicio de actividad según lo prescrito en esta Instrucción Técnica Complementaria.</p>
+        <p class="parrafo">2.2 Instalador en baja tensión es la persona física que tiene conocimientos para desempeñar alguna de las actividades correspondientes a las categorías indicadas en el apartado 3 de esta Instrucción Técnica Complementaria cumpliendo lo establecido en el apartado 4 de esta Instrucción Técnica Complementaria BT-03.</p>
+        <p class="parrafo_2">
+          <strong>3. CLASIFICACIÓN DE LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">Las Empresas instaladoras en Baja Tensión se clasifican en las siguientes categorías:</p>
+        <p class="parrafo_2">3.1 Categoría básica (IBTB).–Las empresas instaladoras de esta categoría podrán realizar, mantener y reparar las instalaciones eléctricas para baja tensión en edificios, industrias, infraestructuras y, en general, todas las comprendidas en el ámbito del presente Reglamento Electrotécnico para Baja Tensión, que no se reserven a la categoría especialista (IBTE).</p>
+        <p class="parrafo">3.2 Categoría especialista (IBTE).–Las empresas instaladoras de la categoría especialista podrán realizar, mantener y reparar las instalaciones de la categoría Básica y, además, las correspondientes a:</p>
+        <p class="parrafo">− Sistemas de automatización, gestión técnica de la energía y seguridad para viviendas y edificios;</p>
+        <p class="parrafo">− Sistemas de control distribuido;</p>
+        <p class="parrafo">− Sistemas de supervisión, control y adquisición de datos;</p>
+        <p class="parrafo">− Control de procesos;</p>
+        <p class="parrafo">− Líneas aéreas o subterráneas para distribución de energía;</p>
+        <p class="parrafo">− Locales con riesgo de incendio o explosión;</p>
+        <p class="parrafo">− Quirófanos y salas de intervención;</p>
+        <p class="parrafo">− Lámparas de descarga en alta tensión, rótulos luminosos y similares;</p>
+        <p class="parrafo">− Instalaciones generadoras de baja tensión de potencia superior o igual a 10 kW; que estén contenidas en el ámbito del presente Reglamento electrotécnico para baja tensión y sus instrucciones técnicas complementarias.</p>
+        <p class="parrafo_2">La categoría especialista para las cuatro primeras modalidades de instalaciones (sistemas de automatización, gestión técnica de la energía y seguridad para viviendas y edificios; sistemas de control distribuido; sistemas de supervisión, control y adquisición de datos; y control de procesos) es única.</p>
+        <p class="parrafo_2">
+          <strong>4. INSTALADOR EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">El instalador en baja tensión deberá desarrollar su actividad en el seno de una empresa instaladora de baja tensión habilitada y deberá cumplir y poder acreditar ante la Administración competente cuando esta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control, una de las siguientes situaciones:</p>
+        <p class="parrafo_2">a) Disponer de un título universitario cuyo ámbito competencial, atribuciones legales o plan de estudios cubra las materias objeto del Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y de sus instrucciones técnicas complementarias.</p>
+        <p class="parrafo">b) Disponer de un título de formación profesional o de un certificado de profesionalidad incluido en el Repertorio Nacional de Certificados de Profesionalidad, cuyo ámbito competencial incluya las materias objeto del Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y de sus instrucciones técnicas complementarias.</p>
+        <p class="parrafo">c) Tener reconocida una competencia profesional adquirida por experiencia laboral, de acuerdo con lo estipulado en el Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, en las materias objeto del Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y de sus instrucciones técnicas complementarias.</p>
+        <p class="parrafo">d) Tener reconocida la cualificación profesional de instalador en baja tensión adquirida en otro u otros Estados miembros de la Unión Europea, de acuerdo con lo establecido en el Real Decreto 581/2017, de 9 de junio, por el que se incorpora al ordenamiento jurídico español la Directiva 2013/55/UE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2013, por la que se modifica la Directiva 2005/36/CE relativa al reconocimiento de cualificaciones profesionales y el Reglamento (UE) n.º 1024/2012 relativo a la cooperación administrativa a través del Sistema de Información del Mercado Interior (Reglamento IMI).</p>
+        <p class="parrafo">e) Poseer una certificación otorgada por entidad acreditada para la certificación de personas por ENAC o cualquier otro Organismo Nacional de Acreditación designado de acuerdo a lo establecido en el Reglamento (CE) n.º 765/2008 del Parlamento Europeo y del Consejo, de 9 de julio de 2008, por el que se establecen los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos y por el que se deroga el Reglamento (CEE) n.º 339/93, de acuerdo a la norma UNE-EN ISO/IEC 17024.</p>
+        <p class="parrafo_2">Todas las entidades acreditadas para la certificación de personas que quieran otorgar estas certificaciones deberán incluir en su esquema de certificación un sistema de evaluación que incluya los contenidos mínimos que se indican en el Apéndice II de esta instrucción técnica complementaria.</p>
+        <p class="parrafo">Cualquiera de las situaciones o titulaciones previstas (título universitario, título de formación profesional o certificado de profesionalidad, experiencia laboral reconocida o certificación otorgada por entidad acreditada) son válidas indistintamente para las distintas categorías de instalador de baja tensión, en función de los conocimientos acreditados.</p>
+        <p class="parrafo">De acuerdo con la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, el personal habilitado por una Comunidad Autónoma podrá ejecutar esta actividad dentro de una empresa instaladora en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.</p>
+        <p class="parrafo_2">
+          <strong>5. HABILITACIÓN DE EMPRESAS INSTALADORAS DE BAJA TENSIÓN</strong>
+        </p>
+        <p class="parrafo_2">5.1 Antes de comenzar sus actividades como empresas instaladoras en baja tensión, las personas físicas o jurídicas que deseen establecerse en España deberán presentar ante el órgano competente de la comunidad autónoma en la que se establezcan una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare para qué categoría, y en su caso, modalidad, va a desempeñar la actividad, que cumple los requisitos que se exigen por esta Instrucción Técnica Complementaria, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establecen en el Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y sus respectivas instrucciones técnicas complementarias.</p>
+        <p class="parrafo">5.2 Las empresas instaladoras en baja tensión legalmente establecidos para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español, deberán presentar, previo al inicio de la misma, ante el órgano competente de la comunidad autónoma donde deseen comenzar su actividad, una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare para qué categoría, y en su caso, modalidad, va a desempeñar la actividad, que cumple los requisitos que se exigen por esta instrucción técnica complementaria, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establecen en el Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y sus respectivas instrucciones técnicas complementarias.</p>
+        <p class="parrafo">Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 581/2017, de 9 de junio. La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del citado real decreto.</p>
+        <p class="parrafo">5.3 Las comunidades autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.</p>
+        <p class="parrafo">No se podrá exigir la presentación de documentación acreditativa del cumplimiento de los requisitos junto con la declaración responsable. No obstante, esta documentación deberá estar disponible para su presentación inmediata ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control.</p>
+        <p class="parrafo">5.4 El órgano competente de la comunidad autónoma, asignará, de oficio, un número de identificación a la empresa y remitirá los datos necesarios para su inclusión en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y en su normativa reglamentaria de desarrollo.</p>
+        <p class="parrafo">5.5 De acuerdo con la Ley 21/1992, de 16 de julio, de Industria, la declaración responsable habilita por tiempo indefinido a la empresa instaladora, desde el momento de su presentación ante la Administración competente, para el ejercicio de la actividad en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.</p>
+        <p class="parrafo">5.6 Al amparo de lo previsto en el apartado 3 del artículo 69 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración competente podrá regular un procedimiento para comprobar a posteriori lo declarado por el interesado.</p>
+        <p class="parrafo">En todo caso, la no presentación de la declaración, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones que deban figurar en dicha declaración habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare la imposibilidad de seguir ejerciendo la actividad, sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas, y de la aplicación del régimen sancionador previsto en la Ley 21/1992, de 16 de julio, de Industria.</p>
+        <p class="parrafo">5.7 Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria, así como el cese de las actividades, deberá ser comunicado por el interesado al órgano competente de la comunidad autónoma donde presentó la declaración responsable en el plazo de un mes.</p>
+        <p class="parrafo">5.8 Las empresas instaladoras cumplirán lo siguiente:</p>
+        <p class="parrafo_2">a) Disponer de la documentación que identifique a la empresa instaladora, que en el caso de persona jurídica deberá estar constituida legalmente.</p>
+        <p class="parrafo">b) Contar con los medios técnicos y humanos necesarios para realizar su actividad en condiciones de seguridad, que, como mínimo serán los que se determinan en el Apéndice I de esta instrucción técnica complementaria.</p>
+        <p class="parrafo">c) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio por una cuantía mínima de 600.000 euros por siniestro para la categoría básica y de 900.000 euros por siniestro para la categoría especialista. Estas cuantías mínimas se actualizarán por orden de la persona titular del Ministerio de Industria, Comercio y Turismo, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.</p>
+        <p class="parrafo_2">5.9 La empresa instaladora habilitada no podrá facilitar, ceder o enajenar certificados de instalación no realizadas por ella misma.</p>
+        <p class="parrafo">5.10 El incumplimiento de los requisitos exigidos, verificado por la autoridad competente y declarado mediante resolución motivada, conllevará el cese de la actividad, salvo que pueda incoarse un expediente de subsanación de errores, sin perjuicio de las sanciones que pudieran derivarse de la gravedad de las actuaciones realizadas.</p>
+        <p class="parrafo">La autoridad competente, en este caso, abrirá un expediente informativo al titular de la instalación, que tendrá quince días naturales a partir de la comunicación para aportar las evidencias o descargos correspondientes.</p>
+        <p class="parrafo">5.11 El órgano competente de la comunidad autónoma dará traslado inmediato al Ministerio de Industria, Turismo y Comercio de la inhabilitación temporal, las modificaciones y el cese de la actividad a los que se refieren los apartados precedentes para la actualización de los datos en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, tal y como lo establece su normativa reglamentaria de desarrollo.</p>
+        <p class="parrafo_2">
+          <strong>6. (Suprimido)</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>7. OBLIGACIONES DE LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">Las Empresas Instaladoras en Baja Tensión deben, en sus respectivas categorías:</p>
+        <p class="parrafo_2">a) Ejecutar, modificar, ampliar, mantener o reparar las instalaciones que les sean adjudicadas o confiadas, de conformidad con la normativa vigente y con la documentación de diseño de la instalación, utilizando, en su caso, materiales y equipos que sean conformes a la legislación que les sea aplicable.</p>
+        <p class="parrafo">b) Efectuar las pruebas y ensayos reglamentarios que les sean atribuidos.</p>
+        <p class="parrafo">c) Realizar las operaciones de revisión y mantenimiento que tengan encomendadas, en la forma y plazos previstos.</p>
+        <p class="parrafo">d) Emitir los certificados de instalación o mantenimiento, en su caso.</p>
+        <p class="parrafo">e) Coordinar, en su caso, con la empresa suministradora y con los usuarios las operaciones que impliquen interrupción del suministro.</p>
+        <p class="parrafo">f) Notificar a la Administración competente los posibles incumplimientos reglamentarios de materiales o instalaciones, que observasen en el desempeño de su actividad. En caso de peligro manifiesto, darán cuenta inmediata de ello a los usuarios y, en su caso, a la empresa suministradora, y pondrá la circunstancia en conocimiento del Órgano competente de la Comunidad Autónoma en el plazo máximo de 24 horas.</p>
+        <p class="parrafo">g) Asistir a las inspecciones establecidas por el Reglamento, o las realizadas de oficio por la Administración, si fuera requerido por el procedimiento.</p>
+        <p class="parrafo">h) Mantener al día un registro de las instalaciones ejecutadas o mantenidas.</p>
+        <p class="parrafo">i) Informar a la Administración competente sobre los accidentes ocurridos en las instalaciones a su cargo.</p>
+        <p class="parrafo">j) Conservar a disposición de la Administración, copia de los contratos de mantenimiento al menos durante los 5 años inmediatos posteriores a la finalización de los mismos.</p>
+        <p class="centro_negrita">APÉNDICE I</p>
+        <p class="centro_redonda">MEDIOS MÍNIMOS, TÉCNICOS Y HUMANOS, REQUERIDOS PARA LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">
+          <strong>1. Medios humanos</strong>
+        </p>
+        <p class="parrafo_2">Contar con el personal necesario para realizar la actividad en condiciones de seguridad, en número suficiente para atender las instalaciones que tengan contratadas con un mínimo de un instalador en baja tensión de la misma categoría en la que la empresa se encuentra habilitada, contratado en plantilla a jornada completa (salvo que se acredite que el horario de apertura de la empresa es menor, en cuyo caso se admitirá que este esté contratado a tiempo parcial para prestar servicios durante un número de horas equivalente al horario durante el que la empresa desarrolle su actividad).</p>
+        <p class="parrafo">Se considerará que también queda satisfecho el requisito de contar con un profesional habilitado en plantilla si se cumple alguna de las siguientes condiciones:</p>
+        <p class="parrafo_2">1.ª En el caso de las personas jurídicas, la titularidad de la cualificación individual, la ostente uno de los socios de la organización, siempre que trabaje para la empresa a jornada completa, o durante el horario de apertura de la misma.</p>
+        <p class="parrafo">2.ª En el caso de que la empresa instaladora sea una persona física dada de alta en el régimen especial de trabajadores autónomos, si esta dispone de la habilitación como instalador en baja tensión.</p>
+        <p class="parrafo_2">La figura del instalador podrá ser sustituida por la de dos o más instaladores de la misma o mismas categorías, cuyos horarios laborales permitan cubrir la jornada completa o el horario de actividad de la empresa.</p>
+        <p class="parrafo_2">
+          <strong>2. Medios técnicos</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1 Categoría Básica</strong>
+        </p>
+        <p class="parrafo_2">2.1.1 <strong>(Suprimido)</strong></p>
+        <p class="parrafo_2">2.1.2 Equipos:</p>
+        <p class="parrafo_2">– Telurómetro;</p>
+        <p class="parrafo">– Medidor de aislamiento, según ITC MIE-BT 19;</p>
+        <p class="parrafo">– Multímetro o tenaza, para las siguientes magnitudes:</p>
+        <p class="parrafo_2">Tensión alterna y continua hasta 500 V;</p>
+        <p class="parrafo_2">Intensidad alterna y continua hasta 20 A;</p>
+        <p class="parrafo_2">Resistencia;</p>
+        <p class="parrafo_2">– Medidor de corrientes de fuga, con resolución mejor o igual que 1 mA;</p>
+        <p class="parrafo">– Detector de tensión;</p>
+        <p class="parrafo">– Analizador registrador de potencia y energía para corriente alterna trifásica, con capacidad de medida de las siguientes magnitudes: potencia activa; tensión alterna; intensidad alterna; factor de potencia;</p>
+        <p class="parrafo">– Equipo verificador de la sensibilidad de disparo de los interruptores diferenciales, capaz de verificar la característica intensidad-tiempo;</p>
+        <p class="parrafo">– Equipo verificador de la continuidad de conductores;</p>
+        <p class="parrafo">– Medidor de impedancia de bucle, con sistema de medición independiente o con compensación del valor de la resistencia de los cables de prueba y con una resolución mejor o igual que 0,1 Ω;</p>
+        <p class="parrafo">– Herramientas comunes y equipo auxiliar;</p>
+        <p class="parrafo">– Luxómetro con rango de medida adecuado para el alumbrado de emergencia</p>
+        <p class="parrafo_2">
+          <strong>2.2. Categoría Especialista</strong>
+        </p>
+        <p class="parrafo_2">Además de los medios anteriores, deberán contar con los siguientes, según proceda:</p>
+        <p class="parrafo_2">– Analizador de redes, de armónicos y de perturbaciones de red;</p>
+        <p class="parrafo">– electrodos para la medida del aislamiento de los suelos;</p>
+        <p class="parrafo">– aparato comprobador del dispositivo de vigilancia del nivel de aislamiento de los quirófanos;</p>
+        <p class="parrafo_2">
+          <strong>2.3 Herramientas, equipos y medios de protección individual.</strong>
+        </p>
+        <p class="parrafo_2">Estarán de acuerdo con la normativa vigente y las necesidades de la instalación.</p>
+        <p class="centro_negrita">APÉNDICE II</p>
+        <p class="anexo_tit">Conocimientos mínimos necesarios para Instaladores en Baja Tensión</p>
+        <p class="centro_cursiva">I. Instalador Categoría Básica</p>
+        <p class="centro_redonda">A) Conocimientos teóricos</p>
+        <p class="parrafo_2">Unidad temática 1: Fundamentos de las Instalaciones Eléctricas.</p>
+        <p class="parrafo_2">1. Conceptos básicos de electrotecnia:</p>
+        <p class="parrafo_2">1.1 Corriente alterna y corriente continua.</p>
+        <p class="parrafo">1.2 Sistemas trifásicos y monofásic<em>os.</em></p>
+        <p class="parrafo">1.3 Componentes de las instalaciones eléctricas.</p>
+        <p class="parrafo">1.4 Cables y conductores.</p>
+        <p class="parrafo">1.5 Aparamenta de protección.</p>
+        <p class="parrafo">1.6 Receptores y máquinas eléctricas: motores y transformadores.</p>
+        <p class="parrafo_2">2. Calculo eléctrico de las líneas de BT:</p>
+        <p class="parrafo_2">2.1 Criterio de capacidad térmica.</p>
+        <p class="parrafo">2.2 Criterio de caída de tensión.</p>
+        <p class="parrafo">2.3 Criterio de corriente de cortocircuito.</p>
+        <p class="parrafo">2.4 Líneas abiertas y cerradas; líneas de sección uniforme y no uniforme.</p>
+        <p class="parrafo_2">3. Reglamentación de las instalaciones eléctricas: REBT y sus ITC:</p>
+        <p class="parrafo_2">3.1 Instaladores de Baja Tensión (ITC-BT-03).</p>
+        <p class="parrafo">3.2 Documentación de las instalaciones (ITC-BT-04).</p>
+        <p class="parrafo">3.3 Puesta en servicio.</p>
+        <p class="parrafo">3.4 Verificaciones e inspecciones (ITC-BT-05).</p>
+        <p class="parrafo_2">4. Normativa internacional de instalaciones eléctricas de baja tensión.</p>
+        <p class="parrafo_2">Unidad temática 2: Instalaciones de Enlace.</p>
+        <p class="parrafo_2">1. Previsión de cargas para suministros de BT (ITC-BT-10).</p>
+        <p class="parrafo">2. Esquemas de las instalaciones de enlace (ITC-BT-12).</p>
+        <p class="parrafo">3. Partes constituyentes de las instalaciones de enlace:</p>
+        <p class="parrafo_2">3.1 Cajas Generales de Protección (CGP) (ITC-BT-13).</p>
+        <p class="parrafo">3.2 Línea General de Alimentación (LGA) (ITC-BT-14).</p>
+        <p class="parrafo">3.3 Centralizaciones de Contadores (CC) (ITC-BT-16).</p>
+        <p class="parrafo">3.4 Derivaciones Individuales (DI) (ITC-BT-15).</p>
+        <p class="parrafo">3.5 Dispositivos Generales de Mando y Protección (DGMP) (ITC-BT-17).</p>
+        <p class="parrafo_2">4. Cálculo y Montaje de las instalaciones de enlace:</p>
+        <p class="parrafo_2">4.1 Caídas de tensión.</p>
+        <p class="parrafo">4.2 Sistemas de instalación: tubos y canalizaciones (ITC-BT-20; ITC-BT-21).</p>
+        <p class="parrafo">4.3 Tipos y emplazamiento de los cuadros eléctricos.</p>
+        <p class="parrafo">4.4 Simbología, planos y esquemas eléctricos de las instalaciones.</p>
+        <p class="parrafo_2">Unidad temática 3: Instalaciones Interiores o Receptoras.</p>
+        <p class="parrafo_2">1. Prescripciones generales para las instalaciones interiores (ITC-BT-19).</p>
+        <p class="parrafo">2. Instalaciones en viviendas y edificios de viviendas (ITC-BT-25):</p>
+        <p class="parrafo_2">2.1 Grados de electrificación, número de circuitos y características.</p>
+        <p class="parrafo">2.2 Tomas de tierra y protección contra los contactos indirectos (ITC-BT-26).</p>
+        <p class="parrafo">2.3 Instalaciones en locales que contienen una bañera o ducha (ITC-BT-27).</p>
+        <p class="parrafo">2.4 Instalaciones comunes de edificios de viviendas.</p>
+        <p class="parrafo">2.5 Dimensionamiento de tubos y canalizaciones.</p>
+        <p class="parrafo_2">3. Instalaciones en edificios comerciales, oficinas e industrias:</p>
+        <p class="parrafo_2">3.1 Carga total correspondiente edificios comerciales, oficinas e industrias.</p>
+        <p class="parrafo">3.2 Distribución de la electrificación en el edificio. Equilibrado de cargas.</p>
+        <p class="parrafo">3.3 Conductores, circuitos y secciones.</p>
+        <p class="parrafo_2">4. Instalaciones en garajes y desclasificación de los garajes.</p>
+        <p class="parrafo_2">Unidad temática 4: Protecciones de las instalaciones.</p>
+        <p class="parrafo_2">1. Sistemas de conexión del neutro y de las masas en las instalaciones de distribución en BT (ITC-BT-08).</p>
+        <p class="parrafo">2. Instalaciones de puesta a tierra (ITC-BT-18).</p>
+        <p class="parrafo">3. Protección contra los choques eléctricos-contactos directos e indirectos (ITC-BT-24).</p>
+        <p class="parrafo">4. Protección contra las sobreintensidades-sobrecargas y cortocircuitos (ITC-BT-23).</p>
+        <p class="parrafo">5. Protección contra las sobretensiones (ITC-BT-22).</p>
+        <p class="parrafo_2">Unidad temática 5: Instalaciones con características especiales.</p>
+        <p class="parrafo_2">1. Instalaciones de alumbrado exterior (ITC-BT-09):</p>
+        <p class="parrafo_2">1.1 Introducción a los conceptos luminotécnicos y al REEAE.</p>
+        <p class="parrafo">1.2 Cálculos eléctricos de alumbrado.</p>
+        <p class="parrafo">1.3 Cálculos luminotécnicos básicos.</p>
+        <p class="parrafo_2">2. Instalaciones en locales de pública concurrencia (ITC-BT-28):</p>
+        <p class="parrafo_2">2.1 Suministros complementarios.</p>
+        <p class="parrafo">2.2 Alumbrado de emergencia.</p>
+        <p class="parrafo_2">3. Instalaciones de infraestructura para la recarga del vehículo eléctrico (ITC-BT-52):</p>
+        <p class="parrafo_2">3.1 Esquemas de conexión.</p>
+        <p class="parrafo">3.2 Previsión de cargas.</p>
+        <p class="parrafo">3.3 Requisitos generales y medidas de protección.</p>
+        <p class="parrafo">3.4 Tipos de conexión y modos de carga del VE.</p>
+        <p class="parrafo_2">4. Instalaciones en locales de características especiales (ITC-BT-30):</p>
+        <p class="parrafo_2">4.1 Locales húmedos.</p>
+        <p class="parrafo">4.2 Locales mojados.</p>
+        <p class="parrafo">4.3 Otros locales de características especiales.</p>
+        <p class="parrafo_2">5. Instalaciones de piscinas y fuentes (ITC-BT-31).</p>
+        <p class="parrafo">6. Instalaciones a muy baja tensión y a tensiones especiales (ITC-BT-36; ITC-BT-37).</p>
+        <p class="parrafo">7. Instalaciones de máquinas de elevación y transporte (ITC-BT-32).</p>
+        <p class="parrafo">8. Instalaciones provisionales y temporales de obras (ITC-BT-33).</p>
+        <p class="parrafo">9. Instalaciones de ferias y stands (ITC-BT-34).</p>
+        <p class="parrafo">10. Instalaciones de establecimientos agrícolas y hortícolas (ITC-BT-35).</p>
+        <p class="parrafo">11. Instalaciones de cercas eléctricas para ganado (ITC-BT-39).</p>
+        <p class="parrafo">12. Instalaciones en caravanas y parques de caravanas (ITC-BT-41).</p>
+        <p class="parrafo">13. Instalaciones en puertos y marinas para barcos de recreo (ITC-BT-42).</p>
+        <p class="parrafo">14. Instalaciones en locales con radiadores para saunas (ITC-BT-50).</p>
+        <p class="parrafo">15. Instalaciones eléctricas en muebles (ITC-BT-49).</p>
+        <p class="parrafo_2">Unidad temática 6: Instalación de Receptores.</p>
+        <p class="parrafo_2">1. Prescripciones generales para la instalación de receptores (ITC-BT-43).</p>
+        <p class="parrafo">2. Receptores de alumbrado (ITC-BT-44).</p>
+        <p class="parrafo">3. Aparatos de caldeo (ITC-BT-45).</p>
+        <p class="parrafo">4. Cables y folios radiantes en viviendas (ITC-BT-46).</p>
+        <p class="parrafo">5. Motores, transformadores, reactancias y condensadores (ITC-BT-47; ITC-BT-48).</p>
+        <p class="parrafo_2">Unidad temática 7: Instalaciones generadoras de baja tensión de potencia inferior A 10 kW. (ITC BT-40)</p>
+        <p class="parrafo_2">1. Tipos y clasificación.</p>
+        <p class="parrafo">2. Montaje y mantenimiento.</p>
+        <p class="parrafo">3. Sistemas antivertido para instalaciones sin excedentes.</p>
+        <p class="parrafo">4. Condiciones generales y particulares para la conexión:</p>
+        <p class="parrafo_2">4.1 Instalaciones aisladas.</p>
+        <p class="parrafo">4.2 Instalaciones asistidas.</p>
+        <p class="parrafo">4.3 Instalaciones interconectadas.</p>
+        <p class="parrafo_2">5. Protecciones e instalaciones de puesta a tierra.</p>
+        <p class="centro_redonda">B) Conocimientos prácticos</p>
+        <p class="parrafo_2">1. Montaje y puesta en servicio de instalaciones de baja tensión que estén comprendidas en el ámbito de este reglamento y que no se reserven a la categoría de especialista.</p>
+        <p class="parrafo">2. Verificación, mantenimiento y reparación de instalaciones de baja tensión que estén comprendidas en el ámbito de este reglamento y que no se reserven a la categoría de especialista:</p>
+        <p class="parrafo_2">2.1 Verificación inicial de instalaciones, en función de sus características, y de acuerdo a la normativa vigente.</p>
+        <p class="parrafo">2.2 Mantenimiento y reparación de instalaciones.</p>
+        <p class="parrafo">2.3 Mantenimiento o reparación de la aparamenta de protección, control, seccionamiento o conexión.</p>
+        <p class="parrafo_2">3. Manejo aparatos de medida y herramientas:</p>
+        <p class="parrafo_2">3.1 Herramientas utilizadas en instalaciones eléctricas de baja tensión: tipos y manejo.</p>
+        <p class="parrafo">3.2 Manejo de aparatos de medida de magnitudes eléctricas.</p>
+        <p class="centro_cursiva">II. Instalador Categoría Especialista</p>
+        <p class="parrafo_2">Además de los conocimientos teóricos y prácticos indicados para la categoría básica, el instalador de categoría especialista, para cada especialidad, deberá tener los siguientes conocimientos:</p>
+        <p class="centro_redonda">A) Conocimientos teóricos</p>
+        <p class="parrafo_2">Unidad temática 1 (Especialista): Líneas de distribución en B.T.</p>
+        <p class="parrafo_2">1. Tipos de redes de distribución: radiales, en anillo.</p>
+        <p class="parrafo">2. Líneas aéreas (ITC-BT-06):</p>
+        <p class="parrafo_2">2.1 Componentes: Conductores aislados y desnudos, Apoyos, aisladores y herrajes, accesorios de sujeción.</p>
+        <p class="parrafo">2.2 Cálculo mecánico de las líneas: conductores y apoyos.</p>
+        <p class="parrafo">2.3 Intensidades admisibles en régimen permanente y en cortocircuito.</p>
+        <p class="parrafo_2">3. Líneas subterráneas (ITC-BT-07):</p>
+        <p class="parrafo_2">3.1 Cables aislados.</p>
+        <p class="parrafo">3.2 Intensidades admisibles en régimen permanente y en cortocircuito: factores de corrección por tipo de instalación.</p>
+        <p class="parrafo_2">4. Acometidas (ITC-BT-11).</p>
+        <p class="parrafo">5. Normas particulares de las empresas distribuidoras.</p>
+        <p class="parrafo_2">Unidad temática 2 (Especialista): Sistemas de automatización (ITC-BT-51).</p>
+        <p class="parrafo_2">1. Automatismos eléctricos:</p>
+        <p class="parrafo_2">1.1 Elementos que componen las instalaciones: sensores, actuadores, dispositivos de control y elementos auxiliares. Tipos y características.</p>
+        <p class="parrafo">1.2 Cuadros eléctricos.</p>
+        <p class="parrafo">1.3 Simbología normalizada en las instalaciones.</p>
+        <p class="parrafo">1.4 Planos y esquemas eléctricos normalizados. Tipología.</p>
+        <p class="parrafo_2">2. Instalaciones automatizadas:</p>
+        <p class="parrafo_2">2.1 Tipos de sensores. Características y aplicaciones.</p>
+        <p class="parrafo">2.2 Actuadores: relés, contactores, solenoides, electroválvulas (entre otros).</p>
+        <p class="parrafo">2.3 Control de potencia: arranque de motores (monofásicos y trifásicos, entre otros).</p>
+        <p class="parrafo">2.4 Protecciones contra cortocircuitos, derivaciones y sobrecargas.</p>
+        <p class="parrafo">2.5 Arrancadores estáticos y variadores de velocidad electrónicos.</p>
+        <p class="parrafo">2.6 Controladores programables. Autómatas.</p>
+        <p class="parrafo">2.7 Programas de control. Programación.</p>
+        <p class="parrafo_2">Unidad temática 3 (Especialista): Instalaciones en locales con riesgo de incendio y explosión (ITC-BT-29).</p>
+        <p class="parrafo_2">1. Clasificación de emplazamientos y Modos de protección.</p>
+        <p class="parrafo">2. Condiciones de la instalación para todas las zonas peligrosas.</p>
+        <p class="parrafo">3. Criterios de selección de material.</p>
+        <p class="parrafo_2">Unidad temática 4 (Especialista): Instalaciones en quirófanos y salas de intervención (ITC-BT-38).</p>
+        <p class="parrafo_2">1. Medidas de protección.</p>
+        <p class="parrafo">2. Puesta a tierra y equipontecialidad.</p>
+        <p class="parrafo">3. Alimentación con transformador de aislamiento.</p>
+        <p class="parrafo">4. Protección diferencial y contra sobreintensidades.</p>
+        <p class="parrafo">5. Suministros complementarios.</p>
+        <p class="parrafo">6. Riesgo de incendio y explosión.</p>
+        <p class="parrafo">7. Control y mantenimiento.</p>
+        <p class="parrafo">8. Cuadros de distribución y receptores especiales.</p>
+        <p class="parrafo_2">Unidad temática 5 (Especialista): Instalaciones generadoras de baja tensión de potencia superior o igual a 10 kW (ITC-BT-40).</p>
+        <p class="parrafo_2">1. Tipos y clasificación.</p>
+        <p class="parrafo">2. Condiciones generales y particulares para la conexión:</p>
+        <p class="parrafo_2">2.1 Instalaciones aisladas.</p>
+        <p class="parrafo">2.2 Instalaciones asistidas.</p>
+        <p class="parrafo">2.3 Instalaciones interconectadas.</p>
+        <p class="parrafo_2">3. Protecciones e instalaciones de puesta a tierra.</p>
+        <p class="parrafo_2">Unidad temática 6 (Especialista): Instalaciones de lámparas de descarga en alta tensión y rótulos luminosos (ITC-BT-44).</p>
+        <p class="parrafo_2">1. Rótulos y tubos luminosos alimentados entre 1 kV y 10 kV: Reglas de instalación, envolventes, soportes.</p>
+        <p class="parrafo">2. Protección contra los contactos indirectos, protección contra fugas y apertura de circuitos.</p>
+        <p class="parrafo">3. Transformadores, convertidores e inversores.</p>
+        <p class="centro_redonda">B) Conocimientos prácticos</p>
+        <p class="parrafo_2">1. Montaje y puesta en servicio de instalaciones de baja tensión que estén comprendidas en el ámbito de este reglamento y que estén reservadas a la categoría de especialista.</p>
+        <p class="parrafo">2. Verificación, mantenimiento y reparación de instalaciones de baja tensión que estén comprendidas en el ámbito de este reglamento y que estén reservadas a la categoría de especialista:</p>
+        <p class="parrafo_2">2.1 Verificación inicial de instalaciones, en función de sus características, y de acuerdo a la normativa vigente.</p>
+        <p class="parrafo">2.2 Mantenimiento y reparación de instalaciones.</p>
+        <p class="parrafo">2.3 Mantenimiento o reparación de la aparamenta de protección, control, seccionamiento o conexión.</p>
+        <p class="parrafo_2">3. Adicionalmente, para cada categoría especialista:</p>
+        <p class="parrafo_2">3.1 Unidad temática 1: Líneas de distribución en B.T.</p>
+        <p class="parrafo_2">3.1.1 Ejecución de las instalaciones aéreas: Conductores aislados y desnudos; distancias de separación; Cruzamientos, proximidades y paralelismos.</p>
+        <p class="parrafo">3.1.2 Ejecución de las instalaciones subterráneas: tipos de instalación y condiciones para cruzamientos, paralelismos y proximidades.</p>
+        <p class="parrafo_2">3.2 Unidad temática 2: Sistemas de automatización.</p>
+        <p class="parrafo_2">3.2.1 Sistemas de automatización, gestión técnica de la energía y seguridad para viviendas y edificios.</p>
+        <p class="parrafo">3.2.2 Sistemas de control distribuido.</p>
+        <p class="parrafo">3.2.3 Instalación y programación de sistemas de supervisión, control y adquisición de datos.</p>
+        <p class="parrafo">3.2.4 Control de procesos.</p>
+        <p class="parrafo_2">3.3 Unidad temática 3: Instalaciones en locales con riesgo de incendio y explosión.</p>
+        <p class="parrafo_2">3.3.1 Selección de material para trabajar en ambientes clasificados.</p>
+        <p class="parrafo">3.3.2 Instalaciones de estaciones de servicio, garajes y talleres de reparación.</p>
+        <p class="parrafo_2">3.4 Unidad temática 4: Instalaciones en quirófanos y salas de intervención.</p>
+        <p class="parrafo_2">3.4.1 Selección de material para trabajar en ambientes clasificados.</p>
+        <p class="parrafo">3.4.2 Instalación de receptores especiales.</p>
+        <p class="parrafo_2">3.5 Unidad temática 5: Instalaciones generadoras de baja tensión de potencia superior o igual a 10 kW.</p>
+        <p class="parrafo_2">3.5.1 Ejecución de las distintas instalaciones de autoconsumo.</p>
+        <p class="parrafo">3.5.2 Instalación de sistemas antivertido para instalaciones sin excedentes.</p>
+        <p class="parrafo_2">3.6 Unidad temática 6: Instalaciones de lámparas de descarga en alta tensión y rótulos luminosos.</p>
+        <p class="parrafo_2">3.6.1 Instalación de rótulos y tubos luminosos alimentados entre 1 kV y 10 kV.</p>
+        <p class="parrafo">3.6.2 Protecciones contra fugas.</p>
+        <blockquote caduca="20210701" class="soloTexto">
+          <p class="parrafo">Téngase en cuenta que las modificaciones establecidas en los los apartados 3, 4, 5, apendice I y el apendice II, añadido por el art. 1.2 a 8 del Real Decreto 298/2021, de 27 de abril. <a class="refPost">Ref. BOE-A-2021-6879#ap</a> entran en vigor el 1 de julio de 2021, según determina su disposición final 2.</p>
+        </blockquote>
+        <blockquote>
+          <p class="nota_pie">Se modifican, con efectos de 1 de julio de 2021, los apartados 3, 4, 5, apendice I y se añade el apendice II por el art. 1.2 a 8 del Real Decreto 298/2021, de 27 de abril. <a class="refPost">Ref. BOE-A-2021-6879#ap</a></p>
+          <p class="nota_pie_2">Téngase en cuenta, para las empresas previamente habilitadas, la disposición transitoria única del citado Real Decreto.</p>
+          <p class="nota_pie">Se modifica y se sustituye la expresión "instalador/es autorizado/s" por "empresa/s instaladora/s" por el art. 7, apartados 1 y 7 a 14 del Real Decreto 560/2010, de 7 de mayo. <a class="refPost">Ref. BOE-A-2010-8190#aseptimo</a></p>
+          <p class="nota_pie_2">Redactado conforme a la correcciones de errores publicadas en BOE núms. 149, de 19 de junio <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9716" target="_blank">Ref. BOE-A-2010-9716</a>. y 207, de 26 de agosto de 2010 <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2010-13429" target="_blank">Ref. BOE-A-2010-13429</a>.</p>
+          <p class="nota_pie">Se anula el inciso 4.2.c.2, en tanto que incluye a los Ingenieros Industriales, por Sentencia del TS de 17 de febrero de 2004. <a class="refPost">Ref. BOE-A-2004-6072</a></p>
+        </blockquote>
+      </version>
+      <version id_norma="BOE-A-2025-17507" fecha_publicacion="20250903" fecha_vigencia="20250904">
+        <p class="anexo_num">ITC-BT-03</p>
+        <p class="anexo_tit">EMPRESAS INSTALADORAS EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO</p>
+        <p class="parrafo">2. EMPRESA INSTALADORA EN BAJA TENSIÓN</p>
+        <p class="parrafo">3. CLASIFICACIÓN DE LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">3.1 Categoría básica (IBTB)</p>
+        <p class="parrafo">3.2 Categoría especialista (IBTE)</p>
+        <p class="parrafo_2">4. CERTIFICADO DE CUALIFICACIÓN INDIVIDUAL EN BAJA TENSIÓN</p>
+        <p class="parrafo">5. AUTORIZACIÓN COMO INSTALADOR EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">5.1 Requisitos</p>
+        <p class="parrafo_2">6. ACTUACIONES DE LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN EN COMUNIDADES AUTÓNOMAS DISTINTAS DE AQUELLA DONDE OBTUVIERON LA AUTORIZACIÓN</p>
+        <p class="parrafo">7. OBLIGACIONES DE LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN</p>
+        <p class="parrafo">APÉNDICE I</p>
+        <p class="parrafo">APÉNDICE II</p>
+        <p class="parrafo_2">
+          <strong>1. OBJETO</strong>
+        </p>
+        <p class="parrafo_2">La presente instrucción técnica complementaria tiene por objeto desarrollar las previsiones del artículo 22 del Reglamento electrotécnico para baja tensión, aprobado por Real Decreto 842/2002, de 2 de agosto, estableciendo las condiciones y requisitos que deben observarse para la certificación de la competencia y para la habilitación como empresa instaladora en el ámbito de aplicación de dicho reglamento.</p>
+        <p class="parrafo_2">
+          <strong>2. EMPRESA INSTALADORA E INSTALADOR EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">2.1 Empresa instaladora en baja tensión es la persona física o jurídica que realiza, mantiene o repara las instalaciones eléctricas en el ámbito del Reglamento electrotécnico para baja tensión, aprobado por Real Decreto 842/2002, de 2 de agosto, y sus instrucciones técnicas complementarias, habiendo presentado la correspondiente declaración responsable de inicio de actividad según lo prescrito en esta Instrucción Técnica Complementaria.</p>
+        <p class="parrafo">2.2 Instalador en baja tensión es la persona física que tiene conocimientos para desempeñar alguna de las actividades correspondientes a las categorías indicadas en el apartado 3 de esta Instrucción Técnica Complementaria cumpliendo lo establecido en el apartado 4 de esta Instrucción Técnica Complementaria BT-03.</p>
+        <p class="parrafo_2">
+          <strong>3. CLASIFICACIÓN DE LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">Las Empresas instaladoras en Baja Tensión se clasifican en las siguientes categorías:</p>
+        <p class="parrafo_2">3.1 Categoría básica (IBTB).–Las empresas instaladoras de esta categoría podrán realizar, mantener y reparar las instalaciones eléctricas para baja tensión en edificios, industrias, infraestructuras y, en general, todas las comprendidas en el ámbito del presente Reglamento Electrotécnico para Baja Tensión, que no se reserven a la categoría especialista (IBTE).</p>
+        <p class="parrafo">3.2 Categoría especialista (IBTE).–Las empresas instaladoras de la categoría especialista podrán realizar, mantener y reparar las instalaciones de la categoría Básica y, además, las correspondientes a:</p>
+        <p class="parrafo">− Sistemas de automatización, gestión técnica de la energía y seguridad para viviendas y edificios;</p>
+        <p class="parrafo">− Sistemas de control distribuido;</p>
+        <p class="parrafo">− Sistemas de supervisión, control y adquisición de datos;</p>
+        <p class="parrafo">− Control de procesos;</p>
+        <p class="parrafo">− Líneas aéreas o subterráneas para distribución de energía;</p>
+        <p class="parrafo">− Locales con riesgo de incendio o explosión;</p>
+        <p class="parrafo">− Quirófanos y salas de intervención;</p>
+        <p class="parrafo">− Lámparas de descarga en alta tensión, rótulos luminosos y similares;</p>
+        <p class="parrafo">− Instalaciones generadoras de baja tensión de potencia superior o igual a 10 kW; que estén contenidas en el ámbito del presente Reglamento electrotécnico para baja tensión y sus instrucciones técnicas complementarias.</p>
+        <p class="parrafo_2">La categoría especialista para las cuatro primeras modalidades de instalaciones (sistemas de automatización, gestión técnica de la energía y seguridad para viviendas y edificios; sistemas de control distribuido; sistemas de supervisión, control y adquisición de datos; y control de procesos) es única.</p>
+        <p class="parrafo_2">
+          <strong>4. INSTALADOR EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">El instalador en baja tensión deberá desarrollar su actividad en el seno de una empresa instaladora de baja tensión habilitada y deberá cumplir y poder acreditar ante la Administración competente cuando esta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control, una de las siguientes situaciones:</p>
+        <p class="parrafo_2">a) Disponer de un título universitario cuyo ámbito competencial, atribuciones legales o plan de estudios cubra las materias objeto del Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y de sus instrucciones técnicas complementarias.</p>
+        <p class="parrafo">b) Disponer de un título de formación profesional o de un certificado de profesionalidad incluido en el Repertorio Nacional de Certificados de Profesionalidad, cuyo ámbito competencial incluya las materias objeto del Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y de sus instrucciones técnicas complementarias.</p>
+        <p class="parrafo">c) Tener reconocida una competencia profesional adquirida por experiencia laboral, de acuerdo con lo estipulado en el Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, en las materias objeto del Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y de sus instrucciones técnicas complementarias.</p>
+        <p class="parrafo">d) Tener reconocida la cualificación profesional de instalador en baja tensión adquirida en otro u otros Estados miembros de la Unión Europea, de acuerdo con lo establecido en el Real Decreto 581/2017, de 9 de junio, por el que se incorpora al ordenamiento jurídico español la Directiva 2013/55/UE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2013, por la que se modifica la Directiva 2005/36/CE relativa al reconocimiento de cualificaciones profesionales y el Reglamento (UE) n.º 1024/2012 relativo a la cooperación administrativa a través del Sistema de Información del Mercado Interior (Reglamento IMI).</p>
+        <p class="parrafo">e) Poseer una certificación otorgada por entidad acreditada para la certificación de personas por ENAC o cualquier otro Organismo Nacional de Acreditación designado de acuerdo a lo establecido en el Reglamento (CE) n.º 765/2008 del Parlamento Europeo y del Consejo, de 9 de julio de 2008, por el que se establecen los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos y por el que se deroga el Reglamento (CEE) n.º 339/93, de acuerdo a la norma UNE-EN ISO/IEC 17024.</p>
+        <p class="parrafo_2">Todas las entidades acreditadas para la certificación de personas que quieran otorgar estas certificaciones deberán incluir en su esquema de certificación un sistema de evaluación que incluya los contenidos mínimos que se indican en el Apéndice II de esta instrucción técnica complementaria.</p>
+        <p class="parrafo">Cualquiera de las situaciones o titulaciones previstas (título universitario, título de formación profesional o certificado de profesionalidad, experiencia laboral reconocida o certificación otorgada por entidad acreditada) son válidas indistintamente para las distintas categorías de instalador de baja tensión, en función de los conocimientos acreditados.</p>
+        <p class="parrafo">De acuerdo con la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, el personal habilitado por una Comunidad Autónoma podrá ejecutar esta actividad dentro de una empresa instaladora en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.</p>
+        <p class="parrafo_2">
+          <strong>5. HABILITACIÓN DE EMPRESAS INSTALADORAS DE BAJA TENSIÓN</strong>
+        </p>
+        <p class="parrafo_2">5.1 Antes de comenzar sus actividades como empresas instaladoras en baja tensión, las personas físicas o jurídicas que deseen establecerse en España deberán presentar ante el órgano competente de la comunidad autónoma en la que se establezcan una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare para qué categoría, y en su caso, modalidad, va a desempeñar la actividad, que cumple los requisitos que se exigen por esta Instrucción Técnica Complementaria, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establecen en el Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y sus respectivas instrucciones técnicas complementarias.</p>
+        <p class="parrafo">5.2 Las empresas instaladoras en baja tensión legalmente establecidos para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español, deberán presentar, previo al inicio de la misma, ante el órgano competente de la comunidad autónoma donde deseen comenzar su actividad, una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare para qué categoría, y en su caso, modalidad, va a desempeñar la actividad, que cumple los requisitos que se exigen por esta instrucción técnica complementaria, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establecen en el Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y sus respectivas instrucciones técnicas complementarias.</p>
+        <p class="parrafo">Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 581/2017, de 9 de junio. La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del citado real decreto.</p>
+        <p class="parrafo">5.3 Las comunidades autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.</p>
+        <p class="parrafo">No se podrá exigir la presentación de documentación acreditativa del cumplimiento de los requisitos junto con la declaración responsable. No obstante, esta documentación deberá estar disponible para su presentación inmediata ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control.</p>
+        <p class="parrafo">5.4 El órgano competente de la comunidad autónoma, asignará, de oficio, un número de identificación a la empresa y remitirá los datos necesarios para su inclusión en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y en su normativa reglamentaria de desarrollo.</p>
+        <p class="parrafo">5.5 De acuerdo con la Ley 21/1992, de 16 de julio, de Industria, la declaración responsable habilita por tiempo indefinido a la empresa instaladora, desde el momento de su presentación ante la Administración competente, para el ejercicio de la actividad en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.</p>
+        <p class="parrafo">5.6 Al amparo de lo previsto en el apartado 3 del artículo 69 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración competente podrá regular un procedimiento para comprobar a posteriori lo declarado por el interesado.</p>
+        <p class="parrafo">En todo caso, la no presentación de la declaración, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones que deban figurar en dicha declaración habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare la imposibilidad de seguir ejerciendo la actividad, sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas, y de la aplicación del régimen sancionador previsto en la Ley 21/1992, de 16 de julio, de Industria.</p>
+        <p class="parrafo">5.7 Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria, así como el cese de las actividades, deberá ser comunicado por el interesado al órgano competente de la comunidad autónoma donde presentó la declaración responsable en el plazo de un mes.</p>
+        <p class="parrafo">5.8 Las empresas instaladoras cumplirán lo siguiente:</p>
+        <p class="parrafo_2">a) Disponer de la documentación que identifique a la empresa instaladora, que en el caso de persona jurídica deberá estar constituida legalmente.</p>
+        <p class="parrafo">b) Contar con los medios técnicos y humanos necesarios para realizar su actividad en condiciones de seguridad, que, como mínimo serán los que se determinan en el Apéndice I de esta instrucción técnica complementaria.</p>
+        <p class="parrafo">c) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio por una cuantía mínima de 600.000 euros por siniestro para la categoría básica y de 900.000 euros por siniestro para la categoría especialista. Estas cuantías mínimas se actualizarán por orden de la persona titular del Ministerio de Industria, Comercio y Turismo, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.</p>
+        <p class="parrafo_2">5.9 La empresa instaladora habilitada no podrá facilitar, ceder o enajenar certificados de instalación no realizadas por ella misma.</p>
+        <p class="parrafo">5.10 El incumplimiento de los requisitos exigidos, verificado por la autoridad competente y declarado mediante resolución motivada, conllevará el cese de la actividad, salvo que pueda incoarse un expediente de subsanación de errores, sin perjuicio de las sanciones que pudieran derivarse de la gravedad de las actuaciones realizadas.</p>
+        <p class="parrafo">La autoridad competente, en este caso, abrirá un expediente informativo al titular de la instalación, que tendrá quince días naturales a partir de la comunicación para aportar las evidencias o descargos correspondientes.</p>
+        <p class="parrafo">5.11 El órgano competente de la comunidad autónoma dará traslado inmediato al Ministerio de Industria, Turismo y Comercio de la inhabilitación temporal, las modificaciones y el cese de la actividad a los que se refieren los apartados precedentes para la actualización de los datos en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, tal y como lo establece su normativa reglamentaria de desarrollo.</p>
+        <p class="parrafo_2">
+          <strong>6. (Suprimido)</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>7. OBLIGACIONES DE LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN.</strong>
+        </p>
+        <p class="parrafo_2">Las Empresas Instaladoras en Baja Tensión deben, en sus respectivas categorías:</p>
+        <p class="parrafo_2">a) Ejecutar, modificar, ampliar, mantener o reparar las instalaciones que les sean adjudicadas o confiadas, de conformidad con la normativa vigente y con la documentación de diseño de la instalación, utilizando, en su caso, materiales y equipos que sean conformes a la legislación que les sea aplicable.</p>
+        <p class="parrafo">b) Efectuar las pruebas y ensayos reglamentarios que les sean atribuidos.</p>
+        <p class="parrafo">c) Realizar las operaciones de revisión y mantenimiento que tengan encomendadas, en la forma y plazos previstos.</p>
+        <p class="parrafo">d) Emitir los certificados de instalación o mantenimiento, en su caso.</p>
+        <p class="parrafo">e) Coordinar, en su caso, con la empresa suministradora y con los usuarios las operaciones que impliquen interrupción del suministro.</p>
+        <p class="parrafo">f) Notificar a la Administración competente los posibles incumplimientos reglamentarios de materiales o instalaciones, que observasen en el desempeño de su actividad. En caso de peligro manifiesto, darán cuenta inmediata de ello a los usuarios y, en su caso, a la empresa suministradora, y pondrá la circunstancia en conocimiento del Órgano competente de la Comunidad Autónoma en el plazo máximo de 24 horas.</p>
+        <p class="parrafo">g) Asistir a las inspecciones establecidas por el Reglamento, o las realizadas de oficio por la Administración, si fuera requerido por el procedimiento.</p>
+        <p class="parrafo">h) Mantener al día un registro de las instalaciones ejecutadas o mantenidas.</p>
+        <p class="parrafo">i) Informar a la Administración competente sobre los accidentes ocurridos en las instalaciones a su cargo.</p>
+        <p class="parrafo">j) Conservar a disposición de la Administración, copia de los contratos de mantenimiento al menos durante los 5 años inmediatos posteriores a la finalización de los mismos.</p>
+        <p class="centro_negrita">APÉNDICE I</p>
+        <p class="centro_redonda">MEDIOS MÍNIMOS, TÉCNICOS Y HUMANOS, REQUERIDOS PARA LAS EMPRESAS INSTALADORAS EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">
+          <strong>1. Medios humanos</strong>
+        </p>
+        <p class="parrafo_2">Contar con el personal contratado necesario para realizar la actividad en condiciones de seguridad, en número suficiente y durante el tiempo necesario para atender las instalaciones que tengan contratadas, con un mínimo de una persona instaladora en baja tensión de la misma categoría en la que la empresa se encuentra habilitada.</p>
+        <p class="parrafo">Se entenderá satisfecho el requisito del párrafo anterior cuando el referido personal necesario para realizar la actividad esté contratado a través de cualquiera de las modalidades contractuales permitidas en derecho.</p>
+        <p class="parrafo_2">
+          <strong>2. Medios técnicos</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1 Categoría Básica</strong>
+        </p>
+        <p class="parrafo_2">2.1.1 <strong>(Suprimido)</strong></p>
+        <p class="parrafo_2">2.1.2 Equipos:</p>
+        <p class="parrafo_2">– Telurómetro;</p>
+        <p class="parrafo">– Medidor de aislamiento, según ITC MIE-BT 19;</p>
+        <p class="parrafo">– Multímetro o tenaza, para las siguientes magnitudes:</p>
+        <p class="parrafo_2">Tensión alterna y continua hasta 500 V;</p>
+        <p class="parrafo_2">Intensidad alterna y continua hasta 20 A;</p>
+        <p class="parrafo_2">Resistencia;</p>
+        <p class="parrafo_2">– Medidor de corrientes de fuga, con resolución mejor o igual que 1 mA;</p>
+        <p class="parrafo">– Detector de tensión;</p>
+        <p class="parrafo">– Analizador registrador de potencia y energía para corriente alterna trifásica, con capacidad de medida de las siguientes magnitudes: potencia activa; tensión alterna; intensidad alterna; factor de potencia;</p>
+        <p class="parrafo">– Equipo verificador de la sensibilidad de disparo de los interruptores diferenciales, capaz de verificar la característica intensidad-tiempo;</p>
+        <p class="parrafo">– Equipo verificador de la continuidad de conductores;</p>
+        <p class="parrafo">– Medidor de impedancia de bucle, con sistema de medición independiente o con compensación del valor de la resistencia de los cables de prueba y con una resolución mejor o igual que 0,1 Ω;</p>
+        <p class="parrafo">– Herramientas comunes y equipo auxiliar;</p>
+        <p class="parrafo">– Luxómetro con rango de medida adecuado para el alumbrado de emergencia</p>
+        <p class="parrafo_2">
+          <strong>2.2. Categoría Especialista</strong>
+        </p>
+        <p class="parrafo_2">Además de los medios anteriores, deberán contar con los siguientes, según proceda:</p>
+        <p class="parrafo_2">– Analizador de redes, de armónicos y de perturbaciones de red;</p>
+        <p class="parrafo">– electrodos para la medida del aislamiento de los suelos;</p>
+        <p class="parrafo">– aparato comprobador del dispositivo de vigilancia del nivel de aislamiento de los quirófanos;</p>
+        <p class="parrafo_2">
+          <strong>2.3 Herramientas, equipos y medios de protección individual.</strong>
+        </p>
+        <p class="parrafo_2">Estarán de acuerdo con la normativa vigente y las necesidades de la instalación.</p>
+        <p class="centro_negrita">APÉNDICE II</p>
+        <p class="anexo_tit">Conocimientos mínimos necesarios para Instaladores en Baja Tensión</p>
+        <p class="centro_cursiva">I. Instalador Categoría Básica</p>
+        <p class="centro_redonda">A) Conocimientos teóricos</p>
+        <p class="parrafo_2">Unidad temática 1: Fundamentos de las Instalaciones Eléctricas.</p>
+        <p class="parrafo_2">1. Conceptos básicos de electrotecnia:</p>
+        <p class="parrafo_2">1.1 Corriente alterna y corriente continua.</p>
+        <p class="parrafo">1.2 Sistemas trifásicos y monofásic<em>os.</em></p>
+        <p class="parrafo">1.3 Componentes de las instalaciones eléctricas.</p>
+        <p class="parrafo">1.4 Cables y conductores.</p>
+        <p class="parrafo">1.5 Aparamenta de protección.</p>
+        <p class="parrafo">1.6 Receptores y máquinas eléctricas: motores y transformadores.</p>
+        <p class="parrafo_2">2. Calculo eléctrico de las líneas de BT:</p>
+        <p class="parrafo_2">2.1 Criterio de capacidad térmica.</p>
+        <p class="parrafo">2.2 Criterio de caída de tensión.</p>
+        <p class="parrafo">2.3 Criterio de corriente de cortocircuito.</p>
+        <p class="parrafo">2.4 Líneas abiertas y cerradas; líneas de sección uniforme y no uniforme.</p>
+        <p class="parrafo_2">3. Reglamentación de las instalaciones eléctricas: REBT y sus ITC:</p>
+        <p class="parrafo_2">3.1 Instaladores de Baja Tensión (ITC-BT-03).</p>
+        <p class="parrafo">3.2 Documentación de las instalaciones (ITC-BT-04).</p>
+        <p class="parrafo">3.3 Puesta en servicio.</p>
+        <p class="parrafo">3.4 Verificaciones e inspecciones (ITC-BT-05).</p>
+        <p class="parrafo_2">4. Normativa internacional de instalaciones eléctricas de baja tensión.</p>
+        <p class="parrafo_2">Unidad temática 2: Instalaciones de Enlace.</p>
+        <p class="parrafo_2">1. Previsión de cargas para suministros de BT (ITC-BT-10).</p>
+        <p class="parrafo">2. Esquemas de las instalaciones de enlace (ITC-BT-12).</p>
+        <p class="parrafo">3. Partes constituyentes de las instalaciones de enlace:</p>
+        <p class="parrafo_2">3.1 Cajas Generales de Protección (CGP) (ITC-BT-13).</p>
+        <p class="parrafo">3.2 Línea General de Alimentación (LGA) (ITC-BT-14).</p>
+        <p class="parrafo">3.3 Centralizaciones de Contadores (CC) (ITC-BT-16).</p>
+        <p class="parrafo">3.4 Derivaciones Individuales (DI) (ITC-BT-15).</p>
+        <p class="parrafo">3.5 Dispositivos Generales de Mando y Protección (DGMP) (ITC-BT-17).</p>
+        <p class="parrafo_2">4. Cálculo y Montaje de las instalaciones de enlace:</p>
+        <p class="parrafo_2">4.1 Caídas de tensión.</p>
+        <p class="parrafo">4.2 Sistemas de instalación: tubos y canalizaciones (ITC-BT-20; ITC-BT-21).</p>
+        <p class="parrafo">4.3 Tipos y emplazamiento de los cuadros eléctricos.</p>
+        <p class="parrafo">4.4 Simbología, planos y esquemas eléctricos de las instalaciones.</p>
+        <p class="parrafo_2">Unidad temática 3: Instalaciones Interiores o Receptoras.</p>
+        <p class="parrafo_2">1. Prescripciones generales para las instalaciones interiores (ITC-BT-19).</p>
+        <p class="parrafo">2. Instalaciones en viviendas y edificios de viviendas (ITC-BT-25):</p>
+        <p class="parrafo_2">2.1 Grados de electrificación, número de circuitos y características.</p>
+        <p class="parrafo">2.2 Tomas de tierra y protección contra los contactos indirectos (ITC-BT-26).</p>
+        <p class="parrafo">2.3 Instalaciones en locales que contienen una bañera o ducha (ITC-BT-27).</p>
+        <p class="parrafo">2.4 Instalaciones comunes de edificios de viviendas.</p>
+        <p class="parrafo">2.5 Dimensionamiento de tubos y canalizaciones.</p>
+        <p class="parrafo_2">3. Instalaciones en edificios comerciales, oficinas e industrias:</p>
+        <p class="parrafo_2">3.1 Carga total correspondiente edificios comerciales, oficinas e industrias.</p>
+        <p class="parrafo">3.2 Distribución de la electrificación en el edificio. Equilibrado de cargas.</p>
+        <p class="parrafo">3.3 Conductores, circuitos y secciones.</p>
+        <p class="parrafo_2">4. Instalaciones en garajes y desclasificación de los garajes.</p>
+        <p class="parrafo_2">Unidad temática 4: Protecciones de las instalaciones.</p>
+        <p class="parrafo_2">1. Sistemas de conexión del neutro y de las masas en las instalaciones de distribución en BT (ITC-BT-08).</p>
+        <p class="parrafo">2. Instalaciones de puesta a tierra (ITC-BT-18).</p>
+        <p class="parrafo">3. Protección contra los choques eléctricos-contactos directos e indirectos (ITC-BT-24).</p>
+        <p class="parrafo">4. Protección contra las sobreintensidades-sobrecargas y cortocircuitos (ITC-BT-23).</p>
+        <p class="parrafo">5. Protección contra las sobretensiones (ITC-BT-22).</p>
+        <p class="parrafo_2">Unidad temática 5: Instalaciones con características especiales.</p>
+        <p class="parrafo_2">1. Instalaciones de alumbrado exterior (ITC-BT-09):</p>
+        <p class="parrafo_2">1.1 Introducción a los conceptos luminotécnicos y al REEAE.</p>
+        <p class="parrafo">1.2 Cálculos eléctricos de alumbrado.</p>
+        <p class="parrafo">1.3 Cálculos luminotécnicos básicos.</p>
+        <p class="parrafo_2">2. Instalaciones en locales de pública concurrencia (ITC-BT-28):</p>
+        <p class="parrafo_2">2.1 Suministros complementarios.</p>
+        <p class="parrafo">2.2 Alumbrado de emergencia.</p>
+        <p class="parrafo_2">3. Instalaciones de infraestructura para la recarga del vehículo eléctrico (ITC-BT-52):</p>
+        <p class="parrafo_2">3.1 Esquemas de conexión.</p>
+        <p class="parrafo">3.2 Previsión de cargas.</p>
+        <p class="parrafo">3.3 Requisitos generales y medidas de protección.</p>
+        <p class="parrafo">3.4 Tipos de conexión y modos de carga del VE.</p>
+        <p class="parrafo_2">4. Instalaciones en locales de características especiales (ITC-BT-30):</p>
+        <p class="parrafo_2">4.1 Locales húmedos.</p>
+        <p class="parrafo">4.2 Locales mojados.</p>
+        <p class="parrafo">4.3 Otros locales de características especiales.</p>
+        <p class="parrafo_2">5. Instalaciones de piscinas y fuentes (ITC-BT-31).</p>
+        <p class="parrafo">6. Instalaciones a muy baja tensión y a tensiones especiales (ITC-BT-36; ITC-BT-37).</p>
+        <p class="parrafo">7. Instalaciones de máquinas de elevación y transporte (ITC-BT-32).</p>
+        <p class="parrafo">8. Instalaciones provisionales y temporales de obras (ITC-BT-33).</p>
+        <p class="parrafo">9. Instalaciones de ferias y stands (ITC-BT-34).</p>
+        <p class="parrafo">10. Instalaciones de establecimientos agrícolas y hortícolas (ITC-BT-35).</p>
+        <p class="parrafo">11. Instalaciones de cercas eléctricas para ganado (ITC-BT-39).</p>
+        <p class="parrafo">12. Instalaciones en caravanas y parques de caravanas (ITC-BT-41).</p>
+        <p class="parrafo">13. Instalaciones en puertos y marinas para barcos de recreo (ITC-BT-42).</p>
+        <p class="parrafo">14. Instalaciones en locales con radiadores para saunas (ITC-BT-50).</p>
+        <p class="parrafo">15. Instalaciones eléctricas en muebles (ITC-BT-49).</p>
+        <p class="parrafo_2">Unidad temática 6: Instalación de Receptores.</p>
+        <p class="parrafo_2">1. Prescripciones generales para la instalación de receptores (ITC-BT-43).</p>
+        <p class="parrafo">2. Receptores de alumbrado (ITC-BT-44).</p>
+        <p class="parrafo">3. Aparatos de caldeo (ITC-BT-45).</p>
+        <p class="parrafo">4. Cables y folios radiantes en viviendas (ITC-BT-46).</p>
+        <p class="parrafo">5. Motores, transformadores, reactancias y condensadores (ITC-BT-47; ITC-BT-48).</p>
+        <p class="parrafo_2">Unidad temática 7: Instalaciones generadoras de baja tensión de potencia inferior A 10 kW. (ITC BT-40)</p>
+        <p class="parrafo_2">1. Tipos y clasificación.</p>
+        <p class="parrafo">2. Montaje y mantenimiento.</p>
+        <p class="parrafo">3. Sistemas antivertido para instalaciones sin excedentes.</p>
+        <p class="parrafo">4. Condiciones generales y particulares para la conexión:</p>
+        <p class="parrafo_2">4.1 Instalaciones aisladas.</p>
+        <p class="parrafo">4.2 Instalaciones asistidas.</p>
+        <p class="parrafo">4.3 Instalaciones interconectadas.</p>
+        <p class="parrafo_2">5. Protecciones e instalaciones de puesta a tierra.</p>
+        <p class="centro_redonda">B) Conocimientos prácticos</p>
+        <p class="parrafo_2">1. Montaje y puesta en servicio de instalaciones de baja tensión que estén comprendidas en el ámbito de este reglamento y que no se reserven a la categoría de especialista.</p>
+        <p class="parrafo">2. Verificación, mantenimiento y reparación de instalaciones de baja tensión que estén comprendidas en el ámbito de este reglamento y que no se reserven a la categoría de especialista:</p>
+        <p class="parrafo_2">2.1 Verificación inicial de instalaciones, en función de sus características, y de acuerdo a la normativa vigente.</p>
+        <p class="parrafo">2.2 Mantenimiento y reparación de instalaciones.</p>
+        <p class="parrafo">2.3 Mantenimiento o reparación de la aparamenta de protección, control, seccionamiento o conexión.</p>
+        <p class="parrafo_2">3. Manejo aparatos de medida y herramientas:</p>
+        <p class="parrafo_2">3.1 Herramientas utilizadas en instalaciones eléctricas de baja tensión: tipos y manejo.</p>
+        <p class="parrafo">3.2 Manejo de aparatos de medida de magnitudes eléctricas.</p>
+        <p class="centro_cursiva">II. Instalador Categoría Especialista</p>
+        <p class="parrafo_2">Además de los conocimientos teóricos y prácticos indicados para la categoría básica, el instalador de categoría especialista, para cada especialidad, deberá tener los siguientes conocimientos:</p>
+        <p class="centro_redonda">A) Conocimientos teóricos</p>
+        <p class="parrafo_2">Unidad temática 1 (Especialista): Líneas de distribución en B.T.</p>
+        <p class="parrafo_2">1. Tipos de redes de distribución: radiales, en anillo.</p>
+        <p class="parrafo">2. Líneas aéreas (ITC-BT-06):</p>
+        <p class="parrafo_2">2.1 Componentes: Conductores aislados y desnudos, Apoyos, aisladores y herrajes, accesorios de sujeción.</p>
+        <p class="parrafo">2.2 Cálculo mecánico de las líneas: conductores y apoyos.</p>
+        <p class="parrafo">2.3 Intensidades admisibles en régimen permanente y en cortocircuito.</p>
+        <p class="parrafo_2">3. Líneas subterráneas (ITC-BT-07):</p>
+        <p class="parrafo_2">3.1 Cables aislados.</p>
+        <p class="parrafo">3.2 Intensidades admisibles en régimen permanente y en cortocircuito: factores de corrección por tipo de instalación.</p>
+        <p class="parrafo_2">4. Acometidas (ITC-BT-11).</p>
+        <p class="parrafo">5. Normas particulares de las empresas distribuidoras.</p>
+        <p class="parrafo_2">Unidad temática 2 (Especialista): Sistemas de automatización (ITC-BT-51).</p>
+        <p class="parrafo_2">1. Automatismos eléctricos:</p>
+        <p class="parrafo_2">1.1 Elementos que componen las instalaciones: sensores, actuadores, dispositivos de control y elementos auxiliares. Tipos y características.</p>
+        <p class="parrafo">1.2 Cuadros eléctricos.</p>
+        <p class="parrafo">1.3 Simbología normalizada en las instalaciones.</p>
+        <p class="parrafo">1.4 Planos y esquemas eléctricos normalizados. Tipología.</p>
+        <p class="parrafo_2">2. Instalaciones automatizadas:</p>
+        <p class="parrafo_2">2.1 Tipos de sensores. Características y aplicaciones.</p>
+        <p class="parrafo">2.2 Actuadores: relés, contactores, solenoides, electroválvulas (entre otros).</p>
+        <p class="parrafo">2.3 Control de potencia: arranque de motores (monofásicos y trifásicos, entre otros).</p>
+        <p class="parrafo">2.4 Protecciones contra cortocircuitos, derivaciones y sobrecargas.</p>
+        <p class="parrafo">2.5 Arrancadores estáticos y variadores de velocidad electrónicos.</p>
+        <p class="parrafo">2.6 Controladores programables. Autómatas.</p>
+        <p class="parrafo">2.7 Programas de control. Programación.</p>
+        <p class="parrafo_2">Unidad temática 3 (Especialista): Instalaciones en locales con riesgo de incendio y explosión (ITC-BT-29).</p>
+        <p class="parrafo_2">1. Clasificación de emplazamientos y Modos de protección.</p>
+        <p class="parrafo">2. Condiciones de la instalación para todas las zonas peligrosas.</p>
+        <p class="parrafo">3. Criterios de selección de material.</p>
+        <p class="parrafo_2">Unidad temática 4 (Especialista): Instalaciones en quirófanos y salas de intervención (ITC-BT-38).</p>
+        <p class="parrafo_2">1. Medidas de protección.</p>
+        <p class="parrafo">2. Puesta a tierra y equipontecialidad.</p>
+        <p class="parrafo">3. Alimentación con transformador de aislamiento.</p>
+        <p class="parrafo">4. Protección diferencial y contra sobreintensidades.</p>
+        <p class="parrafo">5. Suministros complementarios.</p>
+        <p class="parrafo">6. Riesgo de incendio y explosión.</p>
+        <p class="parrafo">7. Control y mantenimiento.</p>
+        <p class="parrafo">8. Cuadros de distribución y receptores especiales.</p>
+        <p class="parrafo_2">Unidad temática 5 (Especialista): Instalaciones generadoras de baja tensión de potencia superior o igual a 10 kW (ITC-BT-40).</p>
+        <p class="parrafo_2">1. Tipos y clasificación.</p>
+        <p class="parrafo">2. Condiciones generales y particulares para la conexión:</p>
+        <p class="parrafo_2">2.1 Instalaciones aisladas.</p>
+        <p class="parrafo">2.2 Instalaciones asistidas.</p>
+        <p class="parrafo">2.3 Instalaciones interconectadas.</p>
+        <p class="parrafo_2">3. Protecciones e instalaciones de puesta a tierra.</p>
+        <p class="parrafo_2">Unidad temática 6 (Especialista): Instalaciones de lámparas de descarga en alta tensión y rótulos luminosos (ITC-BT-44).</p>
+        <p class="parrafo_2">1. Rótulos y tubos luminosos alimentados entre 1 kV y 10 kV: Reglas de instalación, envolventes, soportes.</p>
+        <p class="parrafo">2. Protección contra los contactos indirectos, protección contra fugas y apertura de circuitos.</p>
+        <p class="parrafo">3. Transformadores, convertidores e inversores.</p>
+        <p class="centro_redonda">B) Conocimientos prácticos</p>
+        <p class="parrafo_2">1. Montaje y puesta en servicio de instalaciones de baja tensión que estén comprendidas en el ámbito de este reglamento y que estén reservadas a la categoría de especialista.</p>
+        <p class="parrafo">2. Verificación, mantenimiento y reparación de instalaciones de baja tensión que estén comprendidas en el ámbito de este reglamento y que estén reservadas a la categoría de especialista:</p>
+        <p class="parrafo_2">2.1 Verificación inicial de instalaciones, en función de sus características, y de acuerdo a la normativa vigente.</p>
+        <p class="parrafo">2.2 Mantenimiento y reparación de instalaciones.</p>
+        <p class="parrafo">2.3 Mantenimiento o reparación de la aparamenta de protección, control, seccionamiento o conexión.</p>
+        <p class="parrafo_2">3. Adicionalmente, para cada categoría especialista:</p>
+        <p class="parrafo_2">3.1 Unidad temática 1: Líneas de distribución en B.T.</p>
+        <p class="parrafo_2">3.1.1 Ejecución de las instalaciones aéreas: Conductores aislados y desnudos; distancias de separación; Cruzamientos, proximidades y paralelismos.</p>
+        <p class="parrafo">3.1.2 Ejecución de las instalaciones subterráneas: tipos de instalación y condiciones para cruzamientos, paralelismos y proximidades.</p>
+        <p class="parrafo_2">3.2 Unidad temática 2: Sistemas de automatización.</p>
+        <p class="parrafo_2">3.2.1 Sistemas de automatización, gestión técnica de la energía y seguridad para viviendas y edificios.</p>
+        <p class="parrafo">3.2.2 Sistemas de control distribuido.</p>
+        <p class="parrafo">3.2.3 Instalación y programación de sistemas de supervisión, control y adquisición de datos.</p>
+        <p class="parrafo">3.2.4 Control de procesos.</p>
+        <p class="parrafo_2">3.3 Unidad temática 3: Instalaciones en locales con riesgo de incendio y explosión.</p>
+        <p class="parrafo_2">3.3.1 Selección de material para trabajar en ambientes clasificados.</p>
+        <p class="parrafo">3.3.2 Instalaciones de estaciones de servicio, garajes y talleres de reparación.</p>
+        <p class="parrafo_2">3.4 Unidad temática 4: Instalaciones en quirófanos y salas de intervención.</p>
+        <p class="parrafo_2">3.4.1 Selección de material para trabajar en ambientes clasificados.</p>
+        <p class="parrafo">3.4.2 Instalación de receptores especiales.</p>
+        <p class="parrafo_2">3.5 Unidad temática 5: Instalaciones generadoras de baja tensión de potencia superior o igual a 10 kW.</p>
+        <p class="parrafo_2">3.5.1 Ejecución de las distintas instalaciones de autoconsumo.</p>
+        <p class="parrafo">3.5.2 Instalación de sistemas antivertido para instalaciones sin excedentes.</p>
+        <p class="parrafo_2">3.6 Unidad temática 6: Instalaciones de lámparas de descarga en alta tensión y rótulos luminosos.</p>
+        <p class="parrafo_2">3.6.1 Instalación de rótulos y tubos luminosos alimentados entre 1 kV y 10 kV.</p>
+        <p class="parrafo">3.6.2 Protecciones contra fugas.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica el apartado 1 del apéndice I por el art. 1 del Real Decreto 770/2025, de 2 de septiembre. <a class="refPost">Ref. BOE-A-2025-17507</a></p>
+          <p class="nota_pie">Se modifican, con efectos de 1 de julio de 2021, los apartados 3, 4, 5, apendice I y se añade el apendice II por el art. 1.2 a 8 del Real Decreto 298/2021, de 27 de abril. <a class="refPost">Ref. BOE-A-2021-6879#ap</a></p>
+          <p class="nota_pie_2">Téngase en cuenta, para las empresas previamente habilitadas, la disposición transitoria única del citado Real Decreto.</p>
+          <p class="nota_pie">Se modifica y se sustituye la expresión "instalador/es autorizado/s" por "empresa/s instaladora/s" por el art. 7, apartados 1 y 7 a 14 del Real Decreto 560/2010, de 7 de mayo. <a class="refPost">Ref. BOE-A-2010-8190#aseptimo</a></p>
+          <p class="nota_pie_2">Redactado conforme a la correcciones de errores publicadas en BOE núms. 149, de 19 de junio <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9716" target="_blank">Ref. BOE-A-2010-9716</a>. y 207, de 26 de agosto de 2010 <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2010-13429" target="_blank">Ref. BOE-A-2010-13429</a>.</p>
+          <p class="nota_pie">Se anula el inciso 4.2.c.2, en tanto que incluye a los Ingenieros Industriales, por Sentencia del TS de 17 de febrero de 2004. <a class="refPost">Ref. BOE-A-2004-6072</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

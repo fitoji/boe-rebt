@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a2-5" tipo="precepto" titulo="Artículo 23">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 23. Cumplimiento de las prescripciones.</p>
+        <p class="parrafo">1.<em> </em>Se considerará que las instalaciones realizadas de conformidad con las prescripciones del presente Reglamento proporcionan las condiciones de seguridad que, de acuerdo con el estado de la técnica, son exigibles, a fin de preservar a las personas y los bienes, cuando se utilizan de acuerdo a su destino.</p>
+        <p class="parrafo">2. Las prescripciones establecidas en el presente Reglamento tendrán la condición de mínimos obligatorios, en el sentido de lo indicado por el artículo 12.5 de la Ley 21/1992, de Industria.</p>
+        <p class="parrafo">3. Se considerarán cubiertos tales mínimos:</p>
+        <p class="parrafo_2">a) Por aplicación directa de las prescripciones de las correspondientes ITC, o</p>
+        <p class="parrafo">b) Por aplicación de técnicas de seguridad equivalentes, siendo tales las que, sin ocasionar distorsiones en los sistemas de distribución de las compañías suministradoras, proporcionen, al menos, un nivel de seguridad equiparable a la anterior. La aplicación de técnicas de seguridad equivalentes deberá ser justificado debidamente por el diseñador de la instalación, y aprobada por el órgano competente de la Comunidad Autónoma.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

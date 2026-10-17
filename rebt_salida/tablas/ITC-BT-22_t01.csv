@@ -1,0 +1,25 @@
+Circuitos,3 F + N,,,,,,,,3 F,,,F + N,,2 F,
+Circuitos,SN ≥ SF,,,,SN < SF,,,,3 F,,,F + N,,2 F,
+Esquemas,F,F,F,N,F,F,F,N,F,F,F,F,N,F,F
+TN – C,P,P,P,-,P,P,P,"‒
+ 
+ _(1)",P,P,P,P,-,P,P
+TN – S,P,P,P,-,P,P,P,"P
+ 
+ _(3)(5)",P,P,P,P,-,P,P
+TT,P,P,P,-,P,P,P,"P
+ 
+ _(3)(5)",P,P,"P
+ 
+ _(2)(4)",P,-,P,"P
+ 
+ _(2)"
+IT,P,P,P,"P
+ 
+ _(3)(6)",P,P,P,"P
+ 
+ _(3)(6)",P,P,P,P,"P
+ 
+ _(6)(3)",P,"P
+ 
+ _(2)"

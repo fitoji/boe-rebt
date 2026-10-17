@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a4" tipo="precepto" titulo="Artículo 4">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 4. Clasificación de las tensiones. Frecuencia de las redes.</p>
+        <p class="parrafo">1.<em> </em>A efectos de aplicación de las prescripciones del presente Reglamento, las instalaciones eléctricas de baja tensión se clasifican, según las tensiones nominales que se les asignen, en la forma siguiente:</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla"> </p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Corriente alterna</p>
+                <p class="cabeza_tabla">(Valor eficaz)</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Corriente continua</p>
+                <p class="cabeza_tabla">(Valor medio aritmético)</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Muy baja tensión.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Un ≤ 50V</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Un ≤ 75V</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Tensión usual.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">50 &lt; Un ≤ 500V</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">75 &lt; Un ≤ 750V</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Tensión especial.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">500 &lt; Un ≤ 1000V</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">750 &lt; Un ≤ 1500V</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">2. Las tensiones nominales usualmente utilizadas en las distribuciones de corriente alterna serán:</p>
+        <p class="parrafo_2">a) 230 V entre fases para las redes trifásicas de tres conductores.</p>
+        <p class="parrafo">b) 230 V entre fase y neutro, y 400 V entre fases, para las redes trifásicas de 4 conductores,</p>
+        <p class="parrafo_2">3. Cuando en las instalaciones no pueda utilizarse alguna de las tensiones normalizadas en este Reglamento, porque deban conectarse a o derivar de otra instalación con tensión diferente, se condicionará su inscripción a que la nueva instalación pueda ser utilizada en el futuro con la tensión normalizada que pueda preverse.</p>
+        <p class="parrafo">4. La frecuencia empleada en la red será de 50 Hz.</p>
+        <p class="parrafo">5. Podrán utilizarse otras tensiones y frecuencias, previa autorización motivada del órgano competente de la Administración Pública, cuando se justifique ante el mismo su necesidad, no se produzcan perturbaciones significativas en el funcionamiento de otras instalaciones y no se menoscabe el nivel de seguridad para las personas y los bienes.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

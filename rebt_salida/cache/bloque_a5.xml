@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a5" tipo="precepto" titulo="Artículo 5">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 5. Perturbaciones en las redes.</p>
+        <p class="parrafo">Las instalaciones de baja tensión que pudieran producir perturbaciones sobre las telecomunicaciones, las redes de distribución de energía o los receptores, deberán estar dotadas de los adecuados dispositivos protectores, según se establece en las disposiciones vigentes relativas a esta materia.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a1-8" tipo="precepto" titulo="Artículo 16">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 16. Instalaciones interiores o receptoras.</p>
+        <p class="parrafo">1.<em> </em>Las instalaciones interiores o receptoras son las que, alimentadas por una red de distribución o por una fuente de energía propia, tienen como finalidad principal la utilización de la energía eléctrica. Dentro de este concepto hay que incluir cualquier instalación receptora aunque toda ella o alguna de sus partes esté situada a la intemperie.</p>
+        <p class="parrafo">2. En toda instalación interior o receptora que se proyecte y realice se alcanzará el máximo equilibrio en las cargas que soportan los distintos conductores que forman parte de la misma, y ésta se subdividirá deforma que las perturbaciones originadas por las averías que pudieran producirse en algún punto de ella afecten a una mínima parte de la instalación. Esta subdivisión deberá permitir también la localización de las averías y facilitar el control del aislamiento de la parte de la instalación afectada.</p>
+        <p class="parrafo">3. Los sistemas de protección para las instalaciones interiores o receptoras para baja tensión impedirán los efectos de las sobreintensidades y sobretensiones que por distintas causas cabe prever en las mismas y resguardarán a sus materiales y equipos de las acciones y efectos de los agentes externos. Asimismo, y a efectos de seguridad general, se determinarán las condiciones que deben cumplir dichas instalaciones para proteger de los contactos directos e indirectos.</p>
+        <p class="parrafo">4. En la utilización de la energía eléctrica para instalaciones receptoras se adoptarán las medidas de seguridad, tanto para la protección de los usuarios como para la de las redes, que resulten proporcionadas a las características y potencia de los aparatos receptores utilizados en las mismas.</p>
+        <p class="parrafo">5. Además de los preceptos que en virtud del presente y otros reglamentos sean de aplicación a los locales de pública concurrencia, deberán cumplirse medidas y previsiones específicas, en función del riesgo que implica en los mismos un funcionamiento defectuoso de la instalación eléctrica.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

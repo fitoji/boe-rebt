@@ -1,0 +1,6 @@
+Tipo de aislamiento,"Duración del cortocircuito, en segundos",,,,,,,,
+Tipo de aislamiento,0.1,0.2,0.3,0.5,1.0,1.5,2.0,2.5,3.0
+XLPE y EPR,294,203,170,132,93,76,66,59,54
+PVC,,,,,,,,,
+Sección ≤ 300 mm^2,237,168,137,106,75,61,53,47,43
+Sección > 300 mm^2,211,150,122,94,67,54,47,42,39

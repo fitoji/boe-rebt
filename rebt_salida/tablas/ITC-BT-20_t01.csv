@@ -1,0 +1,10 @@
+Conductores y cables,,Sistemas de instalación,,,,,,,
+Conductores y cables,,Sin fijación,Fijación directa,Tubos,Canales y molduras,Conductos de sección no circular,Bandejas de escalera Bandejas soportes,Sobre aisladores,Con fiador
+Conductores desnudos,,–,–,–,–,–,–,+,–
+Conductores aislados,,–,–,+,*,+,–,+,–
+Cables con cubierta,Multipolares,+,+,+,+,+,+,0,+
+Cables con cubierta,Unipolares,0,+,+,+,+,+,0,+
+"+: Admitido
+ –: No admitido
+ 0: No aplicable o no utilizado en la práctica
+ *: Se admiten conductores aislados si la tapa sólo puede abrirse con un útil o con una acción manual importante y la canal es IP 4X o IP XXD",,,,,,,,,

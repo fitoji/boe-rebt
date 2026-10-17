@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib" tipo="precepto" titulo="ITC-BT-01">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-01</p>
+        <p class="anexo_tit">TERMINOLOGÍA</p>
+        <p class="parrafo_2">
+          <strong>CONSIDERACIONES GENERALES:</strong>
+        </p>
+        <p class="parrafo_2">Las definiciones específicas de los términos utilizados en las ITC particulares pueden encontrarse en el texto de dichas ITC.</p>
+        <p class="parrafo">Para aquellos términos no definidos en la presente instrucción ni en las ITC particulares se aplicará lo dispuesto en la norma UNE 21.302</p>
+        <p class="centro_negrita">DEFINICIÓN</p>
+        <p class="parrafo_2">
+          <strong>AISLAMIENTO DE UN CABLE</strong>
+        </p>
+        <p class="parrafo_2">Conjunto de materiales aislantes que forman parte de un cable y cuya función específica es soportar la tensión.</p>
+        <p class="parrafo_2">
+          <strong>AISLAMIENTO PRINCIPAL</strong>
+        </p>
+        <p class="parrafo_2">Aislamiento de las partes activas, cuyo deterioro podría provocar riesgo de choque eléctrico.</p>
+        <p class="parrafo_2">
+          <strong>AISLAMIENTO FUNCIONAL</strong>
+        </p>
+        <p class="parrafo_2">Aislamiento necesario para garantizar el funcionamiento normal y la protección fundamental contra los choques eléctricos.</p>
+        <p class="parrafo_2">
+          <strong>AISLAMIENTO REFORZADO</strong>
+        </p>
+        <p class="parrafo_2">Aislamiento cuyas características mecánicas y eléctricas hace que pueda considerarse equivalente a un doble aislamiento.</p>
+        <p class="parrafo_2">
+          <strong>AISLAMIENTO SUPLEMENTARIO</strong>
+        </p>
+        <p class="parrafo_2">Aislamiento independiente, previsto además del aislamiento principal, a efectos de asegurar la protección contra choque eléctrico en caso de deterioro del aislamiento principal.</p>
+        <p class="parrafo_2">
+          <strong>AISLANTE</strong>
+        </p>
+        <p class="parrafo_2">Substancia o cuerpo cuya conductividad es nula o, en la práctica, muy débil.</p>
+        <p class="parrafo_2">
+          <strong>ALTA SENSIBILIDAD</strong>
+        </p>
+        <p class="parrafo_2">Se consideran los interruptores diferenciales como de alta sensibilidad cuando el valor de esta es igual o inferior a 30 mA.</p>
+        <p class="parrafo_2">
+          <strong>AMOVIBLE</strong>
+        </p>
+        <p class="parrafo_2">Calificativo que se aplica a todo material instalado de manera que se pueda quitar fácilmente.</p>
+        <p class="parrafo_2">
+          <strong>APARATO AMOVIBLE</strong>
+        </p>
+        <p class="parrafo_2">Puede ser:</p>
+        <p class="parrafo_2">– Aparato portátil a mano, cuya utilización, es uso normal, exige la acción constante de la misma.</p>
+        <p class="parrafo">– Aparato movible, cuya utilización, en uso normal, puede necesitar su desplazamiento.</p>
+        <p class="parrafo">– Aparato semi-fijo, solo puede ser desplazado cuando está sin tensión.</p>
+        <p class="parrafo_2">
+          <strong>APARATO DE CALDEO ELÉCTRICO</strong>
+        </p>
+        <p class="parrafo_2">Aparato que produce calor de forma deliberada por medio de fenómenos eléctricos. Destinado a elevar la temperatura de un determinado medio o fluido.</p>
+        <p class="parrafo_2">
+          <strong>APARAMENTA</strong>
+        </p>
+        <p class="parrafo_2">Equipo, aparato o material previsto para ser conectado a un circuito eléctrico con el fin de asegurar una o varias de las siguientes funciones: protección, control, seccionamiento, conexión.</p>
+        <p class="parrafo_2">
+          <strong>APARATO FIJO</strong>
+        </p>
+        <p class="parrafo_2">Es el que está instalado en forma inamovible.</p>
+        <p class="parrafo_2">
+          <strong>BANDEJA</strong>
+        </p>
+        <p class="parrafo_2">Material de instalación constituido por un perfil, de paredes perforadas o sin perforar, destinado a soportar cables y abierto en su parte superior.</p>
+        <p class="parrafo_2">
+          <strong>BASE MÓVIL</strong>
+        </p>
+        <p class="parrafo_2">Base prevista para conectarse a, o a integrase con, cables flexibles y que puede desplazarse fácilmente cuando está conectada al circuito de alimentación</p>
+        <p class="parrafo_2">
+          <strong>BORNE O BARRA PRINCIPAL DE TIERRA</strong>
+        </p>
+        <p class="parrafo_2">Borne o barra prevista para la conexión a los dispositivos de puesta a tierra de los conductores de protección, incluyendo los conductores de equipotencialidad y eventualmente los conductores de puesta a tierra funcional.</p>
+        <p class="parrafo_2">
+          <strong>CABLE</strong>
+        </p>
+        <p class="parrafo_2">Conjunto constituido por:</p>
+        <p class="parrafo_2">– Uno o varios conductores aislados</p>
+        <p class="parrafo">– Su eventual revestimiento individual.</p>
+        <p class="parrafo">– La eventual protección del conjunto</p>
+        <p class="parrafo">– El o los eventuales revestimientos de protección que se dispongan</p>
+        <p class="parrafo_2">Puede tener, además, uno o varios conductores no aislados.</p>
+        <p class="parrafo_2">
+          <strong>CABLE BLINDADO CON AISLAMIENTO MINERAL</strong>
+        </p>
+        <p class="parrafo_2">Cable aislado por una materia mineral y que tiene una cubierta de protección constituida por cobre, aluminio o aleación de éstos. Estas cubiertas, a su vez, pueden estar protegidas por un revestimiento adecuado.</p>
+        <p class="parrafo_2">
+          <strong>CABLE CON CUBIERTA ESTANCA</strong>
+        </p>
+        <p class="parrafo_2">Son aquellos cables que disponen de una cubierta interna o externa que proporcionan una protección eficaz contra la penetración de agua.</p>
+        <p class="parrafo_2">
+          <strong>CABLE FLEXIBLE</strong>
+        </p>
+        <p class="parrafo_2">Cable diseñado para garantizar una conexión deformable en servicio y en el que la estructura y la elección de los materiales son tales que cumplen las exigencias correspondientes.</p>
+        <p class="parrafo_2">
+          <strong>CABLE FLEXIBLE FIJADO PERMANENTEMENTE</strong>
+        </p>
+        <p class="parrafo_2">Cable flexible de alimentación a un aparato, unido a éste de manera que solo se pueda desconectar de él con ayuda de un útil.</p>
+        <p class="parrafo_2">
+          <strong>CABLE MULTICONDUCTOR</strong>
+        </p>
+        <p class="parrafo_2">Cable que incluye más de un conductor, algunos de los cuales puede no estar aislado.</p>
+        <p class="parrafo_2">
+          <strong>CABLE UNIPOLAR</strong>
+        </p>
+        <p class="parrafo_2">Cable que tiene un solo conductor aislado.</p>
+        <p class="parrafo_2">
+          <strong>CABLE CON NEUTRO CONCÉNTRICO</strong>
+        </p>
+        <p class="parrafo_2">Cable con un conductor concéntrico destinado a utilizarse como conductor de neutro.</p>
+        <p class="parrafo_2">
+          <strong>CANAL</strong>
+        </p>
+        <p class="parrafo_2">Recinto situado bajo el nivel del suelo o piso y cuyas dimensiones no permiten circular por él y que, en caso de ser cerrado, debe permitir el acceso a los cables en toda su longitud.</p>
+        <p class="parrafo_2">
+          <strong>CANALIZACIÓN AMOVIBLE</strong>
+        </p>
+        <p class="parrafo_2">Canalización que puede ser quitada fácilmente.</p>
+        <p class="parrafo_2">
+          <strong>CANALIZACIÓN ELÉCTRICA</strong>
+        </p>
+        <p class="parrafo_2">Conjunto constituido por uno o varios conductores eléctricos y los elementos que aseguran su fijación y, en su caso, su protección mecánica.</p>
+        <p class="parrafo_2">
+          <strong>CANALIZACIÓN FIJA</strong>
+        </p>
+        <p class="parrafo_2">Canalización instalada en forma inamovible, que no puede ser desplazada.</p>
+        <p class="parrafo_2">
+          <strong>CANALIZACIÓN MOVIBLE</strong>
+        </p>
+        <p class="parrafo_2">Canalización que puede ser desplazada durante su utilización.</p>
+        <p class="parrafo_2">
+          <strong>CANAL MOLDURA</strong>
+        </p>
+        <p class="parrafo_2">Variedad de canal de paredes llenas, de pequeñas dimensiones, conteniendo uno o varios alojamientos para conductores.</p>
+        <p class="parrafo_2">
+          <strong>CANAL PROTECTORA</strong>
+        </p>
+        <p class="parrafo_2">Material de instalación constituido por un perfil, de paredes llenas o perforadas, destinado a contener conductores y otros componentes eléctricos y cerrado por una tapa desmontable.</p>
+        <p class="parrafo_2">
+          <strong>CEBADO</strong>
+        </p>
+        <p class="parrafo_2">Establecimiento de un arco como consecuencia de una perforación de aislamiento.</p>
+        <p class="parrafo_2">
+          <strong>CERCA ELÉCTRICA</strong>
+        </p>
+        <p class="parrafo_2">Cerca formada por uno o varios conductores, sujetos a pequeños aisladores, montados sobre postes ligeros a una altura apropiada a los animales que se pretende alejar y electrizados de tal forma que las personas o los animales que los toquen no reciban descargas peligrosas.</p>
+        <p class="parrafo_2">
+          <strong>CIRCUITO</strong>
+        </p>
+        <p class="parrafo_2">Un circuito es un conjunto de materiales eléctricos (conductores, aparamenta, etc.) de diferentes fases o polaridades, alimentadas por la misma fuente de energía y protegidos contra las sobreintensidades por el o los mismos dispositivos de protección. No quedan incluidos en esta definición los circuitos que formen parte de los aparatos de utilización o receptores.</p>
+        <p class="parrafo_2">
+          <strong>CONDUCTO</strong>
+        </p>
+        <p class="parrafo_2">Envolvente cerrada destinada a alojar conductores aislados o cables en las instalaciones eléctricas, y que permiten su reemplazamiento por tracción.</p>
+        <p class="parrafo_2">
+          <strong>CONDUCTOR DE UN CABLE</strong>
+        </p>
+        <p class="parrafo_2">Parte de un cable que tiene la función específica de conducir corriente.</p>
+        <p class="parrafo_2">
+          <strong>CONDUCTOR AISLADO</strong>
+        </p>
+        <p class="parrafo_2">Conjunto que incluye el conductor, su aislamiento y sus eventuales pantallas.</p>
+        <p class="parrafo_2">
+          <strong>CONDUCTOR EQUIPOTENCIAL</strong>
+        </p>
+        <p class="parrafo_2">Conductor de protección que asegura una conexión equipotencial.</p>
+        <p class="parrafo_2">
+          <strong>CONDUCTOR FLEXIBLE</strong>
+        </p>
+        <p class="parrafo_2">Conductor constituido por alambres suficientemente finos y reunidos de forma que puedan utilizarse como un cable flexible.</p>
+        <p class="parrafo_2"><strong>CONDUCTOR MEDIANO </strong>(VER PUNTO MEDIANO)</p>
+        <p class="parrafo_2">
+          <strong>CONDUCTOR DE PROTECCIÓN (CP o PE)</strong>
+        </p>
+        <p class="parrafo_2">Conductor requerido en ciertas medidas de protección contra choques eléctricos y que conecta alguna de las siguientes partes:</p>
+        <p class="parrafo_2">– Masas</p>
+        <p class="parrafo">– Elementos conductores</p>
+        <p class="parrafo">– Borne principal de tierra</p>
+        <p class="parrafo">– Toma de tierra</p>
+        <p class="parrafo">– Punto de la fuente de alimentación unida a tierra o a un neutro artificial.</p>
+        <p class="parrafo_2">
+          <strong>CONDUCTOR NEUTRO</strong>
+        </p>
+        <p class="parrafo_2">Conductor conectado al punto de una red y capaz de contribuir al transporte de energía eléctrica.</p>
+        <p class="parrafo_2">
+          <strong>CONDUCTOR CPN o PEN</strong>
+        </p>
+        <p class="parrafo_2">Conductor puesto a tierra que asegura, al mismo tiempo, las funciones de conductor de protección y de conductor neutro.</p>
+        <p class="parrafo_2">
+          <strong>CONDUCTORES ACTIVOS</strong>
+        </p>
+        <p class="parrafo_2">Se consideran como conductores activos en toda instalación los destinados normalmente a la transmisión de la energía eléctrica. Esta consideración se aplica a los conductores de fase y al conductor neutro en corriente alterna y a los conductores polares y al compensador en corriente continua.</p>
+        <p class="parrafo_2">
+          <strong>CONECTOR</strong>
+        </p>
+        <p class="parrafo_2">Conjunto destinado a conectar eléctricamente un cable a un aparato eléctrico. Se compone de dos partes:</p>
+        <p class="parrafo_2">– Una toma móvil, que es la parte que forma cuerpo con el conductor de alimentación.</p>
+        <p class="parrafo">– Una base, que es la parte incorporada o fijada al aparato de utilización.</p>
+        <p class="parrafo_2">
+          <strong>CONEXIÓN EQUIPOTENCIAL</strong>
+        </p>
+        <p class="parrafo_2">Conexión eléctrica que pone al mismo potencial, o a potenciales prácticamente iguales, a las partes conductoras accesibles y elementos conductores.</p>
+        <p class="parrafo_2">
+          <strong>CONTACTOR CON APERTURA AUTOMÁTICA</strong>
+        </p>
+        <p class="parrafo_2">Contactor electromagnético provisto de relés que producen su apertura en condiciones predeterminadas.</p>
+        <p class="parrafo_2">
+          <strong>CONTACTOR CON CONTACTOS ABIERTOS EN REPOSO</strong>
+        </p>
+        <p class="parrafo_2">Aparato de interrupción no accionado manualmente, con una sola posición de reposo que corresponde a la apertura de sus contactos. El aparato está previsto, corrientemente, para maniobras frecuentes con cargas y sobrecargas normales.</p>
+        <p class="parrafo_2">
+          <strong>CONTACTOR CON CONTACTOS CERRADOS EN REPOSO</strong>
+        </p>
+        <p class="parrafo_2">Aparato de interrupción no accionado manualmente, con una sola posición de reposo que corresponde a la apertura de sus contactos. El aparato está previsto, corrientemente, para maniobras frecuentes con cargas y sobrecargas normales.</p>
+        <p class="parrafo_2">
+          <strong>CONTACTOR DE SOBRECARRERA</strong>
+        </p>
+        <p class="parrafo_2">Interruptor contactor de posición que entra en acción cuando un elemento móvil ha sobrepasado su posición de fin de carrera.</p>
+        <p class="parrafo_2">
+          <strong>CONTACTO DIRECTO</strong>
+        </p>
+        <p class="parrafo_2">Contacto de personas o animales con partes activas de los materiales y equipos.</p>
+        <p class="parrafo_2">
+          <strong>CONTACTO INDIRECTO</strong>
+        </p>
+        <p class="parrafo_2">Contacto de personas o animales domésticos con partes que se han puesto bajo tensión como resultado de un fallo de aislamiento.</p>
+        <p class="parrafo_2">
+          <strong>CORRIENTE DE CONTACTO</strong>
+        </p>
+        <p class="parrafo_2">Corriente que pasa a través de cuerpo humano o de un animal cuando esta sometido a una tensión eléctrica.</p>
+        <p class="parrafo_2">
+          <strong>CORRIENTE ADMISIBLE PERMANENTE (DE UN CONDUCTOR)</strong>
+        </p>
+        <p class="parrafo_2">Valor máximo de la corriente que circula permanentemente por un conductor, en condiciones específicas, sin que su temperatura de régimen permanente supere un valor especificado.</p>
+        <p class="parrafo_2">
+          <strong>CORRIENTE CONVENCIONAL DE FUNCIONAMIENTO DE UN DISPOSITIVO DE PROTECCIÓN</strong>
+        </p>
+        <p class="parrafo_2">Valor especificado que provoca el funcionamiento del dispositivo de protección antes de transcurrir un intervalo de tiempo determinado de una duración especificada llamado tiempo convencional.</p>
+        <p class="parrafo_2">
+          <strong>CORRIENTE DE CORTOCIRCUITO FRANCO</strong>
+        </p>
+        <p class="parrafo_2">Sobreintensidad producida por un fallo de impedancia despreciable, entre dos conductores activos que presentan una diferencia de potencial en condiciones normales de servicio.</p>
+        <p class="parrafo_2">
+          <strong>CORRIENTE DE CHOQUE</strong>
+        </p>
+        <p class="parrafo_2">Corriente de contacto que podría provocar efectos fisiopatológicos.</p>
+        <p class="parrafo_2">
+          <strong>CORRIENTE DE DEFECTO O DE FALTA</strong>
+        </p>
+        <p class="parrafo_2">Corriente que circula debido a un defecto de aislamiento.</p>
+        <p class="parrafo_2">
+          <strong>CORRIENTE DE DEFECTO A TIERRA</strong>
+        </p>
+        <p class="parrafo_2">Corriente que en caso de un solo punto de defecto a tierra, se deriva por el citado punto desde el circuito averiado a tierra o partes conectadas a tierra.</p>
+        <p class="parrafo_2">
+          <strong>CORRIENTE DE FUGA EN UNA INSTALACIÓN</strong>
+        </p>
+        <p class="parrafo_2">Corriente que, en ausencia de fallos, se transmite a la tierra o a elementos conductores del circuito.</p>
+        <p class="parrafo_2">
+          <strong>CORRIENTE DE PUESTA A TIERRA</strong>
+        </p>
+        <p class="parrafo_2">Corriente total que se deriva a tierra a través de la puesta a tierra.</p>
+        <p class="parrafo_2">Nota: la corriente de puesta a tierra es la parte de la corriente de defecto que provoca la elevación de potencial de una instalación de puesta a tierra.</p>
+        <p class="parrafo_2">
+          <strong>CORRIENTE DE SOBRECARGA DE UN CIRCUITO</strong>
+        </p>
+        <p class="parrafo_2">Sobreintensidad que se produce en un circuito, en ausencia de un fallo eléctrico.</p>
+        <p class="parrafo_2">
+          <strong>CORRIENTE DIFERENCIAL RESIDUAL</strong>
+        </p>
+        <p class="parrafo_2">Suma algebraica de los valores instantáneos de las corrientes que circulan a través de todos los conductores activos de un circuito, en un punto de una instalación eléctrica.</p>
+        <p class="parrafo_2">
+          <strong>CORRIENTE DIFERENCIAL RESIDUAL DE FUNCIONAMIENTO</strong>
+        </p>
+        <p class="parrafo_2">Valor de la corriente diferencial residual que provoca el funcionamiento de un dispositivo de protección.</p>
+        <p class="parrafo_2">
+          <strong>CORTACIRCUITO FUSIBLE</strong>
+        </p>
+        <p class="parrafo_2">Aparato cuyo cometido es el de interrumpir el circuito en el que está intercalado, por fusión de uno de sus elementos, cuando la intensidad que recorre el elemento sobrepasa, durante un tiempo determinado, un cierto valor.</p>
+        <p class="parrafo_2">
+          <strong>CORTE OMNIPOLAR</strong>
+        </p>
+        <p class="parrafo_2">Corte de todos los conductores activos. Puede ser:</p>
+        <p class="parrafo_2">– Simultáneo, cuando la conexión y desconexión se efectúa al mismo tiempo en el conductor neutro o compensador y en las fases o polares.</p>
+        <p class="parrafo">– No simultáneo, cuando la conexión del neutro o compensador se establece antes que las de las fases o polares y se desconectan éstas antes que el neutro o compensador.</p>
+        <p class="parrafo_2">
+          <strong>CUBIERTA DE UN CABLE</strong>
+        </p>
+        <p class="parrafo_2">Revestimiento tubular continuo y uniforme de material metálico o no metálico generalmente extruido.</p>
+        <p class="parrafo_2">
+          <strong>CHOQUE ELÉCTRICO</strong>
+        </p>
+        <p class="parrafo_2">Efecto fisiopatológico resultante del paso de corriente eléctrica a través del cuerpo humano o de un animal.</p>
+        <p class="parrafo_2">
+          <strong>DEDO DE PRUEBA O SONDA PORTÁTIL DE ENSAYO</strong>
+        </p>
+        <p class="parrafo_2">En un dispositivo de forma similar a un dedo, incluso en sus articulaciones internacionalmente normalizado, y que se destina a verificar si las partes activas de cualquier aparato o materias son accesibles o no al utilizador del mismo. Existen varios tipos de dedos de prueba, destinados a diferentes aparatos, según su clase, tensión, etc.</p>
+        <p class="parrafo_2">
+          <strong>DEFECTO FRANCO</strong>
+        </p>
+        <p class="parrafo_2">Defecto de aislamiento cuya impedancia puede considerarse nula.</p>
+        <p class="parrafo_2">
+          <strong>DEFECTO MONOFÁSICO A TIERRA</strong>
+        </p>
+        <p class="parrafo_2">Defecto de aislamiento entre un conductor y tierra.</p>
+        <p class="parrafo_2">
+          <strong>DOBLE AISLAMIENTO</strong>
+        </p>
+        <p class="parrafo_2">Aislamiento que comprende, a la vez, un aislamiento principal y un aislamiento suplementario.</p>
+        <p class="parrafo_2">
+          <strong>ELEMENTOS CONDUCTORES</strong>
+        </p>
+        <p class="parrafo_2">Todos aquellos que pueden encontrarse en un edificio, aparato, etc. y que son susceptibles de transferir una tensión, tales como: estructuras metálicas o de hormigón armado utilizadas en la construcción de edificios (p.e. armaduras, paneles, carpintería metálica, etc.) canalizaciones metálicas de agua, gas, calefacción, etc. y los aparatos no eléctricos conectados a ellas, si la unión constituye una conexión eléctrica (p.e. radiadores, cocinas, fregaderos metálicos, etc.), suelos y paredes conductores.</p>
+        <p class="parrafo_2">
+          <strong>ELEMENTO CONDUCTOR AJENO A LA INSTALACIÓN ELÉCTRICA</strong>
+        </p>
+        <p class="parrafo_2">Elemento que no forma parte de la instalación eléctrica y que es susceptible de introducir un potencial, generalmente el de tierra.</p>
+        <p class="parrafo_2">
+          <strong>ENVOLVENTE</strong>
+        </p>
+        <p class="parrafo_2">Elemento que asegura la protección de los materiales contra ciertas influencias externas y la protección, en cualquier dirección, ante contactos directos.</p>
+        <p class="parrafo_2">
+          <strong>FACTOR DE DIVERSIDAD</strong>
+        </p>
+        <p class="parrafo_2">Inverso del factor de simultaneidad.</p>
+        <p class="parrafo_2">
+          <strong>FACTOR DE SIMULTANEIDAD</strong>
+        </p>
+        <p class="parrafo_2">Relación entre la totalidad de la potencia instalada o prevista, para un conjunto de instalaciones o de máquinas, durante un período de tiempo determinado, y las sumas de las potencias máximas absorbidas individualmente por las instalaciones o por las máquinas.</p>
+        <p class="parrafo_2">
+          <strong>FUENTE DE ENERGÍA</strong>
+        </p>
+        <p class="parrafo_2">Aparato generador o sistema suministrador de energía eléctrica.</p>
+        <p class="parrafo_2">
+          <strong>FUENTE DE ALIMENTACIÓN DE ENERGÍA</strong>
+        </p>
+        <p class="parrafo_2">Lugar o punto donde una línea, una red, una instalación o un aparato recibe energía eléctrica que tiene que transmitir, repartir o utilizar.</p>
+        <p class="parrafo_2">
+          <strong>GAMA NOMINAL DE TENSIONES (Ver TENSIÓN NOMINAL DE UN APARATO)</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>IMPEDANCIA</strong>
+        </p>
+        <p class="parrafo_2">Cociente de la tensión en los bornes de un circuito por la corriente que fluye por ellos. Esta definición sólo es aplicable a corrientes sinusoidales.</p>
+        <p class="parrafo_2">
+          <strong>IMPEDANCIA DEL CIRCUITO DE DEFECTO</strong>
+        </p>
+        <p class="parrafo_2">Impedancia total ofrecida al paso de una corriente de defecto.</p>
+        <p class="parrafo_2">
+          <strong>INSTALACIÓN ELÉCTRICA</strong>
+        </p>
+        <p class="parrafo_2">Conjunto de aparatos y de circuitos asociados, en previsión de un fin particular: producción, conversión, transformación, transmisión, distribución o utilización de la energía eléctrica.</p>
+        <p class="parrafo_2">
+          <strong>INSTALACIÓN ELÉCTRICA DE EDIFICIOS</strong>
+        </p>
+        <p class="parrafo_2">Conjunto de materiales eléctricos asociados a una aplicación determinada cuyas características están coordinadas.</p>
+        <p class="parrafo_2">
+          <strong>INSTALACIÓN DE PUESTA A TIERRA</strong>
+        </p>
+        <p class="parrafo_2">Conjunto de conexiones y dispositivos necesarios para poner a tierra, individual o colectivamente, un aparato o una instalación.</p>
+        <p class="parrafo_2">
+          <strong>INSTALACIONES PROVISIONALES</strong>
+        </p>
+        <p class="parrafo_2">Son aquellas que tienen, en tiempo, una duración limitada a las circunstancias que las motiven:</p>
+        <p class="parrafo_2">Pueden ser:</p>
+        <p class="parrafo_2">– DE REPARACIÓN. Las necesarias para paliar un incidente de explotación.</p>
+        <p class="parrafo">– DE TRABAJOS. Las realizadas para permitir cambios o transformaciones de las instalaciones, sin interrumpir la explotación.</p>
+        <p class="parrafo">– SEMI-PERMANENTES. Las destinadas a modificaciones de duración limitada, en el marco de actividades habituales de los locales en los que se repitan periódicamente (Ferias).</p>
+        <p class="parrafo">– DE OBRAS. Son las destinadas a la ejecución de trabajos de construcción de edificios y similares.</p>
+        <p class="parrafo_2">
+          <strong>INTENSIDAD DE DEFECTO</strong>
+        </p>
+        <p class="parrafo_2">Valor que alcanza una corriente de defecto.</p>
+        <p class="parrafo_2">
+          <strong>INTERRUPTOR AUTOMÁTICO</strong>
+        </p>
+        <p class="parrafo_2">Interruptor capaz de establecer, mantener e interrumpir las intensidades de corriente de servicio, o de establecer e interrumpir automáticamente, en condiciones predeterminadas, intensidades de corriente anormalmente elevadas, tales como las corrientes de cortocircuito.</p>
+        <p class="parrafo_2">
+          <strong>INTERRUPTOR DE CONTROL DE POTENCIA Y MAGNETOTÉRMICO</strong>
+        </p>
+        <p class="parrafo_2">Aparato de conexión que integra todos los dispositivos necesarios para asegurar de forma coordinada:</p>
+        <p class="parrafo_2">– Mando</p>
+        <p class="parrafo">– Protección contra sobrecargas</p>
+        <p class="parrafo">– Protección contra cortocircuitos</p>
+        <p class="parrafo_2">
+          <strong>INTERRUPTOR DIFERENCIAL</strong>
+        </p>
+        <p class="parrafo_2">Aparato electromecánico o asociación de aparatos destinados a provocar la apertura de los contactos cuando la corriente diferencial alcanza un valor dado.</p>
+        <p class="parrafo_2">
+          <strong>LÍNEA GENERAL DE DISTRIBUCIÓN</strong>
+        </p>
+        <p class="parrafo_2">Canalización eléctrica que enlaza otra canalización, un cuadro de mando y proteccióno un dispositivo de protección general con el origen de canalizaciones que alimentan distintos receptores, locales o emplazamientos.</p>
+        <p class="parrafo_2">
+          <strong>LUMINARIA</strong>
+        </p>
+        <p class="parrafo_2">Aparato de alumbrado que reparte, filtra o transforma la luz de una o varias lámparas y que comprende todos los dispositivos necesarios para fijar y proteger las lámparas (excluyendo las propias lámparas) y cuando sea necesario, los circuitos auxiliares junto con los medios de conexión al circuito de alimentación.</p>
+        <p class="parrafo_2">
+          <strong>MASA</strong>
+        </p>
+        <p class="parrafo_2">Conjunto de las partes metálicas de un aparato que, en condiciones normales, están aisladas de las partes activas.</p>
+        <p class="parrafo_2">Las masas comprenden normalmente:</p>
+        <p class="parrafo_2">– Las partes metálicas accesibles de los materiales y de los equipos eléctricos, separadas de las partes activas solamente por un aislamiento funcional, las cuales son susceptibles de ser puestas en tensión a consecuencia de un fallo de las disposiciones tomadas para asegurar su aislamiento. Este fallo puede resultar de un defecto del aislamiento funcional, o de las disposiciones de fijación y de protección.</p>
+        <p class="parrafo">– Por tanto, son masas las partes metálicas accesibles de los materiales eléctricos, excepto los de Clase II, las armaduras metálicas de los cables y las condiciones metálicas de agua, gas, etc.</p>
+        <p class="parrafo">– Los elementos metálicos en conexión eléctrica o en contacto con las superficies exteriores de materiales eléctricos, que estén separadas de las partes activas por aislamientos funcionales, lleven o no estas superficies exteriores algún elemento metálico.</p>
+        <p class="parrafo_2">Por tanto son masas: las piezas metálicas que forman parte de las canalizaciones eléctricas, los soportes de aparatos eléctricos con aislamiento funcional, y las piezas colocadas en contacto con la envoltura exterior de estos aparatos.</p>
+        <p class="parrafo">Por extensión, también puede ser necesario considerar como masas, todo objeto metálico situado en la proximidad de partes activas no aisladas, y que presenta un riesgo apreciable de encontrarse unido eléctricamente con estas partes activas, a consecuencia de un fallo de los medios de fijación (p.e. aflojamiento de una conexión, rotura de un conductor, etc.).</p>
+        <p class="parrafo_2">NOTA: Una parte conductora que sólo puede ser puesta bajo tensión en caso de fallo a través de una masa, no puede considerarse como una masa.</p>
+        <p class="parrafo_2">
+          <strong>MATERIAL DE CLASE 0</strong>
+        </p>
+        <p class="parrafo_2">Material en el cual la protección contra el choque eléctrico, se basa en el aislamiento principal; lo que implica que no existe ninguna disposición prevista para la conexión de las partes activas accesibles, si las hay, a un conductor de protección que forme parte del cableado fijo de la instalación. La protección en caso de defecto en el aislamiento principal depende del entorno.</p>
+        <p class="parrafo_2">
+          <strong>MATERIAL DE CLASE I</strong>
+        </p>
+        <p class="parrafo_2">Material en el cual la protección contra el choque eléctrico no se basa únicamente en el aislamiento principal, sino que comporta una medida de seguridad complementaria en forma de medios de conexión de las partes conductoras accesibles a un conductor de protección puesto a tierra, que forma parte del cableado fijo de la instalación, de forma tal que las partes conductoras accesibles no puedan presentar tensiones peligrosas.</p>
+        <p class="parrafo_2">
+          <strong>MATERIAL DE CLASE II</strong>
+        </p>
+        <p class="parrafo_2">Material en el cual la protección contra el choque eléctrico no se basa únicamente en el aislamiento principal, sino que comporta medidas de seguridad complementarias, tales como el doble aislamiento o aislamiento reforzado. Estas medidas no suponen la utilización de puesta a tierra para la protección y no dependen de las condiciones de la instalación.</p>
+        <p class="parrafo_2">Este material debe estar alimentado por cables con doble aislamiento o con aislamiento reforzado.</p>
+        <p class="parrafo_2">
+          <strong>MATERIAL DE CLASE III</strong>
+        </p>
+        <p class="parrafo_2">Material en el cual la protección contra el choque eléctrico no se basa en la alimentación a muy baja tensión y en el cual no se producen tensiones superiores a 50 V en c.a. ó a 75V en c.c.</p>
+        <p class="parrafo_2">
+          <strong>MATERIAL ELÉCTRICO</strong>
+        </p>
+        <p class="parrafo_2">Cualquier material utilizado en la producción, transformación, transporte, distribución o utilización de la energía eléctrica, como máquinas, transformadores, aparamenta, instrumentos de medida, dispositivos de protección, material para canalizaciones, receptores, etc.</p>
+        <p class="parrafo_2">
+          <strong>MATERIAL MÓVIL</strong>
+        </p>
+        <p class="parrafo_2">Material que se desplaza durante su funcionamiento, o que puede ser fácilmente desplazado, permaneciendo conectado al circuito de alimentación.</p>
+        <p class="parrafo_2">
+          <strong>MATERIAL PORTÁTIL (DE MANO)</strong>
+        </p>
+        <p class="parrafo_2">Material móvil previsto para ser tenido en la mano en uso normal, incluido el motor si este forma parte del material.</p>
+        <p class="parrafo_2">
+          <strong>NIVEL DE AISLAMIENTO</strong>
+        </p>
+        <p class="parrafo_2">Para un aparato determinado, característica definida por una o más tensiones especificadas de su aislamiento.</p>
+        <p class="parrafo_2">
+          <strong>NIVEL DE PROTECCIÓN (DE UN DISPOSITIVO DE PROTECCIÓN CONTRA SOBRETENSIONES)</strong>
+        </p>
+        <p class="parrafo_2">Son los valores de cresta de las tensiones más elevadas admisibles en los bornes de un dispositivo de protección cuando está sometido a sobretensiones de formas normalizadas y valores asignados bajo condiciones especificadas.</p>
+        <p class="parrafo_2">
+          <strong>PARTES ACCESIBLES SIMULTÁNEAMENTE</strong>
+        </p>
+        <p class="parrafo_2">Conductores o partes conductoras que pueden ser tocadas simultáneamente por una persona o, en su caso, por animales domésticos o ganado.</p>
+        <p class="parrafo_2">NOTA: Las partes simultáneamente accesibles pueden ser: Partes activas, masas, elementos conductores, conductores de protección, tomas de tierra).</p>
+        <p class="parrafo_2">
+          <strong>PARTES ACTIVAS</strong>
+        </p>
+        <p class="parrafo_2">Conductores y piezas conductoras bajo tensión en servicio normal. Incluyen el conductor neutro o compensador y las partes a ellos conectadas. Excepcionalmente, las masas no se considerarán como partes activas cuando estén unidas al neutro con finalidad de protección contra contactos indirectos.</p>
+        <p class="parrafo_2">
+          <strong>PERFORACIÓN (RUPTURA ELÉCTRICA)</strong>
+        </p>
+        <p class="parrafo_2">Fallo dieléctrico de un aislamiento por defecto de un campo eléctrico elevado o por la degradación físico-química del material aislante.</p>
+        <p class="parrafo_2">
+          <strong>PERSONA ADIESTRADA</strong>
+        </p>
+        <p class="parrafo_2">Persona suficientemente informada o controlada por personas cualificadas que puede evitar los peligros que pueda presentar la electricidad.</p>
+        <p class="parrafo_2">
+          <strong>PERSONA CUALIFICADA</strong>
+        </p>
+        <p class="parrafo_2">Persona que teniendo conocimientos técnicos o experiencia suficiente puede evitar los peligros que pueda presentar la electricidad.</p>
+        <p class="parrafo_2">
+          <strong>PODER DE CIERRE</strong>
+        </p>
+        <p class="parrafo_2">El poder de cierre de un dispositivo, se expresa por la intensidad de corriente que este aparato es capaz de establecer, bajo una tensión dada, en las condiciones prescritas de empleo y de funcionamiento.</p>
+        <p class="parrafo_2">
+          <strong>PODER DE CORTE</strong>
+        </p>
+        <p class="parrafo_2">El poder de corte de un aparato, se expresa por la intensidad de corriente que este dispositivo es capaz de cortar, bajo una tensión de restablecimiento determinada, y en las condiciones prescritas de funcionamiento.</p>
+        <p class="parrafo_2">
+          <strong>POTENCIA PREVISTA O INSTALADA</strong>
+        </p>
+        <p class="parrafo_2">Potencia máxima capaz de suministrar una instalación a los equipos y aparatos conectados a ella, ya sea en el diseño de la instalación o en su ejecución, respectivamente.</p>
+        <p class="parrafo_2">
+          <strong>POTENCIA NOMINAL DE UN MOTOR</strong>
+        </p>
+        <p class="parrafo_2">Es la potencia mecánica disponible sobre su eje, expresada en vatios, kilovatios o megavatios.</p>
+        <p class="parrafo_2">
+          <strong>PROTECCIÓN CONTRA CHOQUES ELÉCTRICOS EN SERVICIO NORMAL</strong>
+        </p>
+        <p class="parrafo_2">Prevención de contactos peligrosos, de personas o animales, con las partes activas.</p>
+        <p class="parrafo_2">
+          <strong>PROTECCIÓN CONTRA CHOQUES ELÉCTRICOS EN CASO DE DEFECTO</strong>
+        </p>
+        <p class="parrafo_2">Prevención de contactos peligros de personas o de animales con:</p>
+        <p class="parrafo_2">– Masas</p>
+        <p class="parrafo">– Elementos conductores susceptibles de ser puestos bajo tensión en caso de defecto.</p>
+        <p class="parrafo_2">
+          <strong>PUNTO A POTENCIAL CERO</strong>
+        </p>
+        <p class="parrafo_2">Punto del terreno a una distancia tal de la instalación de toma de tierra, que el gradiente de tensión resulta despreciable, cuando pasa por dicha instalación una corriente de defecto.</p>
+        <p class="parrafo_2">
+          <strong>PUNTO MEDIANO</strong>
+        </p>
+        <p class="parrafo_2">Es el punto de un sistema de corriente continua o de alterna monofásica, que en las condiciones de funcionamiento previstas, presenta la misma diferencia de potencial, con relación a cada uno de los polos o fases del sistema. A veces se conoce también como punto neutro, por semejanza con los sistemas trifásicos. El conductor que tiene su origen en este punto mediano, se denomina conductor mediano, neutro o, en corriente continua, compensador.</p>
+        <p class="parrafo_2">
+          <strong>PUNTO NEUTRO</strong>
+        </p>
+        <p class="parrafo_2">Es el punto de un sistema polifásico que, en las condiciones de funcionamiento previstas, presenta la misma diferencia de potencial, con relación a cada uno de los polos o fases del sistema.</p>
+        <p class="parrafo_2">
+          <strong>REACTANCIA</strong>
+        </p>
+        <p class="parrafo_2">Es un dispositivo que se aplica para agregar a un circuito inductancia, con distintos objetos, por ejemplo: arranque de motores, conexión en paralelo de transformadores o regulación de corriente. Reactancia limitadora es la que se usa para limitar la corriente cuando se produzca un cortocircuito.</p>
+        <p class="parrafo_2">
+          <strong>RECEPTOR</strong>
+        </p>
+        <p class="parrafo_2">Aparato o máquina eléctrica que utiliza la energía eléctrica para un fin determinado.</p>
+        <p class="parrafo_2">
+          <strong>RED DE DISTRIBUCIÓN</strong>
+        </p>
+        <p class="parrafo_2">El conjunto de conductores con todos sus accesorios, sus elementos de sujeción, protección, etc., que une una fuente de energía con las instalaciones interiores o receptoras.</p>
+        <p class="parrafo_2">
+          <strong>RED POSADA</strong>
+        </p>
+        <p class="parrafo_2">Red posada, sobre fachada o muros, es aquella en que los conductores aislados se instalan sin quedar sometidos a esfuerzos mecánicos, a excepción de su propio peso.</p>
+        <p class="parrafo_2">
+          <strong>RED TENSADA</strong>
+        </p>
+        <p class="parrafo_2">Red tensada, sobre apoyos, es aquella en que los conductores se instalan con una tensión mecánica predeterminada, contemplada en las correspondientes tablas de tendido, mediante dispositivos de anclaje y suspensión.</p>
+        <p class="parrafo_2">
+          <strong>REDES DE DISTRIBUCIÓN PRIVADAS</strong>
+        </p>
+        <p class="parrafo_2">Son las destinadas, por un único usuario, a la distribución de energía eléctrica en Baja Tensión, a locales o emplazamiento de su propiedad o a otros especialmente autorizados por el Órgano Competente de la Administración. Las redes de distribución privadas pueden tener su origen:</p>
+        <p class="parrafo_2">– En centrales de generación propia</p>
+        <p class="parrafo">– En redes de distribución pública. En este caso, son aplicables en el punto de entrega de la energía, los preceptos fijados por los Reglamentos vigentes que regulen las actividades de distribución, comercialización y suministro de energía eléctrica, y en las especificaciones particulares de la empresa eléctrica, aprobadas oficialmente, si las hubiera.</p>
+        <p class="parrafo_2">
+          <strong>REDES DE DISTRIBUCIÓN PÚBLICA</strong>
+        </p>
+        <p class="parrafo_2">Son las destinadas al suministro de energía eléctrica en Baja Tensión a varios usuarios. En relación con este suministro son de aplicación para cada uno de ellos, los preceptos fijados por los Reglamentos vigentes que regulen las actividades de distribución, comercialización y suministro de energía eléctrica.</p>
+        <p class="parrafo_2">Las redes de distribución pública pueden ser:</p>
+        <p class="parrafo_2">– Pertenecientes a empresas distribuidoras de energía</p>
+        <p class="parrafo">– De propiedad particular o colectiva</p>
+        <p class="parrafo_2">
+          <strong>RESISTENCIA LIMITADORA</strong>
+        </p>
+        <p class="parrafo_2">Resistencia que se intercala en un circuito para limitar la corriente circulante.</p>
+        <p class="parrafo_2">
+          <strong>RESISTENCIA DE PUESTA A TIERRA</strong>
+        </p>
+        <p class="parrafo_2">Relación entre la tensión que alcanza con respecto a un punto a potencial cero una instalación de puesta a tierra y la corriente que la recorre.</p>
+        <p class="parrafo_2">
+          <strong>RESISTENCIA GLOBAL O TOTAL DE TIERRA</strong>
+        </p>
+        <p class="parrafo_2">Es la resistencia de tierra medida en un punto, considerando la acción conjunta de la totalidad de las puestas a tierra.</p>
+        <p class="parrafo_2">
+          <strong>SOBREINTENSIDAD</strong>
+        </p>
+        <p class="parrafo_2">Toda corriente superior a un valor asignado. En los conductores, el valor asignado es la corriente admisible.</p>
+        <p class="parrafo_2">
+          <strong>SUELO O PARED NO CONDUCTOR</strong>
+        </p>
+        <p class="parrafo_2">Suelo o pared no susceptibles de propagar potenciales.</p>
+        <p class="parrafo">Se considerará así el suelo (o la pared) que presentan una resistencia igual o superior a 50.000 Ω si la tensión nominal de la instalación es ≤ 500 V y una resistencia igual o superior a 100.000 Ω si es superior a 500 V.</p>
+        <p class="parrafo">La medida de aislamiento de un suelo se efectúa recubriendo el suelo con una tela húmeda cuadrada de, aproximadamente 270 mm de lado, sobre la que se dispone una placa metálica no oxidada, cuadrada de 250 mm de lado y cargada con una masa M de, aproximadamente, 75 kg (peso medio de una persona).</p>
+        <p class="parrafo">Se mide la tensión con la ayuda de un voltímetro de gran resistencia interna (R<sub>i</sub> no inferior a 3.000 Ω, sucesivamente:</p>
+        <p class="parrafo_2">– Entre un conductor de fase y la placa metálica, (U<sub>2</sub>)</p>
+        <p class="parrafo">– Entre este mismo conductor de fase y una toma de tierra, eléctricamente distinta T, de resistencia despreciable con relación a R<sub>i</sub>, se mide la tensión U<sub>1</sub>.</p>
+        <p class="parrafo_2">La resistencia buscada viene dada por la fórmula:</p>
+        <p class="centro_redonda">
+          <img alt="MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+UjwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+UzwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3ViPgogICAgPG1vPj08L21vPgogICAgPG1zdWI+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaT5SPC9taT4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtaT5pPC9taT4KICAgICAgICA8L21yb3c+CiAgICA8L21zdWI+CiAgICA8bWk+KjwvbWk+CiAgICA8bWZlbmNlZCBzZXBhcmF0b3JzPSJ8Ij4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1mcmFjPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pPlU8L21pPgogICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1uPjE8L21uPgogICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgPC9tc3ViPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1pPlU8L21pPgogICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1uPjI8L21uPgogICAgICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgPC9tc3ViPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21mcmFjPgogICAgICAgICAgICA8bW8+LTwvbW8+CiAgICAgICAgICAgIDxtbj4xPC9tbj4KICAgICAgICA8L21yb3c+CiAgICA8L21mZW5jZWQ+CjwvbWF0aD4=" class="formula" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAAAqCAYAAACZZUg6AAAEcklEQVR4nO2cP4gdRRzHPxALixM1nKBwxfFIuhRHKpGnvCIEixQhWryQkKQ4sFDhCjmChQoiKSwSCbzkSBFI7K5IeQ+OCGJhaWmRB0GFiFimsLDQYvZHJsPOnzc7u7NvMx/Y4nZmZ36z+53f/Pvdg0KhkJxxbgMS8HZuA4bKZzX3doH/ai6dmZE2bdFGH1eAtYz1D5IJcMaRXicKnSlKJLnZAHZyGzE09oGXLGljlDDmjudn5PUYOvvAy7mNGAoT4I4jXYYW18dfpDSoITsU75GMB8D7jvQFShwjS/oIt1fpmg3gUW4jhsAa8BT7JG6EEobLM0xR3qVP/EpZuTRmG/jZkT5FicM12Zxj9yq5uAVcz23EqnMIXHOkyzI1dr4xIo9XmQJ/Y59kFzxsAP/SbL4xxu5VZPmbQxxvVnWfylD3INhGvcB1R54Fbs8ww72zOqM9cfiGsj+Am64MMmbarr5tGae0dxf3h70J/OYpw7X5Nca/SmlDHPKOfMvnA9Sw6UUaqatNXGZfNm90Yu0d8czN6x+vbgfzB+BHjx22DTC57+u9qcWx4Nk8yCeO28AT4HVXJmmIWZgosE9rdGhmr2xYzbS/68p7A/gLuBdokwhTrtB31taw4hvuAK4S4G3lhZlGhizTcpDCXt311n3ISZX+dbSVYeQUx3lUGz9yZZpTr6CZ5X5uUtgrZx0iNJML1f2P480MIqc43kO10bVUdx4zNxGGeVTtu0I3iprYKx5jyvN7DOaw8ml171KgTTHoQ1HqoTtEHCeruvdsGXRX3JeYAxdN7dUFOMX+Ub6syj0XZ2Z2QsRxHNXGfVsGc4fP5rLrnpGryzlJjL02j2QbUgC+q9JOR9jYB0LE8RaqjQ9dhegvSGbutg8+NirdpVsvs6y98syy4/r9qtx3LOl3W75M6oZoV4cIEccrVTm/1CXKiaLpWs0PoGOKY4y9Z6aec8TYG0vfxLEsIeJYwyEOGb/NXuULXjEF0hXL2itiihHOCz+s2MZrWw+ty9MlMfbuErdU/KIq84OIZ/tA9IRUxmnXpHKupUmPrOuxXUxGY+2V+zHL8U+qsi478vQx8lx/D3LZOrl3KbsMZpDsnP5FOJnEereL1bPbgXW46ulL5LnJBGX3VykKk0b6FNkX5GBNNryW4V1UG78JqMP3LvoUea4ju8AhHWBwNDkbOoo6sfzek2/VIs91Pse9Iis4OAR+8uRZtchznT1UwM+ruQ1ZRW4AvwNHLOmrGnkuzOmvcHuPL0xwVSPPhT8pEejRrKMCjM9a0ptGnuunsl1PWDerekuAcQMOsPeuJpHnM+250JDClFxBzTcKDbiI5eyBZpHn5v2FI28b3AW+7bC+QbIG/AO8VpPm2vwKiTw3y+qSx8BWx3UOkvvAhzX3m0ae6/m7XNFsov5XtpCALZRAbMRGngtdb63voOYchUS09YMnOZa6rh+iKUQwwb6kjcWcsHaxnD1G+eGWVkh5QGUORXVBTG2wTfnJp1Y4kduABAyhDYUc/A+KN9lH3GUgggAAAABJRU5ErkJggg=="/>
+        </p>
+        <p class="parrafo_2">Se efectúan en un mismo local tres medidas por lo menos, una de las cuales sobre una superficie situada a un metro de un elemento conductor, si existe, en el local considerado.</p>
+        <p class="parrafo">Ninguna de estas tres medidas debe ser inferior a 50.000 Ω para poder considerar el suelo como no conductor.</p>
+        <p class="parrafo">Si el punto neutro de la instalación está aislado de tierra, es necesario, para realizar esta medida, poner temporalmente a tierra una de las fases no utilizada para la misma.</p>
+        <p class="parrafo_2">
+          <strong>TENSIÓN DE CONTACTO</strong>
+        </p>
+        <p class="parrafo_2">Tensión que aparece entre partes accesibles simultáneamente, al ocurrir un fallo de aislamiento.</p>
+        <p class="parrafo_2">NOTAS:</p>
+        <p class="parrafo_2">1. Por convenio este término solo se utiliza en relación con la protección contra contactos indirectos.</p>
+        <p class="parrafo">2. En ciertos casos el valor de la tensión de contacto puede resultar influido notablemente por la impedancia que presenta la persona en contacto con esas partes.</p>
+        <p class="parrafo_2">
+          <strong>TENSIÓN DE DEFECTO</strong>
+        </p>
+        <p class="parrafo_2">Tensión que aparece a causa de un defecto de aislamiento, entre dos masas, entre una masa y un elemento conductor, o entre una masa y una toma de tierra de referencia, es decir, un punto en el que el potencial no se modifica al quedar la masa en tensión.</p>
+        <p class="parrafo_2">
+          <strong>TENSIÓN NOMINAL (O ASIGNADA)</strong>
+        </p>
+        <p class="parrafo_2">Valor convencional de la tensión con la que se denomina un sistema o instalación y, para los que ha sido previsto su funcionamiento y aislamiento. Para los sistemas trifásicos se considera como tal la tensión compuesta.</p>
+        <p class="parrafo_2">
+          <strong>TENSIÓN NOMINAL DE UNA INSTALACIÓN</strong>
+        </p>
+        <p class="parrafo_2">Tensión por la que se designa una instalación o una parte de la misma.</p>
+        <p class="parrafo_2">
+          <strong>TENSIÓN NOMINAL DE UN APARATO</strong>
+        </p>
+        <p class="parrafo_2">Tensión prevista de alimentación del aparato y por la que se le designa.</p>
+        <p class="parrafo">Gama nominal de tensiones: Intervalo entre los límites de tensión previstas para alimentar el aparato.</p>
+        <p class="parrafo">En caso de alimentación trifásica, la tensión nominal se refiere a la tensión entre fases.</p>
+        <p class="parrafo_2">
+          <strong>TENSIÓN ASIGNADA DE UN CABLE</strong>
+        </p>
+        <p class="parrafo_2">Es la tensión máxima del sistema al que el cable puede estar conectado.</p>
+        <p class="parrafo_2">
+          <strong>TENSIÓN CON RELACIÓN O RESPECTO A TIERRA</strong>
+        </p>
+        <p class="parrafo_2">Se entiende como tensión con relación a tierra:</p>
+        <p class="parrafo_2">– En instalaciones trifásicas con neutro aislado o no unido directamente a tierra, a la tensión nominal de la instalación.</p>
+        <p class="parrafo">– En instalaciones trifásicas con neutro unido directamente a tierra, a la tensión simple de la instalación.</p>
+        <p class="parrafo">– En instalaciones monofásicas o de corriente continua, sin punto de puesta a tierra, a la tensión nominal.</p>
+        <p class="parrafo">– En instalaciones monofásicas o de corriente continua, con punto mediano puesto a tierra, a la mitad de la tensión nominal.</p>
+        <p class="parrafo_2">NOTA: Se entiende por neutro unido directamente a tierra, la unión a la instalación de toma de tierra, sin interposición de una impedancia limitadora.</p>
+        <p class="parrafo_2">
+          <strong>TENSIÓN DE PUESTA A TIERRA (TENSIÓN A TIERRA)</strong>
+        </p>
+        <p class="parrafo_2">Tensión entre una instalación de puesta a tierra y un punto a potencial cero, cuando pasa por dicha instalación una corriente de defecto.</p>
+        <p class="parrafo_2">
+          <strong>TIERRA</strong>
+        </p>
+        <p class="parrafo_2">Masa conductora de la tierra en la que el potencial eléctrico en cada punto se toma, convencionalmente, igual a cero.</p>
+        <p class="parrafo_2">
+          <strong>TIERRA LEJANA</strong>
+        </p>
+        <p class="parrafo_2">Electrodo de tierra conectado a un aparato y situado a una distancia suficiente del mismo para que sea independiente de cualquier otro electrodo de tierra situado cerca del aparato.</p>
+        <p class="parrafo_2">
+          <strong>TOMA DE TIERRA</strong>
+        </p>
+        <p class="parrafo_2">Electrodo, o conjunto de electrodos, en contacto con el suelo y que asegura la conexión eléctrica con el mismo.</p>
+        <p class="parrafo_2">
+          <strong>TUBO BLINDADO</strong>
+        </p>
+        <p class="parrafo_2">Tubo que, además de tener las características del tubo normal, es capaz de resistir, después de su colocación, fuertes presiones y golpes repetidos, y que ofrece una resistencia notable a la penetración de objetos puntiagudos.</p>
+        <p class="parrafo_2">
+          <strong>TUBO NORMAL</strong>
+        </p>
+        <p class="parrafo_2">Tubo que es capaz de soportar únicamente los esfuerzos mecánicos que se producen durante su almacenado, transporte y colocación.</p>
+        <p class="parrafo_2">
+          <strong>SISTEMAS DE ALIMENTACIÓN PARA SERVICIOS DE SEGURIDAD</strong>
+        </p>
+        <p class="parrafo_2">El sistema comprende la fuente de alimentación y los circuitos, hasta los bornes de los aparatos de utilización. Sistema de alimentación previsto para mantener el funcionamiento de los aparatos esenciales para la seguridad de las personas.</p>
+        <p class="parrafo">Ciertas instalaciones pueden incluir, también, en el suministro los equipos de utilización.</p>
+        <p class="parrafo_2">
+          <strong>SISTEMA DE DOBLE ALIMENTACIÓN</strong>
+        </p>
+        <p class="parrafo_2">Sistema de alimentación previsto para mantener el funcionamiento de la instalación o partes de ésta, en caso de fallo del suministro normal, por razones distintas a las que afectan a la seguridad de las personas.</p>
+        <p class="parrafo_2">
+          <strong>TEMPERATURA AMBIENTE</strong>
+        </p>
+        <p class="parrafo_2">Temperatura del aire u otro medio donde el material vaya a ser utilizado.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

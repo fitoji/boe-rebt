@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a2-7" tipo="precepto" titulo="Artículo 25">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 25. Equivalencia de normativa del Espacio Económico Europeo.</p>
+        <p class="parrafo">Sin perjuicio de lo establecido en el artículo 6, a los efectos del presente Reglamento y para la comercialización de productos provenientes de los Estados miembros de la Unión Europea o del Espacio Económico Europeo, sometidos a las reglamentaciones nacionales de seguridad industrial, la Administración pública competente deberá aceptar la validez de los certificados y marcas de conformidad a normas y las actas o protocolos de ensayos que son exigibles por las citadas reglamentaciones, emitidos por organismos de evaluación de la conformidad oficialmente reconocidos en dichos Estados, siempre que se reconozca, por la mencionada Administración pública competente, que los citados agentes ofrecen garantías técnicas, profesionales y de independencia e imparcialidad equivalentes a las exigidas por la legislación española y que las disposiciones legales vigentes del Estado con base en las que se evalúa la conformidad comporten un nivel de seguridad equivalente al exigido por las correspondientes disposiciones españolas.</p>
+      </version>
+      <version id_norma="BOE-A-2023-7056" fecha_publicacion="20230318" fecha_vigencia="20230701">
+        <p class="articulo">Artículo 25. Reconocimiento mutuo.</p>
+        <p class="parrafo">Sin perjuicio de lo indicado en el artículo 6, se considerarán conformes con este reglamento los productos comercializados legalmente en otro Estado miembro de la Unión Europea, en Turquía, u originarios de un Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo y comercializados legalmente en él, siempre que garanticen un nivel equivalente al exigido en el presente reglamento en cuanto a su seguridad y al uso al que están destinados. La aplicación de la presente medida está sujeta al Reglamento (UE) n.º 2019/515 del Parlamento Europeo y del Consejo, de 19 de marzo de 2019, relativo al reconocimiento mutuo de mercancías comercializadas legalmente en otro Estado miembro y por el que se deroga el Reglamento (CE) n.º 764/2008.</p>
+        <blockquote caduca="20230701" class="soloTexto">
+          <p class="parrafo">Téngase en cuenta que esta última actualización por el art. 3 del Real Decreto 145/2023, de 28 de febrero. <a class="refPost">Ref. BOE-A-2023-7056#at</a>, entrará en vigor el 1 de julio de 2023, según se establece en su disposición final 5.</p>
+          <p class="cita_con_pleca">
+            <strong>Redacción anterior:</strong>
+          </p>
+          <p class="cita">"<strong>Artículo 25. Equivalencia de normativa del Espacio Económico Europeo.</strong></p>
+          <p class="cita">Sin perjuicio de lo establecido en el artículo 6, a los efectos del presente Reglamento y para la comercialización de productos provenientes de los Estados miembros de la Unión Europea o del Espacio Económico Europeo, sometidos a las reglamentaciones nacionales de seguridad industrial, la Administración pública competente deberá aceptar la validez de los certificados y marcas de conformidad a normas y las actas o protocolos de ensayos que son exigibles por las citadas reglamentaciones, emitidos por organismos de evaluación de la conformidad oficialmente reconocidos en dichos Estados, siempre que se reconozca, por la mencionada Administración pública competente, que los citados agentes ofrecen garantías técnicas, profesionales y de independencia e imparcialidad equivalentes a las exigidas por la legislación española y que las disposiciones legales vigentes del Estado con base en las que se evalúa la conformidad comporten un nivel de seguridad equivalente al exigido por las correspondientes disposiciones españolas."</p>
+        </blockquote>
+        <blockquote>
+          <p class="nota_pie">Se modifica por el art. 3 del Real Decreto 145/2023, de 28 de febrero. <a class="refPost">Ref. BOE-A-2023-7056#at</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

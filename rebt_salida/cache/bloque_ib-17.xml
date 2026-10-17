@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-17" tipo="precepto" titulo="ITC-BT-17">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-17</p>
+        <p class="anexo_tit">INSTALACIONES DE ENLACE. DISPOSITIVOS GENERALES E INDIVIDUALES DE MANDO Y PROTECCIÓN. INTERRUPTOR DE CONTROL DE POTENCIA</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. DISPOSITIVOS GENERALES E INDIVIDUALES DE MANDO Y PROTECCIÓN. INTERRUPTOR DE CONTROL DE POTENCIA</p>
+        <p class="parrafo_2">1.1 Situación</p>
+        <p class="parrafo">1.2 Composición y características de los cuadros</p>
+        <p class="parrafo">1.3 Características principales de los dispositivos de protección</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>DISPOSITIVOS GENERALES E INDIVIDUALES DE MANDO Y PROTECCIÓN. INTERRUPTOR DE CONTROL DE POTENCIA</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>1.1</strong>
+          <strong>Situación</strong>
+        </p>
+        <p class="parrafo_2">Los dispositivos generales de mando y protección, se situarán lo más cerca posible del punto de entrada de la derivación individual en el local o vivienda del usuario. En viviendas y en locales comerciales e industriales en los que proceda, se colocará una caja para el interruptor de control de potencia, inmediatamente antes de los demás dispositivos, en compartimento independiente y precintable. Dicha caja se podrá colocar en el mismo cuadro donde se coloquen los dispositivos generales de mando y protección.</p>
+        <p class="parrafo">En viviendas, deberá preverse la situación de los dispositivos generales de mando y protección junto a la puerta de entrada y no podrá colocarse en dormitorios, baños, aseos, etc. En los locales destinados a actividades industriales o comerciales, deberán situarse lo más próximo posible a una puerta de entrada de éstos.</p>
+        <p class="parrafo">Los dispositivos individuales de mando y protección de cada uno de los circuitos, que son el origen de la instalación interior, podrán instalarse en cuadros separados y en otros lugares.</p>
+        <p class="parrafo">En locales de uso común o de pública concurrencia, deberán tomarse las precauciones necesarias para que los dispositivos de mando y protección no sean accesibles al público en general.</p>
+        <p class="parrafo">La altura a la cual se situarán los dispositivos generales e individuales de mando y protección de los circuitos, medida desde el nivel del suelo, estará comprendida entre 1,4 y 2 m, para viviendas. En locales comerciales, la altura mínima será de 1 m desde el nivel del suelo.</p>
+        <p class="parrafo_2">
+          <strong>1.2</strong>
+          <strong>Composición y características de los cuadros</strong>
+        </p>
+        <p class="parrafo_2">Los dispositivos generales e individuales de mando y protección, cuya posición de servicio será vertical, se ubicarán en el interior de uno o varios cuadros de distribución de donde partirán los circuitos interiores.</p>
+        <p class="parrafo">Las envolventes de los cuadros se ajustarán a las normas UNE 20.451 y UNE-EN 60.439-3, con un grado de protección mínimo IP 30 según UNE 20.324 e IK07 según UNE-EN 50.102. La envolvente para el interruptor de control de potencia será precintable y sus dimensiones estarán de acuerdo con el tipo de suministro y tarifa a aplicar. Sus características y tipo corresponderán a un modelo oficialmente aprobado.</p>
+        <p class="parrafo">Los dispositivos generales e individuales de mando y protección serán, como mínimo:</p>
+        <p class="parrafo_2">– Un interruptor general automático de corte omnipolar, que permita su accionamiento manual y que esté dotado de elementos de protección contra sobrecarga y cortocircuitos. Este interruptor será independiente del interruptor de control de potencia.</p>
+        <p class="parrafo">– Un interruptor diferencial general, destinado a la protección contra contactos indirectos de todos los circuitos; salvo que la protección contra contactos indirectos se efectúe mediante otros dispositivos de acuerdo con la ITC-BT-24.</p>
+        <p class="parrafo">– Dispositivos de corte omnipolar, destinados a la protección contra sobrecargas y cortocircuitos de cada uno de los circuitos interiores de la vivienda o local.</p>
+        <p class="parrafo">– Dispositivo de protección contra sobretensiones, según ITC-BT-23, si fuese necesario.</p>
+        <p class="parrafo_2">Si por el tipo o carácter de la instalación se instalase un interruptor diferencial por cada circuito o grupo de circuitos, se podría prescindir del interruptor diferencial general, siempre que queden protegidos todos los circuitos. En el caso de que se instale más de un interruptor diferencial en serie, existirá una selectividad entre ellos.</p>
+        <p class="parrafo">Según la tarifa a aplicar, el cuadro deberá prever la instalación de los mecanismos de control necesarios por exigencia de la aplicación de esa tarifa.</p>
+        <p class="parrafo_2">
+          <strong>1.3</strong>
+          <strong>Características principales de los dispositivos de protección</strong>
+        </p>
+        <p class="parrafo_2">El interruptor general automático de corte omnipolar tendrá poder de corte suficiente para la intensidad de cortocircuito que pueda producirse en el punto de su instalación, de 4.500 A como mínimo.</p>
+        <p class="parrafo">Los demás interruptores automáticos y diferenciales deberán resistir las corrientes de cortocircuito que puedan presentarse en el punto de su instalació n. La sensibilidad de los interruptores diferenciales responderá a lo señalado en la Instrucción ITC-BT-24.</p>
+        <p class="parrafo">Los dispositivos de protección contra sobrecargas y cortocircuitos de los circuitos interiores serán de corte omnipolar y tendrán los polos protegidos que corresponda al número de fases del circuito que protegen. Sus características de interrupción estarán de acuerdo con las corrientes admisibles de los conductores del circuito que protegen.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

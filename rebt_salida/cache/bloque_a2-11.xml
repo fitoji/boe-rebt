@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a2-11" tipo="precepto" titulo="Artículo 29">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 29. Guía técnica.</p>
+        <p class="parrafo">El centro directivo competente en materia de Seguridad Industrial del Ministerio de Ciencia y Tecnología elaborará y mantendrá actualizada una Guía técnica, de carácter no vinculante, para la aplicación práctica de las previsiones del presente Reglamento y sus instrucciones técnicas complementarias, la cual podrá establecer aclaraciones a conceptos de carácter general incluidos en este Reglamento.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

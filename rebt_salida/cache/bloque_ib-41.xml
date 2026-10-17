@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-41" tipo="precepto" titulo="ITC-BT-41">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-41</p>
+        <p class="anexo_tit">INSTALACIONES ELÉCTRICAS EN CARAVANAS Y PARQUES DE CARAVANAS</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO Y CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. CONDICIONES GENERALES DE INSTALACIÓN</p>
+        <p class="parrafo_2">
+          <strong>1. OBJETO Y CAMPO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">El objeto de la presente instrucción es determinar los requisitos de instalación de las caravanas y los parques de caravanas.</p>
+        <p class="parrafo">Los receptores que se utilicen en dichas instalaciones cumplirán los requisitos de las directivas europeas aplicables conforme a lo establecido en el artículo 6 del Reglamento Electrotécnico para Baja Tensión.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>CONDICIONES GENERALES DE INSTALACIÓN</strong>
+        </p>
+        <p class="parrafo_2">Las prescripciones particulares para este tipo de establecimientos o instalaciones son las establecidas en la norma UNE 20.460-7-708.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

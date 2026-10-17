@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-29" tipo="precepto" titulo="ITC-BT-29">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-29</p>
+        <p class="anexo_tit">PRESCRIPCIONES PARTICULARES PARA LAS INSTALACIONES ELÉCTRICAS DE LOS LOCALES CON RIESGO DE INCENDIO O EXPLOSIÓN</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. TERMINOLOGÍA</p>
+        <p class="parrafo">3. FUNDAMENTOS PARA ALCANZAR LA SEGURIDAD</p>
+        <p class="parrafo">4. CLASIFICACIÓN DE EMPLAZAMIENTOS</p>
+        <p class="parrafo_2">4.1 Clases de emplazamientos</p>
+        <p class="parrafo_2">4.1.1 Zonas de emplazamientos Clase I</p>
+        <p class="parrafo">4.1.2 Zonas de emplazamiento Clase II</p>
+        <p class="parrafo_2">4.2 Ejemplos de emplazamientos peligrosos</p>
+        <p class="parrafo_2">5. REQUISITOS DE LOS EQUIPOS</p>
+        <p class="parrafo">6. PRESCRIPCIONES GENERALES</p>
+        <p class="parrafo_2">6.1 Condiciones generales</p>
+        <p class="parrafo">6.2 Documentación</p>
+        <p class="parrafo">6.3 Mantenimiento y reparación</p>
+        <p class="parrafo_2">7. EMPLAZAMIENTOS DE CLASE I.</p>
+        <p class="parrafo_2">7.1 Generalidades</p>
+        <p class="parrafo">7.2 Selección de equipos eléctricos (excluidos cables y conductos)</p>
+        <p class="parrafo">7.3 Reglas de instalación de equipos eléctricos</p>
+        <p class="parrafo_2">8. EMPLAZAMIENTOS DE CLASE II.</p>
+        <p class="parrafo_2">8.1 Generalidades</p>
+        <p class="parrafo">8.2 Selección de equipos eléctricos (excluidos cables y conductos)</p>
+        <p class="parrafo">8.3 Reglas de instalación de equipos eléctricos</p>
+        <p class="parrafo_2">9. SISTEMAS DE CABLEADO</p>
+        <p class="parrafo_2">9.1 Generalidades</p>
+        <p class="parrafo">9.2 Requisitos de los cables</p>
+        <p class="parrafo">9.3 Requisitos de los conductos</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>CAMPO DE APLICACIÓN</strong>
+          <strong> </strong>
+          <sup>1</sup>
+        </p>
+        <p>La presente Instrucción tiene por objeto especificar las reglas esenciales para el diseño, ejecución, explotación, mantenimiento y reparación de las instalaciones eléctricas en emplazamientos en los que existe riesgo de explosión o de incendio debido a la presencia de sustancias inflamables para que dichas instalaciones y sus equipos no puedan ser, dentro de límites razonables, la causa de inflamación de dichas sustancias.</p>
+        <p class="parrafo">Dentro del concepto de atmósferas potencialmente explosivas se consideran aquellos emplazamientos en los que se fabriquen, procesen, manipulen, traten, utilicen o almacenen sustancias sólidas, líquidas o gaseosas, susceptibles de inflamarse, deflagrar, o explosionar, siendo sostenida la reacción por el aporte de oxígeno procedente del aire ambiente en que se encuentran.</p>
+        <p class="parrafo">Debido a que son objeto de normativas específicas no se consideran incluidos en esta Instrucción las instalaciones eléctricas siguientes:</p>
+        <p class="parrafo_2">– Las instalaciones correspondientes a los equipos excluidos del campo de aplicación del R.D. 400/1996, de 1 de marzo, por el que se dictan las disposiciones de aplicación de la Directiva del Parlamento Europeo y del Consejo 94/9/CE, relativa a los aparatos y sistemas de protección para uso en atmósferas potencialmente explosivas.</p>
+        <p class="parrafo">– Cualquier otro entorno que disponga de una reglamentación particular.</p>
+        <p class="parrafo_2">En esta Instrucción sólo se consideran los riesgos asociados a la coexistencia en el espacio y tiempo de equipos e instalaciones eléctricas con atmósferas explosivas; para otras eventuales fuentes de ignición se aplicará lo dispuesto en las reglamentaciones pertinentes.</p>
+        <p class="parrafo">Las instalaciones y equipos eléctricos en emplazamientos en los que hay riesgo simultáneo por sustancias inflamables de tipo gaseoso y pulverulento cumplirán los requisitos particulares de cada caso.</p>
+        <p class="parrafo">Además de la situación anterior, así como en atmósferas enriquecidas en oxígeno, se pueden requerir medidas especiales en relación con lo aquí prescrito; estas medidas se justificarán en el Proyecto de la instalación.</p>
+        <p class="cita"><sup>1</sup> El alcance de esta Instrucción, en el marco del Reglamento Electrotécnico para Baja Tensión, se limita a los equipos e instalaciones eléctricas de baja tensión, en atmósferas potencialmente explosivas. Se llama la atención sobre el hecho de que el R.D. 400/1996, por el que se dictan las disposiciones de aplicación de la Directiva 94/9/CE, sobre aparatos y sistemas de protección para uso en atmósferas potencialmente explosivas, afecta a todo tipo de instalaciones en atmósferas potencialmente explosivas, incluyendo aquellas manifestaciones energéticas de origen no eléctrico.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>TERMINOLOGÍA</strong>
+        </p>
+        <p class="parrafo_2">A los efectos de la presente Instrucción se entenderá:</p>
+        <p class="parrafo_2"><strong>Modo de protección:</strong> Conjunto de medidas específicas aplicadas a un equipo eléctrico para impedir la inflamación de una atmósfera explosiva que lo circunde.</p>
+        <p class="parrafo_2"><strong>Envolvente antideflagrante "d":</strong> Modo de protección en el que las partes que pueden inflamar una atmósfera explosiva están situadas dentro de una envolvente que puede soportar los efectos de la presión derivada de una explosión interna de la mezcla y que impide la transmisión de la explosióna la atmósfera explosiva circundante. Las reglas de este modo de protección se definen en la Norma UNE-EN 50.018.</p>
+        <p class="parrafo_2"><strong>Inmersión en aceite "o":</strong> Modo de protección en el que el equipo eléctrico o partes de éste, se sumergen en un líquido de protección de modo que la atmósfera explosiva que pueda encontrarse sobre la superficie del líquido o en el entorno de la envolvente, no resulta inflamado. Las reglas de este modo de protección se definen en la norma UNE-EN 50.015.</p>
+        <p class="parrafo_2"><strong>Seguridad intrínseca "i":</strong> Modo de protección que aplicadoa un circuitooa los circuitos de un equipo hace que cualquier chispa o cualquier efecto térmico producido en condiciones normalizadas, lo que incluye funcionamiento normal y funcionamiento en condiciones de fallo especificadas, no sea capaz de provocar la inflamación de una determinada atmósfera explosiva. Las reglas de este modo de protección se definen en la norma UNE-EN 50.020.</p>
+        <p class="parrafo_2"><strong>Sistema de seguridad intrínseca:</strong> Conjunto de materiales y equipos eléctricos interconectados entre sí, descritos en un documento, en el que los circuitos o partes de circuitos destinados a ser empleados en atmósferas con riesgo de explosión, son de seguridad intrínseca. Las reglas a que deben someterse estos sistemas se encuentran en la norma UNE-EN 50.039.</p>
+        <p class="parrafo_2"><strong>Categoría de aparatos:</strong> Clasificación de los equipos eléctricos o no eléctricos establecida por la Directiva 94/9/CE en función de la peligrosidad del emplazamiento en que se van a utilizar. Dentro del Grupo II<sup>2</sup> de aparatos se distinguen:</p>
+        <p class="parrafo_2"><strong>Categoría 1: </strong>Aparatos diseñados para que puedan funcionar dentro de los parámetros operativos determinados por el fabricante y asegurar un nivel de protección muy alto</p>
+        <p class="parrafo_2"><strong>Categoría 2: </strong>Aparatos diseñados para poder funcionar en las condiciones prácticas fijadas por el fabricante y asegurar un alto nivel de protección.</p>
+        <p class="parrafo_2"><strong>Categoría 3: </strong>Aparatos diseñados para poder funcionar en las condiciones prácticas fijadas por el fabricante y asegurar un nivel normal de protección.</p>
+        <p class="parrafo_2"><strong>Declaración CE de conformidad:</strong> Documento emitido por el fabricante, o por su representante legal, por el que se afirma que un determinado aparato, sistema o componente cumple todas las prescripciones de la directiva o directivas aplicables.</p>
+        <p class="cita"><sup>2</sup> No se consideran las categorías del Grupo I por pertenecer a un entorno reglamentario ‒minas‒ distinto a este.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>FUNDAMENTOS PARA ALCANZAR LA SEGURIDAD</strong>
+        </p>
+        <p class="parrafo_2">El procedimiento para alcanzar un nivel de seguridad aceptable se fundamenta en el empleo de equipamiento construido y seleccionado de acuerdo a ciertas reglas así como en la adopción de medidas de seguridad especiales de instalación, inspección, mantenimiento y reparación, en relación con la acotación del riesgo de presencia de atmósfera explosiva mediante una clasificación de los emplazamientos en los que se pueden producir atmósferas explosivas.</p>
+        <p class="parrafo">Según la clasificación en que se incluye el emplazamiento, es necesario recurrir a un tipo determinado de medidas constructivas de los equipos, de instalación, supervisión o intervención, como se detalla en la presente Instrucción y normas que en ella se citan.</p>
+        <p class="parrafo">Adicionalmente, es preciso llevar a cabo la explotación, conservación y mantenimiento de la instalación y sus componentes, dentro de unos límites estrictos, para que las condiciones de seguridad no se vean comprometidas durante su vida útil.</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>CLASIFICACIÓN DE EMPLAZAMIENTOS</strong>
+        </p>
+        <p class="parrafo_2">Para establecer los requisitos que han de satisfacer los distintos elementos constitutivos de la instalación eléctrica en emplazamientos con atmósferas potencialmente explosivas, estos emplazamientos se agrupan en dos clases según la naturaleza de la sustancia inflamable, denominadas como Clase I si el riesgo es debido a gases, vapores o nieblas y como Clase II si el riesgo es debido a polvo.</p>
+        <p class="parrafo">En las anteriores clases se establece una subdivisión en zonas según la probabilidad de presencia de la atmósfera potencialmente explosiva.</p>
+        <p class="parrafo">La clasificación de emplazamientos se llevará a cabo por un técnico competente que justificarán los criterios y procedimientos aplicados. Esta decisión tendrá preferencia sobre las interpretaciones literales o ejemplos que figuran en los textos y figuras de los documentos de referencia que se citan para establecer esta clasificación.</p>
+        <p class="parrafo_2">
+          <strong>4.1 Clases de emplazamientos</strong>
+        </p>
+        <p class="parrafo_2">Los emplazamientos se agrupan como sigue:</p>
+        <p class="parrafo_2"><em>Clase I: </em>Comprende los emplazamientos en los que hay o puede haber gases, vapores o nieblas en cantidad suficiente para producir atmósferas explosivas o inflamables; se incluyen en esta clase los lugares en los que hay o puede haber líquidos inflamables.</p>
+        <p class="parrafo"><em>Clase II: </em>Comprende los emplazamientos en los que hay o puede haber polvo inflamable</p>
+        <p class="parrafo_2">4.1.1 Zonas de emplazamientos Clase I</p>
+        <p class="parrafo_2">Se distinguen:</p>
+        <p class="parrafo_2">Zona 0: Emplazamiento en el que la atmósfera explosiva constuida por una mezcla de aire de sustancias inflamables en forma de gas, vapor,o niebla, está presente de modo permanente, o por un espacio de tiempo prolongado, o frecuentemente.</p>
+        <p class="parrafo">Zona 1: Emplazamiento en el que cabe contar, en condiciones normales de funcionamiento, con la formación ocasional de atmósfera explosiva constituida por una mezcla con aire de sustancias inflamables en forma de gas, vapor o niebla.</p>
+        <p class="parrafo">Zona 2: Emplazamiento en el que no cabe contar, en condiciones normales de funcionamiento, con la formación de atmósfera explosiva constituida por una mezcla con aire de sustancias inflamables en forma de gas, vapor o niebla o, en la que, en caso de formarse, dicha atmósfera explosiva sólo subsiste por espacios de tiempo muy breves.</p>
+        <p class="parrafo_2">En la Norma UNE-EN 60079-10 se recogen reglas precisas para establecer zonas en emplazamientos de Clase I.</p>
+        <p class="parrafo_2">4.1.2 Zonas de emplazamiento Clase II</p>
+        <p class="parrafo_2">Se distinguen:</p>
+        <p class="parrafo_2">Zona 20: Emplazamiento en el que la atmósfera explosiva en forma de nube de polvo inflamable en el aire está presente de forma permanente, o por un espacio de tiempo prolongado, o frecuentemente.</p>
+        <p class="parrafo">Las capas en sí mismas no constituyen una zona 20. En general estas condiciones se dan en el interior de conducciones, recipientes, etc. Los emplazamientos en los que hay capas de polvo pero no hay nubes de forma continua o durante largos períodos de tiempo, no entran en este concepto.</p>
+        <p class="parrafo">Zona 21: Emplazamientos en los que cabe contar con la formación ocasional, en condiciones normales de funcionamiento, de una atmósfera explosiva, en forma de nube de polvo inflamable en el aire.</p>
+        <p class="parrafo">Esta zona puede incluir entre otros, los emplazamientos en la inmediata vecindad de, por ejemplo, lugares de vaciado o llenado de polvo.</p>
+        <p class="parrafo">Zona 22: Emplazamientos en el que no cabe contar, en condiciones normales de funcionamiento, con la formación de una atmósfera explosiva peligrosa en forma de nube de polvo inflamable en el aire o en la que, en caso de formarse dicha atmósfera explosiva, sólo subsiste por breve espacio de tiempo.</p>
+        <p class="parrafo">Esta zona puede incluir, entre otros, entornos próximos de sistemas conteniendo polvo de los que puede haber fugas y formar depósitos de polvo.</p>
+        <p class="parrafo_2">En la Norma CEI 61241-3 se recogen reglas para establecer zonas en emplazamientos de Clase II.</p>
+        <p class="parrafo_2">
+          <strong>4.2 Ejemplos de emplazamientos peligrosos</strong>
+        </p>
+        <p class="parrafo_2">A título orientativo, sin que esta lista sea exhaustiva, y salvo que el proyectista pueda justificar que no existe el correspondiente riesgo, son ejemplos de emplazamientos peligrosos:</p>
+        <p class="parrafo_2">– De Clase I:</p>
+        <p class="parrafo_2">● Lugares donde se trasvasen líquidos volátiles inflamables de un recipiente a otro.</p>
+        <p class="parrafo">● Garajes y talleres de reparación de vehículos. Se excluyen los garajes de uso privado para estacionamiento de 5 vehículos o menos.</p>
+        <p class="parrafo">● Interior de cabinas de pintura donde se usen sistemas de pulverización y su entorno cercano cuando se utilicen disolventes.</p>
+        <p class="parrafo">● Secaderos de material con disolventes inflamables.</p>
+        <p class="parrafo">● Locales de extracción de grasas y aceites que utilicen disolventes inflamables.</p>
+        <p class="parrafo">● Locales con depósitos de líquidos inflamables abiertos o que se puedan abrir.</p>
+        <p class="parrafo">● Zonas de lavanderías y tintorerías en las que se empleen líquidos inflamables.</p>
+        <p class="parrafo">● Salas de gasógenos.</p>
+        <p class="parrafo">● Instalaciones donde se produzcan, manipulen, almacenen o consuman gases inflamables.</p>
+        <p class="parrafo">● Salas de bombas y/o de compresores de líquidos y gases inflamables.</p>
+        <p class="parrafo">● Interiores de refrigeradores y congeladores en los que se almacenen materias inflamables en recipientes abiertos, fácilmente perforables o con cierres poco consistentes.</p>
+        <p class="parrafo_2">– De Clase II:</p>
+        <p class="parrafo_2">● Zonas de trabajo, manipulación y almacenamiento de la industria alimentaria que maneja granos y derivados.</p>
+        <p class="parrafo">● Zonas de trabajo y manipulación de industrias químicas y farmacéuticas en las que se produce polvo.</p>
+        <p class="parrafo">● Emplazamientos de pulverización de carbón y de su utilización subsiguiente.</p>
+        <p class="parrafo">● Plantas de coquización.</p>
+        <p class="parrafo">● Plantas de producción y manipulación de azufre.</p>
+        <p class="parrafo">● Zonas en las que se producen, procesan, manipulan o empaquetan polvos metálicos de materiales ligeros (Al, Mg, etc.)</p>
+        <p class="parrafo">● Almacenes y muelles de expedición donde los materiales pulverulentos se almacenan o manipulan en sacos y contenedores.</p>
+        <p class="parrafo">● Zonas de tratamiento de textiles como algodón, etc.</p>
+        <p class="parrafo">● Plantas de fabricación y procesado de fibras.</p>
+        <p class="parrafo">● Plantas desmotadoras de algodón.</p>
+        <p class="parrafo">● Plantas de procesado de lino.</p>
+        <p class="parrafo">● Talleres de confección.</p>
+        <p class="parrafo">● Industria de procesado de madera tales como carpinterías, etc.</p>
+        <p class="parrafo_2">
+          <strong>5.</strong>
+          <strong>REQUISITOS DE LOS EQUIPOS.</strong>
+        </p>
+        <p class="parrafo_2">Los equipos eléctricos y los sistemas de protección y sus componentes destinados a su empleo en emplazamientos comprendidos en el ámbito de ésta Instrucción, deberán cumplir las condiciones que se establecen en el R.D. 400/1996 de 1 de marzo.</p>
+        <p class="parrafo">Para aquellos elementos que no entran en el ámbito del mencionado R.D. 400/1996 y para los que se estipule el cumplimiento de una norma, se considerarán conformes con las prescripciones de la presente Instrucción aquellos que estén amparados por las correspondientes certificaciones de conformidad otorgadas por Organismos de control autorizados según lo dispuesto en el R. D. 2200/1995, de 28 de diciembre.</p>
+        <p class="parrafo_2">
+          <strong>6.</strong>
+          <strong>PRESCRIPCIONES GENERALES</strong>
+        </p>
+        <p class="parrafo_2">En todo lo que aquí no se indique explícitamente son de aplicación, en lo que corresponda, las demás Instrucciones de este Reglamento; caso de conflicto predominará la interpretación correspondiente a esta Instrucción.</p>
+        <p class="parrafo_2">
+          <strong>6.1 Condiciones generales</strong>
+        </p>
+        <p class="parrafo_2">En la medida de lo posible, los equipos eléctricos se ubicarán en áreas no peligrosas. Si esto no es posible, la instalación se llevará a cabo donde exista menor riesgo.</p>
+        <p class="parrafo">Los equipos eléctricos se instalarán de acuerdo con las condiciones de su documentación particular, se pondrá especial cuidado en asegurar que las partes recambiables, tales como lámparas, sean del tipo y características asignadas correctas. Las inspecciones de las instalaciones objeto de esta Instrucción se realizarán según lo establecido en la norma UNE-EN 60079-17.</p>
+        <p class="parrafo">En el caso de circunstancias excepcionales, como por ejemplo, ciertas tareas de reparación que precisan soldadura, trabajos de investigación y desarrollo (operación en plantas piloto, realización de trabajos experimentales etc) no será necesario que se reúnan todos los requisitos de los capítulos 6, 7 y 8 siguientes, supuesto que la instalación va a estar en operación solo durante un periodo limitado, está bajo la supervisión de personal especialmente formado, y se reúnen las siguientes condiciones:</p>
+        <p class="parrafo_2">– Se han tomado medidas para prevenir la aparición de atmósferas explosivas peligrosas.</p>
+        <p class="parrafo">– Se han tomado medidas para asegurar que el equipo eléctrico se desconecta en caso de formación de una atmósfera peligrosa.</p>
+        <p class="parrafo">– Se han tomado medidas para asegurar que las personas no van a resultar dañadas por incendios o explosiones.</p>
+        <p class="parrafo_2">y adicionalmente, estas medidas se han comunicado por escrito a personal que está familiarizado con los requisitos de esta Instrucción y con las normas que tratan de equipos e instalaciones en lugares con riesgo de explosión y tienen acceso a toda la información necesaria para llevar a cabo la actuación.</p>
+        <p class="parrafo">Para llevar a cabo estas operaciones será necesaria la previa elaboración de un permiso especial de trabajo autorizado por el responsable de la planta o instalación.</p>
+        <p class="parrafo_2">
+          <strong>6.2 Documentación</strong>
+        </p>
+        <p class="parrafo_2">Para instalaciones nuevas o ampliaciones de las existentes, en el ámbito de aplicación de la presente ITC, se incluirá la siguiente información (según corresponda) en el proyecto de la instalación:</p>
+        <p class="parrafo_2">– Clasificación de emplazamientos y plano representativo.</p>
+        <p class="parrafo">– Adecuación de la categoría de los equipos a los diferentes emplazamientos y zonas.</p>
+        <p class="parrafo">– Instrucciones de implantación, instalación y conexión de los aparatos y equipos.</p>
+        <p class="parrafo">– Condiciones especiales de instalación y utilización.</p>
+        <p class="parrafo_2">El propietario deberá conservar:</p>
+        <p class="parrafo_2">– Copia del proyecto en su forma definitiva.</p>
+        <p class="parrafo">– Manual de instrucciones de los equipos.</p>
+        <p class="parrafo">– Declaraciones de Conformidad de los equipos.</p>
+        <p class="parrafo">– Documentos descriptivos del sistema para los de seguridad intrínseca.</p>
+        <p class="parrafo">– Todo documento que pueda ser relevante para las condiciones de seguridad.</p>
+        <p class="parrafo_2">
+          <strong>6.3 Mantenimiento y reparación</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones objeto de esta instrucción se someterán a un mantenimiento que garantice la conservación de las condiciones de seguridad. Como criterio al respecto, se seguirá lo establecido en la norma UNE-EN 60079-17.</p>
+        <p class="parrafo">La reparación de equipos y sistemas de protección deberán ser llevados a cabo de forma que no comprometa la seguridad. Como criterio técnico se seguirá lo establecido en la norma CEI 60079-19.</p>
+        <p class="parrafo_2">
+          <strong>7.</strong>
+          <strong>EMPLAZAMIENTOS DE CLASE I.</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>7.1 Generalidades</strong>
+        </p>
+        <p class="parrafo_2">Estas instalaciones eléctricas se ejecutarán de acuerdo a lo especificado en la norma UNE-EN 60.079-14, salvo que se contradiga con lo indicado en la presente Instrucción, la cual prevalecerá sobre la norma.</p>
+        <p class="parrafo_2">
+          <strong>7.2 Selección de equipos eléctricos (excluidos cables y conductos).</strong>
+        </p>
+        <p class="parrafo_2">Para seleccionar un equipo eléctrico el procedimiento a seguir comprende las siguientes fases:</p>
+        <p class="parrafo_2">1) Caracterizar la sustancia o sustancias implicadas en el proceso.</p>
+        <p class="parrafo">2) Clasificar el emplazamiento en el que se va a instalar el equipo.</p>
+        <p class="parrafo">3) Seleccionar los equipos eléctricos de tal manera que la categoría esté de acuerdo a las limitaciones de la tabla 1 y que éstos cumplan con los requisitos que les sea de aplicación, establecidos en la norma UNE-EN 60079-14. Si la temperatura ambiente prevista no está en el rango comprendido entre -20 ºC y +40 ºC el equipo deberá estar marcado para trabajar en el rango de temperatura correspondiente.</p>
+        <p class="parrafo">4) Instalar el equipo de acuerdo con las instrucciones del fabricante.</p>
+        <p class="centro_cursiva">Tabla 1. Categorías de equipos admisibles para atmósfera de gases y vapores</p>
+        <p class="parrafo"> </p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Categoría del equipo</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Zonas en que se admiten</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Categoría 1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0, 1 y 2</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Categoría 2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1 y 2</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Categoría 3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">
+          <strong>7.3 Reglas de instalación de equipos eléctricos.</strong>
+        </p>
+        <p class="parrafo_2">La instalación de los equipos eléctricos se realizará de acuerdo a lo especificado en la norma UNE-EN 60079-14.</p>
+        <p class="parrafo">Adicionalmente se tendrá en cuenta que la utilización de equipos con modo de protección por inmersión en aceite "o" queda restringida a equipos de instalación fija y que no tengan elementos generadores de arco en el seno del líquido de protección. Para la instalación de sistemas de seguridad intrínseca, se tendrá en cuenta también, lo indicado en la Norma UNE-EN 50039.</p>
+        <p class="parrafo_2">
+          <strong>8.</strong>
+          <strong>EMPLAZAMIENTOS DE CLASE II.</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>8.1 Generalidades.</strong>
+        </p>
+        <p class="parrafo_2">Estas instalaciones se ejecutarán de acuerdo a lo especificado en la norma EN 50281-1-2, salvo que contradiga con lo indicado en la presente Instrucción, la cual prevalecerá sobre la norma.</p>
+        <p class="parrafo_2">
+          <strong>8.2 Selección de equipos eléctricos (excluidos cables y conductos).</strong>
+        </p>
+        <p class="parrafo_2">Para seleccionar un equipo eléctrico el procedimiento a seguir comprende las siguientes fases:</p>
+        <p class="parrafo_2">1) Caracterizar la sustancia o sustancias implicadas en el proceso.</p>
+        <p class="parrafo">2) Clasificar el emplazamiento en el que se va a instalar el equipo</p>
+        <p class="parrafo">3) Seleccionar los equipos eléctricos de tal manera que la categoría esté de acuerdo a las limitaciones de la tabla 2 y que estos cumplan con los requisitos que les sea de aplicación, establecidos en la norma EN 50281-1-2.</p>
+        <p class="parrafo">4) Instalar el equipo de acuerdo con las instrucciones del fabricante.</p>
+        <p class="centro_cursiva">Tabla 2. Categorías de equipos admisibles para atmósferas con polvo explosivo</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Categoría del equipo</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Zonas en que se admiten</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Categoría 1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20, 21 y 22</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Categoría 2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">21 y 22</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Categoría 3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">22</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">
+          <strong>8.3 Reglas de instalación de equipos eléctricos.</strong>
+        </p>
+        <p class="parrafo_2">La instalación de los equipos eléctricos destinados a emplazamientos de clase II se hará de acuerdo con lo especificado en la norma EN 50281-1-2.</p>
+        <p class="parrafo">Es necesario tener presente que si un equipo eléctrico dispone de un modo de protección para gases, no garantiza que su protección sea adecuada contra el riesgo de inflamación de polvo.</p>
+        <p class="parrafo_2">
+          <strong>9.</strong>
+          <strong>SISTEMAS DE CABLEADO.</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>9.1 Generalidades.</strong>
+        </p>
+        <p class="parrafo_2">Para instalaciones de seguridad intrínseca, los sistemas de cableado cumplirán los requisitos de la norma UNE-EN 60079-14 y de la norma UNE-EN 50039.</p>
+        <p class="parrafo">Los cables para el resto de las instalaciones tendrán una tensión mínima asignada de 450/750 V.</p>
+        <p class="parrafo">Las entradas de los cables y de los tubos a los aparatos eléctricos se realizarán de acuerdo con el modo de protección previsto. Los orificios de los equipos eléctricos para entradas de cables o tubos que no se utilicen deberán cerrarse mediante piezas acordes con el modo de protección de que vayan dotados dichos equipos.</p>
+        <p class="parrafo">Para las canalizaciones para equipos móviles se tendrá en cuenta lo establecido en la Instrucción ITC MIE-BT 21.</p>
+        <p class="parrafo">La intensidad admisible en los conductores deberá disminuirse en un 15% respecto al valor correspondiente a una instalación convencional. Además todos los cables de longitud igual o superior a 5 m estarán protegidos contra sobrecargas y cortocircuitos; para la protección de sobrecargas se tendrá en cuenta la intensidad de carga resultante fijada en el párrafo anterior y para la protección de cortocircuitos se tendrá en cuenta el valor máximo para un defecto en el comienzo del cable y el valor mínimo correspondiente a un defecto bifásico y franco al final del cable.</p>
+        <p class="parrafo">En el punto de transición de una canalización eléctrica de una zona a otra, o de un emplazamiento peligroso a otro no peligroso, se deberá impedir el paso de gases, vapores o líquidos inflamables. Eso puede precisar del sellado de zanjas, tubos, bandejas, etc., una ventilación adecuada o el relleno de zanjas con arena.</p>
+        <p class="parrafo_2">
+          <strong>9.2 Requisitos de los cables.</strong>
+        </p>
+        <p class="parrafo_2">Los cables a emplear en los sistemas de cableado en los emplazamientos de clase I y clase II serán:</p>
+        <p class="parrafo_2">a) En instalaciones fijas:</p>
+        <p class="parrafo_2">● Cables de tensión asignada mínima 450/750V, aislados con mezclas termoplásticas o termoestables; instalados bajo tubo (según 9.3) metálico rígido o flexible conforme a norma UNE-EN 50086-1.</p>
+        <p class="parrafo">● Cables construidos de modo que dispongan de una protección mecánica; se consideran como tales:</p>
+        <p class="parrafo_2">– Los cables con aislamiento mineral y cubierta metálica, según UNE 21157 parte 1.</p>
+        <p class="parrafo">– Los cables armados con alambre de acero galvanizado y con cubierta externa no metálica, según la serie UNE 21.123.</p>
+        <p class="parrafo_2">Los cables a utilizar en las instalaciones fijas deben cumplir, respecto a la reacción al fuego, lo indicado en la norma UNE 20432-3.</p>
+        <p class="parrafo">b) En alimentación de equipos portátiles o móviles. Se utilizaran cables con cubierta de policloropreno según UNE 21027 parte 4 o UNE 21150, que sean aptos para servicios móviles, de tensión asignada mínima 450/750V, flexibles y de sección mínima 1,5 mm<sup>2</sup>. La utilización de estos cables flexibles se restringirá a lo estrictamente necesario y como máximo a una longitud de 30 m.</p>
+        <p class="parrafo_2">
+          <strong>9.3 Requisitos de los conductos.</strong>
+        </p>
+        <p class="parrafo_2">Cuando el cableado de las instalaciones fijas se realice mediante tubo o canal protector, éstos serán conformes a las especificaciones dadas en las tablas siguientes:</p>
+        <p class="centro_cursiva">Tabla 3. Características mínimas para tubos</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Característica</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Código</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Grado</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la compresión</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Fuerte</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al impacto</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Fuerte</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura mínima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">-5 ºC</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura máxima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">+60 ºC</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al curvado</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1-2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Rígido/curvable</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Propiedades eléctricas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1-2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Continuidad eléctrica/aislante</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración de objetos sólidos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Contra objetos D • 1 mm</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración del agua</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Contra gotas de agua cayendo verticalmente cuando el sistema de tubos está inclinado 15º</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la corrosión de tubos metálicos y compuestos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Protección interior y exterior media</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la tracción</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No declarada</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la propagación de la llama</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No propagador</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a las cargas suspendidas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No declarada</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="centro_cursiva">Tabla 4. Características mínimas para canales protectoras</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Característica</p>
+              </th>
+              <th class="cabeza_tabla" colspan="2">
+                <p class="cabeza_tabla">Grado</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Dimensión del lado mayor de la sección transversal</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">≤ 16 mm</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">&gt; 16 mm</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al impacto</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Fuerte</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Fuerte</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura mínima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">+15 ºC</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">-5 ºC</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura máxima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">+60 ºC</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">+60 ºC</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Propiedades eléctricas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Aislante</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Continuidad eléctrica/aislante</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración de objetos sólidos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">no inferior a 2</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración de agua</p>
+              </td>
+              <td colspan="2">
+                <p class="cuerpo_tabla_centro">No declarada</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la propagación de la llama</p>
+              </td>
+              <td colspan="2">
+                <p class="cuerpo_tabla_centro">No propagador</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">Esto no es aplicable en el caso de canalizaciones bajo tubo que se conecten a aparatos eléctricos con modo de protección antideflagrante provistos de cortafuegos, en donde el tubo resistirá una presión interna mínima de 3 MPa durante 1 minuto y será, o bien de acero sin soldadura, galvanizado interior y exteriormente, conforme a la norma UNE 36582, o bien conforme a la norma UNE EN 50086, con el grado de resistencia de la tabla siguiente:</p>
+        <p class="centro_cursiva">Tabla 5. Características mínimas para tubos que se conectan a aparatos eléctricos con modo de protección antideflagrante provistos de cortafuegos</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Característica</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Código</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Grado</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la compresión</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Muy Fuerte</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al impacto</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Muy Fuerte</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura mínima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">-15 ºC</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Temperatura máxima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">+90 ºC</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia al curvado</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Rígido</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Propiedades eléctricas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Continuidad eléctrica</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración de objetos sólidos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Contra el polvo</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la penetración del agua</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Contra gotas de agua cayendo verticalmente cuando el sistema de tubos está inclinado 15º</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la corrosión de tubos metálicos y compuestos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Protección interior y exterior elevada</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la tracción</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Ligera</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a la propagación de la llama</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No propagador</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Resistencia a las cargas suspendidas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Ligero</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">Cuando por exigencias de la instalación, se precisen tubos flexibles (p.ej.: por existir vibraciones en la conexión del cableado bajo tubo), estos serán metálicos corrugados de material resistente a la oxidación y características semejantes a los rígidos.</p>
+        <p class="parrafo">Los tubos con conductividad eléctrica deben conectarse a la red de tierra, su continuidad eléctrica quedará convenientemente asegurada. En el caso de utilizar tubos metálicos flexibles, es necesario que la distancia entre dos puesta a tierra consecutivas de los tubos no exceda de 10 metros.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-33" tipo="precepto" titulo="ITC-BT-33">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-33</p>
+        <p class="anexo_tit">INSTALACIONES CON FINES ESPECIALES. INSTALACIONES PROVISIONALES Y TEMPORALES DE OBRAS</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. CARACTERÍSTICAS GENERALES</p>
+        <p class="parrafo_2">2.1 Alimentación</p>
+        <p class="parrafo_2">3. INSTALACIONES DE SEGURIDAD</p>
+        <p class="parrafo_2">3.1 Alumbrado de seguridad</p>
+        <p class="parrafo">3.2 Otros circuitos de seguridad</p>
+        <p class="parrafo_2">4. PROTECCIÓN CONTRA LOS CHOQUES ELÉCTRICOS</p>
+        <p class="parrafo_2">4.1 Medidas de protección contra contactos directos</p>
+        <p class="parrafo">4.2 Medidas de protección contra contactos indirectos</p>
+        <p class="parrafo_2">5. ELECCIÓN E INSTALACIÓN DE LOS EQUIPOS</p>
+        <p class="parrafo_2">5.1 Reglas comunes</p>
+        <p class="parrafo">5.2 Canalizaciones</p>
+        <p class="parrafo">5.3 Cables eléctricos</p>
+        <p class="parrafo_2">6. APARAMENTA</p>
+        <p class="parrafo_2">6.1 Aparamenta de mando y seccionamiento</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>CAMPO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">Las prescripciones particulares de esta instrucción se aplican a las instalaciones temporales destinadas:</p>
+        <p class="parrafo_2">– a la construcción de nuevos edificios</p>
+        <p class="parrafo">– a trabajos de reparación, modificación, extensión o demolición de edificios existentes.</p>
+        <p class="parrafo">– a trabajos públicos</p>
+        <p class="parrafo">– a trabajos de excavación, y</p>
+        <p class="parrafo">– a trabajos similares.</p>
+        <p class="parrafo_2">Las partes de edificios que sufran transformaciones tales como ampliaciones, reparaciones importantes o demoliciones serán consideradas como obras durante el tiempo que duren los trabajos correspondientes, en la medida que esos trabajos necesitan la realización de una instalación eléctrica temporal.</p>
+        <p class="parrafo">En los locales de servicios de las obras (oficinas, vestuarios, salas de reunión, restaurantes, dormitorios, locales sanitarios, etc.) serán aplicables las prescripciones técnicas recogidas en la ITC-BT-24.</p>
+        <p class="parrafo">En las instalaciones de obras, las instalaciones fijas están limitadas al conjunto que comprende el cuadro general de mando y los dispositivos de protección principales.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>CARACTERÍSTICAS GENERALES</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1 Alimentación</strong>
+        </p>
+        <p class="parrafo_2">Toda instalación deberá estar identificada según la fuente que la alimente y sólo debe incluir elementos alimentados por ella, excepto circuitos de alimentación complementaria de señalización o control.</p>
+        <p class="parrafo">Una misma obra puede ser alimentada a partir de varias fuentes de alimentación incluidos los generadores fijos o móviles.</p>
+        <p class="parrafo">Las distintas alimentaciones deben ser conectadas mediante dispositivos diseñados de modo que impidan la interconexión entre ellas.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>INSTALACIONES DE SEGURIDAD</strong>
+        </p>
+        <p class="parrafo_2">Cuando debido al posible fallo de la alimentación normal de un circuito o aparato existan riesgos para la seguridad de las personas, deberán preverse instalaciones de seguridad.</p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Alumbrado de seguridad</strong>
+        </p>
+        <p class="parrafo_2">Según el tipo de obra o la reglamentación existente, el alumbrado de seguridad permitirá, en caso de fallo del alumbrado normal, la evacuación del personal y la puesta en marcha de las medidas de seguridad previstas.</p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Otros circuitos de seguridad</strong>
+        </p>
+        <p class="parrafo_2">Otros circuitos como los que alimentan bombas de elevación, ventiladores y elevadores o montacargas para personas, cuya continuidad de servicio sea esencial, deberán preverse de tal forma que la protección contra los contactos indirectos quede asegurada sin corte automático de la alimentación. Dichos circuitos estarán alimentados por un sistema automático con corte breve que podrá ser de uno de los tipos siguientes:</p>
+        <p class="parrafo_2">– Grupos generadores con motores térmicos, o</p>
+        <p class="parrafo">– Baterías de acumuladores asociadas a un rectificador o un ondulador.</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>PROTECCIÓN CONTRA LOS CHOQUES ELÉCTRICOS</strong>
+        </p>
+        <p class="parrafo_2">Las medidas generales para la protección contra los choques eléctricos serán las indicadas en la ITC-BT-24, teniendo en cuenta lo indicado a continuación:</p>
+        <p class="parrafo_2">
+          <strong>4.1</strong>
+          <strong>Medidas de protección contra contactos directos</strong>
+        </p>
+        <p class="parrafo_2">Las medidas de protección contra los contactos directos serán preferentemente:</p>
+        <p class="parrafo_2">– Protección por aislamiento de partes activas</p>
+        <p class="parrafo">– Protección por medio de barreras o envolventes.</p>
+        <p class="parrafo_2">
+          <strong>4.2</strong>
+          <strong>Medidas de protección contra contactos indirectos</strong>
+        </p>
+        <p class="parrafo_2">Además de las medidas generales señaladas en la ITC-BT-24, serán aplicables las siguientes:</p>
+        <p class="parrafo_2">Cuando la protección de las personas contra los contactos indirectos está asegurada por corte automático de la alimentación, según esquema de alimentación TT, la tensión límite convencional no debe ser superior a 24 V de valor eficaz en corriente alterna, ó 60 V en corriente continua.</p>
+        <p class="parrafo">Cada base o grupo de bases de toma de corriente deben estar protegidas por dispositivos diferenciales de corriente diferencial residual asignada igual como máximo a 30 mA; o bien alimentadas a muy baja tensión de seguridad MBTS; o bien protegidas por separación eléctrica de los circuitos mediante un transformador individual.</p>
+        <p class="parrafo_2">
+          <strong>5.</strong>
+          <strong>ELECCIÓN E INSTALACIÓN DE LOS EQUIPOS</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>5.1</strong>
+          <strong>Reglas comunes</strong>
+        </p>
+        <p class="parrafo_2">Todos los conjuntos de aparamenta empleados en las instalaciones de obras deben cumplir las prescripciones de la norma UNE-EN 60.439-4.</p>
+        <p class="parrafo">Las envolventes, aparamenta, las tomas de corriente y los elementos de la instalación que estén a la intemperie, deberán tener como mínimo un grado de protección IP45, según UNE 20.324.</p>
+        <p class="parrafo">El resto de los equipos tendrán los grados de protección adecuados, según las influencias externas determinadas por las condiciones de instalación.</p>
+        <p class="parrafo_2">
+          <strong>5.2</strong>
+          <strong>Canalizaciones</strong>
+        </p>
+        <p class="parrafo_2">Las canalizaciones deben estar dispuestas de manera que no se ejerza ningún esfuerzo sobre las conexiones de los cables, a menos que estén previstas especialmente a este efecto.</p>
+        <p class="parrafo">Con el fin de evitar el deterioro de los cables, éstos no deben estar tendidos en pasos para peatones o vehículos. Si tal tendido es necesario, debe disponerse protección especial contra los daños mecánicos y contra contactos con elementos de la construcción.</p>
+        <p class="parrafo">En caso de cables enterrados su instalación será conforme a lo indicado en ITC-BT-20 e ITC-BT-21.</p>
+        <p class="parrafo">El grado de protección mínimo suministrado por las canalizaciones será el siguiente:</p>
+        <p class="parrafo_2">Para tubos, según UNE-EN 50.086-1:</p>
+        <p class="parrafo_2">– Resistencia a la compresión «Muy Fuerte»</p>
+        <p class="parrafo">– Resistencia al impacto «Muy Fuerte»</p>
+        <p class="parrafo_2">Para otros tipos de canalización:</p>
+        <p class="parrafo_2">– Resistencia a la compresión y Resistencia al Impacto, equivalentes a las definidas para tubos.</p>
+        <p class="parrafo_2">
+          <strong>5.3</strong>
+          <strong>Cables eléctricos</strong>
+        </p>
+        <p class="parrafo_2">Los cables a emplear en acometidas e instalaciones exteriores serán de tensión asignada mínima 450/750V, con cubierta de policloropreno o similar, según UNE 21.027 ó UNE 21.150 y aptos para servicios móviles.</p>
+        <p class="parrafo">Para instalaciones interiores los cables serán de tensión asignada mínima 300/500V, según UNE 21.027 ó UNE 21.031, y aptos para servicios móviles.</p>
+        <p class="parrafo_2">
+          <strong>6.</strong>
+          <strong>APARAMENTA</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>6.1 Aparamenta de mando y seccionamiento</strong>
+        </p>
+        <p class="parrafo_2">En el origen de cada instalación debe existir un conjunto que incluya el cuadro general de mando y los dispositivos de protección principales.</p>
+        <p class="parrafo">En la alimentación de cada sector de distribución debe existir uno o varios dispositivos que aseguren las funciones de seccionamiento y de corte omnipolar en carga.</p>
+        <p class="parrafo">En la alimentación de todos los aparatos de utilización deben existir medios de seccionamiento y corte omnipolar en carga.</p>
+        <p class="parrafo">Los dispositivos de seccionamiento y de protección de los circuitos de distribución pueden estar incluidos en el cuadro principal o en cuadros distintos del principal.</p>
+        <p class="parrafo">Los dispositivos de seccionamiento de las alimentaciones de cada sector deben poder ser bloqueados en posición abierta (por ejemplo, por enclavamiento o ubicación en el interior de una envolvente cerrada con llave).</p>
+        <p class="parrafo">La alimentación de los aparatos de utilización debe realizarse a partir de cuadros de distribución, en los que se integren:</p>
+        <p class="parrafo_2">– Dispositivos de protección contra las sobreintensidades</p>
+        <p class="parrafo">– Dispositivos de protección contra los contactos indirectos.</p>
+        <p class="parrafo">– Bases de toma de corriente.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

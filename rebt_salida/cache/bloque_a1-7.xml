@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a1-7" tipo="precepto" titulo="Artículo 15">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 15. Acometidas e instalaciones de enlace.</p>
+        <p class="parrafo">1.<em> </em>Se denomina acometida la parte de la instalación de la red de distribución que alimenta la caja o cajas generales de protección o unidad funcional equivalente.</p>
+        <p class="parrafo">La acometida será responsabilidad de la empresa suministradora, que asumirá la inspección y verificación final.</p>
+        <p class="parrafo">2. Son instalaciones de enlace las que unen la caja general de protección, o cajas generales de protección, incluidas éstas, con las instalaciones interiores o receptoras del usuario.</p>
+        <p class="parrafo">Se componen de: caja general de protección, línea general de alimentación, elementos para la ubicación de contadores, derivación individual, caja para interruptor de control de potencia y dispositivos generales de mando y protección.</p>
+        <p class="parrafo">Las cajas generales de protección alojan elementos de protección de las líneas generales de alimentación y señalan el principio de la propiedad de las instalaciones de los usuarios.</p>
+        <p class="parrafo">Línea general de alimentación es la parte de la instalación que enlaza una caja general de protección con las derivaciones individuales que alimenta.</p>
+        <p class="parrafo">La derivación individual de un abonado parte de la línea general de alimentación y comprende los aparatos de medida, mando y protección.</p>
+        <p class="parrafo">3. Las compañías suministradoras facilitarán los valores máximos previsibles de las potencias o corrientes de cortocircuito de sus redes de distribución, con el fin de que el proyectista tenga en cuenta este dato en sus cálculos.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

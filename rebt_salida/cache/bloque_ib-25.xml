@@ -1,0 +1,1806 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-25" tipo="precepto" titulo="ITC-BT-25">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-25</p>
+        <p class="anexo_tit">INSTALACIONES INTERIORES EN VIVIENDAS. NÚMERO DE CIRCUITOS Y CARACTERÍSTICAS</p>
+        <p class="parrafo">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. GRADO DE ELECTRIFICACIÓN BÁSICO</p>
+        <p class="parrafo">2. CIRCUITOS INTERIORES</p>
+        <p class="parrafo_2">2.1 Protección general</p>
+        <p class="parrafo">2.2 Previsión para instalaciones de sistemas de automatización, gestión técnica de la energía y seguridad</p>
+        <p class="parrafo">2.3 Derivaciones</p>
+        <p class="parrafo_2">2.3.1 Electrificación básica</p>
+        <p class="parrafo">2.3.2 Electrificación elevada</p>
+        <p class="parrafo_2">3. DETERMINACIÓN DEL NÚMERO DE CIRCUITOS, SECCIÓN DE LOS CONDUCTORES Y DE LAS CAÍDAS DE TENSIÓN.</p>
+        <p class="parrafo">4. PUNTOS DE UTILIZACIÓN</p>
+        <p class="parrafo_2">
+          <strong>1. GRADO DE ELECTRIFICACIÓN BÁSICO</strong>
+        </p>
+        <p class="parrafo_2">El grado de electrificación básico se plantea como el sistema mínimo, a los efectos de uso, de la instalación interior de las viviendas en edificios nuevos tal como se indica en la ITC-BT-10. Su objeto es permitir la utilización de los aparatos electrodomésticos de uso básico sin necesidad de obras posteriores de adecuación.</p>
+        <p class="parrafo">La capacidad de instalación se corresponderá como mínimo al valor de la intensidad asignada determinada para el interruptor general automático. Igualmente se cumplirá esta condición para la derivación individual.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>CIRCUITOS INTERIORES</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1</strong>
+          <strong>Protección general</strong>
+        </p>
+        <p class="parrafo_2">Los circuitos de protección privados se ejecutarán según lo dispuesto en la ITC-BT-17 y constarán como mínimo de:</p>
+        <p class="parrafo_2">– Un interruptor general automático de corte omnipolar con accionamiento manual, de intensidad nominal mínima de 25 A y dispositivos de protección contra sobrecargas y cortocircuitos. El interruptor general es independiente del interruptor para el control de potencia (ICP) y no puede ser sustituido por éste.</p>
+        <p class="parrafo">– Uno o varios interruptores diferenciales que garanticen la protección contra contactos indirectos de todos los circuitos, con una intensidad diferencial-residual máxima de 30 mA e intensidad asignada superior o igual que la del interruptor general. Cuando se usen interruptores diferenciales en serie, habrá que garantizar que todos los circuitos quedan protegidos frente a intensidades diferenciales-residuales de 30 mA como máximo, pudiéndose instalar otros diferenciales de intensidad superior a 30 mA en serie, siempre que se cumpla lo anterior.</p>
+        <p class="parrafo">Para instalaciones de viviendas alimentadas con redes diferentes a las de tipo TT, que eventualmente pudieran autorizarse, la protección contra contactos indirectos se realizará según se indica en el apartado 4.1 de la ITC-BT-24.</p>
+        <p class="parrafo">– Dispositivos de protección contra sobretensiones, si fuese necesario, conforme a la ITC-BT-23.</p>
+        <p class="parrafo_2">
+          <strong>2.2</strong>
+          <strong>Previsión para instalaciones de sistemas de automatización, gestión técnica de la energía y seguridad</strong>
+        </p>
+        <p class="parrafo_2">En el caso de instalaciones de sistemas de automatización, gestión técnica de la energía y de seguridad, que se desarrolla en la ITC-BT-51, la alimentación a los dispositivos de control y mando centralizado de los sistemas electrónicos se hará mediante un interruptor automático de corte omnipolar con dispositivo de protección contra sobrecargas y cortocircuitos que se podrá situar aguas arriba de cualquier interruptor diferencial, siempre que su alimentación se realice a través de una fuente de MBTS o MBTP, según ITC-BT-36.</p>
+        <p class="parrafo_2">
+          <strong>2.3</strong>
+          <strong>Derivaciones</strong>
+        </p>
+        <p class="parrafo_2">Los tipos de circuitos independientes serán los que se indican a continuación y estarán protegidos cada uno de ellos por un interruptor automático de corte omnipolar con accionamiento manual y dispositivos de protección contra sobrecargas y cortocircuitos con una intensidad asignada según su aplicación e indicada en el apartado 3.</p>
+        <p class="parrafo_2">2.3.1 Electrificación básica</p>
+        <p class="parrafo_2">Circuitos independientes</p>
+        <p class="parrafo_2">C<sub>1</sub> circuito de distribución interna, destinado a alimentar los puntos de iluminación.</p>
+        <p class="parrafo">C<sub>2</sub> circuito de distribución interna, destinado a tomas de corriente de uso general y frigorífico.</p>
+        <p class="parrafo">C<sub>3</sub> circuito de distribución interna, destinado a alimentar la cocina y horno.</p>
+        <p class="parrafo">C<sub>4</sub> circuito de distribución interna, destinado a alimentar la lavadora, lavavajillas y termo eléctrico.</p>
+        <p class="parrafo">C<sub>5</sub> circuito de distribución interna, destinado a alimentar tomas de corriente de los cuartos de baño, así como las bases auxiliares del cuarto de cocina.</p>
+        <p class="parrafo_2">2.3.2 Electrificación elevada</p>
+        <p class="parrafo_2">Es el caso de viviendas con una previsión importante de aparatos electrodomésticos que obligue a instalar mas de un circuito de cualquiera de los tipos descritos anteriormente, así como con previsión de sistemas de calefacción eléctrica, acondicionamiento de aire, automatización, gestión técnica de la energía y seguridad o con superficies útiles de las viviendas superiores a 160 m<sup>2</sup>. En este caso se instalará, además de los correspondientes a la electrificación básica, los siguientes circuitos:</p>
+        <p class="parrafo_2">C<sub>6</sub> Circuito adicional del tipo C<sub>1</sub>, por cada 30 puntos de luz.</p>
+        <p class="parrafo">C<sub>7</sub> Circuito adicional del tipo C<sub>2</sub>, por cada 20 tomas de corriente de uso general o si la superficie útil de la vivienda es mayor de 160 m<sup>2</sup>.</p>
+        <p class="parrafo">C<sub>8</sub> Circuito de distribución interna, destinado a la instalación de calefacción eléctrica, cuando existe previsión de ésta.</p>
+        <p class="parrafo">C<sub>9</sub> Circuito de distribución interna, destinado a la instalación aire acondicionado, cuando existe previsión de éste</p>
+        <p class="parrafo">C<sub>10</sub> Circuito de distribución interna, destinado a la instalación de una secadora independiente</p>
+        <p class="parrafo">C<sub>11</sub> Circuito de distribución interna, destinado a la alimentación del sistema de automatización, gestión técnica de la energía y de seguridad, cuando exista previsión de éste.</p>
+        <p class="parrafo">C<sub>12</sub> Circuitos adicionales de cualquiera de los tipos C<sub>3</sub> o C<sub>4</sub>, cuando se prevean, o circuito adicional del tipo C<sub>5</sub>, cuando su número de tomas de corriente exceda de 6.</p>
+        <p class="parrafo_2">Tanto para la electrificación básica como para la elevada, se colocará, como mínimo, un interruptor diferencial de las características indicadas en el apartado 2.1 por cada cinco circuitos instalados.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>DETERMINACIÓN DEL NÚMERO DE CIRCUITOS, SECCIÓN DE LOS CONDUCTORES Y DE LAS CAÍDAS DE TENSIÓN</strong>
+        </p>
+        <p class="parrafo_2">En la Tabla 1 se relacionan los circuitos mínimos previstos con sus características eléctricas.</p>
+        <p class="parrafo">La sección mínima indicada por circuito está calculada para un número limitado de puntos de utilización. De aumentarse el número de puntos de utilización, será necesaria la instalación de circuitos adicionales correspondientes.</p>
+        <p class="parrafo">Cada accesorio o elemento del circuito en cuestión tendrá una corriente asignada, no inferior al valor de la intensidad prevista del receptor o receptores a conectar.</p>
+        <p class="parrafo">El valor de la intensidad de corriente prevista en cada circuito se calculará de acuerdo con la fórmula:</p>
+        <p class="centro_redonda">I= n x I<sub>a</sub> x Fs x Fu</p>
+        <p class="parrafo_2">N n.º de tomas o receptores</p>
+        <p class="parrafo">I<sub>a</sub> Intensidad prevista por toma o receptor</p>
+        <p class="parrafo">Fs (factor de simultaneidad) Relación de receptores conectados simultáneamente sobre el total</p>
+        <p class="parrafo">Fu (factor de utilización) Factor medio de utilización de la potencia máxima del receptor</p>
+        <p class="parrafo_2">Los dispositivos automáticos de protección tanto para el valor de la intensidad asignada como para la Intensidad máxima de cortocircuito se corresponderá con la intensidad admisible del circuito y la de cortocircuito en ese punto respectivamente.</p>
+        <p class="parrafo">Los conductores serán de cobre y su sección será como mínimo la indicada en la Tabla 1, y además estará condicionada a que la caída de tensión sea como máximo el 3 %. Esta caída de tensión se calculará para una intensidad de funcionamiento del circuito igual a la intensidad nominal del interruptor automático de dicho circuito y para una distancia correspondiente a la del punto de utilización mas alejado del origen de la instalación interior. El valor de la caída de tensión podrá compensarse entre la de la instalación interior y la de las derivaciones individuales, de forma que la caída de tensión total sea inferior a la suma de los valores límite especificados para ambas, según el tipo de esquema utilizado.</p>
+        <p class="centro_cursiva">Tabla 1. Características eléctricas de los circuitos (1)</p>
+        <table class="tabla_ancha">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Circuito de utilización</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Potencia prevista por toma (W)</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Factor simultaneidad Fs</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Factor utilización Fu</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Tipo de toma</p>
+                <p class="cabeza_tabla">
+                  <sup>(7)</sup>
+                </p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Interruptor Automático (A)</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Máximo n.º de puntos de utilización o tomas por circuito</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Conductores sección mínima</p>
+                <p class="cabeza_tabla">mm<sup>2</sup></p>
+                <p class="cabeza_tabla">
+                  <sup>(5)</sup>
+                </p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Tubo o conducto Diámetro</p>
+                <p class="cabeza_tabla">mm</p>
+                <p class="cabeza_tabla">
+                  <sup>(3)</sup>
+                </p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub> Iluminación</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">200</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Punto de luz <sup>(9)</sup></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">10</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">30</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>2</sub> Tomas de uso general</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3.450</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 16A 2p+T</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>3</sub> Cocina y horno</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">5.400</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0 5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0 75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 25 A 2p+T</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>4</sub> Lavadora, lavavajillas y termo eléctrico</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3.450</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,66</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 16A 2p+T</p>
+                <p class="cuerpo_tabla_centro">combinadas con fusibles o interruptores automáticos de 16 A <sup>(8)</sup></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4 <sup>(6)</sup></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>5</sub> Baño, cuarto de cocina</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3.450</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 16A 2p+T</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>8</sub> Calefacción</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <sup>(2)</sup>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>9</sub> Aire acondicionado</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <sup>(2)</sup>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>10</sub> Secadora</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3.450</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 16A 2p+T</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>11</sub> Automatización</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <sup>(4)</sup>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">10</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="9">
+                <p class="cita">(1) La tensión considerada es de 230 V entre fase y neutro.</p>
+                <p class="cita">(2) La potencia máxima permisible por circuito será de 5.750 W</p>
+                <p class="cita">(3) Diámetros externos según ITC-BT 19</p>
+                <p class="cita">(4) La potencia máxima permisible por circuito será de 2.300 W</p>
+                <p class="cita">(5) Este valor corresponde a una instalación de dos conductores y tierra con aislamiento de PVC bajo tubo empotrado en obra, según tabla 1 de ITC-BT-19. Otras secciones pueden ser requeridas para otros tipos de cable o condiciones de instalación</p>
+                <p class="cita">(6) En este circuito exclusivamente, cada toma individual puede conectarse mediante un conductor de sección 2,5 mm<sup>2</sup> que parta de una caja de derivación del circuito de 4 mm<sup>2</sup>.</p>
+                <p class="cita">(7) Las bases de toma de corriente de 16 A 2p+T serán fijas del tipo indicado en la figura C2a y las de 25 A 2p+T serán del tipo indicado en la figura ESB 25-5A, ambas de la norma UNE 20315.</p>
+                <p class="cita">(8) Los fusibles o interruptores automáticos no son necesarios si se dispone de circuitos independientes para cada aparato, con interruptor automático de 16 A en cada circuito. el desdoblamiento del circuito con este fin no supondrá el paso a electrificación elevada ni la necesidad de disponer de un diferencial adicional.</p>
+                <p class="cita">(9) El punto de luz incluirá conductor de protección.</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>PUNTOS DE UTILIZACIÓN</strong>
+        </p>
+        <p class="parrafo_2">En cada estancia se utilizará como mínimo los siguientes puntos de utilización:</p>
+        <p class="centro_cursiva">Tabla 2</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Estancia</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Circuito</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Mecanismo</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">N.º mínimo</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Superf./Longitud</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Acceso</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">pulsador timbre</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="2">
+                <p class="cuerpo_tabla_centro"> </p>
+                <p class="cuerpo_tabla_centro">Vestíbulo</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Punto de luz Interruptor 10.A</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>2</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 16 A 2p+T</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="4">
+                <p class="cuerpo_tabla_centro"> </p>
+                <p class="cuerpo_tabla_centro">Sala de estar o Salón</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Punto de luz Interruptor 10 A</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>) uno por cada punto de luz</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>2</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 16 A 2p+T</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3 <sup>(1)</sup></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">una por cada 6 m<sup>2</sup>, redondeado al entero superior</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>8</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Toma de calefacción</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>)</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>9</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Toma de aire acondicionado</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>)</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="4">
+                <p class="cuerpo_tabla_centro"> </p>
+                <p class="cuerpo_tabla_centro">Dormitorios</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Puntos de luz Interruptor 10 A</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>) uno por cada punto de luz</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>2</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 16 A 2p+T</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3 <sup>(1)</sup></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">una por cada 6 m<sup>2</sup>, redondeado al entero superior</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>8</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Toma de calefacción</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>9</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Toma de aire acondicionado</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                <p class="cuerpo_tabla_centro"> </p>
+                <p class="cuerpo_tabla_centro">Baños</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Puntos de luz Interruptor 10 A</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>5</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 16 A 2p+T</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>8</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Toma de calefacción</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                <p class="cuerpo_tabla_centro"> </p>
+                <p class="cuerpo_tabla_centro">Pasillos o distribuidores</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Puntos de luz Interruptor/Conmutador 10 A</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">uno cada 5 m de longitud uno en cada acceso</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>2</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 16 A 2p+T</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Hasta 5 m (dos si L &gt; 5 m)</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>8</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Toma de calefacción</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="7">
+                <p class="cuerpo_tabla_centro"> </p>
+                <p class="cuerpo_tabla_centro">Cocina</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Puntos de luz Interruptor 10 A</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>) uno por cada punto de luz</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>2</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 16 A 2p+T</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">extractor y frigorífico</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>3</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 25 A 2p+T</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">cocina/horno</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>4</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 16 A 2p+T</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">lavadora, lavavajillas y termo</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>5</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 16A 2p+T</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3 <sup>(2)</sup></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">encima del plano de trabajo</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>8</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Toma calefacción</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">‒</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>10</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 16 A 2p+T</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">secadora</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Terrazas y Vestidores</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Puntos de luz Interruptor 10 A</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>) uno por cada punto de luz</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="2">
+                <p class="cuerpo_tabla_centro">Garajes unifamiliares y Otros</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Puntos de luz Interruptor 10 A</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>) uno por cada punto de luz</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>2</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Base 16 A 2p+T</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>)</p>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="5">
+                <p class="cita">(1) En donde se prevea la instalación de una toma para el receptor de TV, la base correspondiente deberá ser múltiple, y en este caso se considerará como una sola base a los efectos del número de puntos de utilización de la tabla 1.</p>
+                <p class="cita">(2) Se colocarán fuera de un volumen delimitado por los planos verticales situados a 0,5 m del fregadero y de la encimera de cocción o cocina</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </version>
+      <version id_norma="BOE-A-2014-13681" fecha_publicacion="20141231" fecha_vigencia="20150630">
+        <p class="anexo_num">ITC-BT-25</p>
+        <p class="anexo_tit">INSTALACIONES INTERIORES EN VIVIENDAS. NÚMERO DE CIRCUITOS Y CARACTERÍSTICAS</p>
+        <p class="parrafo">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. GRADO DE ELECTRIFICACIÓN BÁSICO</p>
+        <p class="parrafo">2. CIRCUITOS INTERIORES</p>
+        <p class="parrafo_2">2.1 Protección general</p>
+        <p class="parrafo">2.2 Previsión para instalaciones de sistemas de automatización, gestión técnica de la energía y seguridad</p>
+        <p class="parrafo">2.3 Derivaciones</p>
+        <p class="parrafo_2">2.3.1 Electrificación básica</p>
+        <p class="parrafo">2.3.2 Electrificación elevada</p>
+        <p class="parrafo_2">3. DETERMINACIÓN DEL NÚMERO DE CIRCUITOS, SECCIÓN DE LOS CONDUCTORES Y DE LAS CAÍDAS DE TENSIÓN.</p>
+        <p class="parrafo">4. PUNTOS DE UTILIZACIÓN</p>
+        <p class="parrafo_2">
+          <strong>1. GRADO DE ELECTRIFICACIÓN BÁSICO</strong>
+        </p>
+        <p class="parrafo_2">El grado de electrificación básico se plantea como el sistema mínimo, a los efectos de uso, de la instalación interior de las viviendas en edificios nuevos tal como se indica en la ITC-BT-10. Su objeto es permitir la utilización de los aparatos electrodomésticos de uso básico sin necesidad de obras posteriores de adecuación.</p>
+        <p class="parrafo">La capacidad de instalación se corresponderá como mínimo al valor de la intensidad asignada determinada para el interruptor general automático. Igualmente se cumplirá esta condición para la derivación individual.</p>
+        <p class="parrafo_2">
+          <strong>2. CIRCUITOS INTERIORES</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1 Protección general</strong>
+        </p>
+        <p class="parrafo_2">Los circuitos de protección privados se ejecutarán según lo dispuesto en la ITC-BT-17 y constarán como mínimo de:</p>
+        <p class="parrafo_2">– Un interruptor general automático de corte omnipolar con accionamiento manual, de intensidad nominal mínima de 25 A y dispositivos de protección contra sobrecargas y cortocircuitos. El interruptor general es independiente del interruptor para el control de potencia (ICP) y no puede ser sustituido por éste.</p>
+        <p class="parrafo">– Uno o varios interruptores diferenciales que garanticen la protección contra contactos indirectos de todos los circuitos, con una intensidad diferencial-residual máxima de 30 mA e intensidad asignada superior o igual que la del interruptor general. Cuando se usen interruptores diferenciales en serie, habrá que garantizar que todos los circuitos quedan protegidos frente a intensidades diferenciales-residuales de 30 mA como máximo, pudiéndose instalar otros diferenciales de intensidad superior a 30 mA en serie, siempre que se cumpla lo anterior.</p>
+        <p class="parrafo">Para instalaciones de viviendas alimentadas con redes diferentes a las de tipo TT, que eventualmente pudieran autorizarse, la protección contra contactos indirectos se realizará según se indica en el apartado 4.1 de la ITC-BT-24.</p>
+        <p class="parrafo">– Dispositivos de protección contra sobretensiones, si fuese necesario, conforme a la ITC-BT-23.</p>
+        <p class="parrafo_2">
+          <strong>2.2 Previsión para instalaciones de sistemas de automatización, gestión técnica de la energía y seguridad</strong>
+        </p>
+        <p class="parrafo_2">En el caso de instalaciones de sistemas de automatización, gestión técnica de la energía y de seguridad, que se desarrolla en la ITC-BT-51, la alimentación a los dispositivos de control y mando centralizado de los sistemas electrónicos se hará mediante un interruptor automático de corte omnipolar con dispositivo de protección contra sobrecargas y cortocircuitos que se podrá situar aguas arriba de cualquier interruptor diferencial, siempre que su alimentación se realice a través de una fuente de MBTS o MBTP, según ITC-BT-36.</p>
+        <p class="parrafo_2">
+          <strong>2.3 Derivaciones</strong>
+        </p>
+        <p class="parrafo_2">Los tipos de circuitos independientes serán los que se indican a continuación y estarán protegidos cada uno de ellos por un interruptor automático de corte omnipolar con accionamiento manual y dispositivos de protección contra sobrecargas y cortocircuitos con una intensidad asignada según su aplicación e indicada en el apartado 3.</p>
+        <p class="parrafo_2">2.3.1 Electrificación básica</p>
+        <p class="parrafo_2">Circuitos independientes</p>
+        <p class="parrafo_2">C<sub>1</sub> circuito de distribución interna, destinado a alimentar los puntos de iluminación.</p>
+        <p class="parrafo">C<sub>2</sub> circuito de distribución interna, destinado a tomas de corriente de uso general y frigorífico.</p>
+        <p class="parrafo">C<sub>3</sub> circuito de distribución interna, destinado a alimentar la cocina y horno.</p>
+        <p class="parrafo">C<sub>4</sub> circuito de distribución interna, destinado a alimentar la lavadora, lavavajillas y termo eléctrico.</p>
+        <p class="parrafo">C<sub>5</sub> circuito de distribución interna, destinado a alimentar tomas de corriente de los cuartos de baño, así como las bases auxiliares del cuarto de cocina.</p>
+        <p class="parrafo_2">2.3.2 Electrificación elevada</p>
+        <p class="parrafo_2">Es el caso de viviendas con una previsión importante de aparatos electrodomésticos que obligue a instalar más de un circuito de cualquiera de los tipos descritos anteriormente, así como con previsión de sistemas de calefacción eléctrica, acondicionamiento de aire, automatización, gestión técnica de la energía y seguridad, para la recarga de vehículos eléctricos en viviendas unifamiliares, o con superficies útiles de las viviendas superiores a 160 m<sup>2</sup>. En este caso se instalarán, además de los correspondientes a la electrificación básica, los siguientes circuitos:</p>
+        <p class="parrafo_2">C<sub>6</sub> Circuito adicional del tipo C<sub>1</sub>, por cada 30 puntos de luz.</p>
+        <p class="parrafo">C<sub>7</sub> Circuito adicional del tipo C<sub>2</sub>, por cada 20 tomas de corriente de uso general o si la superficie útil de la vivienda es mayor de 160 m<sup>2</sup>.</p>
+        <p class="parrafo">C<sub>8</sub> Circuito de distribución interna, destinado a la instalación de calefacción eléctrica, cuando existe previsión de ésta.</p>
+        <p class="parrafo">C<sub>9</sub> Circuito de distribución interna, destinado a la instalación aire acondicionado, cuando existe previsión de éste.</p>
+        <p class="parrafo">C<sub>10</sub> Circuito de distribución interna, destinado a la instalación de una secadora independiente.</p>
+        <p class="parrafo">C<sub>11</sub> Circuito de distribución interna, destinado a la alimentación del sistema de automatización, gestión técnica de la energía y de seguridad, cuando exista previsión de éste.</p>
+        <p class="parrafo">C<sub>12</sub> Circuitos adicionales de cualquiera de los tipos C<sub>3</sub> o C<sub>4</sub>, cuando se prevean, o circuito adicional del tipo C<sub>5</sub>, cuando su número de tomas de corriente exceda de 6.</p>
+        <p class="parrafo">C<sub>13</sub> Circuito adicional para la infraestructura de recarga de vehículos eléctricos, cuando esté prevista una o más plazas o espacios para el estacionamiento de vehículos eléctricos.</p>
+        <p class="parrafo_2">Tanto para la electrificación básica como para la elevada, se colocará, como mínimo, un interruptor diferencial de las características indicadas en el apartado 2.1 por cada cinco circuitos instalados.</p>
+        <p class="parrafo">En el circuito C<sub>13</sub>, se colocará un interruptor diferencial exclusivo para éste con las características especificadas en la (ITC) BT-52. En aparcamientos o estacionamientos colectivos en edificios o conjuntos inmobiliarios en régimen de propiedad horizontal, el circuito C<sub>13</sub> quedará sustituido por los esquemas de conexión correspondientes instalados en las zonas comunes según establece la (ITC) BT-52.</p>
+        <p class="parrafo_2">
+          <strong>3. DETERMINACIÓN DEL NÚMERO DE CIRCUITOS, SECCIÓN DE LOS CONDUCTORES Y DE LAS CAÍDAS DE TENSIÓN</strong>
+        </p>
+        <p class="parrafo_2">En la Tabla 1 se relacionan los circuitos mínimos previstos con sus características eléctricas.</p>
+        <p class="parrafo">La sección mínima indicada por circuito está calculada para un número limitado de puntos de utilización. De aumentarse el número de puntos de utilización, será necesaria la instalación de circuitos adicionales correspondientes.</p>
+        <p class="parrafo">Cada accesorio o elemento del circuito en cuestión tendrá una corriente asignada, no inferior al valor de la intensidad prevista del receptor o receptores a conectar.</p>
+        <p class="parrafo">El valor de la intensidad de corriente prevista en cada circuito se calculará de acuerdo con la fórmula:</p>
+        <p class="centro_redonda">I= n x I<sub>a</sub> x Fs x Fu</p>
+        <p class="parrafo_2">N n.º de tomas o receptores</p>
+        <p class="parrafo">I<sub>a</sub> Intensidad prevista por toma o receptor</p>
+        <p class="parrafo">Fs (factor de simultaneidad) Relación de receptores conectados simultáneamente sobre el total</p>
+        <p class="parrafo">Fu (factor de utilización) Factor medio de utilización de la potencia máxima del receptor</p>
+        <p class="parrafo_2">Los dispositivos automáticos de protección tanto para el valor de la intensidad asignada como para la Intensidad máxima de cortocircuito se corresponderá con la intensidad admisible del circuito y la de cortocircuito en ese punto respectivamente.</p>
+        <p class="parrafo">Los conductores serán de cobre y su sección será como mínimo la indicada en la Tabla 1, y además estará condicionada a que la caída de tensión sea como máximo el 3 %. Esta caída de tensión se calculará para una intensidad de funcionamiento del circuito igual a la intensidad nominal del interruptor automático de dicho circuito y para una distancia correspondiente a la del punto de utilización mas alejado del origen de la instalación interior. El valor de la caída de tensión podrá compensarse entre la de la instalación interior y la de las derivaciones individuales, de forma que la caída de tensión total sea inferior a la suma de los valores límite especificados para ambas, según el tipo de esquema utilizado.</p>
+        <p class="centro_cursiva">Tabla 1. Características eléctricas de los circuitos<sup>(1)</sup>.</p>
+        <table class="ning_n_estilo_de_tabla" summary="Tabla de formato">
+          <colgroup>
+            <col/>
+            <col/>
+            <col/>
+            <col/>
+            <col/>
+            <col/>
+            <col/>
+            <col/>
+            <col/>
+          </colgroup>
+          <thead>
+            <tr>
+              <th>
+                <p class="cabeza_tabla">Circuito de utilización</p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">Potencia prevista por toma</p>
+                <p class="cabeza_tabla">–</p>
+                <p class="cabeza_tabla">W</p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">Factor simultaneidad</p>
+                <p class="cabeza_tabla">–</p>
+                <p class="cabeza_tabla">Fs</p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">Factor utilización</p>
+                <p class="cabeza_tabla">–</p>
+                <p class="cabeza_tabla">Fu</p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">Tipo de toma</p>
+                <p class="cabeza_tabla">–</p>
+                <p class="cabeza_tabla">
+                  <sup>(7)</sup>
+                </p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">Interruptor automático</p>
+                <p class="cabeza_tabla">–</p>
+                <p class="cabeza_tabla">A</p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">Máximo n.º de puntos de utilización o tomas por circuito</p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">Conductores sección mínima</p>
+                <p class="cuerpo_tabla_izq">–</p>
+                <p class="cabeza_tabla">mm<sup>2</sup></p>
+                <p class="cabeza_tabla">
+                  <sup>(5)</sup>
+                </p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">Tubo o conducto</p>
+                <p class="cuerpo_tabla_izq">–</p>
+                <p class="cabeza_tabla">Diámetro</p>
+                <p class="cabeza_tabla">mm</p>
+                <p class="cabeza_tabla">
+                  <sup>(3)</sup>
+                </p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">C<sub>1</sub> Iluminación.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">200</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Punto de luz<sup>(9)</sup>.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">10</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">30</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">C<sub>2</sub> Tomas de uso general.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3.450</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 16 A 2p+T.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">C<sub>3</sub> Cocina y horno.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">5.400</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 25 A 2p+T.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">C<sub>4</sub> Lavadora, lavavajillas y termo eléctrico.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3.450</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,66</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 16 A 2p+T combinadas con fusibles o interruptores automáticos de 16 A <sup>(8)</sup>.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4<sup> (6)</sup></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">C<sub>5</sub> Baño, cuarto de cocina.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3.450</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 16 A 2p+T.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">C<sub>8 </sub>Calefacción.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <sup>(2)</sup>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">C<sub>9 </sub>Aire acondicionado.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <sup>(2)</sup>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">C<sub>10</sub> Secadora.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3.450</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 16 A 2p+T.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">C<sub>11</sub> Automatización.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <sup>(4)</sup>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">10</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">C<sub>13</sub> Recarga del vehículo eléctrico.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <sup>(10)</sup>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">
+                  <sup>(10).</sup>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <sup>(10)</sup>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">20</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="cita">(1) La tensión considerada es de 230 V entre fase y neutro.</p>
+        <p class="cita">(2) La potencia máxima permisible por circuito será de 5.750 W.</p>
+        <p class="cita">(3) Diámetros externos según ITC-BT-19.</p>
+        <p class="cita">(4) La potencia máxima permisible por circuito será de 2.300 W.</p>
+        <p class="cita">(5) Este valor corresponde a una instalación de dos conductores y tierra con aislamiento de PVC bajo tubo empotrado en obra, según tabla 1 de ITC-BT-19. Otras secciones pueden ser requeridas para otros tipos de cable o condiciones de instalación.</p>
+        <p class="cita">(6) En este circuito exclusivamente, cada toma individual puede conectarse mediante un conductor de sección 2,5 mm<sup>2</sup> que parta de una caja de derivación del circuito de 4 mm<sup>2</sup>.</p>
+        <p class="cita">(7) Las bases de toma de corriente de 16 A 2p+T serán fijas del tipo indicado en la figura C2a y las de 25 A 2p+T serán del tipo indicado en la figura ESB 25-5A, ambas de la norma UNE 20315.</p>
+        <p class="cita">(8) Los fusibles o interruptores automáticos no son necesarios si se dispone de circuitos independientes para cada aparato, con interruptor automático de 16 A en cada circuito. el desdoblamiento del circuito con este fin no supondrá el paso a electrificación elevada ni la necesidad de disponer de un diferencial adicional.</p>
+        <p class="cita">(9) El punto de luz incluirá conductor de protección.</p>
+        <p class="cita">(10) La potencia prevista por toma, los tipos de bases de toma de corriente y la intensidad asignada del interruptor automático para el circuito C<sub>13</sub> se especifican en la ITC-BT-52.</p>
+        <p class="parrafo_2">
+          <strong>4. PUNTOS DE UTILIZACIÓN</strong>
+        </p>
+        <p class="parrafo_2">En cada estancia se utilizará como mínimo los siguientes puntos de utilización:</p>
+        <p class="centro_cursiva">Tabla 2</p>
+        <table class="ning_n_estilo_de_tabla" summary="Tabla de formato">
+          <colgroup>
+            <col/>
+            <col/>
+            <col/>
+            <col/>
+            <col/>
+          </colgroup>
+          <thead>
+            <tr>
+              <th>
+                <p class="cabeza_tabla">Estancia</p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">Circuito</p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">Mecanismo</p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">N.º mínimo</p>
+              </th>
+              <th>
+                <p class="cabeza_tabla">Superf./longitud</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Acceso.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Pulsador timbre.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td rowspan="2">
+                <p class="cuerpo_tabla_izq">Vestíbulo.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Punto de luz.</p>
+                <p class="cuerpo_tabla_izq">Interruptor 10 A.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>2</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 16 A 2p+T.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="4">
+                <p class="cuerpo_tabla_izq">Sala de estar o salón.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Punto de luz.</p>
+                <p class="cuerpo_tabla_izq">Interruptor 10 A.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>).</p>
+                <p class="cuerpo_tabla_izq">Uno por cada punto de luz.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>2</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 16 A 2p+T.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3<sup>(1)</sup></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Una por cada 6 m<sup>2</sup>, redondeado al entero superior.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>8</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Toma de calefacción.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>).</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>9</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Toma de aire acondicionado.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>).</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="4">
+                <p class="cuerpo_tabla_izq">Dormitorios.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Puntos de luz.</p>
+                <p class="cuerpo_tabla_izq">Interruptor 10 A.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>).</p>
+                <p class="cuerpo_tabla_izq">Uno por cada punto de luz.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>2</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 16 A 2p+T.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3<sup>(1)</sup></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Una por cada 6 m<sup>2</sup>, redondeado al entero superior.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>8</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Toma de calefacción.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>9</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Toma de aire acondicionado.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                <p class="cuerpo_tabla_izq">Baños.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Puntos de luz.</p>
+                <p class="cuerpo_tabla_izq">Interruptor 10 A.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>5</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 16 A 2p+T.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>8</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Toma de calefacción.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                <p class="cuerpo_tabla_izq">Pasillos o distribuidores.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Puntos de luz.</p>
+                <p class="cuerpo_tabla_izq">Interruptor/Conmutador 10 A.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Uno cada 5 m de longitud.</p>
+                <p class="cuerpo_tabla_izq">Uno en cada acceso.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>2</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 16 A 2p + T.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Hasta 5 m (dos si L &gt; 5 m).</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>8</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Toma de calefacción.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="7">
+                <p class="cuerpo_tabla_izq">Cocina.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Puntos de luz.</p>
+                <p class="cuerpo_tabla_izq">Interruptor 10 A.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>).</p>
+                <p class="cuerpo_tabla_izq">Uno por cada punto de luz.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>2</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 16 A 2p + T.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Extractor y frigorífico.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>3</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 25 A 2p + T.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Cocina/horno.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>4</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 16 A 2p + T.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Lavadora, lavavajillas y termo.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>5</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 16 A 2p + T.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3<sup>(2)</sup></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Encima del plano de trabajo.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>8</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Toma calefacción.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>10</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 16 A 2p + T.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Secadora.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Terrazas y Vestidores.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Puntos de luz.</p>
+                <p class="cuerpo_tabla_izq">Interruptor 10 A.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>).</p>
+                <p class="cuerpo_tabla_izq">Uno por cada punto de luz.</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                <p class="cuerpo_tabla_izq">Garajes unifamiliares y otros.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>1</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Puntos de luz.</p>
+                <p class="cuerpo_tabla_izq">Interruptor 10 A.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>).</p>
+                <p class="cuerpo_tabla_izq">Uno por cada punto de luz.</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>2</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base 16 A 2p + T.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Hasta 10 m<sup>2</sup> (dos si S &gt; 10 m<sup>2</sup>).</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">C<sub>13</sub></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Base de toma de corriente<sup>(3)</sup>.</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="cita">(1) En donde se prevea la instalación de una toma para el receptor de TV, la base correspondiente deberá ser múltiple, y en este caso se considerará como una sola base a los efectos del número de puntos de utilización de la tabla 1.</p>
+        <p class="cita">(2) Se colocarán fuera de un volumen delimitado por los planos verticales situados a 0,5 m del fregadero y de la encimera de cocción o cocina.</p>
+        <p class="cita">(3) La potencia prevista por toma, los tipos de bases de toma de corriente y la intensidad asignada del interruptor automático para el circuito C<sub>13</sub> se especifican en la ITC-BT-52.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifican los apartados 2.3.2, 3 y 4, con efectos de 30 de junio de 2015, por la disposición final 6 del Real Decreto 1053/2014, de 12 de diciembre. <a class="refPost">Ref. BOE-A-2014-13681</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

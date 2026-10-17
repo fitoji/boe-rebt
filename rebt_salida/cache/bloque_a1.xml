@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a1" tipo="precepto" titulo="Artículo 1">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 1. Objeto.</p>
+        <p class="parrafo">El presente Reglamento tiene por objeto establecer las condiciones técnicas y garantías que deben reunir las instalaciones eléctricas conectadas a una fuente de suministro en los límites de baja tensión, con la finalidad de:</p>
+        <p class="parrafo_2">a) Preservar la seguridad de las personas y los bienes.</p>
+        <p class="parrafo">b) Asegurar el normal funcionamiento de dichas instalaciones y prevenir las perturbaciones en otras instalaciones y servicios.</p>
+        <p class="parrafo">c) Contribuir a la fiabilidad técnica y a la eficiencia económica de las instalaciones.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-5" tipo="precepto" titulo="ITC-BT-05">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-05</p>
+        <p class="anexo_tit">VERIFICACIONES E INSPECCIONES</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO</p>
+        <p class="parrafo">2. AGENTES INTERVINIENTES</p>
+        <p class="parrafo">3. VERIFICACIONES PREVIAS A LA PUESTA EN SERVICIO</p>
+        <p class="parrafo">4. INSPECCIONES</p>
+        <p class="parrafo_2">4.1 Inspecciones iniciales</p>
+        <p class="parrafo">4.2 Inspecciones periódicas</p>
+        <p class="parrafo_2">5. PROCEDIMIENTO</p>
+        <p class="parrafo">6. CLASIFICACIÓN DE DEFECTOS</p>
+        <p class="parrafo_2">6.1 Defecto Muy Grave</p>
+        <p class="parrafo">6.2 Defecto Grave</p>
+        <p class="parrafo">6.3 Defecto Leve</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>OBJETO.</strong>
+        </p>
+        <p class="parrafo_2">La presente Instrucción tiene por objeto desarrollar las previsiones de los artículos 18 y 20 del Reglamento Electrotécnico para Baja Tensión, en relación con las verificaciones previas a la puesta en servicio e inspecciones de las instalaciones eléctricas incluidas en su campo de aplicación.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>AGENTES INTERVINIENTES.</strong>
+        </p>
+        <p class="parrafo_2">2.1 Las verificaciones previas a la puesta en servicio de las instalaciones deberán ser realizadas por las empresas instaladoras que las ejecuten.</p>
+        <p class="parrafo">2.2 De acuerdo con lo indicado en el artículo 20 del Reglamento, sin perjuicio de las atribuciones que, en cualquier caso, ostenta la Administración Pública, los agentes que lleven a cabo las inspecciones de las instalaciones eléctricas de Baja Tensión deberán tener la condición de Organismos de Control, según lo establecido en el Real Decreto 2.200/1995, de 28 de diciembre, acreditados para este campo reglamentario.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>VERIFICACIONES PREVIAS A LA PUESTA EN SERVICIO.</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones eléctricas en baja tensión deberán ser verificadas, previamente a su puesta en servicio y según corresponda en función de sus características, siguiendo la metodología de la norma UNE 20.460 -6-61.</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>INSPECCIONES.</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones eléctricas en baja tensión de especial relevancia que se citan a continuación, deberán ser objeto de inspección por un Organismo de Control, a fin de asegurar, en la medida de lo posible, el cumplimiento reglamentario a lo largo de la vida de dichas instalaciones.</p>
+        <p class="parrafo">Las inspecciones podrán ser:</p>
+        <p class="parrafo_2">– Iniciales: Antes de la puesta en servicio de las instalaciones.</p>
+        <p class="parrafo">– Periódicas;</p>
+        <p class="parrafo_2">
+          <strong>4.1</strong>
+          <strong>Inspecciones iniciales.</strong>
+        </p>
+        <p class="parrafo_2">Serán objeto de inspección, una vez ejecutadas las instalaciones, sus ampliaciones o modificaciones de importancia y previamente a ser documentadas ante el Órgano competente de la Comunidad Autónoma, las siguientes instalaciones:</p>
+        <p class="parrafo_2">a) Instalaciones industriales que precisen proyecto, con una potencia instalada superior a 100 kW;</p>
+        <p class="parrafo">b) Locales de Pública Concurrencia;</p>
+        <p class="parrafo">c) Locales con riesgo de incendio o explosión, de clase I, excepto garajes de menos de 25 plazas;</p>
+        <p class="parrafo">d) Locales mojados con potencia instalada superior a 25 kW;</p>
+        <p class="parrafo">e) Piscinas con potencia instalada superior a 10 kW;</p>
+        <p class="parrafo">g) Quirófanos y salas de intervención;</p>
+        <p class="parrafo">h) Instalaciones de alumbrado exterior con potencia instalada superior 5 kW.</p>
+        <p class="parrafo_2">
+          <strong>4.2</strong>
+          <strong>Inspecciones periódicas.</strong>
+        </p>
+        <p class="parrafo_2">Serán objeto de inspecciones periódicas, cada 5 años, todas las instalaciones eléctricas en baja tensión que precisaron inspección inicial, según el punto 4.1 anterior, y cada 10 años, las comunes de edificios de viviendas de potencia total instalada superior a 100 kW.</p>
+        <p class="parrafo_2">
+          <strong>5.</strong>
+          <strong>PROCEDIMIENTO.</strong>
+        </p>
+        <p class="parrafo_2">5.1 Los Organismos de Control realizarán la inspección de las instalaciones sobre la base de las prescripciones que establezca el Reglamento de aplicación y, en su caso, de lo especificado en la documentación técnica, aplicando los criterios para la clasificación de defectos que se relacionan en el apartado siguiente. La empresa instaladora, si lo estima conveniente, podrá asistir a la realización de estas inspecciones.</p>
+        <p class="parrafo">5.2 Como resultado de la inspección, el Organismo de Control emitirá un Certificado de Inspección, en el cual figurarán los datos de identificación de la instalación y la posible relación de defectos, con su clasificación, y la calificación de la instalación, que podrá ser:</p>
+        <p class="parrafo_2">5.2.1 Favorable: Cuando no se determine la existencia de ningún defecto muy grave o grave. En este caso, los posibles defectos leves se anotarán para constancia del titular, con la indicación de que deberá poner los medios para subsanarlos antes de la próxima inspección; Asimismo, podrán servir de base a efectos estadísticos y de control del buen hacer de las empresas instaladoras.</p>
+        <p class="parrafo">5.2.2 Condicionada: Cuando se detecte la existencia de, al menos, un defecto grave o defecto leve procedente de otra inspección anterior que no se haya corregido. En este caso:</p>
+        <p class="parrafo_2">a) Las instalaciones nuevas que sean objeto de esta calificación no podrán ser suministradas de energía eléctrica en tanto no se hayan corregido los defectos indicados y puedan obtener la calificación de favorable.</p>
+        <p class="parrafo_2">b) A las instalaciones ya en servicio se les fijará un plazo para proceder a su corrección, que no podrá superar los 6 meses. Transcurrido dicho plazo sin haberse subsanado los defectos, el Organismo de Control deberá remitir el Certificado con la calificación negativa al Órgano competente de la Comunidad Autónoma.</p>
+        <p class="parrafo_2">5.2.3 Negativa: Cuando se observe, al menos, un defecto muy grave. En este caso:</p>
+        <p class="parrafo_2">a) Las nuevas instalaciones no podrán entrar en servicio, en tanto no se hayan corregido los defectos indicados y puedan obtener la calificación de favorable.</p>
+        <p class="parrafo">b) A las instalaciones ya en servicio se les emitirá Certificado negativo, que se remitirá inmediatamente al Órgano competente de la Comunidad Autónoma.</p>
+        <p class="parrafo_2">
+          <strong>6.</strong>
+          <strong>CLASIFICACIÓN DE DEFECTOS.</strong>
+        </p>
+        <p class="parrafo_2">Los defectos en las instalaciones se clasificarán en: Defectos muy graves, defectos graves y defectos leves.</p>
+        <p class="parrafo_2">
+          <strong>6.1</strong>
+          <strong>Defecto Muy Grave.</strong>
+        </p>
+        <p class="parrafo_2">Es todo aquél que la razón o la experiencia determina que constituye un peligro inmediato para la seguridad de las personas o los bienes.</p>
+        <p class="parrafo">Se consideran tales los incumplimientos de las medidas de seguridad que pueden provocar el desencadenamiento de los peligros que se pretenden evitar con tales medidas, en relación con:</p>
+        <p class="parrafo_2">– Contactos directos, en cualquier tipo de instalación;</p>
+        <p class="parrafo">– Locales de pública concurrencia;</p>
+        <p class="parrafo">– Locales con riesgo de incendio o explosión;</p>
+        <p class="parrafo">– Locales de características especiales;</p>
+        <p class="parrafo">– Instalaciones con fines especiales;</p>
+        <p class="parrafo">– Quirófanos y salas de intervención.</p>
+        <p class="parrafo_2">
+          <strong>6.2</strong>
+          <strong>Defecto Grave.</strong>
+        </p>
+        <p class="parrafo_2">Es el que no supone un peligro inmediato para la seguridad de las personas o de los bienes, pero puede serlo al originarse un fallo en la instalación. También se incluye dentro de esta clasificación, el defecto que pueda reducir de modo sustancial la capacidad de utilización de la instalación eléctrica.</p>
+        <p class="parrafo">Dentro de este grupo y con carácter no exhaustivo, se consideran los siguientes defectos graves:</p>
+        <p class="parrafo_2">– Falta de conexiones equipotenciales, cuando éstas fueran requeridas;</p>
+        <p class="parrafo">– Inexistencia de medidas adecuadas de seguridad contra contactos indirectos;</p>
+        <p class="parrafo">– Falta de aislamiento de la instalación;</p>
+        <p class="parrafo">– Falta de protección adecuada contra cortocircuitos y sobrecargas en los conductores, en función de la intensidad máxima admisible en los mismos, de acuerdo con sus características y condiciones de instalación;</p>
+        <p class="parrafo">– Falta de continuidad de los conductores de protección;</p>
+        <p class="parrafo">– Valores elevados de resistencia de tierra en relación con las medidas de seguridad adoptadas.</p>
+        <p class="parrafo">– Defectos en la conexión de los conductores de protección a las masas, cuando estas conexiones fueran preceptivas;</p>
+        <p class="parrafo">– Sección insuficiente de los conductores de protección;</p>
+        <p class="parrafo">– Existencia de partes o puntos de la instalación cuya defectuosa ejecución pudiera ser origen de averías o daños;</p>
+        <p class="parrafo">– Naturaleza o características no adecuadas de los conductores utilizados;</p>
+        <p class="parrafo">– Falta de sección de los conductores, en relación con las caídas de tensión admisibles para las cargas previstas;</p>
+        <p class="parrafo">– Falta de identificación de los conductores "neutro" y "de protección";</p>
+        <p class="parrafo">– Empleo de materiales, aparatos o receptores que no se ajusten a las especificaciones vigentes.</p>
+        <p class="parrafo">– Ampliaciones o modificaciones de una instalación que no se hubieran tramitado según lo establecido en la ITC -BT 04.</p>
+        <p class="parrafo">– Carencia del número de circuitos mínimos estipulados</p>
+        <p class="parrafo">– La sucesiva reiteración o acumulación de defectos leves.</p>
+        <p class="parrafo_2">
+          <strong>6.3</strong>
+          <strong>Defecto Leve.</strong>
+        </p>
+        <p class="parrafo_2">Es todo aquel que no supone peligro para las personas o los bienes, no perturba el funcionamiento de la instalación y en el que la desviación respecto de lo reglamentado no tiene valor significativo para el uso efectivo o el funcionamiento de la instalación.</p>
+      </version>
+      <version id_norma="BOE-A-2014-13681" fecha_publicacion="20141231" fecha_vigencia="20150630">
+        <p class="anexo_num">ITC-BT-05</p>
+        <p class="anexo_tit">VERIFICACIONES E INSPECCIONES</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO</p>
+        <p class="parrafo">2. AGENTES INTERVINIENTES</p>
+        <p class="parrafo">3. VERIFICACIONES PREVIAS A LA PUESTA EN SERVICIO</p>
+        <p class="parrafo">4. INSPECCIONES</p>
+        <p class="parrafo_2">4.1 Inspecciones iniciales</p>
+        <p class="parrafo">4.2 Inspecciones periódicas</p>
+        <p class="parrafo_2">5. PROCEDIMIENTO</p>
+        <p class="parrafo">6. CLASIFICACIÓN DE DEFECTOS</p>
+        <p class="parrafo_2">6.1 Defecto Muy Grave</p>
+        <p class="parrafo">6.2 Defecto Grave</p>
+        <p class="parrafo">6.3 Defecto Leve</p>
+        <p class="parrafo_2">
+          <strong>1. OBJETO.</strong>
+        </p>
+        <p class="parrafo_2">La presente Instrucción tiene por objeto desarrollar las previsiones de los artículos 18 y 20 del Reglamento Electrotécnico para Baja Tensión, en relación con las verificaciones previas a la puesta en servicio e inspecciones de las instalaciones eléctricas incluidas en su campo de aplicación.</p>
+        <p class="parrafo_2">
+          <strong>2. AGENTES INTERVINIENTES.</strong>
+        </p>
+        <p class="parrafo_2">2.1 Las verificaciones previas a la puesta en servicio de las instalaciones deberán ser realizadas por las empresas instaladoras que las ejecuten.</p>
+        <p class="parrafo">2.2 De acuerdo con lo indicado en el artículo 20 del Reglamento, sin perjuicio de las atribuciones que, en cualquier caso, ostenta la Administración Pública, los agentes que lleven a cabo las inspecciones de las instalaciones eléctricas de Baja Tensión deberán tener la condición de Organismos de Control, según lo establecido en el Real Decreto 2.200/1995, de 28 de diciembre, acreditados para este campo reglamentario.</p>
+        <p class="parrafo_2">
+          <strong>3. VERIFICACIONES PREVIAS A LA PUESTA EN SERVICIO.</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones eléctricas en baja tensión deberán ser verificadas, previamente a su puesta en servicio y según corresponda en función de sus características, siguiendo la metodología de la norma UNE 20.460 -6-61.</p>
+        <p class="parrafo_2">
+          <strong>4. INSPECCIONES.</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones eléctricas en baja tensión de especial relevancia que se citan a continuación, deberán ser objeto de inspección por un Organismo de Control, a fin de asegurar, en la medida de lo posible, el cumplimiento reglamentario a lo largo de la vida de dichas instalaciones.</p>
+        <p class="parrafo">Las inspecciones podrán ser:</p>
+        <p class="parrafo_2">– Iniciales: Antes de la puesta en servicio de las instalaciones.</p>
+        <p class="parrafo">– Periódicas;</p>
+        <p class="parrafo_2">
+          <strong>4.1 Inspecciones iniciales.</strong>
+        </p>
+        <p class="parrafo_2">Serán objeto de inspección, una vez ejecutadas las instalaciones, sus ampliaciones o modificaciones de importancia y previamente a ser documentadas ante el órgano competente de la Comunidad Autónoma, las siguientes instalaciones:</p>
+        <p class="parrafo_2">a) Instalaciones industriales que precisen proyecto, con una potencia instalada superior a 100 kW.</p>
+        <p class="parrafo">b) Locales de pública concurrencia.</p>
+        <p class="parrafo">c) Locales con riesgo de incendio o explosión, de clase I, excepto aparcamientos o estacionamientos de menos de 25 plazas.</p>
+        <p class="parrafo">d) Locales mojados con potencia instalada superior a 25 kW.</p>
+        <p class="parrafo">e) Piscinas con potencia instalada superior a 10 kW.</p>
+        <p class="parrafo">f) Quirófanos y salas de intervención.</p>
+        <p class="parrafo">g) Instalaciones de alumbrado exterior con potencia instalada superior 5 kW.</p>
+        <p class="parrafo">h) Instalaciones de las estaciones de recarga para el vehículo eléctrico, que requieran la elaboración de proyecto para su ejecución.</p>
+        <p class="parrafo_2">
+          <strong>4.2 Inspecciones periódicas.</strong>
+        </p>
+        <p class="parrafo_2">Serán objeto de inspecciones periódicas, cada 5 años, todas las instalaciones eléctricas en baja tensión que precisaron inspección inicial, según el punto 4.1 anterior, y cada 10 años, las comunes de edificios de viviendas de potencia total instalada superior a 100 kW.</p>
+        <p class="parrafo_2">
+          <strong>5. PROCEDIMIENTO.</strong>
+        </p>
+        <p class="parrafo_2">5.1 Los Organismos de Control realizarán la inspección de las instalaciones sobre la base de las prescripciones que establezca el Reglamento de aplicación y, en su caso, de lo especificado en la documentación técnica, aplicando los criterios para la clasificación de defectos que se relacionan en el apartado siguiente. La empresa instaladora, si lo estima conveniente, podrá asistir a la realización de estas inspecciones.</p>
+        <p class="parrafo">5.2 Como resultado de la inspección, el Organismo de Control emitirá un Certificado de Inspección, en el cual figurarán los datos de identificación de la instalación y la posible relación de defectos, con su clasificación, y la calificación de la instalación, que podrá ser:</p>
+        <p class="parrafo_2">5.2.1 Favorable: Cuando no se determine la existencia de ningún defecto muy grave o grave. En este caso, los posibles defectos leves se anotarán para constancia del titular, con la indicación de que deberá poner los medios para subsanarlos antes de la próxima inspección; Asimismo, podrán servir de base a efectos estadísticos y de control del buen hacer de las empresas instaladoras.</p>
+        <p class="parrafo">5.2.2 Condicionada: Cuando se detecte la existencia de, al menos, un defecto grave o defecto leve procedente de otra inspección anterior que no se haya corregido. En este caso:</p>
+        <p class="parrafo_2">a) Las instalaciones nuevas que sean objeto de esta calificación no podrán ser suministradas de energía eléctrica en tanto no se hayan corregido los defectos indicados y puedan obtener la calificación de favorable.</p>
+        <p class="parrafo_2">b) A las instalaciones ya en servicio se les fijará un plazo para proceder a su corrección, que no podrá superar los 6 meses. Transcurrido dicho plazo sin haberse subsanado los defectos, el Organismo de Control deberá remitir el Certificado con la calificación negativa al Órgano competente de la Comunidad Autónoma.</p>
+        <p class="parrafo_2">5.2.3 Negativa: Cuando se observe, al menos, un defecto muy grave. En este caso:</p>
+        <p class="parrafo_2">a) Las nuevas instalaciones no podrán entrar en servicio, en tanto no se hayan corregido los defectos indicados y puedan obtener la calificación de favorable.</p>
+        <p class="parrafo">b) A las instalaciones ya en servicio se les emitirá Certificado negativo, que se remitirá inmediatamente al Órgano competente de la Comunidad Autónoma.</p>
+        <p class="parrafo_2">
+          <strong>6. CLASIFICACIÓN DE DEFECTOS.</strong>
+        </p>
+        <p class="parrafo_2">Los defectos en las instalaciones se clasificarán en: Defectos muy graves, defectos graves y defectos leves.</p>
+        <p class="parrafo_2">
+          <strong>6.1 Defecto Muy Grave.</strong>
+        </p>
+        <p class="parrafo_2">Es todo aquél que la razón o la experiencia determina que constituye un peligro inmediato para la seguridad de las personas o los bienes.</p>
+        <p class="parrafo">Se consideran tales los incumplimientos de las medidas de seguridad que pueden provocar el desencadenamiento de los peligros que se pretenden evitar con tales medidas, en relación con:</p>
+        <p class="parrafo_2">– Contactos directos, en cualquier tipo de instalación;</p>
+        <p class="parrafo">– Locales de pública concurrencia;</p>
+        <p class="parrafo">– Locales con riesgo de incendio o explosión;</p>
+        <p class="parrafo">– Locales de características especiales;</p>
+        <p class="parrafo">– Instalaciones con fines especiales;</p>
+        <p class="parrafo">– Quirófanos y salas de intervención.</p>
+        <p class="parrafo_2">
+          <strong>6.2 Defecto Grave.</strong>
+        </p>
+        <p class="parrafo_2">Es el que no supone un peligro inmediato para la seguridad de las personas o de los bienes, pero puede serlo al originarse un fallo en la instalación. También se incluye dentro de esta clasificación, el defecto que pueda reducir de modo sustancial la capacidad de utilización de la instalación eléctrica.</p>
+        <p class="parrafo">Dentro de este grupo y con carácter no exhaustivo, se consideran los siguientes defectos graves:</p>
+        <p class="parrafo_2">– Falta de conexiones equipotenciales, cuando éstas fueran requeridas;</p>
+        <p class="parrafo">– Inexistencia de medidas adecuadas de seguridad contra contactos indirectos;</p>
+        <p class="parrafo">– Falta de aislamiento de la instalación;</p>
+        <p class="parrafo">– Falta de protección adecuada contra cortocircuitos y sobrecargas en los conductores, en función de la intensidad máxima admisible en los mismos, de acuerdo con sus características y condiciones de instalación;</p>
+        <p class="parrafo">– Falta de continuidad de los conductores de protección;</p>
+        <p class="parrafo">– Valores elevados de resistencia de tierra en relación con las medidas de seguridad adoptadas.</p>
+        <p class="parrafo">– Defectos en la conexión de los conductores de protección a las masas, cuando estas conexiones fueran preceptivas;</p>
+        <p class="parrafo">– Sección insuficiente de los conductores de protección;</p>
+        <p class="parrafo">– Existencia de partes o puntos de la instalación cuya defectuosa ejecución pudiera ser origen de averías o daños;</p>
+        <p class="parrafo">– Naturaleza o características no adecuadas de los conductores utilizados;</p>
+        <p class="parrafo">– Falta de sección de los conductores, en relación con las caídas de tensión admisibles para las cargas previstas;</p>
+        <p class="parrafo">– Falta de identificación de los conductores "neutro" y "de protección";</p>
+        <p class="parrafo">– Empleo de materiales, aparatos o receptores que no se ajusten a las especificaciones vigentes.</p>
+        <p class="parrafo">– Ampliaciones o modificaciones de una instalación que no se hubieran tramitado según lo establecido en la ITC -BT 04.</p>
+        <p class="parrafo">– Carencia del número de circuitos mínimos estipulados</p>
+        <p class="parrafo">– La sucesiva reiteración o acumulación de defectos leves.</p>
+        <p class="parrafo_2">
+          <strong>6.3 Defecto Leve.</strong>
+        </p>
+        <p class="parrafo_2">Es todo aquel que no supone peligro para las personas o los bienes, no perturba el funcionamiento de la instalación y en el que la desviación respecto de lo reglamentado no tiene valor significativo para el uso efectivo o el funcionamiento de la instalación.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica el apartado 4.1, con efectos de 30 de junio de 2015, por la disposición final 3 del Real Decreto 1053/2014, de 12 de diciembre. <a class="refPost">Ref. BOE-A-2014-13681</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

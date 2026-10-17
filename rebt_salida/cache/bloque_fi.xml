@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="fi" tipo="firma" titulo="[firma]">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="parrafo_2">Dado en Palma de Mallorca a 2 de agosto de 2002.</p>
+        <p class="firma_rey">JUAN CARLOS R.</p>
+        <p class="firma_ministro">El Ministro de Ciencia y Tecnología,</p>
+        <p class="firma_ministro">JOSEP PIQUÉ I CAMPS</p>
+      </version>
+    </bloque>
+  </data>
+</response>

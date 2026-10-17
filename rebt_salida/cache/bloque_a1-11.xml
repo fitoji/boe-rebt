@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a1-11" tipo="precepto" titulo="Artículo 19">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 19. Información a los usuarios.</p>
+        <p class="parrafo">Como anexo al certificado de instalación que se entregue al titular de cualquier instalación eléctrica, la empresa instaladora deberá confeccionar unas instrucciones para el correcto uso y mantenimiento de la misma. Dichas instrucciones incluirán, en cualquier caso, como mínimo, un esquema unifilar de la instalación con las características técnicas fundamentales de los equipos y materiales eléctricos instalados, así como un croquis de su trazado.</p>
+        <p class="parrafo">Cualquier modificación o ampliación requerirá la elaboración de un complemento a lo anterior, en la medida que sea necesario.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

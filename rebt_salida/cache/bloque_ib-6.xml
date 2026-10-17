@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-6" tipo="precepto" titulo="ITC-BT-06">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-06</p>
+        <p class="anexo_tit">REDES AÉREAS PARA DISTRIBUCIÓN EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. MATERIALES</p>
+        <p class="parrafo">1.1 Conductores</p>
+        <p class="parrafo_2">1.1.1 Conductores aislados</p>
+        <p class="parrafo">1.1.2 Conductores desnudos</p>
+        <p class="parrafo_2">1.2 Aisladores</p>
+        <p class="parrafo">1.3 Accesorios de sujeción</p>
+        <p class="parrafo">1.4 Apoyos</p>
+        <p class="parrafo">1.5 Tirantes y tornapuntas</p>
+        <p class="parrafo_2">2. CÁLCULO MECÁNICO</p>
+        <p class="parrafo_2">2.1 Acciones a considerar en el cálculo</p>
+        <p class="parrafo">2.2 Conductores</p>
+        <p class="parrafo_2">2.2.1 Tracción máxima admisible</p>
+        <p class="parrafo">2.2.2 Flecha máxima</p>
+        <p class="parrafo_2">2.3 Apoyos</p>
+        <p class="parrafo_2">3. EJECUCIÓN DE LAS INSTALACIONES</p>
+        <p class="parrafo_2">3.1 Instalación de conductores aislados</p>
+        <p class="parrafo_2">3.1.1 Cables posados</p>
+        <p class="parrafo">3.1.2 Cables tensados</p>
+        <p class="parrafo_2">3.2 Instalación de conductores desnudos</p>
+        <p class="parrafo_2">3.2.1 Distancia de los conductores desnudos al suelo y zonas de protección de las edificaciones</p>
+        <p class="parrafo">3.2.2 Separación mínima entre conductores desnudos y entre éstos y los muros o paredes de edificaciones</p>
+        <p class="parrafo_2">3.3 Empalmes y conexiones de conductores. Condiciones mecánicas y eléctricas de los mismos</p>
+        <p class="parrafo">3.4 Sección mínima del conductor neutro</p>
+        <p class="parrafo">3.5 Identificación del conductor neutro</p>
+        <p class="parrafo">3.6 Continuidad del conductor neutro</p>
+        <p class="parrafo">3.7 Puesta a tierra del neutro</p>
+        <p class="parrafo">3.8 Instalación de apoyos</p>
+        <p class="parrafo">3.9 Condiciones generales para cruzamientos y paralelismos</p>
+        <p class="parrafo_2">3.9.1 Cruzamientos</p>
+        <p class="parrafo">3.9.2 Proximidades y paralelismos</p>
+        <p class="parrafo_2">4. INTENSIDADES MÁXIMAS ADMISIBLES POR LOS CONDUCTORES</p>
+        <p class="parrafo_2">4.1 Generalidades</p>
+        <p class="parrafo">4.2 Cables formados por conductores aislados con polietileno reticulado (XLPE), en haz, a espiral visible</p>
+        <p class="parrafo_2">4.2.1 Intensidades máximas admisibles</p>
+        <p class="parrafo">4.2.2 Factores de corrección</p>
+        <p class="parrafo">4.2.3 Intensidades máximas de cortocircuito admisible en los conductores de los cables</p>
+        <p class="parrafo_2">4.3 Conductores desnudos de cobre y aluminio</p>
+        <p class="parrafo">4.4 Otros cables u otros sistemas de instalación</p>
+        <p class="parrafo_2">
+          <strong>1. MATERIALES</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>1.1 Conductores</strong>
+        </p>
+        <p class="parrafo_2">Los conductores utilizados en las redes aéreas serán de cobre, aluminio o de otros materiales o aleaciones que posean características eléctricas y mecánicas adecuadas y serán preferentemente aislados</p>
+        <p class="parrafo_2">1.1.1 Conductores aislados</p>
+        <p class="parrafo_2">Los conductores aislados serán de tensión asignada no inferior a 0,6/1 kV tendrán un recubrimiento tal que garantice una buena resistencia a las acciones de la intemperie y deberán satisfacer las exigencias especificadas en la norma UNE 21.030.</p>
+        <p class="parrafo">La sección mínima permitida en los conductores de aluminio será de 16 mm<sup>2</sup>, y en los de cobre de 10 mm<sup>2</sup>. La sección mínima correspondiente a otros materiales será la que garantice una resistencia mecánica y conductividad eléctrica no inferiores a las que corresponden a los de cobre anteriormente indicados.</p>
+        <p class="parrafo_2">1.1.2 Conductores desnudos</p>
+        <p class="parrafo_2">Los conductores desnudos serán resistentes a las acciones de la intemperie y su carga de rotura mínima a la tracción será de 410 daN debiendo satisfacer las exigencias especificadas en las normas UNE 21.012 o UNE 21.018 según que los conductores sean de Cobre o de Aluminio.</p>
+        <p class="parrafo">Se considerarán como conductores desnudos aquellos conductores aislados para una tensión nominal inferior a 0,6/1 kV.</p>
+        <p class="parrafo">Su utilización tendrá carácter especial debidamente justificado, excluyendo el caso de zonas de arbolado o con peligro de incendio.</p>
+        <p class="parrafo_2">
+          <strong>1.2 Aisladores</strong>
+        </p>
+        <p class="parrafo_2">Los aisladores serán de porcelana, vidrio o de otros materiales aislantes equivalentes que resistan las acciones de la intemperie, especialmente las variaciones de temperatura y la corrosión, debiendo ofrecer la misma resistencia a los esfuerzos mecánicos y poseer el nivel de aislamiento de los aisladores de porcelana o vidrio.</p>
+        <p class="parrafo">La fijación de los aisladores a sus soportes se efectuará mediante roscado o cementación a base de sustancias que no ataquen ninguna de las partes, y que no sufran variaciones de volumen que puedan afectar a los propios aisladores o a la seguridad de su fijación.</p>
+        <p class="parrafo_2">
+          <strong>1.3 Accesorios de sujeción</strong>
+        </p>
+        <p class="parrafo_2">Los accesorios que se empleen en las redes aéreas deberán estar debidamente protegidos contra la corrosión y envejecimiento, y resistirán los esfuerzos mecánicos a que puedan estar sometidos, con un coeficiente de seguridad no inferior al que corresponda al dispositivo de anclaje donde estén instalados.</p>
+        <p class="parrafo_2">
+          <strong>1.4 Apoyos</strong>
+        </p>
+        <p class="parrafo_2">Los apoyos podrán ser metálicos, de hormigón, madera o de cualquier otro material que cuente con la debida autorización de la Autoridad competente, y se dimensionarán de acuerdo con las hipótesis de cálculo indicadas en el apartado 2.3 de la presente instrucción. Deberán presentar una resistencia elevada a las acciones de la intemperie, y en el caso de no presentarla por si mismos deberán recibir los tratamientos adecuados para tal fin.</p>
+        <p class="parrafo_2">
+          <strong>1.5 Tirantes y tornapuntas</strong>
+        </p>
+        <p class="parrafo_2">Los tirantes estarán constituidos por varillas o cables metálicos, debidamente protegidos contra la corrosión, y tendrán una carga de rotura mínima de 1.400 daN</p>
+        <p class="parrafo">Los tornapuntas, podrán ser metálicos, de hormigón, madera o cualquier otro material capaz de soportar los esfuerzos a que estén sometidos, debiendo estar debidamente protegidos contra las acciones de la intemperie.</p>
+        <p class="parrafo">Deberá restringirse el empleo de tirantes y tornapuntas.</p>
+        <p class="parrafo_2">
+          <strong>2. CÁLCULO MECÁNICO</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1 Acciones a considerar en el cálculo</strong>
+        </p>
+        <p class="parrafo_2">El cálculo mecánico de los elementos constituyentes de la red, cualquiera que sea su naturaleza, se efectuará con los supuestos de acción de las cargas y sobrecargas que a continuación se indican, combinadas en la forma y condiciones que se fijan en los apartados siguientes:</p>
+        <p class="parrafo_2">Como cargas permanentes se considerarán las cargas verticales debidas al propio peso de los distintos elementos: conductores, aisladores, accesorios de sujeción y apoyos.</p>
+        <p class="parrafo">Se considerarán las sobrecargas debidas a la presión del viento siguientes:</p>
+        <p class="parrafo_2">– Sobre conductores: 50 daN/m<sup>2</sup></p>
+        <p class="parrafo">– Sobre superficies planas: 100 daN/m<sup>2</sup></p>
+        <p class="parrafo">– Sobre superficies cilíndricas de apoyos: 70 daN/m<sup>2</sup></p>
+        <p class="parrafo_2">La acción del viento sobre los conductores no se tendrá en cuenta en aquellos lugares en que por la configuración del terreno, o la disposición de las edificaciones, actúe en el sentido longitudinal de la línea.</p>
+        <p class="parrafo">A los efectos de las sobrecargas motivadas por el hielo se clasificará el país en tres zonas:</p>
+        <p class="parrafo_2">– Zona A: La situada a menos de 500 m de altitud sobre el nivel del mar. No se tendrá en cuenta sobrecarga alguna motivada por el hielo.</p>
+        <p class="parrafo">– Zona B: La situada a una altitud comprendida entre 500 y 1000 m. Los conductores desnudos se considerarán sometidos a la sobrecarga de un manguito de hielo de valor 180√d gramos por metro lineal, siendo d el diámetro del conductor en mm. En los cables en haz la sobrecarga se considerará de 60 √d gramos por metro lineal, siendo d el diámetro del cable en haz en mm. A efectos de cálculo se considera como diámetro de un cable en haz, 2,5 veces el diámetro del conductor de fase.</p>
+        <p class="parrafo">– Zona C: La situada a una altitud superior a 1000 m. Los conductores desnudos se considerarán sometidos a la sobrecarga de un manguito de hielo de valor 360√d gramos por metro lineal, siendo d el diámetro del conductor en mm. En los cables en haz la sobrecarga se considerará de 120 √d gramos por metro lineal, siendo del diámetro del cable en haz en mm. A efectos de cálculo se considera como diámetro de un cable en haz, 2,5 veces el diámetro del conductor de fase.</p>
+        <p class="parrafo_2">
+          <strong>2.2 Conductores</strong>
+        </p>
+        <p class="parrafo_2">2.2.1 Tracción máxima admisible</p>
+        <p class="parrafo_2">La tracción máxima admisible de los conductores no será superior a su carga de rotura dividida por 2,5 considerándolos sometidos a la hipótesis más desfavorable de las siguientes:</p>
+        <p class="parrafo_2">Zona A:</p>
+        <p class="parrafo_2">a) Sometidos a la acción de su propio peso y a la sobrecarga del viento, a la temperatura de 15 ºC.</p>
+        <p class="parrafo">b) Sometidos a la acción de su propio peso y a la sobrecarga del viento dividida por 3, a la temperatura de 0 ºC</p>
+        <p class="parrafo_2">Zona B y C:</p>
+        <p class="parrafo_2">a) Sometidos a la acción de su propio peso y a la sobrecarga del viento, a la temperatura de 15 ºC.</p>
+        <p class="parrafo">b) Sometidos a la acción de su propio peso y a la sobrecarga de hielo correspondiente a la zona, a la temperatura de 0 ºC.</p>
+        <p class="parrafo_2">2.2.2 Flecha máxima</p>
+        <p class="parrafo_2">Se adoptará como flecha máxima de los conductores el mayor valor resultante de la comparación entre las dos hipótesis correspondientes a la zona climatológica que se considere, y a una tercera hipótesis de temperatura (válida para las tres zonas), consistente en considerar los conductores sometidos a la acción de su propio peso y a la temperatura máxima previsible, teniendo en cuenta las condiciones climatológicas y las de servicio de la red. Esta temperatura no será inferior a 50 ºC.</p>
+        <p class="parrafo_2">
+          <strong>2.3 Apoyos</strong>
+        </p>
+        <p class="parrafo_2">Para el cálculo mecánico de los apoyos se tendrán en cuenta las hipótesis indicadas en la Tabla 1, según la función del apoyo y de la zona.</p>
+        <p class="centro_cursiva">Tabla 1. Cargas para el cálculo mecánico de los apoyos</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="2">
+                <p class="cabeza_tabla">Función del apoyo</p>
+              </th>
+              <th class="cabeza_tabla" colspan="2">
+                <p class="cabeza_tabla">ZONA A</p>
+              </th>
+              <th class="cabeza_tabla" colspan="2">
+                <p class="cabeza_tabla">ZONAS B y C</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Hipótesis de viento a la temperatura de 15ºC</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Hipótesis de temperatura a 0ºC con 1/3 de viento</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Hipótesis de viento a la temperatura de 15ºC</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Hipótesis de hielo según zona y temperatura de 0ºC</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Alineación</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Cargas permanentes</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Cargas permanentes Desequilibrio de tracciones</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Cargas permanentes</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Cargas permanentes Desequilibrio de tracciones</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Angulo</p>
+              </td>
+              <td colspan="4">
+                <p class="cuerpo_tabla_centro">Cargas permanentes. Resultante de ángulo</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Estrellamiento</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Cargas permanentes. 2/3 resultante</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Cargas permanentes. Total resultante</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Cargas permanentes. 2/3 resultante</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Cargas permanentes. Total resultante</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Fin de línea</p>
+              </td>
+              <td colspan="4">
+                <p class="cuerpo_tabla_centro">Cargas permanentes. Tracción total de conductores</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">Cuando los vanos sean inferiores a 15 m, las cargas permanentes tienen muy poca influencia, por lo que en general se puede prescindir de las mismas en el cálculo.</p>
+        <p class="parrafo">El coeficiente de seguridad a la rotura será distinto en función del material de los apoyos según la tabla 2.</p>
+        <p class="centro_cursiva">Tabla 2. Coeficiente de seguridad a la rotura en función del material de los apoyos</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" colspan="2">
+                <p class="cabeza_tabla">Coeficiente de seguridad a la rotura</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Material del apoyo</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Coeficiente</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Metálico</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,5</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Hormigón armado vibrado</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Madera</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3,5</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Otros materiales no metálicos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <p class="cita">NOTA: En el caso de apoyos metálicos o de hormigón armado vibrado cuya resistencia mecánica se haya comprobado mediante ensayos en verdadera magnitud, los coeficientes de seguridad podrán reducirse a 1,45 y 2 respectivamente</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">Cuando por razones climatológicas extraordinarias hayan de suponerse temperaturas o manguitos de hielo superiores a los indicados, será suficiente comprobar que los esfuerzos resultantes son inferiores al límite elástico</p>
+        <p class="parrafo_2">
+          <strong>3. EJECUCIÓN DE LAS INSTALACIONES</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>3.1 Instalación de conductores aislados</strong>
+        </p>
+        <p class="parrafo_2">Los conductores dotados de envolventes aislantes, cuya tensión nominal sea inferior a 0,6/1 kV se considerarán, a efectos de su instalación, como conductores desnudos. (Apartado 3.2).</p>
+        <p class="parrafo">Los conductores aislados de tensión nominal 0,6/1 kV. (UNE 21.030) podrán instalarse como:</p>
+        <p class="parrafo_2">3.1.1 Cables posados</p>
+        <p class="parrafo_2">Directamente posados sobre fachadas o muros, mediante abrazaderas fijadas a los mismos y resistentes a las acciones de la intemperie. Los conductores se protegerán adecuadamente en aquellos lugares en que puedan sufrir deterioro mecánico de cualquier índole.</p>
+        <p class="parrafo">En los espacios vacíos (cables no posados en fachada o muro) los conductores tendrán la condición de tensados y se regirán por lo indicado en el apartado 3.1.2.</p>
+        <p class="parrafo">En general deberá respetarse una altura mínima al suelo de 2,5 metros. Lógicamente, si se produce una circunstancia particular como la señalada en el párrafo anterior, la altura mínima deberá ser la señalada en los puntos 3.1.2 y 3.9 para cada caso en particular. En los recorridos por debajo de ésta altura mínima al suelo (por ejemplo, para acometidas) deberán protegerse mediante elementos adecuados, conforme a lo indicado en el apartado 1.2.1 de la ITC -BT 11, evitándose que los conductores pasen por delante de cualquier abertura existente en las fachadas o muros.</p>
+        <p class="parrafo">En las proximidades de aberturas en fachadas deben respetarse las siguientes distancias mínimas:</p>
+        <p class="parrafo_2">– Ventanas: 0,30 metros al borde superior de la abertura y 0,50 metros al borde inferior y bordes laterales de la abertura.</p>
+        <p class="parrafo">– Balcones: 0,30 metros al borde superior de la abertura y 1,00 metros a los bordes laterales del balcón.</p>
+        <p class="parrafo_2">Se tendrán en cuenta la existencia de salientes o marquesinas que puedan facilitar el posado de los conductores, pudiendo admitir, en éstos casos, una disminución de las distancias antes indicadas.</p>
+        <p class="parrafo">Así mismo se respetará una distancia mínima de 0,05 metros a los elementos metálicos presentes en las fachadas, tales como escaleras, a no ser que el cable disponga de una protección conforme a lo indicado en el apartado 1.2.1 de la ITC -BT 11,</p>
+        <p class="parrafo_2">3.1.2 Cables tensados</p>
+        <p class="parrafo_2">Los cables con neutro fiador, podrán ir tensados entre piezas especiales colocadas sobre apoyos, fachadas o muros, con una tensión mecánica adecuada, sin considerar a éstos efectos el aislamiento como elemento resistente. Para el resto de los cables tensados se utilizarán cables fiadores de acero galvanizado, cuya resistencia a la rotura será, como mínimo, de 800 daN, y a los que se fijarán mediante abrazaderas u otros dispositivos apropiados los conductores aislados.</p>
+        <p class="parrafo">Distancia al suelo: 4 m, salvo lo especificado en el apartado 3.9 para cruzamientos.</p>
+        <p class="parrafo_2">
+          <strong>3.2 Instalación de conductores desnudos</strong>
+        </p>
+        <p class="parrafo_2">Los conductores desnudos irán fijados a los aisladores de forma que quede asegurada su posición correcta en el aislador y no ocasione un debilitamiento apreciable de la resistencia mecánica del mismo, ni produzcan efectos de corrosión.</p>
+        <p class="parrafo">La fijación de los conductores al aislador debe hacerse preferentemente, en la garganta lateral del mismo, por la parte próxima al apoyo, y en el caso de ángulos, de manera que el esfuerzo mecánico del conductor esté dirigido hacia el aislador.</p>
+        <p class="parrafo">Cuando se establezcan derivaciones, y salvo que se utilicen aisladores especialmente concebidos para ellas, deberá colocarse un sólo conductor por aislador.</p>
+        <p class="parrafo">Cuando se trate de redes establecidas por encima de edificaciones o sobre apoyos fijados a las fachadas, el coeficiente de seguridad de la tracción máxima admisible de los conductores deberá ser superior, en un 25 por ciento, a los valores indicados en el apartado 2.2.1.</p>
+        <p class="parrafo_2">3.2.1 Distancia de los conductores desnudos al suelo y zonas de protección de las edificaciones</p>
+        <p class="parrafo_2">Los conductores desnudos mantendrán, en las condiciones más desfavorables, las siguientes distancias respecto al suelo y a las edificaciones:</p>
+        <p class="parrafo_2">3.2.1.1 Al suelo</p>
+        <p class="parrafo_2">4 m, salvo lo especificado en el apartado 3.9 para cruzamientos.</p>
+        <p class="parrafo_2">3.2.1.2 En edificios no destinados al servicio de distribución de la energía</p>
+        <p class="parrafo_2">Los conductores se instalarán fuera de una zona de protección, limitada por los planos que se señalan:</p>
+        <p class="parrafo_2">– Sobre los tejados: Un plano paralelo al tejado, con una distancia vertical de 1,80 m del mismo, cuando se trate de conductores no puestos a tierra, y de 1,50 m cuando lo estén; así mismo para cualquier elemento que se encontrase instalado, o que se instale en el tejado, se respetarán las mismas distancias que las indicadas en la figura 1 para las chimeneas.</p>
+        <p class="parrafo">Cuando la inclinación del tejado sea superior a 45 grados sexagesimales, el plano limitante de la zona de protección deberá considerarse a 1 metro de separación entre ambos.</p>
+        <p class="parrafo">– Sobre terrazas y balcones: Un plano paralelo al suelo de la terraza o balcón, y a una distancia del mismo de 3 metros.</p>
+        <p class="parrafo">– En fachadas: La zona de protección queda limitada:</p>
+        <p class="parrafo_2">a) Por un plano vertical paralelo al muro de fachada sin aberturas, situado a 0,20 metros del mismo.</p>
+        <p class="parrafo">b) Por un plano vertical paralelo al muro de fachada a una distancia de 1 metro de las ventanas, balcones, terrazas o cualquier otra abertura. Este plano vendrá, a su vez, limitado por los planos siguientes:</p>
+        <p class="parrafo_2">– Un plano horizontal situado a una distancia vertical de 0,30 metros de la parte superior de la abertura de que se trate.</p>
+        <p class="parrafo">– Dos planos verticales, uno a cada lado de la abertura, perpendicular a la fachada, y situados a 1 metro de distancia horizontal de los extremos de la abertura.</p>
+        <p class="parrafo">– Un plano horizontal situado a 3 metros por debajo de los antepechos de las aberturas.</p>
+        <p class="parrafo_2">Los límites de esta zona de protección se representan en la figura 1.</p>
+        <p class="centro_cursiva">
+          <em>Figura 1. Zona de protección en edificios para la instalación de líneas eléctricas de baja tensión con conductores desnudos</em>
+        </p>
+        <p class="imagen">
+          <img class="no_escalar" height="1384" src="/datos/imagenes/disp/2002/224/18099_image2.png" width="1078"/>
+        </p>
+        <p class="parrafo_2">3.2.2 Separación mínima entre conductores desnudos y entre éstos y los muros o paredes de edificaciones</p>
+        <p class="parrafo_2">Las distancias (D) entre conductores desnudos de polaridades diferentes serán, como mínimo las siguientes:</p>
+        <p class="parrafo_2">– En vanos hasta 4 metros: 0,10 m</p>
+        <p class="parrafo">– En vanos de 4 a 6 metros: 0,15 m</p>
+        <p class="parrafo">– En vanos de 6 a 30 metros: 0,20 m</p>
+        <p class="parrafo">– En vanos de 30 a 50 metros: 0,30 m</p>
+        <p class="parrafo_2">Para vanos mayores de 50 m se aplicará la fórmula D=0,55√F, en la que F es la flecha máxima en metros.</p>
+        <p class="parrafo">En los apoyos en los que se establezcan derivaciones, la distancia entre cada uno de los conductores derivados y los conductores de polaridad diferente de la línea de donde aquellos se deriven podrá disminuirse hasta un 50 por ciento de los valores indicados anteriormente, con un mínimo de 0,10 metros.</p>
+        <p class="parrafo">Los conductores colocados sobre apoyos sujetos a fachadas de edificios estarán distanciados de éstas 0,20 metros como mínimo. Esta separación deberá aumentarse en función de los vanos, de forma que nunca pueda sobrepasarse la zona de protección señalada en el capítulo anterior, ni en el caso de los más fuertes vientos.</p>
+        <p class="parrafo_2">
+          <strong>3.3 Empalmes y conexiones de conductores. Condiciones mecánicas y eléctricas de los mismos.</strong>
+        </p>
+        <p class="parrafo_2">Los empalmes y conexiones de conductores se realizarán utilizando piezas metálicas apropiadas, resistentes a la corrosión, y que aseguren un contacto eléctrico eficaz, de modo que en ellos, la elevación de temperatura no sea superior a la de los conductores.</p>
+        <p class="parrafo">Los empalmes deberán soportar sin rotura ni deslizamiento del conductor, el 90 por ciento de su carga de rotura. No es admisible realizar empalmes por soldadura o por torsión directa de los conductores.</p>
+        <p class="parrafo">En los empalmes y conexiones de conductores aislados, o de éstos con conductores desnudos, se utilizarán accesorios adecuados, resistentes a la acción de la intemperie y se colocarán de tal forma que eviten la penetración de la humedad en los conductores aislados.</p>
+        <p class="parrafo">Las derivaciones se conectarán en las proximidades de los soportes de línea, y no originarán tracción mecánica sobre la misma.</p>
+        <p class="parrafo">Con conductores de distinta naturaleza, se tomarán todas las precauciones necesarias para obviar los inconvenientes que se derivan de sus características especiales, evitando la corrosión electrolítica mediante piezas adecuadas.</p>
+        <p class="parrafo_2">
+          <strong>3.4 Sección mínima del conductor neutro</strong>
+        </p>
+        <p class="parrafo_2">Dependiendo del número de conductores con que se haga la distribución la sección mínima del conductor neutro será:</p>
+        <p class="parrafo_2">a) Con dos o tres conductores: igual a la de los conductores de fase.</p>
+        <p class="parrafo">b) Con cuatro conductores: la sección de neutro será como mínimo, la de la tabla 1 de la ITC-BT-07, con un mínimo de 10 mm<sup>2</sup> para cobre y de 16 mm<sup>2</sup> para aluminio.</p>
+        <p class="parrafo_2">En caso de utilizar conductor neutro de aleaciones de aluminio (por ejemplo ALMELEC), la sección a considerar será la equivalente, teniendo en cuenta las conductividades de los diferentes materiales.</p>
+        <p class="parrafo_2">
+          <strong>3.5 Identificación del conductor neutro</strong>
+        </p>
+        <p class="parrafo_2">El conductor neutro deberá estar identificado por un sistema adecuado. En las líneas de conductores desnudos se admite que no lleve identificación alguna cuando éste conductor tenga distinta sección o cuando esté claramente diferenciado por su posición.</p>
+        <p class="parrafo_2">
+          <strong>3.6 Continuidad del conductor neutro</strong>
+        </p>
+        <p class="parrafo_2">El conductor neutro no podrá ser interrumpido en las redes de distribución, salvo que ésta interrupción sea realizada con alguno de los dispositivos siguientes:</p>
+        <p class="parrafo_2">a) Interruptores o seccionadores omnipolares que actúen sobre el neutro y las fases al mismo tiempo (corte omnipolar simultáneo), o que conecten el neutro antes que las fases y desconecten éstas antes que el neutro.</p>
+        <p class="parrafo">b) Uniones amovibles en el neutro próximas a los interruptores o seccionadores de los conductores de fase, debidamente señalizadas, y que sólo puedan ser maniobradas mediante herramientas adecuadas, no debiendo, en éste caso, ser seccionado el neutro sin que lo estén previamente las fases, ni conectadas éstas sin haberlo sido previamente el neutro.</p>
+        <p class="parrafo_2">
+          <strong>3.7 Puesta a tierra del neutro</strong>
+        </p>
+        <p class="parrafo_2">El conductor neutro de las líneas aéreas de redes de distribución de las compañías eléctricas se conectará a tierra en el centro de transformación o central generadora de alimentación, en la forma prevista en el Reglamento sobre Condiciones Técnicas y Garantías de Seguridad en Centrales Eléctricas, Subestaciones y Centros de Transformación. Además, en los esquemas de distribución tipo TT y TN, el conductor neutro y el de protección para el esquema TN-S, deberán estar puestos a tierra en otros puntos, y como mínimo una vez cada 500 metros de longitud de línea. Para efectuar ésta puesta a tierra se elegirán, con preferencia, los puntos de donde partan las derivaciones importantes.</p>
+        <p class="parrafo">Cuando, en los mencionados esquemas de distribución tipo, la puesta a tierra del neutro se efectúe en un apoyo de madera, los soportes metálicos de los aisladores correspondientes a los conductores de fase en éste apoyo estarán unidos al conductor neutro.</p>
+        <p class="parrafo">En las redes de distribución privadas, con origen en centrales de generación propia para las que se prevea la puesta a tierra del neutro, se seguirá lo especificado anteriormente para las redes de distribución de las compañías eléctricas.</p>
+        <p class="parrafo_2">
+          <strong>3.8 Instalación de apoyos</strong>
+        </p>
+        <p class="parrafo_2">Los apoyos estarán consolidados por fundaciones adecuadas o bien directamente empotrados en el terreno, asegurando su estabilidad frente a las solicitaciones actuantes y a la naturaleza del suelo. En su instalación deberá observarse:</p>
+        <p class="parrafo_2">1) Los postes de hormigón se colocarán en cimentaciones monolíticas de hormigón.</p>
+        <p class="parrafo">2) Los apoyos metálicos serán cimentados en macizos de hormigón o mediante otros procedimientos avalados por la técnica (pernos, etc.). La cimentación deberá construirse de forma tal que facilite el deslizamiento del agua, y cubra, cuando existan, las cabezas de los pernos.</p>
+        <p class="parrafo">3) Los postes de madera se colocarán directamente retacados en el suelo, y no se empotrarán en macizos de hormigón. Se podrán fijar a bases metálicas o de hormigón por medio de elementos de unión apropiados que permitan su fácil sustitución, quedando el poste separado del suelo 0,15 m, como mínimo.</p>
+        <p class="parrafo_2">
+          <strong>3.9 Condiciones generales para cruzamientos y paralelismos</strong>
+        </p>
+        <p class="parrafo_2">Las líneas eléctricas aéreas deberán cumplir las condiciones señaladas en los apartados 3.9.1. y 3.9.2 de la presente Instrucción.</p>
+        <p class="parrafo_2">3.9.1 Cruzamientos</p>
+        <p class="parrafo_2">Las líneas deberán presentar, en lo que se refiere a los vanos de cruce con las vías e instalaciones que se señalan, las condiciones que para cada caso se indican.</p>
+        <p class="parrafo_2">3.9.1.1 Con líneas eléctricas aéreas de alta tensión.</p>
+        <p class="parrafo_2">De acuerdo con lo dispuesto en el Reglamento de Líneas Eléctricas Aéreas de Alta Tensión, la línea de baja tensión deberá cruzar por debajo de la línea de alta tensión.</p>
+        <p class="parrafo">La mínima distancia vertical "d" entre los conductores de ambas líneas, en las condiciones más desfavorables, no deberá ser inferior, en metros, a:</p>
+        <p class="centro_redonda">
+          <img alt="MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaT5kPC9taT4KICAgIDxtbz4mI3gyMjY1OzwvbW8+CiAgICA8bW4+MSw1PC9tbj4KICAgIDxtcm93PgogICAgICAgIDxtbz4rPC9tbz4KICAgIDwvbXJvdz4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1pPlU8L21pPgogICAgICAgICAgICA8bW8+KzwvbW8+CiAgICAgICAgICAgIDxtaT5MPC9taT4KICAgICAgICAgICAgPG1uPjE8L21uPgogICAgICAgICAgICA8bW8+KzwvbW8+CiAgICAgICAgICAgIDxtaT5MPC9taT4KICAgICAgICAgICAgPG1uPjI8L21uPgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1uPjEwMDwvbW4+CiAgICAgICAgPC9tcm93PgogICAgPC9tZnJhYz4KPC9tYXRoPg==" class="formula" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAAAmCAYAAACyLctlAAADUUlEQVR4nO2b0ZGjMAyGVQt1pJBUQim8XhsUk172HnY0o9NJwpbABPi/GT9sArEW/5ZlCRMBAMBFmM42AIxlJqIfo0kW9d37YJvejk2eOPn6z8F26f5a7ZuMa49+ho/CEq3kTb8iHsmHYlHwNTy5RolX9r1l30T/28UOYz7Irkfxot+HuQbXLNTvLVbKC569VWST5EP94h1h30y2uFeKnQVohD1BJM6MV6uIo9c7jRZvq30v53NeLRCnF9la/iZq94CSijjYM3mDrxkt3l77NCxeUICXv2jg35SLzyri2IrBNaPF22uf5kM5hwAEvHOOBnGl3PKWFQfH4D33jhRvxj4JP3OEDEV4+arGu1bqyGstm5zedNKWeM+2T9tSTpWxEaNSQNmZduQM3Yp3X1SLCzP3tqSgrHtGed6MfbLPcopsoe2gm6+p0ppE5+WoNfm9B1uDvlB+U5IRR2sMrm0aJd6sfdn+XNjzRvAsyybAe5LoZwTw0cbjRTWbMoPVGoNrRok3a9+S6CtkdTqy2EPE0b2V5ZnJDIZXoODPK14/Yw9PdGtpnYLvRok3Y1+0gmc3w6kSXVbEWw+XQ5hK+qWyLPH/1bpp2dseq/7vNTnYq/F9q+1n2Sdbc0gmXzDhkCEbz8nBbr3eE68X6/batmtMBb4DK8hm8e3xuy0Zi55lTU6yHgFDvDfEWkoqFY4e0cr+ekIN9sY99/SK9w/a17V/4JhDB8U/1J8olqLNxMq9cXJU/7bCDK95k/TsgUILxOuV8Xp30jImzSaYM+LtLSMibLgR3qZspTYhSdFWy3lZ8R4ZNoAvxnpnsiXJLO/f67hGNg/Z4+nvKN7Hvryiy7/sydiTZl/1y6DFy7bNwiZpS6Y0fSfxRiV1nVr0xlDnWC+HNJ7r9PLvo/GS6LLYYR3oy3j8u4g3KqlboSA/Uwo+q+b1L4c+NRu1yptXwEavVpzt0c+aJz9PeO+ITSZ0Aw4zPcgTJNBii96jlZ7WCzce532PYiYcfd7C2ydYmzgOw6JTDuyh8dzB4WjxRiV9uQH2BFo9vgNAMxAvuCwQL7gsiHnBZfGyDVa2QGcbrBQksg1gGMjzgstiiQ0VNvDVbJ1L0+V0bwOmz+U99iUfAAAAANyWv+eqkaKAbgMZAAAAAElFTkSuQmCC"/>
+        </p>
+        <p class="parrafo_2">donde:</p>
+        <p class="parrafo_2">U = Tensión nominal, en kV, de la línea de alta tensión.</p>
+        <p class="parrafo">L1 = Longitud, en metros, entre el punto de cruce y el apoyo más próximo de la línea de alta tensión.</p>
+        <p class="parrafo">L2 = Longitud, en metros, entre el punto de cruce y el apoyo más próximo de la línea de baja tensión.</p>
+        <p class="parrafo_2">Cuando la resultante de los esfuerzos del conductor en alguno de los apoyos de cruce de baja tensión tenga componente vertical ascendente se tomarán las debidas precauciones para que no se desprendan los conductores, aisladores o accesorios de sujeción.</p>
+        <p class="parrafo">Podrán realizarse cruces sin que la línea de alta tensión reúna ninguna condición especial cuando la línea de baja tensión esté protegida en el cruce por un haz de cables de acero, situado entre los conductores de ambas líneas, con la suficiente resistencia mecánica para soportar la caída de los conductores de la línea de alta tensión, en el caso de que éstos se rompieran o desprendieran. Los cables de protección serán de acero galvanizado, y estarán puestos a tierra.</p>
+        <p class="parrafo">En caso de que por circunstancias singulares sea necesario que la línea de baja tensión cruce por encima de la de alta tensión será preciso recabar autorización expresa del Organismo competente de la Administración, debiendo tener presentes, para realizar estos cruzamientos, todas las precauciones y criterios expuestos en el citado Reglamento de Líneas Eléctricas Aéreas de Alta Tensión.</p>
+        <p class="parrafo_2">3.9.1.2 Con otras líneas eléctricas aéreas de baja tensión.</p>
+        <p class="parrafo_2">Cuando alguna de las líneas sea de conductores desnudos, establecidas en apoyos diferentes, la distancia entre los conductores más próximos de las dos líneas será superior a 0,50 metros, y si el cruzamiento se realiza en apoyo común esta distancia será la señalada en el punto 3.2.2 para los apoyos de derivación. Cuando las dos líneas sean aisladas podrán estar en contacto.</p>
+        <p class="parrafo_2">3.9.1.3 Con líneas aéreas de telecomunicación.</p>
+        <p class="parrafo_2">Las líneas de baja tensión, con conductores desnudos, deberán cruzar por encima de las de telecomunicación. Excepcionalmente podrán cruzar por debajo, debiendo adoptarse en este caso una de las soluciones siguientes:</p>
+        <p class="parrafo_2">– Colocación entre las líneas de un dispositivo de protección formado por un haz de cables de acero, situado entre los conductores de ambas líneas, con la suficiente resistencia mecánica para soportar la caída de los conductores de la línea de telecomunicación en el caso de que se rompieran o desprendieran. Los cables de protección serán de acero galvanizado, y estarán puestos a tierra.</p>
+        <p class="parrafo">– Empleo de conductores aislados para 0,6/1 kV en el vano de cruce para líneas de baja tensión.</p>
+        <p class="parrafo">– Empleo de conductores aislados para 0,6/1 kV en el vano de cruce para la línea de telecomunicación.</p>
+        <p class="parrafo_2">Cuando el cruce se efectúe en distintos apoyos, la distancia mínima entre los conductores desnudos de las líneas de baja tensión y los de las líneas de telecomunicación, será de 1 metro. Si el cruce se efectúa sobre apoyos comunes dicha distancia podrá reducirse a 0,50 metros.</p>
+        <p class="parrafo_2">3.9.1.4 Con carretera y ferrocarriles sin electrificar.</p>
+        <p class="parrafo_2">Los conductores tendrán una carga de rotura no inferior a 410 daN, admitiéndose en el caso de acometidas con conductores aislados que se reduzca dicho valor hasta 280 daN.</p>
+        <p class="parrafo">La altura mínima del conductor más bajo, en las condiciones de flecha más desfavorables, será de 6 metros.</p>
+        <p class="parrafo">Los conductores no presentarán ningún empalme en el vano de cruce, admitiéndose, durante la explotación, y por causa de reparación de la avería, la existencia de un empalme por vano.</p>
+        <p class="parrafo_2">3.9.1.5 Con ferrocarriles electrificados, tranvías y trolebuses</p>
+        <p class="parrafo_2">La altura mínima de los conductores sobre los cables o hilos sustentadores o conductores de la línea de contacto será de 2 metros.</p>
+        <p class="parrafo">Además, en el caso de ferrocarriles, tranvías o trolebuses provistos de trole, o de otros elementos de toma de corriente que puedan, accidentalmente, separarse de la línea de contacto, los conductores de la línea eléctrica deberán estar situados a una altura tal que, al desconectarse el elemento de toma de corriente, no alcance, en la posición más desfavorable que pueda adoptar, una separación inferior a 0,30 metros con los conductores de la línea de baja tensión</p>
+        <p class="parrafo_2">3.9.1.6 Con teleféricos y cables transportadores.</p>
+        <p class="parrafo_2">Cuando la línea de baja tensión pase por encima, la distancia mínima entre los conductores y cualquier elemento de la instalación del teleférico será de 2 metros. Cuando la línea aérea de baja tensión pase por debajo está distancia no será inferior a 3 metros. Los apoyos adyacentes del teleférico correspondiente al cruce con la línea de baja tensión se pondrán a tierra.</p>
+        <p class="parrafo_2">3.9.1.7 Con ríos y canales navegables o flotables.</p>
+        <p class="parrafo_2">La altura mínima de los conductores sobre la superficie del agua para el máximo nivel que puede alcanzar será de: H = G + 1 m, donde G es el gálibo</p>
+        <p class="parrafo">En el caso de que no exista gálibo definido se considerará éste igual a 6 metros.</p>
+        <p class="parrafo_2">3.9.1.8 Con antenas receptoras de radio y televisión.</p>
+        <p class="parrafo_2">Los conductores de la línea de baja tensión, cuando sean desnudos, deberán presentar, como mínimo, una distancia igual a 1 m con respecto a la antena en si, a sus tirantes y a sus conductores de bajada, cuando éstos no estén fijados a las paredes de manera que eviten el posible contacto con la línea de baja tensión.</p>
+        <p class="parrafo">Queda prohibida la utilización de los apoyos de sustentación de líneas de baja tensión para la fijación sobre los mismos de las antenas de radio o televisión, así como de los tirantes de las mismas.</p>
+        <p class="parrafo_2">3.9.1.9 Con canalizaciones de agua y gas</p>
+        <p class="parrafo_2">La distancia mínima entre cables de energía eléctrica y canalizaciones de agua o gas será de 0,20 m. Se evitará el cruce por la vertical de las juntas de las canalizaciones de agua o gas, o de los empalmes de la canalización eléctrica, situando unas y otros a una distancia superior a 1 m del cruce. Para líneas aéreas desnudas la distancia mínima será 1 m.</p>
+        <p class="parrafo_2">3.9.2 Proximidades y paralelismos</p>
+        <p class="parrafo_2">3.9.2.1 Con líneas eléctricas aéreas de alta tensión.</p>
+        <p class="parrafo_2">Se cumplirá lo dispuesto en el Reglamento de Líneas Eléctricas Aéreas de Alta Tensión, para evitar la construcción de líneas paralelas con las de alta tensión a distancias inferiores a 1,5 veces la altura del apoyo más alto entre las trazas de los conductores más próximos.</p>
+        <p class="parrafo">Se exceptúa de la prescripción anterior las líneas de acceso a centrales generadoras, estaciones transformadoras y centros de transformación. En estos casos se aplicará lo prescrito en los reglamentos aplicables a instalaciones de alta tensión. No obstante, en paralelismos con líneas de tensión igual o inferior a 66 kV no deberá existir una separación inferior a 2 metros entre los conductores contiguos de las líneas paralelas, y de 3 metros para tensiones superiores.</p>
+        <p class="parrafo">Las líneas eléctricas de baja tensión podrán ir en los mismos apoyos que las de alta tensión cuando se cumplan las condiciones siguientes:</p>
+        <p class="parrafo_2">– Los conductores de la línea de alta tensión tendrán una carga de rotura mínima de 480 daN, e irán colocados por encima de los de baja tensión.</p>
+        <p class="parrafo">– La distancia entre los conductores más próximos de las dos líneas será, por lo menos, igual a la separación de los conductores de la línea de alta tensión.</p>
+        <p class="parrafo">– En los apoyos comunes, deberá colocarse una indicación, situada entre las líneas de baja y alta tensión, que advierta al personal que ha de realizar trabajos en baja tensión de los peligros que supone la presencia de una línea de alta tensión en la parte superior.</p>
+        <p class="parrafo">– El aislamiento de la línea de baja tensión no será inferior al correspondiente de puesta a tierra de la línea de alta tensión.</p>
+        <p class="parrafo_2">3.9.2.2 Con otras líneas de baja tensión o de telecomunicación.</p>
+        <p class="parrafo_2">Cuando ambas líneas sean de conductores aislados, la distancia mínima será de 0,10 m.</p>
+        <p class="parrafo">Cuando cualquiera de las líneas sea de conductores desnudos, la distancia mínima será de 1 m. Si ambas líneas van sobre los mismos apoyos, la distancia mínima podrá reducirse a 0,50 m. El nivel de aislamiento de la línea de telecomunicación será, al menos, igual al de la línea de baja tensión, de otra forma se considerará como línea de conductores desnudos.</p>
+        <p class="parrafo">Cuando el paralelismo sea entre líneas desnudas de baja tensión, las distancias mínimas son las establecidas en el apartado 3.2.2</p>
+        <p class="parrafo_2">3.9.2.3 Con calles y carreteras.</p>
+        <p class="parrafo_2">Las líneas aéreas con conductores desnudos podrán establecerse próximas a estás vías públicas, debiendo en su instalación mantener la distancia mínima de 6 m, cuando vuelen junto a las mismas en zonas o espacios de posible circulación rodada, y de 5 m en los demás casos. Cuando se trate de conductores aislados, esta distancia podrá reducirse a 4 metros cuando no vuelen junto a zonas o espacios de posible circulación rodada.</p>
+        <p class="parrafo_2">3.9.2.4 Con ferrocarriles electrificados, tranvías y trolebuses.</p>
+        <p class="parrafo_2">La distancia horizontal de los conductores a la instalación de la línea de contacto será de 1,5 m, como mínimo.</p>
+        <p class="parrafo_2">3.9.2.5 Con zonas de arbolado.</p>
+        <p class="parrafo_2">Se utilizarán preferentemente cables aislados en haz; cuando la línea sea de conductores desnudos deberán tomarse las medidas necesarias para que el árbol y sus ramas, no lleguen a hacer contacto con dicha línea.</p>
+        <p class="parrafo_2">3.9.2.6 Con canalizaciones de agua</p>
+        <p class="parrafo_2">La distancia mínima entre los cables de energía eléctrica y las canalizaciones de agua será de 0,20 m. La distancia mínima entre los empalmes de los cables de energía eléctrica o entre los cables desnudos y las juntas de las canalizaciones de agua será de 1 m.</p>
+        <p class="parrafo">Se deberá mantener una distancia mínima de 0,20 m en proyección horizontal, y se procurará que la canalización de agua quede por debajo del nivel del cable eléctrico.</p>
+        <p class="parrafo">Por otro lado, las arterias principales de agua se dispondrán de forma que se aseguren distancias superiores a 1 m respecto a los cables eléctricos de baja tensión.</p>
+        <p class="parrafo_2">3.9.2.7 Con canalizaciones de gas</p>
+        <p class="parrafo_2">La distancia mínima entre los cables de energía eléctrica y las canalizaciones de gas será de 0,20 m, excepto para canalizaciones de gas de alta presión (más de 4 bar), en que la distancia será de 0,40 m. La distancia mínima entre los empalmes de los cables de energía eléctrica o entre los cables desnudos y las juntas de las canalizaciones de gas será de 1 m.</p>
+        <p class="parrafo">Se procurará mantener una distancia mínima de 0,20 m en proyección horizontal.</p>
+        <p class="parrafo">Por otro lado, las arterias importantes de gas se dispondrán de forma que se aseguren distancias superiores a 1 m respecto a los cables eléctricos de baja tensión.</p>
+        <p class="parrafo_2">
+          <strong>4. INTENSIDADES MÁXIMAS ADMISIBLES POR LOS CONDUCTORES.</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>4.1 Generalidades</strong>
+        </p>
+        <p class="parrafo_2">Las intensidades máximas admisibles que figuran en los siguientes apartados de esta Instrucción, se aplican a los cables aislados de tensión asignada de 0,6/1 kV y a los conductores desnudos utilizados en redes aéreas.</p>
+        <p class="parrafo_2">
+          <strong>4.2 Cables formados por conductores aislados con polietileno reticulado (XLPE), en haz, a espiral visible</strong>
+        </p>
+        <p class="parrafo_2">Satisfarán las exigencias especificadas en UNE 21.030.</p>
+        <p class="parrafo_2">4.2.1 Intensidades máximas admisibles</p>
+        <p class="parrafo_2">En las tablas 3, 4 y 5 figuran las intensidades máximas admisibles en régimen permanente, para algunos de estos tipos de cables, utilizados en condiciones normales de instalación.</p>
+        <p class="parrafo">Se definen como condiciones normales de instalación las correspondientes a un solo cable, instalado al aire libre, y a una temperatura ambiente de 40 ºC.</p>
+        <p class="parrafo">Para condiciones de instalación diferentes u otras variables a tener en cuenta, se aplicarán los factores de corrección definidos en el apartado 4.2.2.</p>
+        <p class="parrafo_2">4.2.1.1 Cables con neutro fiador de aleación de Aluminio-Magnesio-Silicio (Almelec) para instalaciones de cables tensados</p>
+        <p class="centro_cursiva">Tabla 3. Intensidad máxima admisible en amperios a temperatura ambiente de 40 ºC</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Número de conductores por sección mm²</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Intensidad máxima A</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">1 x 25 Al/54,6 Alm</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">110</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">1 x 50 Al/54,6 Alm</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">165</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">3 x 25 Al/54,6 Alm</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">100</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">3 x 50 Al/54,6 Alm</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">3 x 95 Al/54,6 Alm</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">230</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">3 x 150 Al/80 Alm</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">305</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">4.2.1.2 Cables sin neutro fiador para instalaciones de cables posados, o tensados con fiador de acero</p>
+        <p class="centro_cursiva">Tabla 4. Intensidad máxima admisible en amperios a temperatura ambiente de 40 ºC</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="2">
+                <p class="cabeza_tabla">Número de conductores por sección</p>
+                <p class="cabeza_tabla">mm²</p>
+              </th>
+              <th class="cabeza_tabla" colspan="2">
+                <p class="cabeza_tabla">Intensidad máxima en A</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Posada sobre fachadas</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Tendida con fiador de acero</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">2 x 16 Al</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">73</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">81</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">2 x 25 Al</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">101</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">109</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">4 x 16 Al</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">67</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">72</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">4 x 25 Al</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">90</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">97</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">4 x 50 Al</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">133</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">144</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">3 x 95/50 Al</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">207</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">223</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">3 x 150/95 Al</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">277</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">301</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="centro_cursiva">Tabla 5. Intensidad máxima admisible en amperios a temperatura ambiente de 40 ºC</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="2">
+                <p class="cabeza_tabla">Número de conductores por sección</p>
+                <p class="cabeza_tabla">mm<sup>2</sup></p>
+              </th>
+              <th class="cabeza_tabla" colspan="2" rowspan="1">
+                <p class="cabeza_tabla">Intensidad máxima en A</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Posada sobre fachada</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Tendida con fiador de acero</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">2 x 10 Cu</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">77</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">85</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">4 x 10 Cu</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">65</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">72</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">4 x 16 Cu</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">86</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">95</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">4.2.2 Factores de corrección</p>
+        <p class="parrafo_2">4.2.2.1 Instalación expuesta directamente al sol.</p>
+        <p class="parrafo_2">En zonas en las que la radiación solar es muy fuerte, se deberá tener en cuenta el calentamiento de la superficie de los cables con relación a la temperatura ambiente, por lo que en estos casos se aplica un factor de corrección 0,9 o inferior, tal como recomiendan las normas de la serie UNE 20.435.</p>
+        <p class="parrafo_2">4.2.2.2 Factores de corrección por agrupación de varios cables.</p>
+        <p class="parrafo_2">En la tabla 6 figuran los factores de corrección de la intensidad máxima admisible, en caso de agrupación de varios cables en haz al aire. Estos factores se aplican a cables separados entre sí, una distancia comprendida entre un diámetro y un cuarto de diámetro en tendidos horizontales con cables en el mismo plano vertical.</p>
+        <p class="parrafo">Para otras separaciones o agrupaciones consultar la norma UNE 21.144 -2-2</p>
+        <p class="centro_cursiva">Tabla 6. Factores de corrección de la intensidad máxima admisible en caso de agrupación de cables aislados en haz, instalados al aire</p>
+        <table class="tabla">
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">
+                  <strong>Número de cables</strong>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <strong>1</strong>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <strong>2</strong>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <strong>3</strong>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <strong>más de 3</strong>
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">
+                  <strong>Factor de corrección</strong>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,00</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,89</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,80</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,75</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="imagen">
+          <img class="no_escalar" height="506" src="/datos/imagenes/disp/2002/224/18099_image3.png" width="633"/>
+        </p>
+        <p class="parrafo">A efectos de cálculo se considera como diámetro de un cable en haz, 2,5 veces el diámetro del conductor de fase.</p>
+        <p class="parrafo_2">4.2.2.3 Factores de corrección en función de la temperatura ambiente.</p>
+        <p class="parrafo_2">En la tabla 7 figuran los factores de corrección para temperaturas diferentes a 40 ºC.</p>
+        <p class="centro_cursiva">Tabla 7. Factores de corrección de la intensidad máxima admisible para cables aislados en haz, en función de la temperatura ambiente</p>
+        <table class="tabla">
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">
+                  <strong>Temperatura ºC</strong>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <strong>20</strong>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <strong>25</strong>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <strong>30</strong>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <strong>35</strong>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <strong>40</strong>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <strong>45</strong>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">
+                  <strong>50</strong>
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">
+                  <strong>Aislados con polietileno reticulado</strong>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,18</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,14</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,10</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,05</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,00</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,95</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,90</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">4.2.3 Intensidades máximas de cortocircuito admisible en los conductores de los cables.</p>
+        <p class="parrafo_2">En la tabla 8 y 9 se indican las intensidades de cortocircuito admisibles, en función de los diferentes tiempos de duración del cortocircuito.</p>
+        <p class="centro_cursiva">Tabla 8. Intensidades máximas de cortocircuitos en kA para conductores de aluminio</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="2">
+                <p class="cabeza_tabla">Sección del conductor mm<sup>2</sup></p>
+              </th>
+              <th class="cabeza_tabla" colspan="9">
+                <p class="cabeza_tabla">Duración del cortocircuito</p>
+                <p class="cabeza_tabla">s</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0,1</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0,2</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0,3</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0,5</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1,0</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1,5</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">2,0</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">2,5</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">3,0</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4,7</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3,2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,7</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,9</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,8</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">7,3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">5,0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4,2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3,3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,9</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,3</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">14,7</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">10,1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">8,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">6,6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4,6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3,8</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3,3</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,9</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,7</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">95</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">27,9</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">19,2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16,1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">12,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">8,8</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">7,2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">6,2</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">5,6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">5,1</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">44,1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">30,4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">19,8</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">13,9</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">11,4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">9,9</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">8,8</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">8,1</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="centro_cursiva">Tabla 9. Intensidades máximas de cortocircuitos en kA para conductores de cobre</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="2">
+                <p class="cabeza_tabla">Sección del conductor mm<sup>2</sup></p>
+              </th>
+              <th class="cabeza_tabla" colspan="9">
+                <p class="cabeza_tabla">Duración del cortocircuito</p>
+                <p class="cabeza_tabla">s</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0,1</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0,2</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0,3</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0,5</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1,0</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1,5</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">2,0</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">2,5</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">3,0</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">10</p>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4,81</p>
+                <p class="cuerpo_tabla_centro">7,34</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3,29</p>
+                <p class="cuerpo_tabla_centro">5,23</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,70</p>
+                <p class="cuerpo_tabla_centro">4,29</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,11</p>
+                <p class="cuerpo_tabla_centro">3,35</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,52</p>
+                <p class="cuerpo_tabla_centro">2,40</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,26</p>
+                <p class="cuerpo_tabla_centro">1,99</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,11</p>
+                <p class="cuerpo_tabla_centro">1,74</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,00</p>
+                <p class="cuerpo_tabla_centro">1,57</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,92</p>
+                <p class="cuerpo_tabla_centro">1,44</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">
+          <strong>4.3 Conductores desnudos de cobre y aluminio.</strong>
+        </p>
+        <p class="parrafo_2">Las intensidades máximas admisibles en régimen permanente serán las obtenidas por aplicación de la tabla siguiente:</p>
+        <p class="centro_cursiva">Tabla 10. Densidad de corriente en A/mm² para conductores desnudos al aire</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="2">
+                <p class="cabeza_tabla">Sección nominal mm²</p>
+              </th>
+              <th class="cabeza_tabla" colspan="2">
+                <p class="cabeza_tabla">Densidad de corriente A/mm²</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Cobre</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Aluminio</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">10</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">8,75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">7,60</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">6,00</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">6,35</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">5,00</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">35</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">5,75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4,55</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">5,10</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4,00</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4,50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3,55</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">95</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4,05</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3,20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">120</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,90</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2 70</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">
+          <strong>4.4 Otros cables u otros sistemas de instalación</strong>
+        </p>
+        <p class="parrafo_2">Para cualquier otro tipo de cable o composiciones u otro sistema de instalación no contemplado en esta Instrucción, así como para cables que no figuran en la tablas anteriores, deberán consultarse las normas de la serie UNE 20.435, o calcularse según la norma UNE 21.144.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

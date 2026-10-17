@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a2-10" tipo="precepto" titulo="Artículo 28">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 28. Infracciones y sanciones.</p>
+        <p class="parrafo">Las infracciones a lo dispuesto en el presente reglamento se clasificarán y sancionarán de acuerdo con lo dispuesto en el Título V de la Ley 21/1992, de Industria.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

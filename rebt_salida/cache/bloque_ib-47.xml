@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-47" tipo="precepto" titulo="ITC-BT-47">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-47</p>
+        <p class="anexo_tit">INSTALACIÓN DE RECEPTORES. MOTORES</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO Y CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. CONDICIONES GENERALES DE INSTALACIÓN</p>
+        <p class="parrafo">3. CONDUCTORES DE CONEXIÓN</p>
+        <p class="parrafo_2">3.1 Un solo motor</p>
+        <p class="parrafo">3.2 Varios motores</p>
+        <p class="parrafo">3.3 Carga combinada</p>
+        <p class="parrafo_2">4. PROTECCIÓN CONTRA SOBREINTENSIDADES</p>
+        <p class="parrafo">5. PROTECCIÓN CONTRA LA FALTA DE TENSIÓN</p>
+        <p class="parrafo">6. SOBREINTENSIDAD DE ARRANQUE</p>
+        <p class="parrafo">7. INSTALACIÓN DE REÓSTATOS Y RESISTENCIAS</p>
+        <p class="parrafo">8. HERRAMIENTAS PORTÁTILES</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>OBJETO Y CAMPO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">El objeto de la presente Instrucción es determinar los requisitos de instalación de los motores y herramientas portátiles de uso exclusivamente profesionales.</p>
+        <p class="parrafo">Los receptores objeto de esta Instrucción cumplirán los requisitos de las Directivas europeas aplicables conforme a lo establecido en el artículo 6 del Reglamento Electrotécnico para Baja Tensión.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>CONDICIONES GENERALES DE INSTALACIÓN</strong>
+        </p>
+        <p class="parrafo_2">La instalación de los motores debe ser conforme a las prescripciones de la norma UNE 20.460 y las especificaciones aplicables a los locales (o emplazamientos) donde hayan de ser instalados.</p>
+        <p class="parrafo">Los motores deben instalarse de manera que la aproximación a sus partes en movimiento no pueda ser causa de accidente.</p>
+        <p class="parrafo">Los motores no deben estar en contacto con materias fácilmente combustibles y se situarán de manera que no puedan provocar la ignición de estas.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>CONDUCTORES DE CONEXIÓN</strong>
+        </p>
+        <p class="parrafo_2">Las secciones mínimas que deben tener los conductores de conexión con objeto de que no se produzca en ellos un calentamiento excesivo, deben ser las siguientes:</p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Un solo motor</strong>
+        </p>
+        <p class="parrafo_2">Los conductores de conexión que alimentan a un solo motor deben estar dimensionados para una intensidad del 125 % de la intensidad a plena carga del motor. En los motores de rotor devanado, los conductores que conectan el rotor con el dispositivo de arranque –conductores secundarios– deben estar dimensionados, asimismo, para el 125 % de la intensidad a plena carga del rotor. Si el motor es para servicio intermitente, los conductores secundarios pueden ser de menor sección según el tiempo de funcionamiento continuado, pero en ningún caso tendrán una sección inferior a la que corresponde al 85 % de la intensidad a plena carga en el rotor.</p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Varios motores</strong>
+        </p>
+        <p class="parrafo_2">Los conductores de conexión que alimentan a varios motores, deben estar dimensionados para una intensidad no inferior a la suma del 125 % de la intensidad a plena carga del motor de mayor potencia, más la intensidad a plena carga de todos los demás.</p>
+        <p class="parrafo_2">
+          <strong>3.3</strong>
+          <strong>Carga combinada</strong>
+        </p>
+        <p class="parrafo_2">Los conductores de conexión que alimentan a motores y otros receptores, deben estar previstos para la intensidad total requerida por los receptores, más la requerida por los motores, calculada como antes se ha indicado.</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>PROTECCIÓN CONTRA SOBREINTENSIDADES</strong>
+        </p>
+        <p class="parrafo_2">Los motores deben estar protegidos contra cortocircuitos y contra sobrecargas en todas sus fases, debiendo esta última protección ser de tal naturaleza que cubra, en los motores trifásicos, el riesgo de la falta de tensión en una de sus fases.</p>
+        <p class="parrafo">En el caso de motores con arrancador estrella-triángulo, se asegurará la protección, tanto para la conexión en estrella como en triángulo. Las características de los dispositivos de protección deben estar de acuerdo con las de los motores a proteger y con las condiciones de servicio previstas para estos, debiendo seguirse las indicaciones dadas por el fabricante de los mismos.</p>
+        <p class="parrafo_2">
+          <strong>5.</strong>
+          <strong>PROTECCIÓN CONTRA LA FALTA DE TENSIÓN</strong>
+        </p>
+        <p class="parrafo_2">Los motores deben estar protegidos contra la falta de tensión por un dispositivo de corte automático de la alimentación, cuando el arranque espontáneo del motor, como consecuencia del restablecimiento de la tensión, pueda provocar accidentes, o perjudicar el motor, de acuerdo con la norma UNE 20.460-4-45.</p>
+        <p class="parrafo">Dicho dispositivo puede formar parte del de protección contra las sobrecargas o del de arranque, y puede proteger a más de un motor si se da una de las circunstancias siguientes:</p>
+        <p class="parrafo_2">– los motores a proteger estén instalados en un mismo local y la suma de potencias absorbidas no es superior a 10 kilovatios.</p>
+        <p class="parrafo">– los motores a proteger estén instalados en un mismo local y cada uno de ellos queda automáticamente en el estado inicial de arranque después de una falta de tensión.</p>
+        <p class="parrafo_2">Cuando el motor arranque automáticamente en condiciones preestablecidas, no se exigirá el dispositivo de protección contra la falta de tensión, pero debe quedar excluida la posibilidad de un accidente en caso de arranque espontáneo. Si el motor tuviera que llevar dispositivos limitadores de la potencia absorbida en el arranque, es obligatorio, para quedar incluidos en la anterior excepción, que los dispositivos de arranque vuelvan automáticamente a la posición inicial al originarse una falta de tensión y parada del motor.</p>
+        <p class="parrafo_2">
+          <strong>6.</strong>
+          <strong>SOBREINTENSIDAD DE ARRANQUE</strong>
+        </p>
+        <p class="parrafo_2">Los motores deben tener limitada la intensidad absorbida en el arranque, cuando se pudieran producir efectos que perjudicasen a la instalación u ocasionasen perturbaciones inaceptables al funcionamiento de otros receptores o instalaciones.</p>
+        <p class="parrafo">Cuando los motores vayan a ser alimentados por una red de distribución pública, se necesitará la conformidad de la Empresa distribuidora respecto a la utilización de los mismos, cuando se trate de:</p>
+        <p class="parrafo_2">– Motores de gran inercia.</p>
+        <p class="parrafo">– Motores de arranque lento en carga.</p>
+        <p class="parrafo">– Motores de arranque o aumentos de carga repetida o frecuente.</p>
+        <p class="parrafo">– Motores para frenado.</p>
+        <p class="parrafo">– Motores con inversión de marcha.</p>
+        <p class="parrafo_2">En general, los motores de potencia superior a 0,75 kilovatios deben estar provistos de reóstatos de arranque o dispositivos equivalentes que no permitan que la relación de corriente entre el período de arranque y el de marcha normal que corresponda a su plena carga, según las características del motor que debe indicar su placa, sea superior a la señalada en el cuadro siguiente:</p>
+        <p class="centro_cursiva">Tabla 1</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" colspan="2">
+                <p class="cabeza_tabla">Motores de corriente continua</p>
+              </th>
+              <th class="cabeza_tabla" colspan="2">
+                <p class="cabeza_tabla">Motores de corriente alterna</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Potencia nominal del motor</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Constante máxima de proporcionalidad entre la intensidad de la corriente de arranque y la de plena carga</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Potencia nominal del motor</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Constante máxima de proporcionalidad entre la intensidad de la corriente de arranque y de la de plena carga</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">De 0,75 kW a 1,5 kW</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">De 0,75 kW a 1,5 kW</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4,5</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">De 1,5 kW a 5,0 kW</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,0</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">De 1,5 kW a 5,0 kW</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3,0</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">De más de 5,0 kW</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">De 5,0 kW a 15,0 kW</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">2,0</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">De más de 15,0 kW</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,5</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">En los motores de ascensores, grúas y aparatos de elevación en general, tanto de corriente continua como de alterna, se computará como intensidad normal a plena carga, a los efectos de las constantes señaladas en los cuadros anteriores, la necesaria para elevar las cargas fijadas como normales a la velocidad de régimen una vez pasado el período de arranque, multiplicada por el coeficiente 1,3.</p>
+        <p class="parrafo">No obstante lo expuesto, y en casos particulares, podrán las empresas prescindir de las limitaciones impuestas, cuando las corrientes de arranque no perturben el funcionamiento de sus redes de distribución.</p>
+        <p class="parrafo_2">
+          <strong>7.</strong>
+          <strong>INSTALACIÓN DE REÓSTATOS Y RESISTENCIAS</strong>
+        </p>
+        <p class="parrafo_2">Los reóstatos de arranque y regulación de velocidad y las resistencias adicionales de los motores, se colocarán de modo que estén separados de los muros cinco centímetros como mínimo.</p>
+        <p class="parrafo">Deben estar dispuestos de manera que no puedan causar deterioros como consecuencia de la radiación térmica o por acumulación de polvo, tanto en servicio normal como en caso de avería. Se montarán de manera que no puedan quemar las partes combustibles del edificio ni otros objetos combustibles; si esto no fuera posible los elementos combustibles llevarán un revestimiento ignífugo.</p>
+        <p class="parrafo">Los reóstatos y las resistencias deberán poder ser separadas de la instalación por dispositivos de corte omnipolar, que podrán ser los interruptores generales del receptor correspondiente.</p>
+        <p class="parrafo_2">
+          <strong>8.</strong>
+          <strong>HERRAMIENTAS PORTÁTILES</strong>
+        </p>
+        <p class="parrafo_2">Las herramientas portátiles utilizadas en obras de construcción de edificios, canteras y, en general, en el exterior, deberán ser de Clase II o de Clase III. Las herramientas de Clase I pueden ser utilizadas en los emplazamientos citados, debiendo, en este caso, ser alimentadas por intermedio de un transformador de separación de circuitos.</p>
+        <p class="parrafo">Cuando estas herramientas se utilicen en obras o emplazamientos muy conductores, tales como en trabajos de hormigonado, en el interior de calderas o de tuberías metálicas u otros análogos, las herramientas portátiles a mano deben ser de Clase III.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

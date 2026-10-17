@@ -1,0 +1,18 @@
+Sección nominal de los conductores unipolares (mm^2),Diámetro exterior de los tubos (mm),,,,
+Sección nominal de los conductores unipolares (mm^2),Número de conductores,,,,
+Sección nominal de los conductores unipolares (mm^2),1,2,3,4,5
+"1,5",12,12,16,16,16
+"2,5",12,12,16,16,20
+4,12,16,20,20,20
+6,12,16,20,20,25
+10,16,20,25,32,32
+16,16,25,32,32,32
+25,20,32,32,40,40
+35,25,32,40,40,50
+50,25,40,50,50,50
+70,32,40,50,63,63
+95,32,50,63,63,75
+120,40,50,63,75,75
+150,40,63,75,75,–
+185,50,63,75,–,–
+240,50,75,–,–,–

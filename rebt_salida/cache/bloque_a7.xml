@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a7" tipo="precepto" titulo="Artículo 7">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 7. Coincidencia con otras tensiones.</p>
+        <p class="parrafo">Si en una instalación eléctrica de baja tensión se encuentran integrados circuitos o elementos sometidos a tensiones superiores a los límites definidos en este Reglamento, en ausencia de indicación específica en éste, se deberá cumplir con lo establecido en los reglamentos que regulen las instalaciones a dichas tensiones.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

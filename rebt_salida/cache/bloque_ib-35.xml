@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-35" tipo="precepto" titulo="ITC-BT-35">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-35</p>
+        <p class="anexo_tit">INSTALACIONES CON FINES ESPECIALES. ESTABLECIMIENTOS AGRÍCOLAS Y HORTÍCOLAS</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. REQUISITOS GENERALES</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>CAMPO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">La presente instrucción se aplica a las instalaciones fijas de los establecimientos agrícolas y hortícolas en los cuales se hallan los animales (tales como cuadras, establos, gallineros, porquerizas, locales para la preparación de piensos de animales, graneros, granjas para el heno, la paja y los fertilizantes) o que estén situados al exterior, estando excluidos los locales habitables.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>REQUISITOS GENERALES</strong>
+        </p>
+        <p class="parrafo_2">Las prescripciones particulares para este tipo de establecimientos quedan recogidas en la norma UNE 20.460-7-705.</p>
+        <p class="parrafo">Para aquellos apartados que en esta citada norma se encuentran en estudio, se aplicará lo dispuesto para estos apartados en la instrucción ITC-BT-33.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

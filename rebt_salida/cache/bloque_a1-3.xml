@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a1-3" tipo="precepto" titulo="Artículo 11">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 11. Locales de características especiales.</p>
+        <p class="parrafo">Se establecerán en las correspondientes instrucciones técnicas complementarias prescripciones especiales, con base en las condiciones particulares que presentan, en los denominados «locales de características especiales», tales como los locales y emplazamientos mojados o en los que exista atmósfera húmeda, gases o polvos de materias no inflamables o combustibles, temperaturas muy elevadas o muy bajas en relación con las normales, los que se dediquen a la conservación o reparación de automóviles, los que estén afectos a los servicios de producción o distribución de energía eléctrica; en las instalaciones donde se utilicen las denominadas tensiones especiales, las que se realicen con carácter provisional o temporal, las instalaciones para piscinas, otras señaladas específicamente en las ITC y, en general, todas aquellas donde sea necesario mantener instalaciones eléctricas en circunstancias distintas a las que pueden estimarse como de riesgo normal, para la utilización de la energía eléctrica en baja tensión.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-49" tipo="precepto" titulo="ITC-BT-49">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-49</p>
+        <p class="anexo_tit">INSTALACIONES ELÉCTRICAS EN MUEBLES</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO Y CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. MUEBLES NO DESTINADOS A INSTALARSE EN CUARTOS DE BAÑO</p>
+        <p class="parrafo_2">2.1 Aspectos generales</p>
+        <p class="parrafo">2.2 Canalizaciones</p>
+        <p class="parrafo">2.3 Sección de los conductores</p>
+        <p class="parrafo">2.4 Protección mecánica de los cables</p>
+        <p class="parrafo">2.5 Conexiones</p>
+        <p class="parrafo_2">3. MUEBLES EN CUARTO DE BAÑO</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>OBJETO Y CAMPO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">El objeto de la presente Instrucción es determinar los requisitos de las instalaciones eléctricas en los muebles y elementos de mobiliario.</p>
+        <p class="parrafo">Las prescripciones de esta Instrucción son aplicables a:</p>
+        <p class="parrafo_2">– Muebles de toda clase, incluidos los muebles de despacho, mostradores, expositores, paneles fijos o móviles y análogos.</p>
+        <p class="parrafo">– Muebles, espejos y elementos de cuarto de baño en locales que contengan una bañera o ducha.</p>
+        <p class="parrafo_2">Los receptores que se utilicen en dichas instalaciones cumplirán los requisitos de las Directivas europeas aplicables conforme a lo establecido en el artículo 6 del Reglamento Electrotécnico para Baja Tensión. A estos efectos cualquier mueble comercializado con un equipo eléctrico montado en él (por ejemplo, luminaria, interruptor, base de toma de corriente, etc.) se considerará como un receptor.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>MUEBLES NO DESTINADOS A INSTALARSE EN CUARTOS DE BAÑO</strong>
+        </p>
+        <p class="parrafo_2">Se incluyen en este apartado las mesas, camas, armarios, aparadores, muebles de televisión, muebles de cocina, paneles de despacho (incluidos los tabiques movibles y amovibles), y en general muebles no situados en cuartos de baño o locales que contengan una bañera o ducha en los cuales se colocan equipos eléctricos, tales como luminarias, bases de toma de corriente, dispositivos de mando, interruptores, etc.</p>
+        <p class="parrafo_2">
+          <strong>2.1</strong>
+          <strong>Aspectos generales</strong>
+        </p>
+        <p class="parrafo_2">Los equipos y accesorios eléctricos que se coloquen en los elementos de mobiliario, estarán situados teniendo en cuenta las solicitaciones mecánicas y térmicas a las que puedan estar sometidos así como a los riesgos de incendio que puedan provocar. En particular las luminarias para instalaciones en superficies inflamables (madera, tela, etc.) deben estar marcadas con el símbolo F, según la norma UNE EN 60598-1.</p>
+        <p class="parrafo">Cuando la potencia disipada por los equipos eléctricos pueda producir temperaturas excesivas en un espacio cerrado, deberá instalarse un interruptor accionado por el cierre de la puerta de tal manera que los equipos queden fuera de servicio cuando la puerta esté cerrada (por ejemplo, las luminarias instaladas en las camas plegables).</p>
+        <p class="parrafo_2">
+          <strong>2.2</strong>
+          <strong>Canalizaciones</strong>
+        </p>
+        <p class="parrafo_2">Los cables se podrán colocar en tubos, canales protectoras o bien conducidos dentro de un canal realizado durante la construcción del elemento de mobiliario. La instalación de tubos y canales tiene que ser conforma a lo indicado en la ITC-BT 21.</p>
+        <p class="parrafo">Los cables a instalar dentro de un mueble y hasta su conexión con la instalación interior del local o vivienda serán:</p>
+        <p class="parrafo_2">– cables flexibles aislados con goma (equivalente, como mínimo, al tipo H05RRF)</p>
+        <p class="parrafo">– cables flexibles aislados con policloruro de vinilo (PVC) (equivalentes como mínimo, al tipo H05VV-F)</p>
+        <p class="parrafo_2">
+          <strong>2.3</strong>
+          <strong>Sección de los conductores</strong>
+        </p>
+        <p class="parrafo_2">La mínima sección de los conductores será de:</p>
+        <p class="parrafo_2">– 0,75 mm<sup>2</sup> de cobre para instalación de alumbrado exclusivamente y con conductores flexibles si la longitud entre la conexión en la instalación fija del local o vivienda y el aparato más alejado contenido en el mueble no es superior a 10 m y si éste no lleva ninguna base de toma de corriente.</p>
+        <p class="parrafo">– 1,5 mm<sup>2</sup> de cobre, flexible o rígido, en los demás casos si no hay bases de toma de corriente.</p>
+        <p class="parrafo">– 2,5 mm<sup>2</sup> de cobre, flexible o rígido, en cualquier caso, si hay bases de toma de corriente</p>
+        <p class="parrafo_2">
+          <strong>2.4</strong>
+          <strong>Protección mecánica de los cables</strong>
+        </p>
+        <p class="parrafo_2">Los cables deben estar convenientemente protegidos contra todo daño y en especial contra la tracción y torsión, para lo cual se colocarán dispositivos antitracción en los puntos de penetración de los aparatos y próximos a las conexiones.</p>
+        <p class="parrafo">Los cables estarán fijados a las paredes de los muebles y en los extremos de los vanos existentes.</p>
+        <p class="parrafo_2">
+          <strong>2.5</strong>
+          <strong>Conexiones</strong>
+        </p>
+        <p class="parrafo_2">Las conexiones deben efectuarse mediante tomas de corriente o bornes situados en cajas con grado de protección mínimo IP 3X y cuya tapa sólo pueda ser abierta con la ayuda de una llave o de un útil.</p>
+        <p class="parrafo">Las cajas deben estar colocadas de tal manera que estén protegidas contra todo daño mecánico.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>MUEBLES EN CUARTO DE BAÑO</strong>
+        </p>
+        <p class="parrafo_2">Para las instalaciones de muebles con equipo eléctrico en cuartos de baño o aseo o locales que contengan una bañera o ducha, se tendrán en cuenta los volúmenes y prescripciones definidas en la ITC-BT-27.</p>
+        <p class="parrafo">Para la conexión a la instalación fija, los muebles deben llevar una caja de conexión con bornes fija, independientemente de cual sea su equipo eléctrico. Los dispositivos de conexión de los conductores exteriores de la instalación de la edificación no deberán usarse para la conexión de conductores internos. Dicha caja de conexión con bornes debe ser accesible únicamente después de retirar una tapa o cubierta con la ayuda de una herramienta. El borne de tierra, si existe, estará identificado con su símbolo normalizado correspondiente y se conectará a la instalación de tierra del edificio.</p>
+        <p class="parrafo">Los muebles con equipo eléctrico para instalarse en cuartos de baño o aseo deberán ser fijos.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

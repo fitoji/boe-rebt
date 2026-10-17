@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a8" tipo="precepto" titulo="Artículo 8">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 8. Redes de distribución.</p>
+        <p class="parrafo">1.<em> </em>Las instalaciones de servicio público o privado cuya finalidad sea la distribución de energía eléctrica se definirán:</p>
+        <p class="parrafo_2">a) Por los valores de la tensión entre fase o conductor polar y tierra y entre dos conductores de fase o polares, para las instalaciones unidas directamente a tierra.</p>
+        <p class="parrafo">b) Por el valor de la tensión entre dos conductores de fase o polares, para las instalaciones no unidas directamente a tierra.</p>
+        <p class="parrafo_2">2. Las intensidades de la corriente eléctrica admisibles en los conductores se regularán en función de las condiciones técnicas de las redes de distribución y de los sistemas de protección empleados en las mismas.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-11" tipo="precepto" titulo="ITC-BT-11">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-11</p>
+        <p class="anexo_tit">REDES DE DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA. ACOMETIDAS</p>
+        <p class="parrafo">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. ACOMETIDAS</p>
+        <p class="parrafo_2">1.1 Definición</p>
+        <p class="parrafo">1.2 Tipos de acometidas</p>
+        <p class="parrafo_2">1.2.1 Acometida aérea posada sobre fachada:</p>
+        <p class="parrafo">1.2.2 Acometida aérea tensada sobre postes:</p>
+        <p class="parrafo">1.2.3 Acometida subterránea:</p>
+        <p class="parrafo">1.2.4 Acometida aero-subterránea:</p>
+        <p class="parrafo_2">1.3 Instalación</p>
+        <p class="parrafo">1.4 Características de los cables y conductores</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>ACOMETIDAS</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>1.1</strong>
+          <strong>Definición</strong>
+        </p>
+        <p class="parrafo_2">Parte de la instalación de la red de distribución, que alimenta la caja o cajas generales de protección o unidad funcional equivalente (en adelante CGP).</p>
+        <p class="parrafo_2">
+          <strong>1.2 Tipos de acometidas:</strong>
+        </p>
+        <p class="parrafo_2">Atendiendo a su trazado, al sistema de instalación y a las características de la red, las acometidas podrán ser:</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Tipo</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Sistema de instalación</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td rowspan="2">
+                <p class="cuerpo_tabla_izq">Aéreas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Posada sobre fachada</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Tensada sobre poste</p>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="2">
+                <p class="cuerpo_tabla_izq">Subterráneas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Con entrada y salida</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">En derivación</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Mixtas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_izq">Aero-Subterráneas</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="centro_cursiva">Tabla 1. Tipo de acometida en función del sistema de instalación</p>
+        <p class="parrafo_2">1.2.1 Acometida aérea posada sobre fachada:</p>
+        <p class="parrafo_2">Antes de proceder a su realización, si es posible, deberá efectuarse un estudio previo de las fachadas para que éstas se vean afectadas lo menos posible por el recorrido de los conductores que deberán quedar suficientemente protegidos y resguardados.</p>
+        <p class="parrafo">En este tipo de acometidas los cables se instalarán distanciados de la pared y su fijación a ésta se hará mediante accesorios apropiados.</p>
+        <p class="parrafo">Los cables posados sobre fachada serán aislados de tensión asignada 0,6/1 kV y su instalación se hará preferentemente, bajo conductos cerrados o canales protectoras con tapa desmontable con la ayuda de un útil.</p>
+        <p class="parrafo">Los tramos en que la acometida quede a una altura sobre el suelo inferior a 2,5 m, deberán protegerse con tubos o canales rígidos de las características indicadas en la tabla siguiente y se tomarán las medidas adecuadas para evitar el almacenamiento de agua en estos tubos o canales de protección.</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Característica</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Grado (canales)</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Código (tubos)</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Resistencia al impacto</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Fuerte (6 julios)</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Temperatura mínima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">-5 ºC</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Temperatura máxima de instalación y servicio</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">+60 ºC</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Propiedades eléctricas</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Continuidad eléctrica/aislante</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1 / 2</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Resistencia a la penetración de objetos sólidos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Ø ≥ 1 mm</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">4</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Resistencia a la corrosión (conductos metálicos)</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Protección interior media, exterior alta</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">3</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Resistencia a la propagación de la llama</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No propagador</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="centro_cursiva">
+          <em>Tabla 2. Características de los tubos o canales que deben utilizarse cuando la acometida quede a una altura sobre el suelo inferior a 2,5 m.</em>
+        </p>
+        <p class="parrafo_2">El cumplimiento de estas características se verificará según los ensayos indicados en las normas UNE-EN 50086-2-1 para tubos rígidos y UNE-EN 50085-1 para canales.</p>
+        <p class="parrafo">Para los cruces de vías públicas y espacios sin edificar y dependiendo de la longitud del vano, los cables podrán instalarse amarrados directamente en ambos extremos, bien utilizando el sistema para acometida tensada, bien utilizando un cable fiador, siempre que se cumplan las condiciones de la ITC-BT-06.</p>
+        <p class="parrafo">Estos cruces se realizarán de modo que el vano sea lo más corto posible, y la altura mínima sobre calles y carreteras no será en ningún caso inferior a 6 m.</p>
+        <p class="parrafo">En edificaciones de interés histórico o artístico o declaradas como tal se tratará de evitar este tipo de acometidas.</p>
+        <p class="parrafo_2">1.2.2 Acometida aérea tensada sobre postes:</p>
+        <p class="parrafo_2">Los cables serán aislados de tensión asignada 0,6/1 kV y podrán instalarse suspendidos de un cable fiador, independiente y debidamente tensado o también mediante la utilización de un conductor neutro fiador con una adecuada resistencia mecánica, y debidamente calculado para esta función.</p>
+        <p class="parrafo">Todos los apoyos irán provistos de elementos adecuados que permitirán la sujeción mediante soportes de suspensión o de amarre, indistintamente.</p>
+        <p class="parrafo">Las distancias en altura, proximidades, cruzamientos y paralelismos cumplirán lo indicado en la ITC-BT-06.</p>
+        <p class="parrafo">Cuando los cables crucen sobre vías públicas o zonas de posible circulación rodada, la altura mínima sobre calles y carreteras no será en ningún caso, inferior a 6 m.</p>
+        <p class="parrafo_2">1.2.3 Acometida subterránea:</p>
+        <p class="parrafo_2">Este tipo de instalación, se realizará de acuerdo con lo indicado en la ITC-BT-07.</p>
+        <p class="parrafo">Se tendrá en cuenta las separaciones mínimas indicadas en la ITC-BT-07 en los cruces y paralelismos con otras canalizaciones de agua, gas, líneas de telecomunicación y con otros conductores de energía eléctrica.</p>
+        <p class="parrafo_2">1.2.4 Acometida aero-subterránea:</p>
+        <p class="parrafo_2">Son aquellas acometidas que se realizan parte en instalación aérea y parte en instalación subterránea.</p>
+        <p class="parrafo">El proyecto e instalación de los distintos tramos de la acometida se realizará en función de su trazado, de acuerdo con los apartados que le corresponden de esta instrucción, teniendo en cuenta las condiciones de su instalación.</p>
+        <p class="parrafo">En el paso de acometidas subterráneas a aéreas, el cable irá protegido desde la profundidad establecida según ITC-BT-07 y hasta una altura mínima de 2,5 m por encima del nivel del suelo, mediante un conducto rígido de las características indicadas en el apartado 1.2.1., de esta instrucción.</p>
+        <p class="parrafo_2">
+          <strong>1.3</strong>
+          <strong>Instalación</strong>
+        </p>
+        <p class="parrafo_2">Con carácter general, las acometidas se realizarán siguiendo los trazados más cortos, realizando conexiones cuando éstas sean necesarias mediante sistemas o dispositivos apropiados. En todo caso se realizarán de forma que el aislamiento de los conductores se mantenga hasta los elementos de conexión de la CGP.</p>
+        <p class="parrafo">La acometida discurrirá por terrenos de dominio público excepto en aquellos casos de acometidas aéreas o subterráneas, en que hayan sido autorizadas las correspondientes servidumbres de paso.</p>
+        <p class="parrafo">Se evitará la realización de acometidas por patios interiores, garajes, jardines privados, viales de conjuntos privados cerrados, etc.</p>
+        <p class="parrafo">En general se dispondrá de una sola acometida por edificio o finca. Sin embargo, podrán establecerse acometidas independientes para suministros complementarios establecidos en el Reglamento Electrotécnico para Baja Tensión o aquellos cuyas características especiales (potencias elevadas, entre otras) así lo aconsejen.</p>
+        <p class="parrafo_2">
+          <strong>1.4 Características de los cables y conductores.</strong>
+        </p>
+        <p class="parrafo_2">Los conductores o cables serán aislados, de cobre o aluminio y los materiales utilizados y las condiciones de instalación cumplirán con las prescripciones establecidas en la ITC-BT-06 y la ITC-BT-07 para redes aéreas o subterráneas de distribución de energía eléctrica respectivamente.</p>
+        <p class="parrafo">Por cuanto se refiere a las secciones de los conductores y al número de los mismos, se calcularán teniendo en cuenta los siguientes aspectos:</p>
+        <p class="parrafo_2">– Máxima carga prevista de acuerdo con la ITC-BT-10.</p>
+        <p class="parrafo">– Tensión de suministro.</p>
+        <p class="parrafo">– Intensidades máximas admisibles para el tipo de conductor y las condiciones de su instalación.</p>
+        <p class="parrafo">– La caída de tensión máxima admisible. Esta caída de tensión será la que la empresa distribuidora tenga establecida, en su reparto de caídas de tensión en los elementos que constituyen la red, para que en la caja o cajas generales de protección esté dentro de los límites establecidos por el Reglamento por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

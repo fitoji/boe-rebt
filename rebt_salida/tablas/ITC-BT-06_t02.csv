@@ -1,0 +1,7 @@
+Coeficiente de seguridad a la rotura,
+Material del apoyo,Coeficiente
+Metálico,"1,5"
+Hormigón armado vibrado,"2,5"
+Madera,"3,5"
+Otros materiales no metálicos,"2,5"
+"NOTA: En el caso de apoyos metálicos o de hormigón armado vibrado cuya resistencia mecánica se haya comprobado mediante ensayos en verdadera magnitud, los coeficientes de seguridad podrán reducirse a 1,45 y 2 respectivamente",

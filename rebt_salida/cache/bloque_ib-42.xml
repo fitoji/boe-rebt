@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-42" tipo="precepto" titulo="ITC-BT-42">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-42</p>
+        <p class="anexo_tit">INSTALACIONES ELÉCTRICAS EN PUERTOS Y MARINAS PARA BARCOS DE RECREO</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO Y CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. CARACTERÍSTICAS GENERALES</p>
+        <p class="parrafo">3. PROTECCIONES DE SEGURIDAD</p>
+        <p class="parrafo_2">3.1 Protección por Muy Ba ja Tensión de Seguridad (MBTS)</p>
+        <p class="parrafo">3.2 Protección por corte automático de la alimentación</p>
+        <p class="parrafo">3.3 Aplicación de las medidas de protección contra los choques eléctricos</p>
+        <p class="parrafo_2">3.3.1 Protección por obstáculos</p>
+        <p class="parrafo">3.3.2 Protección contra contactos indirectos</p>
+        <p class="parrafo_2">4. SELECCIÓN E INSTALACIÓN DE EQUIPOS ELÉCTRICOS</p>
+        <p class="parrafo_2">4.1 Generalidades</p>
+        <p class="parrafo">4.2 Canalizaciones</p>
+        <p class="parrafo">4.3 Aparamenta</p>
+        <p class="parrafo_2">4.3.1 Cuadros de distribución</p>
+        <p class="parrafo">4.3.2 Bases de toma de corriente</p>
+        <p class="parrafo">4.3.3 Conexión a los barcos de recreo</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>OBJETO Y CAMPO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">Las prescripciones de la presente instrucción se aplicarán a las instalaciones eléctricas de puertos y marinas, para la alimentación de los barcos de recreo.</p>
+        <p class="parrafo">Los receptores que se utilicen en dichas instalaciones cumplirán los requisitos de las directivas europeas aplicables conforme a lo establecido en el artículo 6 del Reglamento Electrotécnico para Baja Tensión.</p>
+        <p class="parrafo">Se excluyen de este campo de aplicación aquellas embarcaciones afectadas por la Directiva 94/25/CEE.</p>
+        <p class="parrafo">A los efectos de la presente instrucción se entiende como barco de recreo toda unidad flotante utilizada exclusivamente para los deportes y el ocio, tales como barcos, yates, casas flotantes, etc. Así mismo se entiende como puerto marino, todo aquel malecón escollera o pontón flotante apropiado para el fondeo o amarre de barcos de recreo.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>CARACTERÍSTICAS GENERALES</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones eléctricas de puertos y barcos de recreo deben estar dispuestas y los materiales seleccionados, de manera que ninguna persona pueda estar expuesta a peligros y que no exista riesgo de incendio ni explosión.</p>
+        <p class="parrafo">Con carácter general, la tensión asignada de las instalaciones que alimentan a los barcos de recreo no debe ser superior a 230 V en corriente alterna monofásica. Excepcionalmente se podrán alimentar con corriente alterna trifásica a 400 V aquellos barcos o yates de gran consumo eléctrico.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>PROTECCIONES DE SEGURIDAD</strong>
+        </p>
+        <p class="parrafo_2">Las protecciones contra contactos directos e indirectos serán conformes a lo establecido en la ITC-BT-24, con las siguientes consideraciones:</p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Protección por Muy Baja Tensión de Seguridad (MBTS)</strong>
+        </p>
+        <p class="parrafo_2">Cuando se utilice Muy Baja Tensión de Seguridad (MBTS), la protección contra los contactos directos debe estar asegurada, cualquiera que sea la tensión asignada, por un aislamiento que pueda soportar un ensayo dieléctrico de 500 V durante un minuto.</p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Protección por corte automático de la alimentación</strong>
+        </p>
+        <p class="parrafo_2">Cualquiera que sea el esquema utilizado, la protección debe estar asegurada por un dispositivo de corte diferencial-residual. En el caso de un esquema TN, se utilizará sólo la variante TN-S.</p>
+        <p class="parrafo_2">
+          <strong>3.3</strong>
+          <strong>Aplicación de las medidas de protección contra los choques eléctricos</strong>
+        </p>
+        <p class="parrafo_2">3.3.1 Protección por obstáculos.</p>
+        <p class="parrafo_2">No se admiten las medidas de protección por obstáculos ni por puesta fuera del alcance.</p>
+        <p class="parrafo_2">3.3.2 Protección contra contactos indirectos.</p>
+        <p class="parrafo_2">Contra los contactos indirectos en locales no conductores no son admitidas las conexiones equipotenciales no unidas a tierra.</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>SELECCIÓN E INSTALACIÓN DE EQUIPOS ELÉCTRICOS</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>4.1 Generalidades</strong>
+        </p>
+        <p class="parrafo_2">Los equipos eléctricos deberán poseer al menos, el grado de protección IPX6, según UNE 20.324, salvo si están encerrados en un armario que tenga este grado de protección y no pueda abrirse sin el empleo de herramientas o útiles específicos.</p>
+        <p class="parrafo_2">
+          <strong>4.2</strong>
+          <strong>Canalizaciones</strong>
+        </p>
+        <p class="parrafo_2">En los puertos y marinas deben utilizarse alguna de las canalizaciones siguientes:</p>
+        <p class="parrafo_2">a) Cables con conductores de cobre con aislamiento y cubierta dentro de:</p>
+        <p class="parrafo_2">– Conductos flexibles no metálicos</p>
+        <p class="parrafo">– Conductos no metálicos rígidos de resistencia elevada</p>
+        <p class="parrafo">– Conductos galvanizados de resistencia media o elevada</p>
+        <p class="parrafo_2">b) Cables con aislamiento mineral y cubierta de protección en PVC.</p>
+        <p class="parrafo">c) Cables con armadura y cubierta de material termoplástico o elastómero</p>
+        <p class="parrafo">d) Otros cables y materiales, con protecciones mecánicas superiores a los citados.</p>
+        <p class="parrafo_2">No se utilizará ningún tipo de línea aérea para la alimentación de las instalaciones flotantes o escolleras.</p>
+        <p class="parrafo">En canalizaciones que se prevea que puedan estar en contacto con el agua, los cables a utilizar serán conformes a la norma UNE 21.166 o UNE 21.027-16, según la tensión asignada del cable.</p>
+        <p class="parrafo_2">
+          <strong>4.3</strong>
+          <strong>Aparamenta</strong>
+        </p>
+        <p class="parrafo_2">4.3.1 Cuadros de distribución</p>
+        <p class="parrafo_2">Los cuadros de distribución de los puertos y marinas estarán situados lo más cerca posible de los amarres a alimentar.</p>
+        <p class="parrafo">Los cuadros de distribución y las bases de toma de corriente asociadas colocadas sobre las instalaciones flotantes o escolleras (pantalanes) estarán fijados a 1 metro por encima de las aceras o pasarelas. Esta distancia puede ser reducida a 0,3 m si se toman medidas complementarias de protección.</p>
+        <p class="parrafo">Los cuadros de distribución deberán incorporar, para cada punto de amarre, una base de toma de corriente.</p>
+        <p class="parrafo_2">4.3.2 Bases de toma de corriente</p>
+        <p class="parrafo_2">Salvo para los casos excepcionales referidos en el apartado 2, las bases de toma de corriente deberán ser de uno de los tipos establecidos en la norma UNE-EN 60309, con las características siguientes:</p>
+        <p class="parrafo_2">– Tensión asignada: 230 V</p>
+        <p class="parrafo">– Intensidad asignada: 16 A</p>
+        <p class="parrafo">– Número de polos: 2 y toma tierra</p>
+        <p class="parrafo">– Grado de protección: IP X6</p>
+        <p class="parrafo_2">Cada base de toma de corriente debe estar protegida con un dispositivo individual contra sobreintensidades mayores o igual a 16 A.</p>
+        <p class="parrafo">Las bases de toma de corriente deberán estar protegidas por un dispositivo de corriente diferencial-residual no mayor a 30 mA. Un mismo dispositivo no debe proteger más de una base de toma de corriente.</p>
+        <p class="parrafo">Las tomas de corriente dispuestas sobre la misma escollera o pantalán deberán estar realizadas sobre la misma fase, a menos que estén alimentadas por medio de transformadores de separación.</p>
+        <p class="parrafo_2">4.3.3 Conexión a los barcos de recreo</p>
+        <p class="parrafo_2">El dispositivo de conexión a los barcos de recreo estará compuesto por:</p>
+        <p class="parrafo_2">– Una clavija con contacto unido al conductor de protección y de acuerdo con las características indicadas en el apartado 4.3.2.</p>
+        <p class="parrafo">– Un cable flexible tipo H07RN-F, unido de manera estable al barco de recreo mediante un conector, de acuerdo con las características indicadas en el apartado 4.3.2.</p>
+        <p class="parrafo_2">La longitud de los cables no debe ser superior a 25 m. El cable no debe tener ninguna conexión intermedia o empalme en toda su longitud.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

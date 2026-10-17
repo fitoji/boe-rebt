@@ -1,0 +1,14 @@
+Sección de los conductores de fase (mm^2),Sección nominal del conductor neutro (mm^2),
+Sección de los conductores de fase (mm^2),Redes aéreas,Redes subterráneas
+16,16,16
+25,25,16
+35,35,16
+50,50,25
+70,50,35
+95,50,50
+120,70,70
+150,70,70
+185,95,95
+240,120,120
+300,150,150
+400,185,185

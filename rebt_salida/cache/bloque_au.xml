@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="au" tipo="precepto" titulo="Artículo único">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo único. Aprobación del Reglamento electrotécnico para baja tensión.</p>
+        <p class="parrafo_2">Se aprueba el Reglamento electrotécnico para baja tensión y sus instrucciones técnicas complementarias (ITC) BT 01 a BT 51, que se adjuntan al presente Real Decreto.</p>
+      </version>
+      <version id_norma="BOE-A-2014-13681" fecha_publicacion="20141231" fecha_vigencia="20150630">
+        <p class="articulo">Artículo único. Aprobación del Reglamento electrotécnico para baja tensión.</p>
+        <p class="parrafo_2">Se aprueba el Reglamento electrotécnico para baja tensión y sus instrucciones técnicas complementarias (ITC) BT 01 a BT 51, que se adjuntan al presente Real Decreto.</p>
+        <blockquote class="siempreSeVe">
+          <p class="parrafo">Téngase en cuenta que se añade la (ITC) BT 52 por el art. único del Real Decreto 1053/2014, de 12 de diciembre. <a class="refPost">Ref. BOE-A-2014-13681</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

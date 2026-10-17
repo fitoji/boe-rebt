@@ -1,0 +1,10 @@
+U_nominal,Interruptor automático de protección en el origen del circuito,Potencia instalada,Estaciones de recarga por circuito
+230 V,10 A,2.300 W,1
+230 V,16 A,3.680 W,1
+230 V,20 A,4.600 W,1
+230 V,32 A,7.360 W,1
+230 V,40 A,9.200 W,1
+230/400 V,16 A,11.085 W,de 1 a 3
+230/400 V,20 A,13.856 W,de 1 a 4
+230/400 V,32 A,22.170 W,de 1 a 6
+230/400 V,40 A,27.713 W,de 1 a 8

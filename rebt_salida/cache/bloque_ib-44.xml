@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-44" tipo="precepto" titulo="ITC-BT-44">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-44</p>
+        <p class="anexo_tit">INSTALACIÓN DE RECEPTORES. RECEPTORES PARA ALUMBRADO</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO Y CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. CONDICIONES PARTICULARES PARA LOS RECEPTORES PARA ALUMBRADO Y SUS COMPONENTES</p>
+        <p class="parrafo_2">2.1 Luminarias</p>
+        <p class="parrafo_2">2.1.1 Suspensiones y dispositivos de regulación</p>
+        <p class="parrafo">2.1.2 Cableado interno</p>
+        <p class="parrafo">2.1.3 Cableado externo</p>
+        <p class="parrafo">2.1.4 Puesta a tierra</p>
+        <p class="parrafo_2">2.2 Lámparas</p>
+        <p class="parrafo">2.3 Portalámparas</p>
+        <p class="parrafo_2">3. CONDICIONES DE INSTALACIÓN DE LOS RECEPTORES PARA ALUMBRADO</p>
+        <p class="parrafo_2">3.1 Condiciones generales</p>
+        <p class="parrafo">3.2 Condiciones específicas</p>
+        <p class="parrafo_2">4. UTILIZACIÓN DE MUY BAJAS TENSIONES PARA ALUMBRADO</p>
+        <p class="parrafo">5. RÓTULOS LUMINOSOS</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>OBJETO Y CAMPO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">La presente instrucción se aplica a las instalaciones de receptores para alumbrado (luminarias). Se entiende como receptor para alumbrado, el equipo o dispositivo que utiliza la energía eléctrica para la iluminación de espacios interiores o exteriores.</p>
+        <p class="parrafo">En esta instrucción no se incluyen prescripciones relativas al alumbrado exterior recogido en la ITC-BT-09 ni al alumbrado de emergencia en locales de pública concurrencia recogido en la ITC-BT-28.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>CONDICIONES PARTICULARES PARA LOS RECEPTORES PARA ALUMBRADO Y SUS COMPONENTES</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1</strong>
+          <strong>Luminarias</strong>
+        </p>
+        <p class="parrafo_2">Las luminarias serán conformes a los requisitos establecidos en las normas de la serie UNE-EN 60598.</p>
+        <p class="parrafo_2">2.1.1 Suspensiones y dispositivos de regulación</p>
+        <p class="parrafo_2">La masa de las luminarias suspendidas excepcionalmente de cables flexibles no deben exceder de 5 kg. Los conductores, que deben ser capaces de soportar este peso no deben presentar empalmes intermedios y el esfuerzo deberá realizarse sobre un elemento distinto del borne de conexión. La sección nominal total de los conductores de los que la luminaria esta suspendida será tal que la tracción máxima a la que estén sometidos los conductores sea inferior a 15 N/mm<sup>2</sup>.</p>
+        <p class="parrafo_2">2.1.2 Cableado interno</p>
+        <p class="parrafo_2">La tensión asignada de los cables utilizados será como mínimo la tensión de alimentación y nunca inferior a 300/300 V.</p>
+        <p class="parrafo">Además los cables serán de características adecuadas a la utilización prevista, siendo capaces de soportar la temperatura a la que puedan estar sometidas.</p>
+        <p class="parrafo_2">2.1.3 Cableado externo</p>
+        <p class="parrafo_2">Cuando la luminaria tiene la conexión a la red en su interior, es necesario que el cableado externo que penetra en ella tenga el adecuado aislamiento eléctrico y térmico.</p>
+        <p class="parrafo_2">2.1.4 Puesta a tierra</p>
+        <p class="parrafo_2">Las partes metálicas accesibles de las luminarias que no sean de Clase II o Clase III, deberán tener un elemento de conexión para su puesta a tierra. Se entiende como accesibles aquellas partes incluidas dentro del volumen de accesibilidad definido en la ITC-BT-24.</p>
+        <p class="parrafo_2">
+          <strong>2.2</strong>
+          <strong>Lámparas</strong>
+        </p>
+        <p class="parrafo_2">Queda prohibido el uso de lámparas de gases con descargas a alta tensión (como por ejemplo neón) en el interior de las viviendas.</p>
+        <p class="parrafo">En el interior de locales comerciales y en el interior de edificios, se permitirá su instalación cuando su ubicación esftuéera del volumen de accesibilidad o cuando se instalen barreras o envolventes separadoras, tal como se define en la ITC-BT-24.</p>
+        <p class="parrafo_2">
+          <strong>2.3</strong>
+          <strong>Portalámparas</strong>
+        </p>
+        <p class="parrafo_2">Deberán ser de alguno de los tipos, formas y dimensiones especificados en la norma UNE-EN 60.061-2.</p>
+        <p class="parrafo">Cuando en la misma instalación existan lámparas que han de ser alimentadas a distintas tensiones, se recomienda que los portalámparas respectivos sean diferentes entre sí, según el circuito al que deban ser conectados.</p>
+        <p class="parrafo">Cuando se empleen portalámparas con contacto central, debe conectarse a éste el conductor de fase o polar, y el neutro al contacto correspondiente a la parte exterior.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>CONDICIONES DE INSTALACIÓN DE LOS RECEPTORES PARA ALUMBRADO</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Condiciones generales</strong>
+        </p>
+        <p class="parrafo_2">En instalaciones de iluminación con lámparas de descarga realizadas en locales en los que funcionen máquinas con movimiento alternativo o rotatorio rápido, se deberán tomar las medidas necesarias para evitar la posibilidad de accidentes causados por ilusión óptica originada por el efecto estroboscópico.</p>
+        <p class="parrafo">Las partes metálicas accesibles de los receptores de alumbrado que no sean de Clase II o Clase III, deberán conectarse de manera fiable y permanente al conductor de protección del circuito. Se entiende como accesibles aquellas partes incluidas dentro del volumen de accesibilidad definido en la ITC-BT-24.</p>
+        <p class="parrafo">Los circuitos de alimentación estarán previstos para transportar la carga debida a los propios receptores, a sus elementos asociados y a sus corrientes armónicas y de arranque.</p>
+        <p class="parrafo">Para receptores con lámparas de descarga, la carga mínima prevista en voltiamperios será de 1,8 veces la potencia en vatios de las lámparas. En el caso de distribuciones monofásicas, el conductor neutro tendrá la misma sección que los de fase. Será aceptable un coeficiente diferente para el cálculo de la sección de los conductores, siempre y cuando el factor de potencia de cada receptor sea mayor o igual a 0,9 y si se conoce la carga que supone cada uno de los elementos asociados a las lámparas y las corrientes de arranque, que tanto éstas como aquéllos puedan producir. En este caso, el coeficiente será el que resulte.</p>
+        <p class="parrafo">En el caso de receptores con lámparas de descarga será obligatoria la compensación del factor de potencia hasta un valor mínimo de 0,9, y no se admitirá compensación en conjunto de un grupo de receptores en una instalación de régimen de carga variable, salvo que dispongan de un sistema de compensación automático con variación de su capacidad siguiendo el régimen de carga.</p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Condiciones específicas</strong>
+        </p>
+        <p class="parrafo_2">Para instalaciones que alimenten tubos luminosos de descarga con tensiones asignadas de salida en vacío comprendidas entre 1 kV y 10 kV, se aplicará lo dispuesto en la UNE-EN 50.107. No obstante, se considerarán como instalaciones de baja tensión las destinadas a lámparas o tubos de descarga, cualquiera que sean las tensiones de funcionamiento de éstas, siempre que constituyan un conjunto o unidad con los transformadores de alimentación y demás elementos, no presenten al exterior más que conductores de conexión en baja tensión y dispongan de barreras o envolventes con sistemas de enclavamiento adecuados, que impidan alcanzar partes interiores del conjunto sin que sea cortada automáticamente la tensión de alimentación al mismo.</p>
+        <p class="parrafo">La protección contra contactos directos e indirectos se realizará, en su caso, según los requisitos indicados en la instrucción ITC-BT-24.</p>
+        <p class="parrafo">La instalación irá provista de un interruptor de corte omnipolar, situado en la parte de baja tensión. Queda prohibido colocar interruptor, conmutador, seccionador o cortacircuito en la parte de instalación comprendida entre las lámparas y su dispositivo de alimentación.</p>
+        <p class="parrafo">Todos los condensadores que formen parte del equipo auxiliar eléctrico de las lámparas de descarga para corregir el factor de potencia de los balastos, deberán llevar conectada una resistencia que asegure que la tensión en bornes del condensador no sea mayor de 50 V transcurridos 60 s desde la desconexión del receptor.</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>UTILIZACIÓN DE MUY BAJAS TENSIONES PARA ALUMBRADO</strong>
+        </p>
+        <p class="parrafo_2">En las caldererías, grandes depósitos metálicos, cascos navales, etc. y, en general, en lugares análogos, los aparatos de iluminación portátiles serán alimentados con una tensión de seguridad no superior a 24 V, excepto si son alimentados por medio de transformadores de separación.</p>
+        <p class="parrafo">En instalaciones con lámparas de muy baja tensión (p.e. 12 V) debe preverse la utilización de transformadores adecuados, para asegurar una adecuada protección térmica, contra cortocircuitos y sobrecargas y contra los choques eléctricos.</p>
+        <p class="parrafo_2">
+          <strong>5.</strong>
+          <strong>RÓTULOS LUMINOSOS</strong>
+        </p>
+        <p class="parrafo_2">Para los rótulos luminosos y para instalaciones que los alimentan con tensiones asignadas de salida en vacío comprendidas entre 1 y 10 kV se aplicará lo dispuesto en la norma UNE-EN 50.107.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

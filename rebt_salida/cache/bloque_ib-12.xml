@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-12" tipo="precepto" titulo="ITC-BT-12">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-12</p>
+        <p class="anexo_tit">INSTALACIONES DE ENLACE. ESQUEMAS</p>
+        <p class="parrafo">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. INSTALACIONES DE ENLACE</p>
+        <p class="parrafo_2">1.1 Definición</p>
+        <p class="parrafo">1.2 Partes que constituyen las instalaciones de enlace</p>
+        <p class="parrafo_2">2. ESQUEMAS</p>
+        <p class="parrafo_2">2.1 Para un solo usuario</p>
+        <p class="parrafo">2.2 Para más de un usuario</p>
+        <p class="parrafo_2">2.2.1 Colocación de contadores para dos usuarios alimentados desde el mismo lugar</p>
+        <p class="parrafo">2.2.2 Colocación de contadores en forma centralizada en un lugar</p>
+        <p class="parrafo">2.2.3 Colocación de contadores en forma centralizada en más de un lugar</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>INSTALACIONES DE ENLACE</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>1.1</strong>
+          <strong>Definición</strong>
+        </p>
+        <p class="parrafo_2">Se denominan instalaciones de enlace, aquellas que unen la caja general de protección o cajas generales de protección, incluidas éstas, con las instalaciones interiores o receptoras del usuario.</p>
+        <p class="parrafo">Comenzarán, por tanto, en el final de la acometida y terminarán en los dispositivos generales de mando y protección.</p>
+        <p class="parrafo">Estas instalaciones se situarán y discurrirán siempre por lugares de uso común y quedarán de propiedad del usuario, que se responsabilizará de su conservación y mantenimiento.</p>
+        <p class="parrafo_2">
+          <strong>1.2 Partes que constituyen las instalaciones de enlace</strong>
+        </p>
+        <p class="parrafo_2">– Caja General de Protección (CGP)</p>
+        <p class="parrafo">– Línea General de Alimentación (LGA)</p>
+        <p class="parrafo">– Elementos para la Ubicación de Contadores (CC)</p>
+        <p class="parrafo">– Derivación Individual (DI)</p>
+        <p class="parrafo">– Caja para Interruptor de Control de Potencia (ICP)</p>
+        <p class="parrafo">– Dispositivos Generales de Mando y Protección (DGMP)</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>ESQUEMAS</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>Leyenda</strong>
+        </p>
+        <p class="parrafo_2">1 Red de distribución</p>
+        <p class="parrafo">2 Acometida</p>
+        <p class="parrafo">3 Caja general de protección</p>
+        <p class="parrafo">4 Línea general de alimentación</p>
+        <p class="parrafo">5 Interruptor general de maniobra</p>
+        <p class="parrafo">6 Caja de derivación</p>
+        <p class="parrafo">7 Emplazamiento de contadores</p>
+        <p class="parrafo">8 Derivación individual</p>
+        <p class="parrafo">9 Fusible de seguridad</p>
+        <p class="parrafo">10 Contador</p>
+        <p class="parrafo">11 Caja para interruptor de control de potencia</p>
+        <p class="parrafo">12 Dispositivos generales de mando y protección</p>
+        <p class="parrafo">13 Instalación interior</p>
+        <p class="parrafo_2">Nota: El conjunto de derivación individual e instalación interior constituye la instalación privada.</p>
+        <p class="parrafo_2">
+          <strong>2.1 Para un solo usuario</strong>
+        </p>
+        <p class="parrafo_2">En este caso se podrán simplificar las instalaciones de enlace al coincidir en el mismo lugar la Caja General de Protección y la situación del equipo de medida y no existir, por tanto, la Línea general de alimentación. En consecuencia, el fusible de seguridad (9) coincide con el fusible de la CGP.</p>
+        <p class="imagen">
+          <img class="no_escalar" height="858" src="/datos/imagenes/disp/2002/224/18099_image26.png" width="436"/>
+        </p>
+        <p class="centro_cursiva">Esquema 2.1. Para un solo usuario</p>
+        <p class="parrafo_2">
+          <strong>2.2 Para más de un usuario</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones de enlace se ajustarán a los siguientes esquemas según la colocación de los contadores.</p>
+        <p class="parrafo_2">2.2.1 Colocación de contadores para dos usuarios alimentados desde el mismo lugar</p>
+        <p class="parrafo_2">El esquema 2.1 puede generalizarse para dos usuarios alimentados desde el mismo lugar.</p>
+        <p class="parrafo">Por lo tanto es válido lo indicado para los fusibles de seguridad (9) en el apartado 2.1.</p>
+        <p class="imagen">
+          <img class="no_escalar" height="1019" src="/datos/imagenes/disp/2002/224/18099_image27.png" width="1103"/>
+        </p>
+        <p class="centro_cursiva">Esquema 2.2.1. Para dos usuarios alimentados desde el mismo lugar</p>
+        <p class="parrafo_2">2.2.2 Colocación de contadores en forma centralizada en un lugar</p>
+        <p class="parrafo_2">Este esquema es el que se utilizará normalmente en conjuntos de edificación vertical u horizontal, destinados principalmente a viviendas, edificios comerciales, de oficinas o destinados a una concentración de industrias.</p>
+        <p class="centro_cursiva">Esquema 2.2.2. Para varios usuarios con contadores en forma centralizada en un lugar</p>
+        <p class="imagen">
+          <em>
+            <img class="no_escalar" height="2046" src="/datos/imagenes/disp/2002/224/18099_image28.png" width="1547"/>
+          </em>
+        </p>
+        <p class="parrafo">2.2.3 Colocación de contadores en forma centralizada en más de un lugar</p>
+        <p class="parrafo_2">Este esquema se utilizará en edificios destinados a viviendas, edificios comerciales, de oficinas o destinados a una concentración de industrias donde la previsión de cargas haga aconsejable la centralización de contadores en más de un lugar o planta. Igualmente se utilizará para la ubicación de diversas centralizaciones en una misma planta en edificios comerciales o industriales, cuando la superficie de la misma y la previsión de cargas lo aconseje. También podrá ser de aplicación en las agrupaciones de viviendas en distribución horizontal dentro de un recinto privado.</p>
+        <p class="parrafo">Este esquema es de aplicación en el caso de centralización de contadores de forma distribuida mediante canalizaciones eléctricas prefabricadas, que cumplan lo establecido en la norma UNE-EN 60.439-2.</p>
+        <p class="centro_cursiva">Esquema 2.2.3. Para varios usuarios con contadores en forma centralizada en más de un lugar</p>
+        <p class="imagen">
+          <img class="no_escalar" height="1818" src="/datos/imagenes/disp/2002/224/18099_image30.png" width="1714"/>
+        </p>
+      </version>
+    </bloque>
+  </data>
+</response>

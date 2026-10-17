@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-37" tipo="precepto" titulo="ITC-BT-37">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-37</p>
+        <p class="anexo_tit">INSTALACIONES A TENSIONES ESPECIALES</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. PRESCRIPCIONES PARTICULARES</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>PRESCRIPCIONES PARTICULARES</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones a tensiones especiales son aquellas en las que la tensión nominal es superior a 500V de valor eficaz en corriente alterna o 750V de valor medio aritmético en corriente continua, dentro del campo de aplicación del presente reglamento.</p>
+        <p class="parrafo">Estas instalaciones, además de cumplir con las prescripciones establecidas para las instalaciones a tensiones usuales y las prescripciones complementarias según su emplazamiento, cumplirán las siguientes:</p>
+        <p class="parrafo_2">– Se aplicará obligatoriamente uno de los sistemas de protección para contactos indirectos indicada en la ITC-BT-24, tanto a las envolventes conductoras de las canalizaciones como a las masas de los aparatos que no posean aislamiento reforzado o doble aislamiento.</p>
+        <p class="parrafo">– Los cables empleados serán siempre de tensión nominal no inferior a 1 000 V. Cuando estos cables se instalen sobre soportes aislantes, deberán poseer una envolvente que los proteja contra el deterioro mecánico.</p>
+        <p class="parrafo">– La presencia de piezas desnudas bajo tensión que no estén completamente protegidas contra los contactos directos, de acuerdo a lo establecido en la instrucción ITC-BT-24, se permitirá únicamente en locales afectos a un servicio eléctrico, siempre que sólo personal cualificado tenga acceso al mismo.</p>
+        <p class="parrafo">– Las canalizaciones deberán ser fácilmente identificables, sobre todo cuando existan en sus proximidades otras canalizaciones a tensiones usuales o pequeñas tensiones.</p>
+        <p class="parrafo">– La instalación a tensión usual, a partir de sus aparatos de protección, estará aislada igual que la instalación a tensión especial en el caso excepcional de empleo de un autotransformador para la elevación de la tensión usual a la tensión especial.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="dd" tipo="precepto" titulo="Disposición derogatoria única">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Disposición derogatoria única. Derogación normativa.</p>
+        <p class="parrafo_2">A la entrada en vigor del adjunto Reglamento, quedará derogado el Reglamento electrotécnico para baja tensión, aprobado por Decreto 2413/1973, de 20 de septiembre, sus instrucciones técnicas complementarias y todas las disposiciones que los desarrollan y modifican.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

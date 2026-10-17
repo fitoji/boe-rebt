@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a9" tipo="precepto" titulo="Artículo 9">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 9. Instalaciones de alumbrado exterior.</p>
+        <p class="parrafo">Se considerarán instalaciones de alumbrado exterior las que tienen por finalidad la iluminación de las vías de circulación o comunicación y las de los espacios comprendidos entre edificaciones que, por sus características o seguridad general, deben permanecer iluminados, en forma permanente o circunstancial, sean o no de dominio público.</p>
+        <p class="parrafo">Las condiciones que deben reunir las instalaciones de alumbrado exterior serán las correspondientes a su peculiar situación de intemperie y, por el riesgo que supone, el que parte de sus elementos sean fácilmente accesibles.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

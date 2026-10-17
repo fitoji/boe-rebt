@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-43" tipo="precepto" titulo="ITC-BT-43">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-43</p>
+        <p class="anexo_tit">INSTALACIÓN DE RECEPTORES. PRESCRIPCIONES GENERALES</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>1. INTRODUCCIÓN</strong>
+        </p>
+        <p class="parrafo">2. GENERALIDADES</p>
+        <p class="parrafo_2">2.1 Condiciones generales de instalación</p>
+        <p class="parrafo">2.2 Clasificación de los receptores</p>
+        <p class="parrafo">2.3 Condiciones de utilización</p>
+        <p class="parrafo">2.4 Tensiones de alimentación</p>
+        <p class="parrafo">2.5 Conexión de receptores</p>
+        <p class="parrafo">2.6 Utilización de receptores que desequilibren las fases o produzcan fuertes oscilaciones de la potencia absorbida</p>
+        <p class="parrafo">2.7 Compensación del factor de potencia</p>
+        <p class="parrafo_2">
+          <strong>1. INTRODUCCIÓN</strong>
+        </p>
+        <p class="parrafo_2">La presente instrucción establece los requisitos generales de instalación de receptores dependiendo de su clasificación y utilización que estén destinados a ser alimentados por una red de suministro exterior con tensiones que no excedan de 440 V en valor eficaz entre fases (254 V en valor eficaz entre fase y tierra).</p>
+        <p class="parrafo">De acuerdo al Articulo 6 del Reglamento Electrotécnico para Baja Tensión, los requisitos de todas las instrucciones relativas a receptores no sustituyen ni eximen el cumplimiento de lo establecido en la Directiva de Baja Tensión (73/23/CEE) y en la Directiva de Compatibilidad Electromagnética (89/336/CEE) para dichos receptores y sus elementos constitutivos, aun cuando los receptores no se suministren totalmente montados y el montaje final se realice durante la instalación, como por ejemplo algunos tipos de luminarias o equipos eléctricos de maquinas industriales, etc.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>GENERALIDADES</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1 Condiciones generales de instalación</strong>
+        </p>
+        <p class="parrafo_2">Los receptores se instalarán de acuerdo con su destino (clase de local, emplazamiento, utilización, etc.), teniendo en cuenta los esfuerzos mecánicos previsibles y las condiciones de ventilación, necesarias para que en funcionamiento no pueda producirse ninguna temperatura peligrosa, tanto para la propia instalación como para objetos próximos. Soportarán la influencia de los agentes exteriores a que estén sometidos en servicio, por ejemplo, polvo, humedad, gases y vapores.</p>
+        <p class="parrafo">Los circuitos que formen parte de los receptores, salvo las excepciones que para cada caso puedan señalar las prescripciones de carácter particular, deberán estar protegidos contra sobreintensidades, siendo de aplicación, para ello, lo dispuesto en la Instrucción ITC-BT-22. Se adoptarán las características intensidad-tiempo de los dispositivos, de acuerdo con las características y condiciones de utilización de los receptores a proteger.</p>
+        <p class="parrafo_2">
+          <strong>2.2 Clasificación de los receptores</strong>
+        </p>
+        <p class="parrafo_2">La clasificación de los receptores en lo relativo a la protección contra los choques eléctricos es la siguiente:</p>
+        <p class="centro_cursiva">Tabla 1. Clasificación de los receptores</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla"> </p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Clase 0</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Clase I</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Clase II</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Clase III</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Características principales de los aparatos</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Sin medios de protección por puesta a tierra</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Previstos medios de conexión a tierra</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Aislamiento suplementario pero sin medios de protección por puesta a tierra</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Previstos para ser alimentados con baja tensión de seguridad (MBTS)</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Precauciones de seguridad</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Entorno aislado de tierra</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Conexión a la toma de tierra de protección</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">No es necesaria ninguna protección</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">Conexión a muy baja tensión de seguridad</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">Esta clasificación no implica que los receptores puedan ser de cualquiera de los tipos descritos anteriormente. Las condiciones de seguridad del receptor tanto en su uso como en su instalación, de conformidad a lo requerido en la Directiva de Baja Tensión, pueden imponer restricciones al uso de receptores de alguno de los tipos anteriores.</p>
+        <p class="parrafo">El empleo de aparatos previstos para ser alimentados a muy baja tensión de seguridad (según ITC-BT-36), pero que incorporan circuitos que funcionan a una tensión superior a esta, no se considerarán de clase III a menos que las disposiciones constructivas aseguren entre los circuitos a distintas tensiones, un aislamiento equivalente al correspondiente a un transformador de seguridad según UNE-EN 60.742 o UNE-EN 61558-2-4</p>
+        <p class="parrafo_2">
+          <strong>2.3</strong>
+          <strong>Condiciones de utilización</strong>
+        </p>
+        <p class="parrafo_2">Las condiciones de utilización de los receptores dependerán de su clase y de las características de los locales donde sean instalados. A este respecto se tendrá en cuenta lo dispuesto en la ITC-BT-24. Los receptores de la Clase II y los de la Clase III se podrán utilizar sin tomar medida de protección adicional contra los contactos indirectos.</p>
+        <p class="parrafo_2">
+          <strong>2.4</strong>
+          <strong>Tensiones de alimentación</strong>
+        </p>
+        <p class="parrafo_2">Los receptores no deberán, en general, conectarse a instalaciones cuya tensión asignada sea diferente a la indicada en el mismo. Sobre éstos podrá señalarse una única tensión asignada o una gama de tensiones que señale con sus límites inferior o superior las tensiones para su funcionamiento asignadas por el fabricante del aparato.</p>
+        <p class="parrafo">Los receptores de tensión asignada única, podrán funcionar en relación con ésta, dentro de los límites de variación de tensión admitidos por el Reglamento por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica.</p>
+        <p class="parrafo">Los receptores podrán estar previstos para el cambio de su tensión asignada de alimentación, y cuando este cambio se realice por medio de dispositivos conmutadores, estarán dispuestos de manera que no pueda producirse una modificación accidental de los mismos.</p>
+        <p class="parrafo_2">
+          <strong>2.5</strong>
+          <strong>Conexión de receptores</strong>
+        </p>
+        <p class="parrafo_2">Todo receptor será accionado por un dispositivo que puede ir incorporado al mismo o a la instalación alimentadora. Para este accionamiento se utilizará alguno de los dispositivos indicados en la ITC-BT-19.</p>
+        <p class="parrafo">Se admitirá, cuando las prescripciones particulares no señalen lo contrario, que el accionamiento afecte a un conjunto de receptores.</p>
+        <p class="parrafo">Los receptores podrán conectarse a las canalizaciones directamente o por intermedio de un cable apto para usos móviles, que podrá incorporar una clavija de toma de corriente. Cuando esta conexión se efectúe directamente a una canalización fija, los receptores se situarán de manera que se pueda verificar su funcionamiento, proceder a su mantenimiento y controlar esta conexión. Si la conexión se efectúa por intermedio de un cable movible, éste incluirá el número de conductores necesarios y, si procede, el conductor de protección.</p>
+        <p class="parrafo">En cualquier caso, los cables en la entrada al aparato estarán protegidos contra los riesgos de tracción, torsión, cizallamiento, abrasión, plegados excesivos, etc., por medio de dispositivos apropiados constituidos por materiales aislantes. No se permitirá anudar los cables o atarlos al receptor. Los conductores de protección tendrán una longitud tal que, en caso de fallar el dispositivo impeditivo de tracción, queden únicamente sometidos a ésta después de que la hayan soportado los conductores de alimentación.</p>
+        <p class="parrafo">En los receptores que produzcan calor, si las partes del mismo que puedan tocar a su cable de alimentación alcanzan más de 85 grados centígrados de temperatura, los aislamientos y cubierta del cable no serán de material termoplástico.</p>
+        <p class="parrafo">La conexión de los cables aptos para usos móviles a la instalación alimentadora se realizará utilizando:</p>
+        <p class="parrafo_2">– Clavija y Toma de corriente</p>
+        <p class="parrafo">– Cajas de conexión</p>
+        <p class="parrafo">– Trole para el caso de vehículos a tracción eléctrica o aparatos movibles.</p>
+        <p class="parrafo_2">La conexión de cables aptos para usos móviles a los aparatos destinados a usos domésticos o análogos se realizará utilizando:</p>
+        <p class="parrafo_2">– Cable flexible, con cubierta de protección, fijado permanentemente al aparato.</p>
+        <p class="parrafo">– Cable flexible, con cubierta de protección, fijado al aparato por medio de un conector, de manera que las partes activas del mismo no sean accesibles cuando estén bajo tensión.</p>
+        <p class="parrafo_2">La tensión asignada de los cables utilizados será como mínimo la tensión de alimentación y nunca inferior a 300/300 V. Sus secciones no serán inferiores a 0,5 mm<sup>2</sup>. Las características del cable a emplear serán coherentes con su utilización prevista.</p>
+        <p class="parrafo">Las clavijas utilizadas para la conexión de los receptores a las base de toma de corriente de la instalación de alimentación serán de los tipos indicados en las figuras ESC 10-1b, C2b, C4, C6 o ESB 25-5b, de la norma UNE 20315 o clavija conforme a la norma UNE EN 50075. Adicionalmente, los receptores no destinados a uso en viviendas podrán incorporar clavijas conforme a la serie de normas UNE EN 60309.</p>
+        <p class="parrafo_2">
+          <strong>2.6</strong>
+          <strong>Utilización de receptores que desequilibren las fases o produzcan fuertes oscilaciones de la potencia absorbida</strong>
+        </p>
+        <p class="parrafo_2">No se podrán instalar sin consentimiento expreso de la Empresa que suministra la energí a, aparatos receptores que produzcan desequilibrios importantes en las distribuciones polifásicas.</p>
+        <p class="parrafo">En los motores que accionan máquinas de par resistente muy variable y en otros receptores como hornos, aparatos de soldadura y similares, que puedan producir fuertes oscilaciones por la potencia por ellos absorbida, se tomarán medidas oportunas para que la misma no pueda ser mayor del 200 % de la potencia asignada del receptor.</p>
+        <p class="parrafo">Cuando se compruebe que tales receptores no cumplen la condición indicada, o que producen perturbaciones en la red de distribución de energía de la Empresa distribuidora, ésta podrá, previa autorización del Organismo competente, negar el suministro a tales receptores y solicitar que se instalen los sistemas de corrección apropiados.</p>
+        <p class="parrafo_2">
+          <strong>2.7</strong>
+          <strong>Compensación del factor de potencia</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones que suministren energía a receptores de los que resulte un factor de potencia inferior a 1, podrán ser compensadas, pero sin que en ningún momento la energía absorbida por la red pueda ser capacitiva.</p>
+        <p class="parrafo">La compensación del factor de potencia podrá hacerse de una de las dos formas siguientes:</p>
+        <p class="parrafo_2">– Por cada receptor o grupo de receptores que funcionen simultáneamente y se conecten por medio de un sólo interruptor. En este caso el interruptor debe cortar la alimentación simultáneamente al receptor o grupo de receptores y al condensador.</p>
+        <p class="parrafo">– Para la totalidad de la instalación. En este caso, la instalación de compensación ha de estar dispuesta para que, de forma automática, asegure que la variación del factor de potencia no sea mayor de un ± 10 % del valor medio obtenido durante un prolongado período de funcionamiento.</p>
+        <p class="parrafo_2">Cuando se instalen condensadores y la conexión de éstos con los receptores pueda ser cortada por medio de interruptores, los condensadores irán provistos de resistencias o reactancias de descarga a tierra.</p>
+        <p class="parrafo">Los condensadores utilizados para la mejora del factor de potencia en los motores asíncronos, se instalarán de forma que, al cortar la alimentación de energía eléctrica al motor, queden simultáneamente desconectados los indicados condensadores.</p>
+        <p class="parrafo">Las características de los condensadores y su instalación deberán ser conformes a lo establecido en la norma UNE-EN 60831-1 y UNE-EN 60831-2.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a2-8" tipo="precepto" titulo="Artículo 26">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 26. Normas de referencia.</p>
+        <p class="parrafo">1.<em> </em>Las instrucciones técnicas complementarias podrán establecer la aplicación de normas UNE u otras reconocidas internacionalmente, de manera total o parcial, a fin de facilitar la adaptación al estado dela técnica en cada momento.</p>
+        <p class="parrafo">Dicha referencia se realizará, por regla general, sin indicar el año de edición de las normas en cuestión. En la correspondiente instrucción técnica complementaria se recogerá el listado de todas las normas citadas en el texto de las instrucciones, identificadas por sus títulos y numeración, la cual incluirá el año de edición.</p>
+        <p class="parrafo">2. Cuando una o varias normas varíen su año de edición, o se editen modificaciones posteriores a las mismas, deberán ser objeto de actualización en el listado de normas, mediante resolución del centro directivo competente en materia de seguridad industrial del Ministerio de Ciencia y Tecnología, en la que deberá hacerse constar la fecha a partir de la cual la utilización de la nueva edición de la norma será válida y la fecha a partir de la cual la utilización de la antigua edición de la norma dejará de serlo, a efectos reglamentarios.</p>
+        <p class="parrafo">A falta de resolución expresa, se entenderá que también cumple las condiciones reglamentarias la edición de la norma posterior a la que figure en el listado de normas, siempre que la misma no modifique criterios básicos y se limite a actualizar ensayos o incremente la seguridad intrínseca del material correspondiente.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

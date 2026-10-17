@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a6" tipo="precepto" titulo="Artículo 6">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 6. Equipos y materiales.</p>
+        <p class="parrafo">1.<em> </em>Los materiales y equipos utilizados en las instalaciones deberán ser utilizados en la forma y para la finalidad que fueron fabricados. Los incluidos en el campo de aplicación de la reglamentación de trasposición de las Directivas de la Unión Europea deberán cumplir con lo establecido en las mismas.</p>
+        <p class="parrafo_2">En lo no cubierto por tal reglamentación se aplicarán los criterios técnicos preceptuados por el presente Reglamento. En particular, se incluirán junto con los equipos y materiales las indicaciones necesarias para su correcta instalación y uso, debiendo marcarse con las siguientes indicaciones mínimas:</p>
+        <p class="parrafo_2">a) Identificación del fabricante, representante legal o responsable de la comercialización.</p>
+        <p class="parrafo">b) Marca y modelo.</p>
+        <p class="parrafo">c) Tensión y potencia (o intensidad) asignadas.</p>
+        <p class="parrafo">d) Cualquier otra indicación referente al uso específico del material o equipo, asignado por el fabricante.</p>
+        <p class="parrafo_2">2. Los órganos competentes de las Comunidades Autónomas verificarán el cumplimiento de las exigencias técnicas de los materiales y equipos sujetos a este Reglamento. La verificación podrá efectuarse por muestreo.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

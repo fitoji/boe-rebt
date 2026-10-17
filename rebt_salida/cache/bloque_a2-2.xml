@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a2-2" tipo="precepto" titulo="Artículo 20">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 20. Mantenimiento de las instalaciones.</p>
+        <p class="parrafo">Los titulares de las instalaciones deberán mantener en buen estado de funcionamiento sus instalaciones, utilizándolas de acuerdo con sus características y absteniéndose de intervenir en las mismas para modificarlas. Si son necesarias modificaciones, éstas deberán ser efectuadas por un instalador autorizado.</p>
+      </version>
+      <version id_norma="BOE-A-2010-8190" fecha_publicacion="20100522" fecha_vigencia="20100523">
+        <p class="articulo">Artículo 20. Mantenimiento de las instalaciones.</p>
+        <p class="parrafo">Los titulares de las instalaciones deberán mantener en buen estado de funcionamiento sus instalaciones, utilizándolas de acuerdo con sus características y absteniéndose de intervenir en las mismas para modificarlas. Si son necesarias modificaciones, éstas deberán ser efectuadas por una empresa instaladora.</p>
+        <blockquote>
+          <p class="nota_pie">Se sustituye la expresión "instalador/es autorizado/s" por "empresa/s instaladora/s" según establece el art. 7.1 del Real Decreto 560/2010, de 7 de mayo. <a class="refPost">Ref. BOE-A-2010-8190#aseptimo</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

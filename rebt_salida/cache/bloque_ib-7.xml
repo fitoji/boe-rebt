@@ -1,0 +1,3242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-7" tipo="precepto" titulo="ITC-BT-07">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-07</p>
+        <p class="anexo_tit">REDES SUBTERRÁNEAS PARA DISTRIBUCIÓN EN BAJA TENSIÓN</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. CABLES</p>
+        <p class="parrafo">2. EJECUCIÓN DE LAS INSTALACIONES</p>
+        <p class="parrafo_2">2.1 Instalación de cables aislados</p>
+        <p class="parrafo_2">2.1.1 Directamente enterrados</p>
+        <p class="parrafo">2.1.2 En canalizaciones entubadas</p>
+        <p class="parrafo">2.1.3 En galerías</p>
+        <p class="parrafo">2.1.4 En atarjeas o canales revisables</p>
+        <p class="parrafo">2.1.5 En bandejas, soportes, palomillas o directamente sujetos a la pared</p>
+        <p class="parrafo">2.1.6 Circuitos con cables en paralelo</p>
+        <p class="parrafo_2">2.2 Condiciones generales para cruzamiento, proximidades y paralelismo</p>
+        <p class="parrafo_2">2.2.1 Cruzamientos</p>
+        <p class="parrafo">2.2.2 Proximidades y paralelismos</p>
+        <p class="parrafo">2.2.3 Acometidas (conexiones de servicio)</p>
+        <p class="parrafo_2">2.3 Puesta a tierra y continuidad del neutro</p>
+        <p class="parrafo_2">3. INTENSIDADES MÁXIMAS ADMISIBLES</p>
+        <p class="parrafo_2">3.1 Intensidades máximas permanentes en los conductores de los cables:</p>
+        <p class="parrafo_2">3.1.1 Temperatura máxima admisible</p>
+        <p class="parrafo">3.1.2 Condiciones de instalación enterrada</p>
+        <p class="parrafo">3.1.3 Cables enterrados en zanja en el interior de tubos o similares</p>
+        <p class="parrafo">3.1.4 Condiciones de instalación al aire (en galerías, zanjas registrables, atarjeas o canales revisables)</p>
+        <p class="parrafo_2">3.2 Intensidades de cortocircuito admisibles en los conductores</p>
+        <p class="parrafo">3.3 Otros cables o sistemas de instalación</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>CABLES</strong>
+        </p>
+        <p class="parrafo_2">Los conductores de los cables utilizados en las líneas subterráneas serán de cobre o de aluminio y estarán aislados con mezclas apropiadas de compuestos poliméricos. Estarán además debidamente protegidos contra la corrosión que pueda provocar el terreno donde se instalen y tendrán la resistencia mecánica suficiente para soportar los esfuerzos a que puedan estar sometidos.</p>
+        <p class="parrafo">Los cables podrán ser de uno o más conductores y de tensión asignada no inferior a 0,6/1 kV, y deberán cumplir los requisitos especificados en la parte correspondiente de la Norma UNE-HD 603. La sección de estos conductores será la adecuada a las intensidades y caídas de tensión previstas y, en todo caso, esta sección no será inferior a 6 mm<sup>2</sup> para conductores de cobre y a 16 mm<sup>2</sup> para los de aluminio.</p>
+        <p class="parrafo">Dependiendo del número de conductores con que se haga la distribución, la sección mínima del conductor neutro será:</p>
+        <p class="parrafo_2">a) Con dos o tres conductores: Igual a la de los conductores de fase.</p>
+        <p class="parrafo">b) Con cuatro conductores, la sección del neutro será como mínimo la de la tabla 1.</p>
+        <p class="centro_redonda">
+          <em>Tabla 1. Sección mínima del conductor neutro en función de la sección de los conductores de fase</em>
+        </p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Conductores fase (mm<sup>2</sup>)</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Sección neutro (mm<sup>2</sup>)</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">6 (Cu)</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">10 (Cu)</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">10</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">16 (Cu)</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">10</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">16 (Al)</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">35</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">35</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">95</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">120</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">70</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">70</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">185</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">95</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">240</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">120</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">300</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">400</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">185</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>EJECUCIÓN DE LAS INSTALACIONES</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1</strong>
+          <strong>Instalación de cables aislados</strong>
+        </p>
+        <p class="parrafo_2">Las canalizaciones se dispondrán, en general, por terrenos de dominio público, y en zonas perfectamente delimitadas, preferentemente bajo las aceras. El trazado será lo más rectilíneo posible y a poder ser paralelo a referencias fijas como líneas en fachada y bordillos. Asimismo, deberán tenerse en cuenta los radios de curvatura mínimos, fijados por los fabricantes (o en su defecto los indicados en las normas de la serie UNE 20.435), a respetar en los cambios de dirección.</p>
+        <p class="parrafo">En la etapa de proyecto se deberá consultar con las empresas de servicio público y con los posibles propietarios de servicios para conocer la posición de sus instalaciones en la zona afectada. Una vez conocida, antes de proceder a la apertura de las zanjas se abrirán calas de reconocimiento para confirmar o rectificar el trazado previsto en el proyecto.</p>
+        <p class="parrafo">Los cables aislados podrán instalarse de cualquiera de las maneras indicada a continuación:</p>
+        <p class="parrafo_2">2.1.1 Directamente enterrados</p>
+        <p class="parrafo_2">La profundidad, hasta la parte inferior del cable, no será menor de 0,60 m en acera, ni de 0,80 m en calzada.</p>
+        <p class="parrafo">Cuando existan impedimentos que no permitan lograr las mencionadas profundidades, éstas podrán reducirse, disponiendo protecciones mecánicas suficientes, tales como las establecidas en el apartado 2.1.2. Por el contrario, deberán aumentarse cuando las condiciones que se establecen en el apartado 2.2 de la presente instrucción así lo exijan.</p>
+        <p class="parrafo">Para conseguir que el cable quede correctamente instalado sin haber recibido daño alguno, y que ofrezca seguridad frente a excavaciones hechas por terceros, en la instalación de los cables se seguirán las instrucciones descritas a continuación:</p>
+        <p class="parrafo_2">– El lecho de la zanja que va a recibir el cable será liso y estará libre de aristas vivas, cantos, piedras, etc... En el mismo se dispondrá una capa de arena de mina o de río lavada, de espesor mínimo 0,05 m sobre la que se colocará el cable. Por encima del cable irá otra capa de arena o tierra cribada de unos 0,10 m de espesor. Ambas capas cubrirán la anchura total de la zanja, la cual será suficiente para mantener 0,05 m entre los cables y las paredes laterales.</p>
+        <p class="parrafo">– Por encima de la arena todos los cables deberán tener una protección mecánica, como por ejemplo, losetas de hormigón, placas protectoras de plástico, ladrillos o rasillas colocadas transversalmente. Podrá admitirse el empleo de otras protecciones mecánicas equivalentes. Se colocará también una cinta de señalización que advierta de la existencia del cable eléctrico de baja tensión. Su distancia mínima al suelo será de 0,10 m, y a la parte superior del cable de 0,25 m.</p>
+        <p class="parrafo">– Se admitirá también la colocación de placas con la doble misión de protección mecánica y de señalización.</p>
+        <p class="parrafo_2">2.1.2 En canalizaciones entubadas</p>
+        <p class="parrafo_2">Serán conformes con las especificaciones del apartado 1.2.4 de la ITC-BT-21. No se instalará más de un circuito por tubo.</p>
+        <p class="parrafo">Se evitarán, en lo posible, los cambios de dirección de los tubos. En los puntos donde se produzcan y para facilitar la manipulación de los cables, se dispondrán arquetas con tapa, registrables o no. Para facilitar el tendido de los cables, en los tramos rectos se instalarán arquetas intermedias, registrables, ciegas o simplemente calas de tiro, como máximo cada 40 m. Esta distancia podrá variarse de forma razonable, en función de derivaciones, cruces u otros condicionantes viarios. A la entrada en las arquetas, los tubos deberán quedar debidamente sellados en sus extremos para evitar la entrada de roedores y de agua.</p>
+        <p class="parrafo_2">2.1.3 En galerías</p>
+        <p class="parrafo_2">Se consideran dos tipos de galería, la galería visitable, de dimensiones interiores suficientes para la circulación de personas, y la galería registrable, o zanja prefabricada, en la que no está prevista la circulación de personas y dónde las tapas de registro precisan medios mecánicos para su manipulación.</p>
+        <p class="parrafo">Las galerías serán de hormigón armado o de otros materiales de rigidez, estanqueidad y duración equivalentes. Se dimensionarán para soportar la carga de tierras y pavimentos situados por encima y las cargas del tráfico que correspondan.</p>
+        <p class="parrafo_2">2.1.3.1 Galerías visitables</p>
+        <p class="parrafo_2">Limitación de servicios existentes</p>
+        <p class="parrafo_2">Las galerías visitables se usarán, preferentemente, para instalaciones eléctricas de potencia, cables de control y telecomunicaciones. En ningún caso podrán coexistir en la misma galería instalaciones eléctricas e instalaciones de gas.</p>
+        <p class="parrafo">Tampoco es recomendable que existan canalizaciones de agua aunque en aquellos casos en que sea necesario, las canalizaciones de agua se situarán a un nivel inferior que el resto de las instalaciones, siendo condición indispensable, que la galería tenga un desagüe situado por encima de la cota del alcantarillado, o de la canalización de saneamiento en que evacua.</p>
+        <p class="parrafo_2">Condiciones generales</p>
+        <p class="parrafo_2">Las galerías visitables dispondrán de pasillos de circulación de 0,90 m de anchura mínima y 2 m de altura mínima, debiéndose justificar las excepciones. En los puntos singulares, entronques, pasos especiales, accesos de personal, etc., se estudiarán tanto el correcto paso de las canalizaciones como la seguridad de circulación de las personas.</p>
+        <p class="parrafo">Los accesos a la galería deben quedar cerrados de forma que se impida la entrada de personas ajenas al servicio, pero que permita la salida de las que estén en su interior. Deberán disponerse accesos en las zonas extremas de las galerías. La ventilación de las galerías será suficiente para asegurar que el aire se renueve 6 veces por hora, para evitar acumulaciones de gas y condensaciones de humedad, y contribuir a que la temperatura máxima de la galería sea compatible con los servicios que contenga. Esta temperatura no sobrepasará los 40 ºC.</p>
+        <p class="parrafo">Los suelos de las galerías serán antideslizantes y deberán tener la pendiente adecuada y un sistema de drenaje eficaz, que evite la formación de charcos.</p>
+        <p class="parrafo">Las empresas utilizadoras tomarán las disposiciones oportunas para evitar la presencia de roedores en las galerías.</p>
+        <p class="parrafo_2">Disposición e identificación de los cables</p>
+        <p class="parrafo_2">Es aconsejable disponer los cables de distintos servicios y de distintos propietarios sobre soportes diferentes y mantener entre ellos unas distancias que permitan su correcta instalación y mantenimiento. Dentro de un mismo servicio debe procurarse agruparlos por tensiones (por ejemplo, en uno de los laterales se instalarán los cables de baja tensión, control, señalización, etc., reservando el otro para los cables de alta tensión).</p>
+        <p class="parrafo">Los cables se dispondrán de forma que su trazado sea recto y procurando conservar su posición relativa con los demás. Las entradas y salidas de los cables en las galerías se harán de forma que no dificulten ni el mantenimiento de los cables existentes ni la instalación de nuevos cables.</p>
+        <p class="parrafo">Una vez instalados, todos los cables deberán quedar debidamente señalizados e identificados. En la identificación figurará, también, la empresa a quién pertenecen.</p>
+        <p class="parrafo_2">Sujeción de los cables</p>
+        <p class="parrafo_2">Los cables deberán estar fijados a las paredes o a estructuras de la galería mediante elementos de sujeción (regletas, ménsulas, bandejas, bridas, etc.) para evitar que los esfuerzos electrodinámicos que pueden presentarse durante la explotación de las redes de baja tensión, puedan moverlos o deformarlos.</p>
+        <p class="parrafo">Estos esfuerzos, en las condiciones más desfavorables previsibles, servirán para dimensionar la resistencia de los elementos de sujeción, así como su separación.</p>
+        <p class="parrafo">En el caso de cables unipolares agrupados en mazo, los mayores esfuerzos electrodinámicos aparecen entre fases de una misma línea, como fuerza de repulsión de una fase respecto a las otras. En este caso pueden complementarse las sujeciones de los cables con otras que mantengan unido el mazo.</p>
+        <p class="parrafo_2">Equipotencialidad de masas metálicas accesibles</p>
+        <p class="parrafo_2">Todos los elementos metálicos para sujeción de los cables (bandejas, soportes, bridas, etc.) u otros elementos metálicos accesibles a las personas que transitan por las galerías (pavimentos, barandillas, estructuras o tuberías metálicas, etc.) se conectarán eléctricamente al conductor de tierra de la galería.</p>
+        <p class="parrafo_2">Galerías de longitud superior a 400 m</p>
+        <p class="parrafo_2">Las galerías de longitud superior a 400 m, además de las disposiciones anteriores, dispondrán de:</p>
+        <p class="parrafo_2">a) Iluminación fija en su interior</p>
+        <p class="parrafo">b) Instalaciones fijas de detección de gases tóxicos, con una sensibilidad mínima de 300 ppm.</p>
+        <p class="parrafo">c) Indicadores luminosos que regulen el acceso en las entradas.</p>
+        <p class="parrafo">d) Accesos de personas cada 400 m, como máximo.</p>
+        <p class="parrafo">e) Alumbrado de señalización interior para informar de las salidas y referencias exteriores.</p>
+        <p class="parrafo">f) Tabiques de sectorización contra incendios (RF120) según NBE-CPI-96.</p>
+        <p class="parrafo">g) Puertas cortafuegos (RF 90) según NBE-CPI-96.</p>
+        <p class="parrafo_2">2.1.3.2 Galerías o zanjas registrables</p>
+        <p class="parrafo_2">En tales galerías se admite la instalación de cables eléctricos de alta tensión, de baja tensión y de alumbrado, control y comunicación. No se admite la existencia de canalizaciones de gas. Sólo se admite la existencia de canalizaciones de agua, si se puede asegurar que en caso de fuga, el agua no afecte a los demás servicios (por ejemplo, en un diseño de doble cuerpo, en el que en un cuerpo se dispone una canalización de agua, y en el otro cuerpo, estanco respecto al anterior cuando tiene colocada la tapa registrable, se disponen los cables de baja tensión, de alta tensión, de alumbrado público, semáforos, control y comunicación).</p>
+        <p class="parrafo">Las condiciones de seguridad más destacables que deben cumplir este tipo de instalación son:</p>
+        <p class="parrafo_2">– estanqueidad de los cierres, y</p>
+        <p class="parrafo">– buena renovación de aire en el cuerpo ocupado por los cables eléctricos, para evitar acumulaciones de gas y condensación de humedades, y mejorar la disipación de calor</p>
+        <p class="parrafo_2">2.1.4 En atarjeas o canales revisables</p>
+        <p class="parrafo_2">En ciertas ubicaciones con acceso restringido a personas adiestradas, como puede ser, en el interior de industrias o de recintos destinados exclusivamente a contener instalaciones eléctricas, podrán utilizarse canales de obra con tapas (que normalmente enrasan con el nivel del suelo) manipulables a mano.</p>
+        <p class="parrafo">Es aconsejable separar los cables de distintas tensiones (aprovechando el fondo y las dos paredes). Incluso, puede ser preferible utilizar canales distintos.</p>
+        <p class="parrafo">El canal debe permitir la renovación del aire. Sin embargo, si hay canalizaciones de gas cercanas al canal, existe el riesgo de explosión ocasionado por eventuales fugas de gas que lleguen al canal. En cualquier caso, el proyectista debe estudiar las características particulares del entorno y justificar la solución adoptada.</p>
+        <p class="parrafo_2">2.1.5 En bandejas, soportes, palomillas o directamente sujetos a la pared</p>
+        <p class="parrafo_2">Normalmente, este tipo de instalación sólo se empleará en subestaciones u otras instalaciones eléctricas y en la parte interior de edificios, no sometida a la intemperie, y en donde el acceso quede restringido al personal autorizado. Cuando las zonas por las que discurra el cable sean accesibles a personas o vehículos, deberán disponerse protecciones mecánicas que dificulten su accesibilidad.</p>
+        <p class="parrafo_2">2.1.6 Circuitos con cables en paralelo</p>
+        <p class="parrafo_2">Cuando la intensidad a transportar sea superior a la admisible por un solo conductor se podrá instalar más de un conductor por fase, según los siguientes criterios:</p>
+        <p class="parrafo_2">– emplear conductores del mismo material, sección y longitud.</p>
+        <p class="parrafo">– los cables se agruparán al tresbolillo, en ternas dispuestas en uno o varios niveles, por ejemplo:</p>
+        <p class="parrafo_2">– tres ternas en un nivel: <sub>R</sub><sup>S</sup><sub>T</sub>, <sub>T</sub><sup>S</sup><sub>R</sub>, <sub>R</sub><sup>S</sup><sub>T</sub></p>
+        <p class="parrafo">– tres ternas apiladas en tres niveles:</p>
+        <p class="parrafo">
+          <sub>R</sub>
+          <sup>S</sup>
+          <sub>T</sub>
+        </p>
+        <p class="parrafo">
+          <sub>T</sub>
+          <sup>S</sup>
+          <sub>R</sub>
+        </p>
+        <p class="parrafo">
+          <sub>R</sub>
+          <sup>S</sup>
+          <sub>T</sub>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.2</strong>
+          <strong>Condiciones generales para cruzamiento, proximidades y paralelismo</strong>
+        </p>
+        <p class="parrafo_2">Los cables subterráneos, cuando estén enterrados directamente en el terreno, deberán cumplir, además de los requisitos reseñados en el presente punto, las condiciones que pudieran imponer otros Organismos Competentes, como consecuencia de disposiciones legales, cuando sus instalaciones fueran afectadas por tendidos de cables subterráneos de baja tensión.</p>
+        <p class="parrafo">Los requisitos señalados en este punto no serán de aplicación a cables dispuestos en galerías, en canales, en bandejas, en soportes, en palomillas o directamente sujetos a la pared. En estos casos, la disposición de los cables se hará a criterio de la empresa que los explote; sin embargo, para establecer las intensidades admisibles en dichos cables se deberán aplicar los factores de corrección definidos en el apartado 3.</p>
+        <p class="parrafo">Para cruzar zonas en las que no sea posible o suponga graves inconvenientes y dificultades la apertura de zanjas (cruces de ferrocarriles, carreteras con gran densidad de circulación, etc.), pueden utilizarse máquinas perforadoras «topo» de tipo impacto, hincadora de tuberías o taladradora de barrena, en estos casos se prescindirá del diseño de zanja descrito anteriormente puesto que se utiliza el proceso de perforación que se considere más adecuado. Su instalación precisa zonas amplias despejadas a ambos lados del obstáculo a atravesar para la ubicación de la maquinaria.</p>
+        <p class="parrafo_2">2.2.1 Cruzamientos</p>
+        <p class="parrafo_2">A continuación se fijan, para cada uno de los casos indicados, las condiciones a que deben responder los cruzamientos de cables subterráneos de baja tensión directamente enterrados.</p>
+        <p class="parrafo_2">Calles y carreteras</p>
+        <p class="parrafo_2">Los cables se colocarán en el interior de tubos protectores conforme con lo establecido en la ITC-BT-21, recubiertos de hormigón en toda su longitud a una profundidad mínima de 0,80 m. Siempre que sea posible, el cruce se hará perpendicular al eje del vial.</p>
+        <p class="parrafo_2">Ferrocarriles</p>
+        <p class="parrafo_2">Los cables se colocarán en el interior de tubos protectores conforme con lo establecido en la ITC-BT-21, recubiertos de hormigón y siempre que sea posible, perpendiculares a la vía,, y a una profundidad mínima de 1,3 m respecto a la cara inferior de la traviesa. Dichos tubos rebasarán las vías férreas en 1,5 m por cada extremo.</p>
+        <p class="parrafo_2">Otros cables de energía eléctrica</p>
+        <p class="parrafo_2">Siempre que sea posible, se procurará que los cables de baja tensión discurran por encima de los alta tensión.</p>
+        <p class="parrafo">La distancia mínima entre un cable de baja tensión y otros cables de energía eléctrica será: 0,25 m con cables de alta tensión y 0,10 m con cables de baja tensión. La distancia del punto de cruce a los empalmes será superior a 1 m. Cuando no puedan respetarse estas distancias en los cables directamente enterrados, el cable instalado más recientemente se dispondrá en canalización entubada según lo prescrito en el apartado 2.1.2.</p>
+        <p class="parrafo_2">Cables de telecomunicación</p>
+        <p class="parrafo_2">La separación mínima entre los cables de energía eléctrica y los de telecomunicación será de 0.20 m. La distancia del punto de cruce a los empalmes, tanto del cable de energía como del cable de telecomunicación, será superior a 1 m. Cuando no puedan respetarse estas distancias en los cables directamente enterrados, el cable instalado más recientemente se dispondrá en canalización entubada según lo prescrito en el apartado 2.1.2.</p>
+        <p class="parrafo">Estas restricciones no se deben aplicar a los cables de fibra óptica con cubiertas dieléctricas. Todo tipo de protección en la cubierta del cable debe ser aislante.</p>
+        <p class="parrafo_2">Canalizaciones de agua y gas</p>
+        <p class="parrafo_2">Siempre que sea posible, los cables se instalarán por encima de las canalizaciones de agua.</p>
+        <p class="parrafo">La distancia mínima entre cables de energía eléctrica y canalizaciones de agua o gas será de 0,20 m. Se evitará el cruce por la vertical de las juntas de las canalizaciones de agua o gas, o de los empalmes de la canalización eléctrica, situando unas y otros a una distancia superior a 1 m del cruce. Cuando no puedan respetarse estas distancias en los cables directamente enterrados, la canalización instalada más recientemente se dispondrá entubada según lo prescrito en el apartado 2.1.2.</p>
+        <p class="parrafo_2">Conducciones de alcantarillado</p>
+        <p class="parrafo_2">Se procurará pasar los cables por encima de las conducciones de alcantarillado. No se admitirá incidir en su interior. Se admitirá incidir en su pared (por ejemplo, instalando tubos), siempre que se asegure que ésta no ha quedado debilitada. Si no es posible, se pasará por debajo, y los cables se dispondrán en canalizaciones entubadas según lo prescrito en el apartado 2.1.2.</p>
+        <p class="parrafo_2">Depósitos de carburante</p>
+        <p class="parrafo_2">Los cables se dispondrán en canalizaciones entubadas según lo prescrito en el apartado 2.1.2. y distarán, como mínimo, 0,20 m del depósito. Los extremos de los tubos rebasarán al depósito, como mínimo 1,5 m por cada extremo.</p>
+        <p class="parrafo_2">2.2.2 Proximidades y paralelismos</p>
+        <p class="parrafo_2">Los cables subterráneos de baja tensión directamente enterrados deberán cumplir las condiciones y distancias de proximidad que se indican a continuación, procurando evitar que queden en el mismo plano vertical que las demás conducciones.</p>
+        <p class="parrafo_2">Otros cables de energía eléctrica</p>
+        <p class="parrafo_2">Los cables de baja tensión podrán instalarse paralelamente a otros de baja o alta tensión, manteniendo entre ellos una distancia mínima de 0,10 m con los cables de baja tensión y 0,25 m con los cables de alta tensión. Cuando no puedan respetarse estas distancias en los cables directamente enterrados, el cable instalado más recientemente se dispondrá en canalización entubada según lo prescrito en el apartado 2.1.2.</p>
+        <p class="parrafo">En el caso de que un mismo propietario canalice a la vez varios cables de baja tensión, podrá instalarlos a menor distancia, incluso en contacto.</p>
+        <p class="parrafo_2">Cables de telecomunicación</p>
+        <p class="parrafo_2">La distancia mínima entre los cables de energía eléctrica y los de telecomunicación será de 0,20 m. Cuando no puedan respetarse estas distancias en los cables directamente enterrados, el cable instalado más recientemente se dispondrá en canalización entubada según lo prescrito en el apartado 2.1.2.</p>
+        <p class="parrafo_2">Canalizaciones de agua</p>
+        <p class="parrafo_2">La distancia mínima entre los cables de energía eléctrica y las canalizaciones de agua será de 0,20 m. La distancia mínima entre los empalmes de los cables de energía eléctrica y las juntas de las canalizaciones de agua será de 1 m. Cuando no puedan respetarse estas distancias en los cables directamente enterrados, la canalización instalada más recientemente se dispondrá entubada según lo prescrito en el apartado 2.1.2.</p>
+        <p class="parrafo">Se procurará mantener una distancia mínima de 0,20 m en proyección horizontal, y que la canalización de agua quede por debajo del nivel del cable eléctrico.</p>
+        <p class="parrafo">Por otro lado, las arterias principales de agua se dispondrán de forma que se aseguren distancias superiores a 1 m respecto a los cables eléctricos de baja tensión.</p>
+        <p class="parrafo_2">Canalizaciones de gas</p>
+        <p class="parrafo_2">La distancia mínima entre los cables de energía eléctrica y las canalizaciones de gas será de 0,20 m, excepto para canalizaciones de gas de alta presión (más de 4 bar), en que la distancia será de 0,40 m. La distancia mínima entre los empalmes de los cables de energía eléctrica y las juntas de las canalizaciones de gas será de 1 m. Cuando no puedan respetarse estas distancias en los cables directamente enterrados, la canalización instalada más recientemente se dispondrá entubada según lo prescrito en el apartado 2.1.2.</p>
+        <p class="parrafo">Se procurará mantener una distancia mínima de 0,20 m en proyección horizontal. Por otro lado, las arterias importantes de gas se dispondrán de forma que se aseguren distancias superiores a 1 m respecto a los cables eléctricos de baja tensión.</p>
+        <p class="parrafo_2">2.2.3 Acometidas (conexiones de servicio)</p>
+        <p class="parrafo_2">En el caso de que el cruzamiento o paralelismo entre cables eléctricos y canalizaciones de los servicios descritos anteriormente, se produzcan en el tramo de acometida a un edificio deberá mantenerse una distancia mínima de 0,20 m.</p>
+        <p class="parrafo">Cuando no puedan respetarse estas distancias en los cables directamente enterrados, la canalización instalada más recientemente se dispondrá entubada según lo prescrito en el apartado 2.1.2.</p>
+        <p class="parrafo">La canalización de la acometida eléctrica, en la entrada al edificio, deberá taponarse hasta conseguir una estanqueidad adecuada.</p>
+        <p class="parrafo_2">
+          <strong>2.3</strong>
+          <strong>Puesta a tierra y continuidad del neutro</strong>
+        </p>
+        <p class="parrafo_2">La puesta a tierra y continuidad del neutro se atendrá a lo establecido en los capítulos 3.6 y 3.7 de la ITC-BT 06.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>INTENSIDADES MÁXIMAS ADMISIBLES</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Intensidades máximas permanentes en los conductores de los cables:</strong>
+        </p>
+        <p class="parrafo_2">En las tablas que siguen se dan los valores indicados en la Norma UNE 20.435.</p>
+        <p class="parrafo">En la tabla 2 se dan las temperaturas máximas admisibles en el conductor según los tipos de aislamiento.</p>
+        <p class="parrafo">En las tablas 3, 4 y 5 se indican las intensidades máximas permanentes admisibles en los diferentes tipos de cables, en las condiciones tipo de instalación enterrada indicadas en el apartado 3.1.2.1. En las condiciones especiales de instalación indicadas en el apartado 3.1.2.2 se aplicarán los factores de corrección que correspondan según las tablas 6 a 9. Dichos factores de corrección se indican para cada condición que pueda diferenciar la instalación considerada de la instalación tipo.</p>
+        <p class="parrafo">En las tablas 10, 11 y 12 se indican las intensidades máximas permanentes admisibles en los diferentes tipos de cables, en las condiciones tipo de instalación al aire indicadas en el apartado 3.1.4.1. En las condiciones especiales de instalación indicadas en el apartado 3.1.4.2 se aplicarán los factores de corrección que corresponda, tablas 13 a 15. Dichos factores de corrección se indican para cada condición que pueda diferenciar la instalación considerada de la instalación tipo.</p>
+        <p class="parrafo_2">3.1.1 Temperatura máxima admisible</p>
+        <p class="parrafo_2">Las intensidades máximas admisibles en servicio permanente dependen en cada caso de la temperatura máxima que el aislamiento pueda soportar sin alteraciones de sus propiedades eléctricas, mecánicas o químicas. Esta temperatura es función del tipo de aislamiento y del régimen de carga.</p>
+        <p class="parrafo">En la tabla 2 se especifican, con carácter informativo, las temperaturas máximas admisibles, en servicio permanente y en cortocircuito, para algunos tipos de cables aislados con aislamiento seco.</p>
+        <p class="centro_cursiva">
+          <em>Tabla 2. Cables aislados con aislamiento seco; temperatura máxima, en ºC, asignada al conductor</em>
+        </p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="2">
+                <p class="cabeza_tabla">Tipo de Aislamiento seco</p>
+              </th>
+              <th class="cabeza_tabla" colspan="2">
+                <p class="cabeza_tabla">Temperatura máxima ºC</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Servicio permanente</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Cortocircuito t ≤ 5s</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Policloruro de vinilo (PVC)</p>
+                <p class="cuerpo_tabla_centro">S ≤ 300 mm<sup>2</sup></p>
+                <p class="cuerpo_tabla_centro">S &gt; 300 mm<sup>2</sup></p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro"> </p>
+                <p class="cuerpo_tabla_centro">70</p>
+                <p class="cuerpo_tabla_centro">70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro"> </p>
+                <p class="cuerpo_tabla_centro">160</p>
+                <p class="cuerpo_tabla_centro">140</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Polietileno reticulado (XLPE)</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">90</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">250</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">Etileno Propileno (EPR)</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">90</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">250</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">3.1.2 Condiciones de instalación enterrada</p>
+        <p class="parrafo_2">3.1.2.1 Condiciones tipo de instalación enterrada</p>
+        <p class="parrafo_2">A los efectos de determinar la intensidad máxima admisible, se considera la siguiente instalación tipo:</p>
+        <p class="parrafo_2">Un solo cable tripolar o tetrapolar o una terna de cables unipolares en contacto mutuo, o un cable bipolar o dos cables unipolares en contacto mutuo, directamente enterrados en toda su longitud en una zanja de 0,70 m de profundidad, en un terreno de resistividad térmica media de 1 K.m/W y temperatura ambiente del terreno a dicha profundidad, de 25 ºC.</p>
+        <p class="centro_cursiva">Tabla 3. Intensidad máxima admisible en amperios para cables tetrapolares con conductores de aluminio y conductor neutro concéntrico de cobre, en instalación enterrada (servicio permanente)</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Cables</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Sección nominal de los conductores (mm<sup>2</sup>)</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Intensidad</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">3 x 50 Al + 16 Cu</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">160</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">3 x 95 Al + 30 Cu</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">95</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">235</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">3 x 150 Al + 50 Cu</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">305</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">3 x 240 Al + 80 Cu</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">240</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">395</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">– Temperatura máxima en el conductor: 90 ºC.</p>
+        <p class="parrafo">– Temperatura del terreno: 25 ºC.</p>
+        <p class="parrafo">– Profundidad de instalación: 0,70 m.</p>
+        <p class="parrafo">– Resistividad térmica del terreno: 1 K.m/W</p>
+        <p class="centro_cursiva">Tabla 4. Intensidad máxima admisible, en amperios, para cables con conductores de aluminio en instalación enterrada (servicio permanente)</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="4">
+                <p class="cabeza_tabla">Sección nominal</p>
+                <p class="cabeza_tabla">mm<sup>2</sup></p>
+              </th>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">Terna de cables unipolares (1) (2)</p>
+              </th>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">1 cable tripolar o tetrapolar (3)</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">
+                  <img class="no_escalar" height="118" src="/datos/imagenes/disp/2002/224/18099_image4.png" width="125"/>
+                  <img class="no_escalar" height="64" src="/datos/imagenes/disp/2002/224/18099_image5.png" width="184"/>
+                </p>
+              </th>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">
+                  <img class="no_escalar" height="121" src="/datos/imagenes/disp/2002/224/18099_image6.png" width="121"/>
+                  <img class="no_escalar" height="147" src="/datos/imagenes/disp/2002/224/18099_image7.png" width="143"/>
+                </p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla" colspan="6">
+                <p class="cabeza_tabla">Tipo de aislamiento</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">XLPE</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">EPR</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">PVC</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">XLPE</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">EPR</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">PVC</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">97</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">94</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">86</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">90</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">86</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">76</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">125</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">120</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">110</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">115</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">110</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">98</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">35</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">145</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">130</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">140</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">135</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">120</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">180</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">175</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">155</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">165</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">160</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">140</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">220</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">215</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">190</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">205</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">220</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">170</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">95</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">260</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">255</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">225</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">240</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">235</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">210</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">120</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">295</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">290</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">260</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">275</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">270</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">235</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">330</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">325</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">290</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">310</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">305</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">265</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">185</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">375</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">365</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">325</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">350</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">345</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">300</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">240</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">430</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">420</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">380</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">405</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">395</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">350</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">300</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">485</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">475</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">430</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">460</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">445</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">395</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">400</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">550</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">540</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">480</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">520</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">500</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">445</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">500</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">615</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">605</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">525</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">630</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">690</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">680</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">600</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">Tipo de aislamiento</p>
+        <p class="parrafo_2">XLPE - Polietileno reticulado. Temperatura máxima en el conductor 90 ºC (servicio permanente).</p>
+        <p class="parrafo">EPR - Etileno propileno. Temperatura máxima en el conductor 90 ºC (servicio permanente).</p>
+        <p class="parrafo">PVC - Policloruro de vinilo. Temperatura máxima en el conductor 70 ºC (servicio permanente).</p>
+        <p class="parrafo_2">Temperatura del terreno 25 ºC.</p>
+        <p class="parrafo">Profundidad de instalación 0,70 m.</p>
+        <p class="parrafo">Resistividad térmica del terreno 1 K.m/W.</p>
+        <p class="cita">(1) Incluye el conductor neutro, si existe.</p>
+        <p class="cita">(2) Para el caso de dos cables unipolares, la intensidad máxima admisible será la correspondiente a la columna de la terna de cables unipolares de la misma sección y tipo de aislamiento, multiplicada por 1,225.</p>
+        <p class="cita">(3) Para el caso de un cable bipolar, la intensidad máxima admisible será la correspondiente a la columna del cable tripolar o tetrapolar de la misma sección y tipo de aislamiento, multiplicada por 1,225.</p>
+        <p class="centro_cursiva">Tabla 5. Intensidad máxima admisible, en amperios, para cables con conductores de cobre en instalación enterrada (servicio permanente)</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="4">
+                <p class="cabeza_tabla">Sección nominal</p>
+                <p class="cabeza_tabla">mm<sup>2</sup></p>
+              </th>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">Terna de cables unipolares (1) (2)</p>
+              </th>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">1 cable tripolar o tetrapolar (3)</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">
+                  <img class="no_escalar" height="118" src="/datos/imagenes/disp/2002/224/18099_image4.png" width="125"/>
+                  <img class="no_escalar" height="64" src="/datos/imagenes/disp/2002/224/18099_image5.png" width="184"/>
+                </p>
+              </th>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">
+                  <img class="no_escalar" height="121" src="/datos/imagenes/disp/2002/224/18099_image6.png" width="121"/>
+                  <img class="no_escalar" height="147" src="/datos/imagenes/disp/2002/224/18099_image7.png" width="143"/>
+                </p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla" colspan="6">
+                <p class="cabeza_tabla">Tipo de aislamiento</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">XLPE</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">EPR</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">PVC</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">XLPE</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">EPR</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">PVC</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">72</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">66</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">64</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">56</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">10</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">96</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">94</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">85</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">88</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">85</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">125</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">120</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">110</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">115</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">110</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">97</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">160</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">155</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">140</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">140</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">125</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">35</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">190</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">185</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">170</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">180</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">175</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">230</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">225</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">200</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">215</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">205</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">180</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">280</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">270</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">245</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">260</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">250</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">220</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">95</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">335</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">325</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">290</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">310</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">305</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">265</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">120</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">380</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">375</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">335</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">355</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">350</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">305</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">425</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">415</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">370</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">400</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">390</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">340</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">185</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">480</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">470</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">420</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">450</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">440</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">385</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">240</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">550</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">540</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">485</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">520</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">505</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">445</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">300</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">620</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">610</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">550</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">590</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">565</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">505</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">400</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">705</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">690</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">615</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">665</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">645</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">570</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">500</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">790</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">775</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">685</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">630</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">885</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">870</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">770</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">Tipo de aislamiento:</p>
+        <p class="parrafo_2">XLPE - Polietileno reticulado. Temperatura máxima en el conductor 90 ºC (servicio permanente).</p>
+        <p class="parrafo">EPR - Etileno propileno. Temperatura máxima en el conductor 90 ºC (servicio permanente).</p>
+        <p class="parrafo">PVC - Policloruro de vinilo. Temperatura máxima en el conductor 70 ºC (servicio permanente).</p>
+        <p class="parrafo_2">Temperatura del terreno 25 ºC.</p>
+        <p class="parrafo">Profundidad de instalación 0,70 m.</p>
+        <p class="parrafo">Resistividad térmica del terreno 1 K.m/W.</p>
+        <p class="cita">(1) Incluye el conductor neutro, si existe.</p>
+        <p class="cita">(2) Para el caso de dos cables unipolares, la intensidad máxima admisible será la correspondiente a la columna de la terna de cables unipolares de la misma sección y tipo de aislamiento, multiplicada por 1,225.</p>
+        <p class="cita">(3) Para el caso de un cable bipolar, la intensidad máxima admisible será la correspondiente a la columna del cable tripolar o tetrapolar de la misma sección y tipo de aislamiento, multiplicada por 1,225.</p>
+        <p class="parrafo_2">3.1.2.2 Condiciones especiales de instalación enterrada y factores de corrección de intensidad admisible.</p>
+        <p class="parrafo_2">La intensidad admisible de un cable, determinada por las condiciones de instalación enterrada cuyas características se han especificado en los apartados 2.1.1 y 3.1.2.1, deberán corregirse teniendo en cuenta cada una de las magnitudes de la instalación real que difieran de aquellas, de forma que el aumento de temperatura provocado por la circulación de la intensidad calculada, no dé lugar a una temperatura en el conductor superior a la prescrita en la tabla 2. A continuación se exponen algunos casos particulares de instalación, cuyas características afectan al valor máximo de la intensidad admisible, indicando los factores de corrección a aplicar.</p>
+        <p class="parrafo_2">3.1.2.2.1 Cables enterrados en terrenos cuya temperatura sea distinta de 25 ºC.</p>
+        <p class="parrafo_2">En la tabla 6 se indican los factores de corrección, F, de la intensidad admisible para temperaturas del terreno Θ<sub>t</sub>, distintas de 25 ºC, en función de la temperatura máxima de servicio Θ<sub>s</sub>, de la tabla 2.</p>
+        <p class="centro_cursiva">Tabla 6. Factor de corrección F, para temperatura del terreno distinto de 25 ºC</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="2">
+                <p class="cabeza_tabla">Temperatura de servicio Θ<sub>s</sub> (ºC)</p>
+              </th>
+              <th class="cabeza_tabla" colspan="9">
+                <p class="cabeza_tabla">Temperatura del terreno, Θ<sub>t</sub>, en ºC</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">10</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">15</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">20</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">25</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">30</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">35</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">40</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">45</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">50</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">90</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.11</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.07</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.04</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.96</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.92</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.88</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.83</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.78</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.15</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.11</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.05</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.94</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.88</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.82</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.67</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">El factor de corrección para otras temperaturas del terreno, distintas de las de la tabla, será:</p>
+        <p class="centro_redonda">
+          <img alt="MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaT5GPC9taT4KICAgIDxtbz49PC9tbz4KICAgIDxtc3FydD4KICAgICAgICA8bWZyYWM+CiAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtaT4mI3gzOTg7PC9taT4KICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5zPC9taT4KICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgPG1pPi08L21pPgogICAgICAgICAgICAgICAgICAgICAgICA8bWk+JiN4Mzk4OzwvbWk+CiAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICA8bWk+dDwvbWk+CiAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPC9tc3ViPgogICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtaT4mI3gzOTg7PC9taT4KICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5zPC9taT4KICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgICAgICA8bWk+LTwvbWk+CiAgICAgICAgICAgICAgICA8bW4gbWF0aHZhcmlhbnQ9Iml0YWxpYyI+MjU8L21uPgogICAgICAgICAgICA8L21yb3c+CiAgICAgICAgPC9tZnJhYz4KICAgIDwvbXNxcnQ+CjwvbWF0aD4=" class="formula" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGwAAAAvCAYAAAAGqi8PAAAESklEQVR4nO2bPYgUMRSAP/AEQQtFCwtBXSy0EYtDVBY50MJGUVHYQuQaQfGnXEEFFQsLketO1MLCQhHUQuG2sRD/CgsLEQuvEytBBQULES0yj8lmM7OZ3ZnMTG4+GO5ukpn38pK8vDfJQUNDhbgG/Avo2pSvearHHPAM2BzItSpf81SLFcBn4HLZijS4sRPlRg6WrUiDGyeBX8AGh7rmWtErSCdfcmrJTeD1kDrzKMO1E+7nhS85teY1cCOlXEa5jXZUNpuDHr7k1Jr1wE/gREJ50ogXWlH5/Jh6+JJTe/ahDLHDUtYlfVR3iA05jrvyJScIzqNG7TLjvm6gFsqoJl2UMccxpC85wXAfeGS5L6NeojNxWfrVQs2KcaI4X3KCYBHwAbhoKeuhDNRFrSvm2iIzQYzaGVGHPOS0RpRdO7agjHDAUiaG7GB3UxC7KZdAwJw1sl6NK0dm4ILgKCpCtDVYN2QSYnxzVkgI3rOU5SWnrd1fMJHjNeBlQpmsLUmjXgxt65BZYhc3LG8aR07arBzA5RO/756fIT0BNnkB3E4p1xd9l/s60vZhM2wcOS4zuI+00dHBb1Z+NtLlLbDYof5K4AtwfEg9GeFm1JZEW/uZpf1Z5cAIIX7adG0xeuSUlWPAN+KGTjk8MxXV3Z6zLrOotkt+VRQyIJxdIlQjkTvEYO5yzuG508AnYGnO+rQ1fYr0MMPWvgEk1DSV8pnY7UK5QNOVPHV49hbwsDjVqodk3h3jnkuPy7OuV5IvnwPuAVeA71r9PwzfIn8PXHLQNRhk2puLpc8kbrn2+ySqo0SPI0Oe+wfssZTdCeAaQBZU0/2VvVdzj7jD7qbU2x3VMT/4QvnGLqTDkhY8X1FhEvoX7e/AREK9C8A7X0pVgbRw3oW81jATcXVyTSXUe0y2BLv2iEGqyBti/a4m1PkKTPtSqGz0D5tV5BJxh320lK+LyjaO8G5z5udpA9PrpMUDXQZ1sX4GtG2ujeoWi2Ib/fqtM8o7qPUtC0WfZOrRv/4PS4ozfd2oA3pOdsoomwGeZHhXmvvP4ySTbdMSkgdDlwD3v/Twfs4oe4OKEl3wcZIp7Uu8LeCqsncbmWniRv0mzrcmor93O7yj7JNM8wwOBD1tkSsI97ia/kbtj+5Pkpww65R9kknem5bX6jvOQbjI98QNkk3KU7glzGWeZJLB4jJzXDq2NlwlNu7n6N5d3BJmXyembMyTLYgJpsOm6J8Rk6i8bNrhWV8npkyydpa8O4jgYwJ1IkqMJP8S65Iw+zoxZcrM2lmyWRoMT+iPFl0TZl8npvT3jZLLmQl37TlDvyt6kOHZpAjMJTLLcmJqFnvQIlGo1DFl9ggkpNfZCvwlNrJrwiwUfWLK9n5bfmX7dhjEumXjFXEj9xYsy9eJqaC5jjLeD2BtwbJ8nZgKmsMoAz4vW5EGN5agIsQFtcNcd9bQf8KqoaGhYUz+A976cOKCd0nBAAAAAElFTkSuQmCC"/>
+        </p>
+        <p class="parrafo_2">3.1.2.2.2 Cables enterrados, directamente o en conducciones, en terreno de resistividad térmica distinta de 1 K. m/W.</p>
+        <p class="parrafo_2">En la tabla 7 se indican, para distintas resistividades térmicas del terreno, los correspondientes factores de corrección de la intensidad admisible.</p>
+        <p class="centro_cursiva">Tabla 7. Factor de corrección para resistividad térmica del terreno distinta de 1 K. m/W</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="2">
+                <p class="cabeza_tabla">Tipo de cable</p>
+              </th>
+              <th class="cabeza_tabla" colspan="11">
+                <p class="cabeza_tabla">Resistividad térmica del terreno, en K. m/W</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0.80</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0.85</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0.90</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1.10</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1.20</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1.40</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1.65</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">2.00</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">2.50</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">2.80</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Unipolar</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.09</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.06</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.04</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.96</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.93</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.87</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.81</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.68</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.66</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">Tripolar</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.07</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.05</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.03</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.97</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.94</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.89</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.84</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.78</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.71</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.69</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">3.1.2.2.3 Cables tripolares o tetrapolares o ternas de cables unipolares agrupados bajo tierra.</p>
+        <p class="parrafo_2">En la tabla 8 se indican los factores de corrección que se deben aplicar, según el número de cables tripolares o ternas de unipolares y la distancia entre ellos.</p>
+        <p class="centro_cursiva">Tabla 8. Factor de corrección para agrupaciones de cables trifásicos o ternas de cables unipolares</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" colspan="9">
+                <p class="cabeza_tabla">Factor de corrección</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla" rowspan="2">
+                <p class="cabeza_tabla">Separación entre los cables o ternas</p>
+              </th>
+              <th class="cabeza_tabla" colspan="8">
+                <p class="cabeza_tabla">Número de cables o ternas de la zanja</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">2</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">3</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">4</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">5</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">6</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">8</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">10</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">12</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">D=0 (en contacto)</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,80</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,64</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,60</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,56</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,53</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,47</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">d= 0,07 m</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,85</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,68</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,64</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,56</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,53</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,50</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">d= 0,10 m</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,85</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,76</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,69</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,65</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,62</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,58</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,55</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,53</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">d= 0,15 m</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,87</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,77</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,72</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,68</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,66</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,62</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,59</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,57</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">d= 0,20 m</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,88</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,79</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,74</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,68</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,64</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,62</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,60</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">d= 0,25 m</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,89</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,80</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,76</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,72</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,66</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,64</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,62</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="imagen">
+          <img class="no_escalar" height="454" src="/datos/imagenes/disp/2002/224/18099_image10.png" width="902"/>
+        </p>
+        <p class="parrafo_2">3.1.2.2.4 Cables enterrados en zanja a diferentes profundidades.</p>
+        <p class="parrafo_2">En la tabla 9 se indican los factores de corrección que deben aplicarse para profundidades de instalación distintas de 0,70 m.</p>
+        <p class="centro_cursiva">Tabla 9. Factores de corrección para diferentes profundidades de instalación</p>
+        <table class="tabla">
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">
+                  <strong>Profundidad de instalación (m)</strong>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,4</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,5</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,7</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,80</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,90</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,00</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,20</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_izq">
+                  <strong>Factor de corrección</strong>
+                </p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,03</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,02</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1,01</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,99</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,98</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,97</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0,95</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">3.1.3 Cables enterrados en zanja en el interior de tubos o similares.</p>
+        <p class="parrafo_2">En este tipo de instalaciones es de aplicación todo lo establecido en el apartado 3.1.2., además de lo indicado a continuación.</p>
+        <p class="parrafo">Se instalará un circuito por tubo. La relación entre el diámetro interior del tubo y el diámetro aparente del circuito será superior a 2, pudiéndose aceptar excepcionalmente 1,5.</p>
+        <p class="parrafo">En el caso de una línea con cable tripolar o con una terna de cables unipolares en el interior de un mismo tubo, se aplicará un factor de corrección de 0,8.</p>
+        <p class="parrafo">Si se trata de una línea con cuatro cables unipolares situados en sendos tubos, podrá aplicarse un factor de corrección de 0,9.</p>
+        <p class="parrafo">Si se trata de una agrupación de tubos, el factor dependerá del tipo de agrupación y variará para cada cable según esté colocado en un tubo central o periférico. Cada caso deberá estudiarse individualmente.</p>
+        <p class="parrafo">En el caso de canalizaciones bajo tubos que no superen los 15 m, si el tubo se rellena con aglomerados especiales no será necesario aplicar factor de corrección de intensidad por este motivo.</p>
+        <p class="parrafo_2">3.1.4 Condiciones de instalación al aire (en galerías, zanjas registrables, atarjeas o canales revisables).</p>
+        <p class="parrafo_2">3.1.4.1 Condiciones tipo de instalación al aire (en galerías, zanjas registrables, etc.).</p>
+        <p class="parrafo_2">A los efectos de determinar la intensidad máxima admisible, se considera la siguiente instalación tipo:</p>
+        <p class="parrafo_2">Un solo cable tripolar o tetrapolar o una terna de cables unipolares en contacto mutuo, con una colocación tal que permita una eficaz renovación del aire, siendo la temperatura del medio ambiente de 40 ºC. Por ejemplo, con el cable colocado sobre bandejas o fijado a una pared, etc..</p>
+        <p class="centro_cursiva">Tabla 10. Intensidad máxima admisible, en amperios, en servicio permanente, para cables tetrapolares con conductores de aluminio y con conductor neutro concéntrico de cobre, en instalación al aire en galerías ventiladas</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Cables</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Sección nominal de los conductores (mm<sup>2</sup>)</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">Intensidad</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">3 x 50 Al + 16 Cu</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">125</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">3 x 95 Al + 30 Cu</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">95</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">195</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">3 x 150 Al + 50 Cu</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">260</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">3 x 240 Al + 80 Cu</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">240</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">360</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">– Temperatura máxima en el conductor: 90 ºC.</p>
+        <p class="parrafo">– Temperatura del aire ambiente: 40 ºC.</p>
+        <p class="parrafo">– Disposición que permita una eficaz renovación del aire.</p>
+        <p class="centro_cursiva">Tabla 11. Intensidad máxima admisible, en amperios, en servicio permanente para cables con conductores de aluminio en instalación al aire en galerías ventiladas (temperatura ambiente 40 ºC)</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="4">
+                <p class="cabeza_tabla">Sección nominal</p>
+                <p class="cabeza_tabla">mm<sup>2</sup></p>
+              </th>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">Tres cables unipolares (1)</p>
+              </th>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">1 cable trifásico</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">
+                  <strong>
+                    <img class="no_escalar" height="118" src="/datos/imagenes/disp/2002/224/18099_image4.png" width="125"/>
+                  </strong>
+                </p>
+              </th>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">
+                  <strong>
+                    <img class="no_escalar" height="121" src="/datos/imagenes/disp/2002/224/18099_image6.png" width="121"/>
+                    <img class="no_escalar" height="147" src="/datos/imagenes/disp/2002/224/18099_image7.png" width="143"/>
+                  </strong>
+                </p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla" colspan="6">
+                <p class="cabeza_tabla">
+                  <strong>Tipo de aislamiento</strong>
+                </p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">XLPE</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">EPR</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">PVC</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">XLPE</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">EPR</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">PVC</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">67</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">65</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">55</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">64</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">63</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">51</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">93</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">90</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">85</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">82</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">68</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">35</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">115</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">110</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">90</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">105</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">100</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">82</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">140</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">135</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">115</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">130</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">125</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">100</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">180</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">175</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">145</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">165</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">155</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">130</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">95</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">220</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">215</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">180</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">205</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">195</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">160</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">120</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">260</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">255</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">215</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">235</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">225</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">185</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">300</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">290</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">245</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">275</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">260</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">215</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">185</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">350</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">345</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">285</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">315</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">300</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">245</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">240</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">420</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">400</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">340</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">370</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">360</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">290</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">300</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">480</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">465</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">390</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">425</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">405</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">335</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">400</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">560</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">545</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">455</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">505</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">475</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">385</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">500</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">645</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">625</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">520</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">630</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">740</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">715</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">600</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2"><em>– </em>Temperatura del aire: 40 ºC</p>
+        <p class="parrafo">– Un cable trifásico al aire o un conjunto (terna) de cables unipolares en contacto mutuo.</p>
+        <p class="parrafo">– Disposición que permita una eficaz renovación del aire.</p>
+        <p class="cita">(1) Incluye el conductor neutro, si existiese.</p>
+        <p class="centro_cursiva">Tabla 12. Intensidad máxima admisible, en amperios, en servicio permanente para cables con conductores de cobre en instalación al aire en galerías ventiladas (temperatura ambiente 40 ºC)</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="4">
+                <p class="cabeza_tabla">Sección nominal</p>
+                <p class="cabeza_tabla">mm<sup>2</sup></p>
+              </th>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">Tres cables unipolares (1)</p>
+              </th>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">1 cable trifásico</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">
+                  <strong>
+                    <img class="no_escalar" height="118" src="/datos/imagenes/disp/2002/224/18099_image4.png" width="125"/>
+                  </strong>
+                </p>
+              </th>
+              <th class="cabeza_tabla" colspan="3">
+                <p class="cabeza_tabla">
+                  <strong>
+                    <img class="no_escalar" height="121" src="/datos/imagenes/disp/2002/224/18099_image6.png" width="121"/>
+                    <img class="no_escalar" height="147" src="/datos/imagenes/disp/2002/224/18099_image7.png" width="143"/>
+                  </strong>
+                </p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla" colspan="6">
+                <p class="cabeza_tabla">
+                  <strong>Tipo de aislamiento</strong>
+                </p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">XLPE</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">EPR</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">PVC</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">XLPE</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">EPR</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">PVC</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">6</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">46</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">45</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">38</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">44</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">43</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">36</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">10</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">64</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">62</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">53</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">61</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">60</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">16</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">86</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">83</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">71</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">82</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">80</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">65</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">25</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">120</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">115</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">96</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">110</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">105</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">87</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">35</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">145</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">140</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">115</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">135</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">130</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">105</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">50</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">180</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">175</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">145</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">165</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">160</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">130</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">230</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">225</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">185</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">210</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">220</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">165</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">95</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">285</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">280</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">235</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">260</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">250</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">205</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">120</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">335</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">325</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">275</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">300</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">290</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">240</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">385</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">375</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">315</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">350</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">335</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">275</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">185</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">450</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">440</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">365</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">400</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">385</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">315</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">240</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">535</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">515</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">435</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">475</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">460</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">370</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">300</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">615</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">595</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">500</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">545</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">520</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">425</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">400</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">720</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">700</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">585</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">645</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">610</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">495</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">500</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">825</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">800</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">665</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">630</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">950</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">915</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">765</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">–</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2"><em>– </em>Temperatura del aire: 40 ºC</p>
+        <p class="parrafo">– Un cable trifásico al aire o un conjunto (terna) de cables unipolares en contacto mutuo.</p>
+        <p class="parrafo">– Disposición que permita una eficaz renovación del aire.</p>
+        <p class="cita">(1) Incluye el conductor neutro, si existiese.</p>
+        <p class="parrafo_2">3.1.4.2 Condiciones especiales de instalación al aire en galerías ventiladas y factores de corrección de la intensidad admisible.</p>
+        <p class="parrafo_2">La intensidad admisible de un cable, determinada por las condiciones de instalación al aire en galerías ventiladas cuyas características se han especificado en el apartado 3.1.4.1., deberá corregirse teniendo en cuenta cada una de las magnitudes de la instalación real que difieran de aquellas, de forma que el aumento de temperatura provocado por la circulación de la intensidad calculada no de lugar a una temperatura en el conductor, superior a la prescrita en la tabla 2. A continuación, se exponen algunos casos particulares de instalación, cuyas características afectan al valor máximo de la intensidad admisible, indicando los coeficientes de corrección a aplicar.</p>
+        <p class="parrafo_2">3.1.4.2.1 Cables instalados al aire en ambientes de temperatura distinta de 40 ºC.</p>
+        <p class="parrafo_2">En la tabla 13 se indican los factores de corrección F, de la intensidad admisible para temperaturas del aire ambiente, Θ<sub>a</sub>, distintas de 40 ºC, en función de la temperatura máxima de servicio Θ<sub>s</sub> en la tabla 2.</p>
+        <p class="centro_cursiva">
+          <em>Tabla 13. Coeficiente de corrección F para temperatura ambiente distinta de 40 ºC</em>
+        </p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="2">
+                <p class="cabeza_tabla">Temperatura de servicio Θ<sub>s</sub> en ºC</p>
+              </th>
+              <th class="cabeza_tabla" colspan="11">
+                <p class="cabeza_tabla">Temperatura ambiente, Θ<sub>a</sub>, en ºC</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">10</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">15</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">20</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">25</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">30</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">35</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">40</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">45</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">50</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">55</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">60</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">90</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.27</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.22</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.18</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.14</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.10</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.05</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.95</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.90</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.84</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.77</p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p class="cuerpo_tabla_centro">70</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.41</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.35</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.29</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.22</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.15</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1.08</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">1</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.91</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.81</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.71</p>
+              </td>
+              <td>
+                <p class="cuerpo_tabla_centro">0.58</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">El factor de corrección para otras temperaturas, distintas de las de la tabla, será:</p>
+        <p class="centro_redonda">
+          <img alt="MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtaT5GPC9taT4KICAgIDxtbz49PC9tbz4KICAgIDxtc3FydD4KICAgICAgICA8bWZyYWM+CiAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtaT4mI3gzOTg7PC9taT4KICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5zPC9taT4KICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgICAgICA8bXN1Yj4KICAgICAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICAgICAgPG1pPi08L21pPgogICAgICAgICAgICAgICAgICAgICAgICA8bWk+JiN4Mzk4OzwvbWk+CiAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgICAgICAgICA8bWk+czwvbWk+CiAgICAgICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPC9tc3ViPgogICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgPG1zdWI+CiAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtaT4mI3gzOTg7PC9taT4KICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtaT5zPC9taT4KICAgICAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgICAgICA8L21zdWI+CiAgICAgICAgICAgICAgICA8bWk+LTwvbWk+CiAgICAgICAgICAgICAgICA8bW4gbWF0aHZhcmlhbnQ9Iml0YWxpYyI+NDA8L21uPgogICAgICAgICAgICA8L21yb3c+CiAgICAgICAgPC9tZnJhYz4KICAgIDwvbXNxcnQ+CjwvbWF0aD4=" class="formula" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG0AAAAvCAYAAADpaEQxAAAESklEQVR4nO2aTchNQRiAn4XFJ7KlWN0oRSkRi7uQKPkpiboLSX52ioW+kPKzsWOhPiVloVhQFhZufUVKJEr5WchXFooFUhRFYjH37cwZM3Pn3nvO3HOm89Tp+5qf885935l33nfOQENDxTgM/AH+JvJsLFY91eQK8AhYkcgzv1j1VJMnwPlxD6IhnCXAD2DvmMfRMAA7UPvAyoC25t7RLWlMseTUllPAK2CWp80MSnltR3lRxJJTe24B1z31MttttHt1UwWMI5ac2jMBvAGOOepdM19o9epnRhxHLDlJsBqljM2Wukn8s7tDpsxRXFcsOcmwD/gMLDTKdSW1UIo1mUQpdBRlxpKTFBeAe5Zymf0StYn70p8WanWMEt3FkpMUT4GLlvIuSkmTqH3G3GtkRYhiO0PKjyUnGSaA38BuS50os4PdZUHmskKCA3P1yP5VtJzkWYtSxmJLna5MF2IAc3VIeN611I1LTu5FvqfqM+MI8MlRJ3uNa/aLsm3KmiJzd/3yqlhyggR2BnlRQZwGrg7Q/gZw21OvBwIh5ToyYUNWQCw5gH8WtIi7aR4GfgIvgXmBfZ4Bx/u0kd9oRnMu2trfQSZtLDmVyRv2AB/IxrMpoM9S4BewpeCxTKGULflXWQwlRyIa08qx84htwGvyM/RMQL9dwBdgUcHjaZPlWmVuD0PJkWSvY5S5NlRb39DH5SbawENL++mAMZwF7ge0SwqxsumLfX64aKaBx8A1VL6lj6PfCprGnlQni/hR0xXGjhb1/GoTeaMd6NP3K/ak+moCjxVXqD/uI5Y7ZEa76Wm3HHdSPW6Fl2Y0X6gfQlF7mslerc931DGVq50rqU4WUUzVWETe2Bsc7S7iT6qTQz/vqiIvyYx2wdHmOe4v1VXCd6qkT07vtmT71jOsiyyLc2Rje2upl5P9dUO82/ztZU5cyYNN/Uq5GKrlaFcrNpBXrBlstFFGmzvAO2PfkHJ9pRYvZwaAXWp+4WcCFYTIjz5q1B9FucdQfPt3GTekxCXOWN47g/3LyZSjvFbcxX06cpPwpDr2DSk5/JX36nuVrD7biVMSRjtEZjTTFb7HnlSbxL4h1SbbI8VAeqrTtZSZdbVmMfl9bWevfAHupFon9g0p3WD0/jdXjm9Fu9xm7XhHplA5JdhOWFId84aUaTD4f4X79s6Wp652XCJT8Mde2TnUUVc/Yt2QavG/wcRAukwzzDfHMsoYKsVW8itjLSooORnQN/ZNrH5HeK6cTX9HEswl/7nmNCoVcB1t6cS6IWWrt4X6LqO58rZac59MuZ96f0OS6ug3pHrYQn293JRnC1hqzwnyrubBAH1dXxhCvjwMfEOqRz83qE8CCYKSYz15ow36pTraDSlDngs9iq3qgf3IzAFekP3QgyXLi3UTK3kukxltTcmyYt3ESp79KCW+AWaPeSwNgSwDvuG/M9JQQXYCq8Y9iIaGhlT5B8K0hf3FM9u6AAAAAElFTkSuQmCC"/>
+        </p>
+        <p class="parrafo_2">3.1.4.2.2 Cables instalados al aire en canales o galerías pequeñas.</p>
+        <p class="parrafo_2">Se observa que en ciertas condiciones de instalación (en canalillos, galerías pequeñas, etc...), en los que no hay una eficaz renovación de aire, el calor disipado por los cables no puede difundirse libremente y provoca un aumento de la temperatura del aire.</p>
+        <p class="parrafo">La magnitud de este aumento depende de muchos factores y debe ser determinada en cada caso como una estimación aproximada. Debe tenerse en cuenta que el incremento de temperatura por este motivo puede ser del orden de 15 K. La intensidad admisible en las condiciones de régimen deberá, por tanto, reducirse con los coeficientes de la tabla 13.</p>
+        <p class="parrafo_2">3.1.4.2.3 Grupos de cables instalados al aire.</p>
+        <p class="parrafo_2">En las tablas 14 y 15 se dan los factores de corrección a aplicar en los agrupamientos de varios circuitos constituidos por cables unipolares o multipolares en función del tipo de instalación y número de circuitos.</p>
+        <p class="centro_cursiva">Tabla 14. Factor de corrección para agrupaciones de cables unipolares instalados al aire</p>
+        <p class="imagen">
+          <em>
+            <img class="no_escalar" height="2001" src="/datos/imagenes/disp/2002/224/18099_image17.png" width="1572"/>
+          </em>
+        </p>
+        <p class="centro_cursiva">Tabla 15. Factor de corrección para agrupaciones de cables trifásicos</p>
+        <p class="imagen">
+          <em>
+            <img class="no_escalar" height="1856" src="/datos/imagenes/disp/2002/224/18099_image20.png" width="1719"/>
+          </em>
+        </p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Intensidades de cortocircuito admisibles en los conductores</strong>
+        </p>
+        <p class="parrafo_2">En las tablas 16 y 17 se indican las densidades de corriente de cortocircuito admisibles en los conductores de aluminio y de cobre de los cables aislados con diferentes materiales en función de los tiempos de duración del cortocircuito.</p>
+        <p class="centro_cursiva">Tabla 16. Densidad de corriente de cortocircuito, en A/mm<sup>2</sup>, para conductores de aluminio</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="2">
+                <p class="cabeza_tabla">Tipo de aislamiento</p>
+              </th>
+              <th class="cabeza_tabla" colspan="9">
+                <p class="cabeza_tabla">Duración del cortocircuito, en segundos</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0.1</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0.2</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0.3</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0.5</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1.0</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1.5</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">2.0</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">2.5</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">3.0</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">XLPE y EPR</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">294</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">203</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">170</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">132</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">93</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">76</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">66</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">59</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">54</p>
+              </td>
+            </tr>
+            <tr>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">PVC</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+            </tr>
+            <tr>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">Sección ≤ 300 mm<sup>2</sup></p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">237</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">168</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">137</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">106</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">75</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">61</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">53</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">47</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">43</p>
+              </td>
+            </tr>
+            <tr>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">Sección &gt; 300 mm<sup>2</sup></p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">211</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">150</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">122</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">94</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">67</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">54</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">47</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">42</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">39</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="centro_cursiva">Tabla 17. Densidad de corriente de cortocircuito, en A/mm<sup>2</sup>, para conductores de cobre</p>
+        <table class="tabla">
+          <thead>
+            <tr>
+              <th class="cabeza_tabla" rowspan="2">
+                <p class="cabeza_tabla">Tipo de aislamiento</p>
+              </th>
+              <th class="cabeza_tabla" colspan="9">
+                <p class="cabeza_tabla">Duración del cortocircuito, en segundos</p>
+              </th>
+            </tr>
+            <tr>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0.1</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0.2</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0.3</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">0.5</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1.0</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">1.5</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">2.0</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">2.5</p>
+              </th>
+              <th class="cabeza_tabla">
+                <p class="cabeza_tabla">3.0</p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">XLPE y EPR</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">449</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">318</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">259</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">201</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">142</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">116</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">100</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">90</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">82</p>
+              </td>
+            </tr>
+            <tr>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">PVC</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro"> </p>
+              </td>
+            </tr>
+            <tr>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">Sección ≤ 300 mm<sup>2</sup></p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">364</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">257</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">210</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">163</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">115</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">94</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">81</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">73</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">66</p>
+              </td>
+            </tr>
+            <tr>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">Sección &gt; 300 mm<sup>2</sup></p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">322</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">228</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">186</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">144</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">102</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">83</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">72</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">64</p>
+              </td>
+              <td class="cuerpo_tabla_centro">
+                <p class="cuerpo_tabla_centro">59</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="parrafo_2">
+          <strong>3.3</strong>
+          <strong>Otros</strong>
+          <strong> </strong>
+          <strong>cables o sistemas de instalación</strong>
+        </p>
+        <p class="parrafo_2">Para cualquier otro tipo de cable u otro sistema no contemplados en esta Instrucción, así como para cables que no figuran en las tablas anteriores, deberá consultarse la norma UNE 20.435 o calcularse según la norma UNE 21.144.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

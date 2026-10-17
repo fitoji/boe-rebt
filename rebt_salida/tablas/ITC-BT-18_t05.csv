@@ -1,0 +1,9 @@
+Electrodo,Resistencia de Tierra en Ohm
+"Placa enterrada
+ Pica vertical
+ Conductor enterrado horizontalmente","R = 0,8 ρ/P
+ R = ρ/L
+ R = 2 ρ/L"
+"ρ, resistividad del terreno (Ohm.m)
+ P, perímetro de la placa (m)
+ L, longitud de la pica o del conductor (m)",

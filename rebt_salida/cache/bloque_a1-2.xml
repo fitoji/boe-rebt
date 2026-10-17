@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a1-2" tipo="precepto" titulo="Artículo 10">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 10. Tipos de suministro.</p>
+        <p class="parrafo">1.<em> </em>A efectos del presente Reglamento, los suministros se clasifican en normales y complementarios.</p>
+        <p class="parrafo_2">A) Suministros normales son los efectuados a cada abonado por una sola empresa distribuidora por la totalidad de la potencia contratada por el mismo y con un solo punto de entrega de la energía.</p>
+        <p class="parrafo_2">B) Suministros complementarios o de seguridad son los que, a efectos de seguridad y continuidad de suministro, complementan a un suministro normal. Estos suministros podrán realizarse por dos empresas diferentes o por la misma empresa, cuando se disponga, en el lugar de utilización de la energía, de medios de transporte y distribución independientes, o por el usuario mediante medios de producción propios. Se considera suministro complementario aquel que, aun partiendo del mismo transformador, dispone de línea de distribución independiente del suministro normal desde su mismo origen en baja tensión. Se clasifican en suministro de socorro, suministro de reserva y suministro duplicado:</p>
+        <p class="parrafo_2">a) Suministro de socorro es el que está limitado a una potencia receptora mínima equivalente al 15 por 100 del total contratado para el suministro normal.</p>
+        <p class="parrafo">b) Suministro de reserva es el dedicado a mantener un servicio restringido de los elementos de funcionamiento indispensables de la instalación receptora, con una potencia mínima del 25 por 100 de la potencia total contratada para el suministro normal.</p>
+        <p class="parrafo">c) Suministro duplicado es el que es capaz de mantener un servicio mayor del 50 por 100 de la potencia total contratada para el suministro normal.</p>
+        <p class="parrafo_2">2. Las instalaciones previstas para recibir suministros complementarios deberán estar dotadas de los dispositivos necesarios para impedir un acoplamiento entre ambos suministros, salvo lo prescrito en las instrucciones técnicas complementarias. La instalación de esos dispositivos deberá realizarse de acuerdo con la o las empresas suministradoras. De no establecerse ese acuerdo, el órgano competente de la Comunidad Autónoma resolverá lo que proceda en un plazo máximo de 15 días hábiles, contados a partir de la fecha en que le sea formulada la consulta.</p>
+        <p class="parrafo">3. Además de los señalados en las correspondientes instrucciones técnicas complementarias, los órganos competentes de las Comunidades Autónomas podrán fijar, en cada caso, los establecimientos industriales o dedicados a cualquier otra actividad que, por sus características y circunstancias singulares, hayan de disponer de suministro de socorro, de reserva o suministro duplicado.</p>
+        <p class="parrafo">4. Si la empresa suministradora que ha de facilitar el suministro complementario se negara a realizarlo o no hubiera acuerdo con el usuario sobre las condiciones técnico-económicas propuestas, el órgano competente de la Comunidad Autónoma deberá resolver lo que proceda, en el plazo de quince días hábiles, a partir de la fecha de presentación de la controversia.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

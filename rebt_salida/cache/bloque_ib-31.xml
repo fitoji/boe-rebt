@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-31" tipo="precepto" titulo="ITC-BT-31">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-31</p>
+        <p class="anexo_tit">INSTALACIONES CON FINES ESPECIALES. PISCINAS Y FUENTES</p>
+        <p class="parrafo">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. PISCINAS Y PEDILUVIOS</p>
+        <p class="parrafo_2">2.1 Clasificación de los volúmenes</p>
+        <p class="parrafo">2.2 Prescripciones generales</p>
+        <p class="parrafo_2">2.2.1 Canalizaciones</p>
+        <p class="parrafo">2.2.2 Cajas de conexión</p>
+        <p class="parrafo">2.2.3 Luminarias</p>
+        <p class="parrafo">2.2.4 Aparamenta y otros equipos</p>
+        <p class="parrafo_2">3. FUENTES</p>
+        <p class="parrafo_2">3.1 Requisitos del volumen 0 y 1 de las fuentes</p>
+        <p class="parrafo">3.2 Conexión equipotencial suplementaria</p>
+        <p class="parrafo">3.3 Protección contra la penetración del agua en los equipos eléctricos</p>
+        <p class="parrafo">3.4 Canalizaciones</p>
+        <p class="parrafo_2">4. PRESCRIPCIONES PARTICULARES DE EQUIPOS ELÉCTRICOS DE BAJA TENSIÓN INSTALADOS EN EL VOLUMEN 1 DE LAS PISCINAS Y OTROS BAÑOS</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>CAMPO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">Esta ITC trata de las prescripciones de las instalaciones eléctricas de las piscinas, pediluvios y fuentes ornamentales.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>PISCINAS Y PEDILUVIOS</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1</strong>
+          <strong>Clasificación de los volúmenes</strong>
+        </p>
+        <p class="parrafo_2">Se definen los volúmenes sobre los cuales se indican las medidas de protección que se enumeran en los apartados siguientes, como:</p>
+        <p class="parrafo_2">a) ZONA 0: Esta zona comprende el interior de los recipientes, incluyendo cualquier canal en las paredes o suelos, y los pediluvios o el interior de los inyectores de agua o cascadas.</p>
+        <p class="parrafo">b) ZONA 1: Esta zona esta limitada por:</p>
+        <p class="parrafo_2">– Zona 0;</p>
+        <p class="parrafo">– un plano vertical a 2 m del borde del recipiente;</p>
+        <p class="parrafo">– el suelo o la superficie susceptible de ser ocupada por personas;</p>
+        <p class="parrafo">– el plano horizontal a 2,5 m por encima del suelo o la superficie</p>
+        <p class="parrafo_2">Cuando la piscina contiene trampolines, bloques de salida de competición, toboganes u otros componentes susceptibles de ser ocupados por personas, la zona 1 comprende la zona limitada por:</p>
+        <p class="parrafo_2">– un plano vertical situado a 1,5 m alrededor de los trampolines, bloques de salida de competición, toboganes y otros componentes tales como esculturas, recipientes decorativos</p>
+        <p class="parrafo">– el plano horizontal situado 2,5 m por encima de la superficie más alta destinada a ser ocupada por personas.</p>
+        <p class="parrafo_2">c) ZONA 2: Esta zona está limitada por:</p>
+        <p class="parrafo_2">– el plano vertical externo a la Zona 1 y el plano paralelo a 1,5 m del anterior;</p>
+        <p class="parrafo">– el suelo o superficie destinada a ser ocupada por personas y el plano horizontal situado a 2,5 m por encima del suelo o superficie</p>
+        <p class="parrafo_2">No existe Zona 2 para fuentes. Ejemplos de estos volúmenes se indican en las figuras 1, 2, 3 4 y 5.</p>
+        <p class="parrafo">En las figuras 3 y 4 se presentan dos ejemplos de como los paramentos o muros aislantes modifican los volúmenes definidos en las figuras 1 y 2.</p>
+        <p class="parrafo">Los cuartos de maquinas, definidos como aquellos locales que tengan como mínimo un equipo eléctrico para el uso de la piscina, podrán estar ubicados en cualquier lugar, siempre y cuando sean inaccesibles para todas las personas no autorizadas.</p>
+        <p class="parrafo">Dichos locales cumplirán lo indicado en la ITC-BT-30 para locales húmedos o mojados, según corresponda.</p>
+        <p class="parrafo_2">
+          <strong>2.2</strong>
+          <strong>Prescripciones generales</strong>
+        </p>
+        <p class="parrafo_2">Los equipos eléctricos (incluyendo canalizaciones, empalmes, conexiones, etc.) presentarán el grado de protección siguiente, de acuerdo con la UNE 20.324:</p>
+        <p class="parrafo_2">– Zona 0:</p>
+        <p class="parrafo_2">IP X8</p>
+        <p class="parrafo_2">– Zona 1:</p>
+        <p class="parrafo_2">IP X5</p>
+        <p class="parrafo">IP X4, para piscinas en el interior de edificios que normalmente no se limpian con chorros de agua</p>
+        <p class="parrafo_2">– Zona 2:</p>
+        <p class="parrafo_2">IP X2, para ubicaciones interiores</p>
+        <p class="parrafo">IP X4, para ubicaciones en el exterior</p>
+        <p class="parrafo">IP X5, en aquellas localizaciones que puedan ser alcanzadas por los chorros de agua durante las operaciones de limpieza</p>
+        <p class="parrafo_2">Cuando se usa MBTS, cualquiera que sea su tensión asignada, la protección contra los contactos directos debe proporcionarse mediante:</p>
+        <p class="parrafo_2">– barreras o cubiertas que proporcionen un grado de protección mínimo IP 2X ó IP XXB, según UNE 20.324, o</p>
+        <p class="parrafo">– un aislamiento capaz de soportar una tensión de ensayo de 500 V en corriente alterna, durante 1 minuto</p>
+        <p class="parrafo_2">Las medidas de protección contra los contactos directos por medio de obstáculos o por puesta fuera de alcance por alejamiento, no son admisibles</p>
+        <p class="parrafo">No se admitirán las medidas de protección contra contactos indirectos mediante locales no conductores ni por conexiones equipotenciales no conectadas a tierra.</p>
+        <p class="parrafo">Todos los elementos conductores de los volúmenes 0, 1 y 2 y los conductores de protección de todos los equipos con partes conductoras accesibles situados en estos volúmenes, deben conectarse a una conexión equipotencial suplementaria local. Las partes conductoras incluyen los suelos no aislados.</p>
+        <p class="parrafo">Con la excepción de las fuentes mencionadas en el capítulo siguiente, en las Zonas 0 y 1, solo se admite protección mediante MBTS a tensiones asignadas no superiores a 12 V en corriente alterna o 30 V en corriente continua. La fuente de alimentación de seguridad se instalará fuera de las zonas 0, 1 y 2.</p>
+        <p class="parrafo">En la Zona 2 y los equipos para uso en el interior de recipientes que solo estén destinados a funcionar cuando las personas están fuera de la Zona 0, deben alimentarse por circuitos protegidos:</p>
+        <p class="parrafo_2">– bien por MBTS, con la fuente de alimentación de seguridad instalada fuera de las Zonas 0,1 y 2, o</p>
+        <p class="parrafo">– bien por desconexión automática de la alimentación, mediante un interruptor diferencial de corriente máxima 30 mA, o</p>
+        <p class="parrafo">– por separación eléctrica cuya fuente de separación alimente un único elemento del equipo y que esté instalada fuera de la Zona 0, 1 y 2.</p>
+        <p class="parrafo_2">Las tomas de corriente de los circuitos que alimentan los equipos para uso en el interior de recipientes que solo estén destinados a funcionar cuando las personas están fuera de la Zona 0, así como el dispositivo de control de dichos equipos deben incorporar una señal de advertencia al usuario de que dicho equipo solo debe usarse cuando la piscina no está ocupada por personas.</p>
+        <p class="parrafo_2">2.2.1 Canalizaciones</p>
+        <p class="parrafo_2">En el volumen 0 ninguna canalización se encontrará en el interior de la piscina al alcance de los bañistas. No se instalarán líneas aéreas por encima de los volúmenes 0, 1 y 2 ó de cualquier estructura comprendida dentro de dichos volúmenes.</p>
+        <p class="parrafo">En los volúmenes 0, 1 y 2, las canalizaciones no tendrán cubiertas metálicas accesibles. Las cubiertas metálicas no accesibles estarán unidas a una línea equipotencial suplementaria.</p>
+        <p class="parrafo">Los cables y su instalación en los volúmenes 0, 1, y 2 serán de las características indicadas en la ITC-BT-30, para los locales mojados.</p>
+        <p class="parrafo_2">2.2.2 Cajas de conexión</p>
+        <p class="parrafo_2">En los volúmenes 0 y 1 no se admitirán cajas de conexión, salvo que en el volumen 1 se admitirán cajas para muy baja tensión de seguridad (MBTS) que deberán poseer un grado de protección IP X5 y ser de material aislante. Para su apertura será necesario el empleo de un útil o herramienta; su unión con los tubos de las canalizaciones debe conservar el grado de protección IP X5.</p>
+        <p class="parrafo_2">2.2.3 Luminarias</p>
+        <p class="parrafo_2">Las luminarias para uso en el agua o en contacto con el agua deben cumplir con la norma UNE-EN 60.598-2-18.</p>
+        <p class="parrafo">Las luminarias colocadas bajo el agua en hornacinas o huecos detrá s de una mirilla estanca y cuyo acceso solo sea posible por detrás deberán cumplir con la parte correspondiente de norma UNE-EN 60.598 y se instalarán de manera que no pueda haber ningún contacto intencionado o no entre partes conductoras accesibles de la mirilla y partes metálicas de la luminaria, incluyendo su fijación.</p>
+        <p class="parrafo_2">2.2.4 Aparamenta y otros equipos</p>
+        <p class="parrafo_2">Elementos tales como interruptores, programadores, y bases de toma de corriente no deben instalarse en los volúmenes 0 y 1.</p>
+        <p class="parrafo">No obstante, para las piscinas pequeñas, en las que la instalación de bases de toma de corriente fuera del volumen 1 no sea posible, se admitirán bases de toma de corriente, preferentemente no metálicas, si se instalan fuera del alcance de la mano (al menos 1,25 m) a partir del límite del volumen 0 y al menos 0,3 metros por encima del suelo, estando protegidas, además por una de las medidas siguientes:</p>
+        <p class="parrafo_2">– protegidas por MBTS, de tensión nominal no superior a 25 V en corriente alterna o 60 V en corriente continua, estando instalada la fuente de seguridad fuera de los volúmenes 0 y 1;</p>
+        <p class="parrafo">– protegidas por corte automático de la alimentación mediante un dispositivo de protección por corte diferencial-residual de corriente nominal como máximo igual a 30 mA</p>
+        <p class="parrafo">– alimentación individual por separación eléctrica, estando la fuente de separación fuera de los volúmenes 0 y 1</p>
+        <p class="parrafo_2">En el volumen 2 se podrán instalar base de toma de corriente e interruptores siempre que estén protegidos por una de las siguientes medidas:</p>
+        <p class="parrafo_2">– MBTS, con la fuente de seguridad instalada fuera de los volúmenes 0, 1 y 2 protegidas por corte automático de la alimentación mediante un dispositivo de protección por corte diferencial-residual de corriente nominal como máximo igual a 30 mA</p>
+        <p class="parrafo">– alimentación individual por separación eléctrica, estando la fuente de separación fuera de los volúmenes 0, 1 y 2</p>
+        <p class="parrafo_2">En los volúmenes 0 y 1 solo se podrán instalar equipos de uso específico en piscinas, si cumplen las prescripciones del capitulo 3 siguiente.</p>
+        <p class="parrafo">Los equipos destinados a utilizarse únicamente cuando las personas están fuera del volumen 0 se podrán colocar en cualquier volumen si se alimentan por circuitos protegidos por una de las siguientes formas:</p>
+        <p class="parrafo_2">– bien por MBTS, con la fuente de alimentación de seguridad instalada fuera de las Zonas 0,1 y 2, o</p>
+        <p class="parrafo">– bien por desconexión automática de la alimentación, mediante un interruptor diferencial de corriente máxima 30 mA, o</p>
+        <p class="parrafo">– por separación eléctrica cuya fuente de separación alimente un único elemento del equipo y que esté instalada fuera de la Zona 0, 1 y 2.</p>
+        <p class="parrafo_2">Las bombas eléctricas deberán cumplir lo indicado en UNE-EN 60.335-2-41.</p>
+        <p class="parrafo">Los eventuales elementos calefactores eléctricos instalados debajo del suelo de la piscina se admiten si cumplen una de las siguientes condiciones:</p>
+        <p class="parrafo_2">– estén protegidos por MBTS, estando la fuente de seguridad instalada fuera de los volúmenes 0, 1 y 2, o</p>
+        <p class="parrafo">– están blindados por una malla o cubierta metálica puesta a tierra o unida a la línea equipotencial suplementaria mencionada en el apartado 2.2.1 y que sus circuitos de alimentación estén protegidos por un dispositivo de corriente diferencia-residual de corriente nominal como máximo de 30 mA.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>FUENTES</strong>
+        </p>
+        <p class="parrafo_2">En las fuentes se diferencian sólo dos volúmenes 0 y 1 tal como se describe en la figura 5.</p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Requisitos del volumen 0 y 1 de las fuentes</strong>
+        </p>
+        <p class="parrafo_2">Se deberán emplear una de las siguientes medidas de protección:</p>
+        <p class="parrafo_2">– Protección mediante (MBTS) muy baja tensión de seguridad hasta un valor de 12V en corriente alterna ó 30V en corriente continua. La protección contra el contacto directo debe estar asegurada.</p>
+        <p class="parrafo">– Corte automático mediante dispositivo de protección por corriente diferencialresidual asignada no superior a 30 mA.</p>
+        <p class="parrafo">– Separación eléctrica mediante fuente situada fuera del volumen 0.</p>
+        <p class="parrafo_2">Para poder cumplir las medidas de protección anteriores, se requiere además que:</p>
+        <p class="parrafo_2">– El equipo eléctrico sea inaccesible, por ejemplo, por rejillas que sólo puedan retirarse mediante herramientas apropiadas.</p>
+        <p class="parrafo">– Se utilicen sólo equipos de clase I ó III o especialmente diseñados para fuentes.</p>
+        <p class="parrafo">– Las luminarias cumplan lo indicado en la norma UNE-EN 60.598-2-18.</p>
+        <p class="parrafo">– Las bases de enchufe no están permitidas en estos volúmenes.</p>
+        <p class="parrafo">– Las bombas eléctricas cumplan lo indicado en la norma UNE-EN 60.335-2-41.</p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Conexión equipotencial suplementaria</strong>
+        </p>
+        <p class="parrafo_2">En los volúmenes 0 y 1 debe instalarse una conexión equipotencial suplementaria local. Todas las partes conductoras accesibles de tamaño apreciable, por ejemplo: surtidores, elementos metálicos y sistemas de tuberías metálicas deberán estar interconectadas conductivamente por un conductor de conexión equipotencial.</p>
+        <p class="parrafo_2">
+          <strong>3.3</strong>
+          <strong>Protección contra la penetración del agua en los equipos eléctricos</strong>
+        </p>
+        <p class="parrafo_2">Los equipos eléctricos deberán tener un grado de protección mínimo contra la penetración del agua, según:</p>
+        <p class="parrafo_2">– Volumen 0 IPX8</p>
+        <p class="parrafo">– Volumen 1 IPX5</p>
+        <p class="parrafo_2">
+          <strong>3.4</strong>
+          <strong>Canalizaciones</strong>
+        </p>
+        <p class="parrafo_2">Los cables resistirán permanentemente los efectos ambientales en el lugar de la instalación</p>
+        <p class="parrafo">En los volúmenes 0 y 1 sólo se permiten aquellos cables necesarios para alimentar al equipo receptor permanentemente instalado en estas zonas.</p>
+        <p class="parrafo">Los cables para el equipo eléctrico en el volumen 0 deben instalarse lo más lejos posible del borde de la pileta.</p>
+        <p class="parrafo">En los volúmenes 0 y 1 los cables y su instalación serán de las características indicadas en la ITC-BT-30, para locales mojados y los cables deberán colocarse mecánicamente protegidos en el interior de canalizaciones que cumplan la resistencia al impacto, código 5, según UNE-EN 50.086-1.</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>PRESCRIPCIONES PARTICULARES DE EQUIPOS ELÉCTRICOS DE BAJA TENSIÓN INSTALADOS EN EL VOLUMEN 1 DE LAS PISCINAS Y OTROS BAÑOS</strong>
+        </p>
+        <p class="parrafo_2">Los equipos eléctricos fijos especialmente destinados a ser utilizados en las piscinas y otros baños (por ejemplo equipo de filtrado, contracorrientes, etc.) alimentados en baja tensión, que no sea MBTS, limitada a 12 V en corriente alterna ó 30 V en corriente continua, se admiten en el volumen 1, siempre que cumplan los siguientes requisitos:</p>
+        <p class="parrafo_2">a) Los equipos eléctricos deberán estar situados en un recinto cuyo aislamiento sea equivalente a un aislamiento suplementario y con una protección mecánica AG2 (choques medios), según UNE 20.460-3.</p>
+        <p class="parrafo">b) Los equipos eléctricos no deben ser accesibles más que por un registro (o puerta), por medio de una llave o un útil. La apertura del registro (o de la puerta) debe cortar todos los conductores activos de los equipos. La instalación del dispositivo de seccionamiento y la entrada del cable debe ser de clase II o tener una protección equivalente.</p>
+        <p class="parrafo">c) Cuando el registro (o puerta) esté abierta, el grado de protección para los equipos eléctricos debe ser al menos IPXXB según UNE 20.324.</p>
+        <p class="parrafo">d) La alimentación de estos equipos estará protegida:</p>
+        <p class="parrafo_2">– bien por MBTS con una tensión asignada no superior a 25 V en corriente alterna ó 60 V en corriente continua, siempre que la fuente de alimentación de seguridad esté situada fuera de los volúmenes 0, 1 y 2, o</p>
+        <p class="parrafo">– bien por un dispositivo de corte diferencial como máximo de 30 mA, o</p>
+        <p class="parrafo">– por separación eléctrica, cuya fuente de separación esté instalada fuera de los volúmenes 0, 1 y 2.</p>
+        <p class="parrafo_2">Para las piscinas pequeñas donde no es posible instalar luminarias fuera del volumen 1, su instalación se admite a 1,25 m a partir del borde del volumen 0 y estarán protegidas:</p>
+        <p class="parrafo_2">– bien por MBTS, o</p>
+        <p class="parrafo">– bien por un dispositivo de corte diferencial como máximo de 30 mA, o</p>
+        <p class="parrafo">– bien por separación eléctrica, cuya fuente de separación esté instalada fuera de los volúmenes 0 y 1.</p>
+        <p class="parrafo_2">Además las luminarias deben poseer una envolvente con un aislamiento de clase II o similar y protección a los choques AG2 (choques medios) según UNE 20.460-3.</p>
+        <p class="centro_cursiva">Figura 1. Dimensiones de los volúmenes para depósitos de piscinas y pediluvios</p>
+        <p class="imagen">
+          <em>
+            <img class="no_escalar" height="746" src="/datos/imagenes/disp/2002/224/18099_image55.png" width="1742"/>
+          </em>
+        </p>
+        <p class="centro_cursiva">Figura 2. Dimensiones de los volúmenes para depósitos por encima del suelo</p>
+        <p class="imagen">
+          <em>
+            <img class="no_escalar" height="726" src="/datos/imagenes/disp/2002/224/18099_image56.png" width="1682"/>
+          </em>
+        </p>
+        <p class="centro_cursiva">Figura 3. Dimensiones de protección en piscinas con paredes de altura mínima 2,5 m</p>
+        <p class="imagen">
+          <em>
+            <img class="no_escalar" height="997" src="/datos/imagenes/disp/2002/224/18099_image57.png" width="1607"/>
+          </em>
+        </p>
+        <p class="centro_cursiva">Figura 4. Volúmenes de protección en piscinas con paredes</p>
+        <p class="imagen">
+          <em>
+            <img class="no_escalar" height="1056" src="/datos/imagenes/disp/2002/224/18099_image58.png" width="1650"/>
+          </em>
+        </p>
+        <p class="centro_cursiva">Figura 5. Volúmenes de protección en fuentes</p>
+        <p class="imagen">
+          <em>
+            <img class="no_escalar" height="1428" src="/datos/imagenes/disp/2002/224/18099_image59.png" width="1702"/>
+          </em>
+        </p>
+      </version>
+    </bloque>
+  </data>
+</response>

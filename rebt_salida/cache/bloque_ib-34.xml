@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-34" tipo="precepto" titulo="ITC-BT-34">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-34</p>
+        <p class="anexo_tit">INSTALACIONES CON FINES ESPECIALES. FERIAS Y STANDS</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. CARACTERÍSTICAS GENERALES</p>
+        <p class="parrafo_2">2.1 Alimentación</p>
+        <p class="parrafo">2.2 Influencias externas</p>
+        <p class="parrafo_2">3. PROTECCION PARA GARANTIZAR LA SEGURIDAD</p>
+        <p class="parrafo_2">3.1 Protección contra contactos directos e indirectos</p>
+        <p class="parrafo">3.2 Medidas de protección en función de las influencias externas</p>
+        <p class="parrafo">3.3 Medidas de protección contra sobreintensidades</p>
+        <p class="parrafo_2">4. PROTECCIÓN CONTRA EL FUEGO</p>
+        <p class="parrafo">5. PROTECCIÓN CONTRA ALTAS TEMPERATURAS</p>
+        <p class="parrafo">6. APARAMENTA Y MONTAJE DE EQUIPOS</p>
+        <p class="parrafo_2">6.1 Reglas comunes</p>
+        <p class="parrafo">6.2 Cables eléctricos</p>
+        <p class="parrafo">6.3 Canalizaciones</p>
+        <p class="parrafo">6.4 Otros equipos</p>
+        <p class="parrafo_2">6.4.1 Luminarias</p>
+        <p class="parrafo">6.4.2 Alumbrado de emergencia</p>
+        <p class="parrafo">6.4.3 Interruptores de emergencia</p>
+        <p class="parrafo">6.4.4 Bases y tomas de corriente</p>
+        <p class="parrafo_2">6.5 Conexiones a tierra</p>
+        <p class="parrafo">6.6 Conductores de protección</p>
+        <p class="parrafo">6.7 Cajas, cuadros y armarios de control</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>CAMPO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">Las prescripciones de la presente instrucción se aplican a las instalaciones eléctricas temporales de ferias, exposiciones, muestras, stands, alumbrados festivos de calles, verbenas y manifestaciones análogas.</p>
+        <p class="parrafo">Para los efectos de esta instrucción se aplican las siguientes definiciones:</p>
+        <p class="parrafo_2"><strong>Exposición:</strong> Es un acontecimiento destinado a la exposición o venta de productos que puede tener lugar en un emplazamiento adecuado, ya sea edificio, estructura temporal o bien al aire libre.</p>
+        <p class="parrafo"><strong>Muestra:</strong> Es una presentación o espectáculo realizado en cualquier emplazamiento apropiado ya sea una estancia, edificio, estructura temporal o al aire libre.</p>
+        <p class="parrafo"><strong>Stand:</strong> Es un área o estructura temporal utilizada para presentación, marketing, ventas, ocio, etc.</p>
+        <p class="parrafo"><strong>Parque de atracciones:</strong> Es un lugar áorea en el que se incluyen tiovivos, barracas de feria, casetas, atracciones, etc., que tienen la finalidad específica de la diversión del público.</p>
+        <p class="parrafo"><strong>Estructura temporal:</strong> Es una unidad o parte de ella situada en interior o exterior diseñada o concebida para su fácil instalación, retiro y transporte. Se incluyen las unidades móviles y portátiles.</p>
+        <p class="parrafo"><strong>Instalación eléctrica temporal:</strong> Es una instalación eléctrica destinada a ser montada y desmontada al mismo tiempo que la exposición, muestra, stand, etc., con la que está asociada.</p>
+        <p class="parrafo"><strong>Origen de una instalación eléctrica temporal:</strong> Es el punto de la instalación permanente o de otra fuente de suministro desde la que se alimenta a las instalaciones eléctricas temporales.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>CARACTERÍSTICAS GENERALES</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1</strong>
+          <strong>Alimentación</strong>
+        </p>
+        <p class="parrafo_2">La tensión nominal de las instalaciones eléctricas temporales en exposiciones, muestras, stands y parques de atracciones no será superior a 230/400 V en corriente alterna.</p>
+        <p class="parrafo_2">
+          <strong>2.2</strong>
+          <strong>Influencias externas</strong>
+        </p>
+        <p class="parrafo_2">Las condiciones de influencias externas son las de los emplazamientos particulares, donde se realizan estas instalaciones, por ejemplo choques mecánicos, agua, temperaturas extremas, etc.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>PROTECCION PARA GARANTIZAR LA SEGURIDAD</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Protección contra contactos directos e indirectos</strong>
+        </p>
+        <p class="parrafo_2">No se aceptan las medidas protectoras contra el contacto directo por medio de obstáculos ni por su colocación fuera del alcance.</p>
+        <p class="parrafo">No se aceptan medidas protectoras contra el contacto indirecto mediante un emplazamiento no conductivo ni mediante uniones equipotenciales sin conexión a tierra. Cualquiera que sea el esquema de distribución utilizado, la protección de las instalaciones de los equipos eléctricos accesibles al público debe asegurarse mediante dispositivos diferenciales de corriente diferencial-residual asignada máxima de 30 mA</p>
+        <p class="parrafo">Cuando se utilice una MBTS, la protección contra contactos directos debe ser asegurada cualquiera que sea la tensión nominal asignada, mediante un aislamiento capaz de resistir un ensayo dieléctrico de 500 V durante un minuto.</p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Medidas de protección en función de las influencias externas</strong>
+        </p>
+        <p class="parrafo_2">Es recomendable que el corte automático de cables destinados a alimentar instalaciones temporales se realice mediante dispositivo diferencial cuya corriente diferencial residual asignada no supere 500 mA.</p>
+        <p class="parrafo">Estos dispositivos serán selectivos con los dispositivos diferenciales de los circuitos terminales.</p>
+        <p class="parrafo">Todos los circuitos de alumbrado además de las luminarias de emergencia y las tomas de corriente de valor asignado inferior a 32 A, deberán ser protegidos por un dispositivo diferencial cuya corriente asignada no supere los 30 mA.</p>
+        <p class="parrafo_2">
+          <strong>3.3</strong>
+          <strong>Medidas de protección contra sobreintensidades</strong>
+        </p>
+        <p class="parrafo_2">Todos los circuitos deben estar protegidos contra sobreintensidades mediante un dispositivo de protección apropiado, situado en el origen del circuito.</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>PROTECCIÓN CONTRA EL FUEGO</strong>
+        </p>
+        <p class="parrafo_2">El riesgo de incendio es superior debido a la naturaleza temporal de las instalaciones y a la presencia de público. Esto debe tenerse en cuanta cuando se valoren las influencias externas, de acuerdo con la "naturaleza del material procesado o almacenado".</p>
+        <p class="parrafo">El equipo eléctrico debe seleccionarse y construirse de forma que el aumento de su temperatura normal y el aumento de temperatura previsible, en el caso de que se produzca un posible fallo, no dé lugar a una situación peligrosa.</p>
+        <p class="parrafo_2">
+          <strong>5.</strong>
+          <strong>PROTECCIÓN CONTRA ALTAS TEMPERATURAS</strong>
+        </p>
+        <p class="parrafo_2">El equipo de iluminación, como por ejemplo, las lámparas incandescentes, focos, pequeños proyectores y otros aparatos o dispositivos con superficies que alcanzan altas temperaturas, además de protegerse adecuadamente, deben disponerse suficientemente apartados de los materiales combustibles.</p>
+        <p class="parrafo">Los escaparates y los rótulos con iluminación interna se construirán con materiales que tengan una resistencia al calor apropiada, sean mecánicamente resistentes y tengan aislamiento eléctrico, al tiempo que contarán con una ventilación adecuada.</p>
+        <p class="parrafo">A menos que los artículos expuestos sean de naturaleza incombustible, los escaparates se iluminarán solamente desde el exterior, o con lámparas de poca emisión de calor, en su funcionamiento.</p>
+        <p class="parrafo">Los stands que contengan una concentración de aparatos eléctricos, accesorios de iluminación o lámparas, propensos a generar un calor superior al normal, tendrán una cubierta bien ventilada, construida con materiales incombustibles.</p>
+        <p class="parrafo_2">
+          <strong>6.</strong>
+          <strong>APARAMENTA Y MONTAJE DE EQUIPOS</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>6.1</strong>
+          <strong>Reglas comunes</strong>
+        </p>
+        <p class="parrafo_2">La aparamenta de mando y protección deberá estar situada en envolventes cerradas que no puedan abrirse o desmontarse más que con la ayuda de un útil o una llave, a excepción de sus accionamientos manuales. Los grados de protección para las canalizaciones y envolventes será IP 4X para instalaciones de interior e IP 45 para instalaciones de exterior, según UNE 20324.</p>
+        <p class="parrafo_2">
+          <strong>6.2</strong>
+          <strong>Cables eléctricos</strong>
+        </p>
+        <p class="parrafo_2">Para instalaciones interiores los cables serán de tensión asignada mínima 300/500V según UNE 21.027 ó UNE 21.031 y aptos para servicios móviles.</p>
+        <p class="parrafo">En instalaciones exteriores los cables serán de tensión asignada mínima 450/750V con cubierta de policloropeno o similar, según UNE 21.027 ó UNE 21.150 y aptos para servicios móviles.</p>
+        <p class="parrafo">Para alumbrados festivos se utilizan cables flexibles de características constructivas según UNE 21.027 ó UNE 21.031.</p>
+        <p class="parrafo">La longitud de los cables de conexión flexibles o cordones no sobrepasará los 2 m.</p>
+        <p class="parrafo_2">
+          <strong>6.3</strong>
+          <strong>Canalizaciones</strong>
+        </p>
+        <p class="parrafo_2">Las canalizaciones se realizarán mediante tubos o canales según lo dispuesto en la ITC-BT 20 y 21.</p>
+        <p class="parrafo">Las canalizaciones metálicas o no metálicas deberán tener un grado de protección IP4X según UNE 20.324.</p>
+        <p class="parrafo_2">
+          <strong>6.4</strong>
+          <strong>Otros equipos</strong>
+        </p>
+        <p class="parrafo_2">6.4.1 Luminarias</p>
+        <p class="parrafo_2">Las luminarias fijas situadas a menos de 2,5 m del suelo o en lugares accesibles a las personas, deberán estar firmemente fijadas y situadas de forma que se impida todo riesgo de peligro para las personas o inflamación de materiales. El acceso al interior de las luminarias solo podrá realizarse mediante el empleo de una herramienta.</p>
+        <p class="parrafo_2">6.4.2 Alumbrado de emergencia</p>
+        <p class="parrafo_2">Se instalará alumbrado de seguridad siguiendo lo estipulado en la ITC-BT 28 en aquellas instalaciones temporales interiores que puedan albergar mas de 100 personas</p>
+        <p class="parrafo_2">6.4.3 Interruptores de emergencia</p>
+        <p class="parrafo_2">Un circuito independiente alimentará a las luminarias, alumbrado de vitrinas, etc., los cuales deberán ser controlados por un interruptor de emergencia.</p>
+        <p class="parrafo_2">6.4.4 Bases y tomas de corriente</p>
+        <p class="parrafo_2">Un número apropiado de tomas de corriente deberán ser instaladas a fin de permitir a los usuarios cumplir las reglas de seguridad.</p>
+        <p class="parrafo">Las tomas de corriente instaladas en el suelo irán dentro de envolventes protegidas contra la penetración del agua. Adicionalmente a los grados de protección indicados en 6.1, deberán tener un grado de protección contra el impacto IK 10, según UNE EN 50102.</p>
+        <p class="parrafo">Un sólo cable o cordón debe ser unido a una toma. No se deben utilizar adaptadores multivía. No se deben utilizar las bases múltiples, excepto las bases múltiples móviles, que se alimentaran desde una base fija con un cable de longitud máxima 2 m.</p>
+        <p class="parrafo_2">
+          <strong>6.5</strong>
+          <strong>Conexiones a tierra</strong>
+        </p>
+        <p class="parrafo_2">Cuando se instale un generador para suministrar alimentación a una instalación temporal, utilizando un sistema TN, TT o IT, debe tenerse cuidado para garantizar que la instalación está correctamente conectada a tierra.</p>
+        <p class="parrafo">El conductor neutro o punto neutro del generador debe conectarse a las partes conductoras accesibles del generador.</p>
+        <p class="parrafo_2">
+          <strong>6.6</strong>
+          <strong>Conductores de protección</strong>
+        </p>
+        <p class="parrafo_2">Los conductores de protección tendrán una sección de acuerdo con el apartado 2.3 de la ITC-BT-19.</p>
+        <p class="parrafo_2">
+          <strong>6.7</strong>
+          <strong>Cajas,</strong>
+          <strong>cuadros y armarios de control</strong>
+        </p>
+        <p class="parrafo_2">Las cajas destinadas a las conexiones eléctricas, cuadros y armarios deberán tener un grado de protección mínimo igual al indicado en 6.1.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

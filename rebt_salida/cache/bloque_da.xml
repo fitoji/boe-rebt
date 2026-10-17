@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="da" tipo="precepto" titulo="Disposición adicional primera">
+      <version id_norma="BOE-A-2010-8190" fecha_publicacion="20100522" fecha_vigencia="20100523">
+        <p class="articulo">Disposición adicional primera. Cobertura de seguro u otra garantía equivalente suscrito en otro Estado.</p>
+        <p class="parrafo">Cuando la empresa instaladora en baja tensión que se establece o ejerce la actividad en España, ya esté cubierta por un seguro de responsabilidad civil profesional u otra garantía equivalente o comparable en lo esencial en cuanto a su finalidad y a la cobertura que ofrezca en términos de riesgo asegurado, suma asegurada o límite de la garantía en otro Estado miembro en el que ya esté establecido, se considerará cumplida la exigencia establecida en el apartado 5.8. c) de la ITC-BT-03 aprobada por el Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para baja tensión. Si la equivalencia con los requisitos es sólo parcial, la empresa instaladora en baja tensión deberá ampliar el seguro o garantía equivalente hasta completar las condiciones exigidas. En el caso de seguros u otras garantías suscritas con entidades aseguradoras y entidades de crédito autorizadas en otro Estado miembro, se aceptarán a efectos de acreditación los certificados emitidos por éstas.</p>
+        <blockquote>
+          <p class="nota_pie">Se añade por el art. 7.2 del Real Decreto 560/2010, de 7 de mayo. <a class="refPost">Ref. BOE-A-2010-8190#aseptimo</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

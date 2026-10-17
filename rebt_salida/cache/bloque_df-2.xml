@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="df-2" tipo="precepto" titulo="Disposición final segunda">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Disposición final segunda. Habilitación al Ministro de Ciencia y Tecnología.</p>
+        <p class="parrafo_2">Se faculta al Ministro de Ciencia y Tecnología para que, en atención al desarrollo tecnológico y a petición de parte interesada, pueda establecer, con carácter general y provisional, prescripciones técnicas, diferentes de las previstas en el Reglamento o sus instrucciones técnicas complementarias (ITCs), que posibiliten un nivel de seguridad al menos equivalente a las anteriores, en tanto se procede a la modificación de los mismos.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

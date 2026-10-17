@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-46" tipo="precepto" titulo="ITC-BT-46">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-46</p>
+        <p class="anexo_tit">INSTALACIÓN DE RECEPTORES. CABLES Y FOLIOS RADIANTES EN VIVIENDAS</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO Y CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. LIMITACIONES DE EMPLEO</p>
+        <p class="parrafo">3. INSTALACIÓN</p>
+        <p class="parrafo_2">3.1 Circuito de alimentación</p>
+        <p class="parrafo">3.2 Instalación eléctrica</p>
+        <p class="parrafo_2">3.2.1 Uniones frías</p>
+        <p class="parrafo_2">3.3 Colocación de los cables calefactores</p>
+        <p class="parrafo">3.4 Fijación de los cables calefactores</p>
+        <p class="parrafo">3.5 Relación con otras instalaciones</p>
+        <p class="parrafo_2">4. PARTICULARIDADES PARA INSTALACIONES EN EL SUELO DE LOS CABLES CALEFACTORES</p>
+        <p class="parrafo_2">4.1 Colocación</p>
+        <p class="parrafo_2">5. PARTICULARIDADES PARA INSTALACIONES DE CABLES CALEFACTORES EN EL TECHO</p>
+        <p class="parrafo_2">5.1 Colocación</p>
+        <p class="parrafo_2">6. CONTROL</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>OBJETO Y CAMPO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">La presente instrucción se aplica a las instalaciones de cables eléctricos y folios radiantes calefactores a tensiones nominales de 300/500 V., empotrados en los suelos forjados y techos.</p>
+        <p class="parrafo">La Norma UNE 21.155-1, indica las clases de cables calefactores que se pueden utilizar. En cualquier caso tanto estos como los folios radiantes deberán ser conformes a los requisitos de las Directivas aplicables conforme a lo establecido en el artículo 6 del Reglamento Electrotécnico para Baja Tensión.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>LIMITACIONES DE EMPLEO</strong>
+        </p>
+        <p class="parrafo_2">Estas instalaciones no deben realizarse dentro de los volúmenes de prohibición de los cuartos de baño y las uniones frías no deberán encontrarse en el volumen de prohibición ni en el de protección.</p>
+        <p class="parrafo">El elemento calefactor no podrá instalarse por debajo de ninguna unión de las tuberías de distribución de agua o desagües.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>INSTALACIÓN</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Circuito de alimentación</strong>
+        </p>
+        <p class="parrafo_2">El circuito de alimentación debe responder a las prescripciones que se establecen en el presente Reglamento, especialmente las concernientes a:</p>
+        <p class="parrafo_2">– canalizaciones y secciones mínimas de conductores</p>
+        <p class="parrafo">– protección contra sobreintensidades, contactos indirectos y sobretensiones.</p>
+        <p class="parrafo_2">Además, los dispositivos de mando y maniobra deben ser de corte omnipolar aunque se permite que los dispositivos de control, como termostatos, no lo sean.</p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Instalación eléctrica</strong>
+        </p>
+        <p class="parrafo_2">El circuito de calefacción se subdividirá en circuitos según los criterios de ITC-BT-25, en función de la simultaneidad de uso, distancia y otros criterios de seguridad etc., con un máximo de 25 A por fase y circuito. Cada circuito estará protegido por un interruptor automático de corte omnipolar.</p>
+        <p class="parrafo">Es obligatoria una protección diferencial de alta sensibilidad (30 mA) para cada circuito de calefacción por cables calefactores o folio radiante.</p>
+        <p class="parrafo">Cuando el cable calefactor tenga una armadura o cuando el termostato tenga una envoltura metálica, ambas deberán conectarse a tierra mediante un conductor de protección de sección igual al conductor de fase.</p>
+        <p class="parrafo">El cable de alimentación al termostato (la fase) tendrá la misma sección que el de la unión fría y se alojará en un tubo de diámetro adecuado.</p>
+        <p class="parrafo">Antes de cubrir el elemento calefactor, se comprobará la continuidad del circuito. Una vez cubierto el cable, y con anterioridad a la colocación del pavimento se comprobará el aislamiento eléctrico respecto a tierra que deberá ser igual o superior a 250.000 ohmios.</p>
+        <p class="parrafo_2">3.2.1 Uniones frías</p>
+        <p class="parrafo_2">Las conexiones de los cables calefactores o de los paneles de folio radiante con las uniones frías se deberán realizar y disponer de manera que la transmisión del calor producido por aquellos a las citadas uniones, y al cable de alimentación, permanezca dentro de límites compatibles con las temperaturas máximas admisibles en servicio continuo, fijadas en la norma UNE 20.460-5-523; para ello, y salvo en caso de avería, las uniones frías deberán venir realizadas de fábrica, no autorizándose su ejecución en obra.</p>
+        <p class="parrafo">Las secciones de las uniones frías estarán determinadas por las intensidades de corriente máximas admisibles fijadas para servicio permanente en la ITC-BT-19.</p>
+        <p class="parrafo">La canalización o tubo deberá terminar a 0,20 m como mínimo de la conexión con el cable calefactor, debiendo estar esta unión completamente embebida dentro de la masa de hormigón.</p>
+        <p class="parrafo_2">
+          <strong>3.3</strong>
+          <strong>Colocación de los cables calefactores</strong>
+        </p>
+        <p class="parrafo_2">En la colocación de un elemento o unidad de cable calefactor en el techo o en el suelo, se recomienda que las espiras estén dispuestas paralelamente a la pared que tenga mayores pérdidas.</p>
+        <p class="parrafo">De esta manera, podrá reforzarse la franja de 0,5 m a 0,6 m de panel más cercano al cerramiento exterior disminuyendo el paso entre espiras cuidando que no se supere la temperatura máxima admisible por cable.</p>
+        <p class="parrafo">Se recomienda, cuando sea posible, alejar el cable calefactor, particularmente los del suelo, 0,6 m de las paredes interiores donde pueda preverse la instalación de muebles.</p>
+        <p class="parrafo">El cable calefactor deberá estar recubierto en toda su extensión por un material que sea un conductor térmico relativamente bueno como yeso, hormigón, cal, etc., para favorecer la transmisión del calor.</p>
+        <p class="parrafo_2">
+          <strong>3.4</strong>
+          <strong>Fijación de los cables calefactores</strong>
+        </p>
+        <p class="parrafo_2">El cable calefactor se fijará por medio de distanciadores no metálicos, colocados en las extremidades donde el cable cambia de dirección.</p>
+        <p class="parrafo">El distanciador será de material resistente a la corrosión y que no pueda producir daños al aislamiento del cable.</p>
+        <p class="parrafo">El radio de curvatura de los cables no deberá ser inferior a 6 veces el diámetro exterior de los mismos, cuando estos no tengan armadura, y a 10 veces cuando tengan armadura.</p>
+        <p class="parrafo_2">
+          <strong>3.5</strong>
+          <strong>Relación con otras instalaciones</strong>
+        </p>
+        <p class="parrafo_2">El elemento calefactor deberá instalarse lo más lejos posible de los cables eléctricos de distribución para fuerza y alumbrado, para que estos no reciban calor. En otro caso debe calcularse la temperatura de servicio de los circuitos de fuerza y alumbrado teniendo en cuenta el calor emitido por los elementos calefactores, y adoptar la sección adecuada en función del tipo de cable y de lo indicado en la UNE 20.460-5-523.</p>
+        <p class="parrafo_2">
+          <strong>4.</strong>
+          <strong>PARTICULARIDADES PARA INSTALACIONES EN EL SUELO DE LOS CABLES CALEFACTORES</strong>
+        </p>
+        <p class="parrafo_2">La temperatura de los cables calefactores no deberá ser superior, en las condiciones de utilización previstas, a los límites fijados en las normas del cable aislado de que se trate UNE 21.155-1.</p>
+        <p class="parrafo">La capacidad térmica de los materiales situados en la superficie del aislamiento térmico y la superficie emisora será inferior a 120 kJ/m<sup>2</sup> K (29 kcal/m<sup>2</sup> ºC).</p>
+        <p class="parrafo_2">
+          <strong>4.1</strong>
+          <strong>Colocación</strong>
+        </p>
+        <p class="parrafo_2">Los cables colocados en el suelo, estarán embebidos en el mortero u hormigón. De existir una primera capa de hormigón esta podrá ser del tipo aislante. La segunda capa de hormigón, de tipo no aislante, deberá tener un espesor mínimo de 30 mm y será en la que se empotrarán los cables calefactores.</p>
+        <p class="parrafo">El fraguado del hormigón no podrá acelerarse con el elemento calefactor, aunque sí su secado.</p>
+        <p class="parrafo">Además del material aislante que se instale sobre el forjado, deberá colocarse, en todo el perímetro del local, un zócalo aislante de espesor igual o superior a 1 cm, con una altura igual a la capa de mortero u hormigón en la que esté embebido el elemento calefactor.</p>
+        <p class="parrafo">En caso de posible humedad, el material aislante deberá ir provisto de una barrera contra la humedad en su parte inferior; si existiese peligro de condensaciones también de una barrera anti-vapor.</p>
+        <p class="parrafo">El contorno de los cables estará situado a una distancia mínima de 0,2 m de todas las paredes exteriores del local.</p>
+        <p class="parrafo_2">
+          <strong>5.</strong>
+          <strong>PARTICULARIDADES PARA INSTALACIONES DE CABLES CALEFACTORES EN EL TECHO</strong>
+        </p>
+        <p class="parrafo_2">Tratándose de sistemas de calefacción directa, es necesario reducir la masa de materiales de construcción calentada por el cable.</p>
+        <p class="parrafo">La capacidad térmica de los materiales situados entre la superficie del aislamiento térmico y la superficie emisora será inferior a 180 kJ/m<sup>2</sup> K (43 kcal/m<sup>2</sup> ºC).</p>
+        <p class="parrafo_2">
+          <strong>5.1</strong>
+          <strong>Colocación</strong>
+        </p>
+        <p class="parrafo_2">La altura mínima de los locales acondicionados por este sistema será de 3,5 m.</p>
+        <p class="parrafo">El contorno de los cables calefactores instalados en el techo tendrá una distancia mínima de 0,4 m respecto a las paredes exteriores y de 0,2 m respecto a las paredes interiores.</p>
+        <p class="parrafo">Los eventuales puntos de luz en el techo, incluida la luminaria si es encastrable, deberá tener a su alrededor un espacio libre de 0,1 m por lo menos.</p>
+        <p class="parrafo">Los elementos colocados en el techo estarán embebidos en la capa de recubrimiento que será como mínimo de 15 a 20 mm de espesor, y se aplicará en sentido paralelo a los cables. Se cuidará mucho que no se formen bolsas de aire en el recubrimiento en contacto con el cable.</p>
+        <p class="parrafo_2">
+          <strong>6.</strong>
+          <strong>CONTROL</strong>
+        </p>
+        <p class="parrafo_2">El termostato de control de las condiciones ambientales se situará preferentemente sobre una pared interior, a 1,5 m del suelo y no deberá estar expuesto a la radiación bien sea solar, de lámparas, de electrodomésticos, etc., ni a corriente de aire procedentes de puertas, ventanas o ventiladores. El diferencial de temperatura del termostato no deberá ser superior a 1,5 K.</p>
+        <p class="parrafo">Si la intensidad de corriente del elemento calefactor fuera superior al poder de corte del termostato o si el circuito fuera trifásico, el termostato actuará sobre la bobina de un contactor de poder de corte suficiente situado en el cuadro de distribución aguas abajo del interruptor automático.</p>
+        <p class="parrafo">En locales de grandes dimensiones el proyectista justificará la colocación de más de un termostato tratando, en cualquier caso de optimizar el consumo energético.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

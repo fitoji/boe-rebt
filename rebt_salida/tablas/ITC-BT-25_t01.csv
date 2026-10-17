@@ -1,0 +1,31 @@
+Circuito de utilización,"Potencia prevista por toma
+ –
+ W","Factor simultaneidad
+ –
+ Fs","Factor utilización
+ –
+ Fu","Tipo de toma
+ –
+ 
+ ^(7)","Interruptor automático
+ –
+ A",Máximo n.º de puntos de utilización o tomas por circuito,"Conductores sección mínima
+ –
+ mm^2
+ 
+ ^(5)","Tubo o conducto
+ –
+ Diámetro
+ mm
+ 
+ ^(3)"
+C_1 Iluminación.,200,"0,75","0,5",Punto de luz^(9).,10,30,"1,5",16
+C_2 Tomas de uso general.,3.450,"0,2","0,25",Base 16 A 2p+T.,16,20,"2,5",20
+C_3 Cocina y horno.,5.400,"0,5","0,75",Base 25 A 2p+T.,25,2,6,25
+"C_4 Lavadora, lavavajillas y termo eléctrico.",3.450,"0,66","0,75",Base 16 A 2p+T combinadas con fusibles o interruptores automáticos de 16 A ^(8).,20,3,4^ (6),20
+"C_5 Baño, cuarto de cocina.",3.450,"0,4","0,5",Base 16 A 2p+T.,16,6,"2,5",20
+C_8 Calefacción.,^(2),–,–,–,25,–,6,25
+C_9 Aire acondicionado.,^(2),–,–,–,25,–,6,25
+C_10 Secadora.,3.450,1,"0,75",Base 16 A 2p+T.,16,1,"2,5",20
+C_11 Automatización.,^(4),–,–,–,10,–,"1,5",16
+C_13 Recarga del vehículo eléctrico.,^(10),1,1,^(10).,^(10),3,"2,5",20

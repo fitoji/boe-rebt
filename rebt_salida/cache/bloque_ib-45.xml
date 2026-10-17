@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-45" tipo="precepto" titulo="ITC-BT-45">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-45</p>
+        <p class="anexo_tit">INSTALACIÓN DE RECEPTORES. APARATOS DE CALDEO</p>
+        <p class="parrafo_2">
+          <strong>0.</strong>
+          <strong>ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. OBJETO Y CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. APARATOS PARA USOS DOMÉSTICO Y COMERCIAL</p>
+        <p class="parrafo_2">2.1 Aparatos para el calentamiento de líquidos</p>
+        <p class="parrafo">2.2 Aparatos para el calentamiento de locales</p>
+        <p class="parrafo">2.3 Cocinas, hornos, hornillos y encimeras</p>
+        <p class="parrafo_2">3. APARATOS PARA USOS INDUSTRIALES</p>
+        <p class="parrafo_2">3.1 Aparatos de calentamiento de líquidos</p>
+        <p class="parrafo_2">3.1.1 Calentadores de agua en los que ésta forma parte del circuito eléctrico</p>
+        <p class="parrafo">3.1.2 Calentadores provistos de elementos de caldeo desnudos sumergidos en el agua</p>
+        <p class="parrafo_2">3.2 Aparatos de cocción y hornos industriales</p>
+        <p class="parrafo">3.3 Aparatos para soldadura eléctrica por arco</p>
+        <p class="parrafo_2">
+          <strong>1.</strong>
+          <strong>OBJETO Y CAMPO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">El objeto de la presente instrucción es determinar los requisitos de instalación de los aparatos eléctricos de caldeo, entendiendo como tales aquéllos que transforman la energía eléctrica en calor.</p>
+        <p class="parrafo">Los aparatos de caldeo objeto de esta instrucción cumplirán los requisitos de las directivas europeas aplicables conforme a lo establecido en el artículo 6 del Reglamento Electrotécnico para Baja Tensión.</p>
+        <p class="parrafo_2">
+          <strong>2.</strong>
+          <strong>APARATOS PARA USOS DOMÉSTICO Y COMERCIAL</strong>
+        </p>
+        <p class="parrafo_2">
+          <strong>2.1</strong>
+          <strong>Aparatos para el calentamiento de líquidos</strong>
+        </p>
+        <p class="parrafo_2">Queda prohibido el empleo para usos domésticos de aparatos provistos de elementos de caldeo desnudos sumergidos en agua, así como aquellos en los que ésta forme parte del circuito eléctrico.</p>
+        <p class="parrafo_2">
+          <strong>2.2</strong>
+          <strong>Aparatos para el calentamiento de locales</strong>
+        </p>
+        <p class="parrafo_2">No deberán instalarse en nichos o cajas construidas o revestidas de materiales combustibles.</p>
+        <p class="parrafo">Deberán instalarse de acuerdo a las instrucciones del fabricante en lo relativo a la distancia mínima a las paredes, suelos u otras superficies u objetos combustibles. En ausencia de tales instrucciones deberán instalarse manteniendo una distancia mínima de 8 cm a las partes anteriores, salvo en el caso de aparatos de calefacción con elementos calefactores luminosos colocados detrás de aberturas o rejillas, en los cuales la distancia entre dichas aberturas y elementos combustibles será como mínimo de 50 cm.</p>
+        <p class="parrafo_2">
+          <strong>2.3</strong>
+          <strong>Cocinas, hornos, hornillos y encimeras</strong>
+        </p>
+        <p class="parrafo_2">Estos aparatos estarán conectados a su fuente de alimentación por medio de interruptores de corte omnipolar, tomas de corriente u otro dispositivo de igual característica destinados únicamente a los mismos.</p>
+        <p class="parrafo">Los aparatos de cocción y hornos que incorporen elementos incandescentes no cerrados no se instalarán en locales que presenten riesgo de explosión.</p>
+        <p class="parrafo_2">
+          <strong>3.</strong>
+          <strong>APARATOS PARA USOS INDUSTRIALES</strong>
+        </p>
+        <p class="parrafo_2">Los aparatos de caldeo industrial destinados a estar en contacto con materias combustibles o inflamables estarán provistos de un limitador de temperatura que interrumpa o reduzca el caldeo antes de que se alcance una temperatura peligrosa incluso en condiciones de avería o mal uso.</p>
+        <p class="parrafo_2">
+          <strong>3.1</strong>
+          <strong>Aparatos de calentamiento de líquidos</strong>
+        </p>
+        <p class="parrafo_2">Los aparatos de calentamiento o recalentamiento de líquidos combustibles o inflamables, deberán estar dotados de un limitador de temperaturas que interrumpa o reduzca el calentamiento antes de que se pueda alcanzar una temperatura peligrosa incluso en condiciones de avería o mal uso.</p>
+        <p class="parrafo_2">3.1.1 Calentadores de agua en los que ésta forma parte del circuito eléctrico</p>
+        <p class="parrafo_2">Los calentadores de agua, en los que ésta forma parte del circuito eléctrico, no serán utilizados en instalaciones para uso doméstico ni cuando hayan de ser utilizados por personal no especializado.</p>
+        <p class="parrafo">Para la instalación de estos aparatos, se tendrán en cuenta las siguientes prescripciones:</p>
+        <p class="parrafo_2">a) Estos aparatos se alimentarán solamente con corriente alterna a frecuencia igual o superior a 50 hertzios.</p>
+        <p class="parrafo">b) La alimentación estará controlada por medio de un interruptor automático construido e instalado de acuerdo con las siguientes condiciones:</p>
+        <p class="parrafo_2">– Será de corte omnipolar simultáneo</p>
+        <p class="parrafo">– Estará provisto de dispositivos de protección contra sobrecargas en cada conductor que conecte con un electrodo.</p>
+        <p class="parrafo">– Estará colocado de manera que pueda ser accionado fácilmente desde el mismo emplazamiento donde se instale, bien directamente o bien por medio de un dispositivo de mando a distancia. En este caso se instalarán lámparas de señalización que indiquen la posición de abierto o cerrado del interruptor.</p>
+        <p class="parrafo_2">c) La cuba o caldera metálica se pondrá a tierra y, a la vez, se conectará a la cubierta y armadura metálica, si existen, del cable de alimentación. La sección del conductor de puesta a tierra de la cuba, no será inferior a la del conductor de mayor sección de la alimentación, con un mínimo de 4 milímetros cuadrados.</p>
+        <p class="parrafo">d) Según el tipo de aparato se satisfarán, además, los requisitos siguientes:</p>
+        <p class="parrafo_2">– Si los electrodos están conectados directamente a una instalación trifásica a más de 440 voltios, debe instalarse un interruptor diferencial que desconecte la alimentación a los electrodos cuando se produzca una corriente de fuga a tierra superior al 10 por 100 de la intensidad nominal de la caldera en condiciones normales de funcionamiento. Podrá admitirse hasta un 15 por 100 en dicho valor si en algún caso fuera necesario para asegurar la estabilidad del funcionamiento de la misma. El dispositivo mencionado debe actuar con retardo para evitar su funcionamiento innecesario en el caso de un desequilibrio de corta duración.</p>
+        <p class="parrafo">– Si los electrodos están conectados a una alimentación con tensiones de 50 a 440 voltios, la cuba de la caldera estará conectada al neutro de la alimentación y a tierra. La capacidad nominal del conductor neutro no debe ser inferior a la del mayor conductor de alimentación.</p>
+        <p class="parrafo_2">3.1.2 Calentadores provistos de elementos de caldeo desnudos sumergidos en el agua</p>
+        <p class="parrafo_2">Se admiten en instalaciones industriales siempre que no pueda existir una diferencia de potencial superior a 24 voltios entre el agua accesible o partes metálicas accesibles en contacto con ella y los elementos conductores situados en su proximidad, que no conste que estén aislados de tierra.</p>
+        <p class="parrafo_2">
+          <strong>3.2</strong>
+          <strong>Aparatos de cocción y hornos industriales</strong>
+        </p>
+        <p class="parrafo_2">Las partes accesibles de los hornos que pueden alcanzar una temperatura peligrosa deben estar dotadas de un dispositivo de protección o de visibles señales de atención con una inscripción.</p>
+        <p class="parrafo">Cuando los hornos presenten corrientes de fuga importantes, como en los hornos de resistencias, deberán ser alimentados según esquema TN-C.</p>
+        <p class="parrafo">Los aparatos de cocción y los hornos que incorporen elementos incandescentes no cerrados no se instalarán en locales que presenten riesgos de explosión.</p>
+        <p class="parrafo_2">
+          <strong>3.3</strong>
+          <strong>Aparatos para soldadura eléctrica por arco</strong>
+        </p>
+        <p class="parrafo_2">Los aparatos destinados a la soldadura eléctrica cumplirán en su instalación y utilización las siguientes prescripciones:</p>
+        <p class="parrafo_2">a) Las masas de estos aparatos estarán puestas a tierra. Será admisible la conexión de uno de los polos del circuito de soldadura a estas masas, cuando, por su puesta a tierra, no se provoquen corrientes vagabundas de intensidad peligrosa. En caso contrario, el circuito de soldadura estará puesto a tierra únicamente en el lugar de trabajo.</p>
+        <p class="parrafo">b) Los bornes de conexión para los circuitos de alimentación de los aparatos manuales de soldar estarán cuidadosamente aislados.</p>
+        <p class="parrafo">c) Cuando existan en los aparatos ranuras de ventilación estarán dispuestas de forma que no se pueda alcanzar partes bajo tensión en su interior.</p>
+        <p class="parrafo">d) Cada aparato llevará incorporado un interruptor de corte omnipolar que interrumpa el circuito de alimentación, así como un dispositivo de protección contra sobrecargas, regulado, como máximo, al 200 % de la intensidad nominal de su alimentación, excepto en aquellos casos en que los conductores de este circuito estén protegidos en la instalación por un dispositivo igualmente contra sobrecargas, regulado a la misma intensidad.</p>
+        <p class="parrafo">e) Las superficies exteriores de los porta-electrodos a mano, y en todo lo posible sus mandíbulas, estarán completamente aisladas. Estos porta-electrodos estarán provistos de discos o pantallas que protejan la mano de los operarios contra el calor proporcionado por los arcos.</p>
+        <p class="parrafo">f) Las personas que utilicen estos aparatos recibirán las consignas apropiadas para:</p>
+        <p class="parrafo_2">– Hacer inaccesibles las partes bajo tensión de los porta-electrodos cuando no sean utilizados</p>
+        <p class="parrafo">– Evitar que los porta-electrodos entren en contacto con objetos metálicos</p>
+        <p class="parrafo">– Unir al conductor de retorno del circuito de soldadura las piezas metálicas que se encuentren en su proximidad inmediata.</p>
+        <p class="parrafo_2">Cuando los trabajos de soldadura se efectúen en locales muy conductores, se recomienda la utilización de pequeñas tensiones. En otro caso, la tensión en vacío entre el electrodo y la pieza a soldar, no será superior a 90 voltios, valor eficaz para corriente alterna, y 150 voltios en corriente continua.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

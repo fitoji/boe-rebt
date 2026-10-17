@@ -1,0 +1,748 @@
+{
+  "norma": "BOE-A-2002-18099",
+  "bloques": [
+    {
+      "n": 1,
+      "id": "pr",
+      "titulo": "[preambulo]",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 2,
+      "id": "au",
+      "titulo": "Artículo único",
+      "vigencia": "20150630",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 3,
+      "id": "da",
+      "titulo": "Disposición adicional primera",
+      "vigencia": "20100523",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 4,
+      "id": "da-2",
+      "titulo": "Disposición adicional segunda",
+      "vigencia": "20100523",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 5,
+      "id": "da-3",
+      "titulo": "Disposición adicional tercera",
+      "vigencia": "20100523",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 6,
+      "id": "da-4",
+      "titulo": "Disposición adicional cuarta",
+      "vigencia": "20100523",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 7,
+      "id": "dt",
+      "titulo": "Disposición transitoria primera",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 8,
+      "id": "dt-2",
+      "titulo": "Disposición transitoria segunda",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 9,
+      "id": "dt-3",
+      "titulo": "Disposición transitoria tercera",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 10,
+      "id": "dd",
+      "titulo": "Disposición derogatoria única",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 11,
+      "id": "df",
+      "titulo": "Disposición final primera",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 12,
+      "id": "df-2",
+      "titulo": "Disposición final segunda",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 13,
+      "id": "df-3",
+      "titulo": "Disposición final tercera",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 14,
+      "id": "fi",
+      "titulo": "[firma]",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 15,
+      "id": "re",
+      "titulo": "REGLAMENTO",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 16,
+      "id": "a1",
+      "titulo": "Artículo 1",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 17,
+      "id": "a2",
+      "titulo": "Artículo 2",
+      "vigencia": "20210701",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 18,
+      "id": "a3",
+      "titulo": "Artículo 3",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 19,
+      "id": "a4",
+      "titulo": "Artículo 4",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 20,
+      "id": "a5",
+      "titulo": "Artículo 5",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 21,
+      "id": "a6",
+      "titulo": "Artículo 6",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 22,
+      "id": "a7",
+      "titulo": "Artículo 7",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 23,
+      "id": "a8",
+      "titulo": "Artículo 8",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 24,
+      "id": "a9",
+      "titulo": "Artículo 9",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 25,
+      "id": "a1-2",
+      "titulo": "Artículo 10",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 26,
+      "id": "a1-3",
+      "titulo": "Artículo 11",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 27,
+      "id": "a1-4",
+      "titulo": "Artículo 12",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 28,
+      "id": "a1-5",
+      "titulo": "Artículo 13",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 29,
+      "id": "a1-6",
+      "titulo": "Artículo 14",
+      "vigencia": "20200701",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 30,
+      "id": "a1-7",
+      "titulo": "Artículo 15",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 31,
+      "id": "a1-8",
+      "titulo": "Artículo 16",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 32,
+      "id": "a1-9",
+      "titulo": "Artículo 17",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 33,
+      "id": "a1-10",
+      "titulo": "Artículo 18",
+      "vigencia": "20100523",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 34,
+      "id": "a1-11",
+      "titulo": "Artículo 19",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 35,
+      "id": "a2-2",
+      "titulo": "Artículo 20",
+      "vigencia": "20100523",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 36,
+      "id": "a2-3",
+      "titulo": "Artículo 21",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 37,
+      "id": "a2-4",
+      "titulo": "Artículo 22",
+      "vigencia": "20100523",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 38,
+      "id": "a2-5",
+      "titulo": "Artículo 23",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 39,
+      "id": "a2-6",
+      "titulo": "Artículo 24",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 40,
+      "id": "a2-7",
+      "titulo": "Artículo 25",
+      "vigencia": "20230701",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 41,
+      "id": "a2-8",
+      "titulo": "Artículo 26",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 42,
+      "id": "a2-9",
+      "titulo": "Artículo 27",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 43,
+      "id": "a2-10",
+      "titulo": "Artículo 28",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 44,
+      "id": "a2-11",
+      "titulo": "Artículo 29",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 45,
+      "id": "id",
+      "titulo": "INSTRUCCIONES TÉCNICAS COMPLEMENTARIAS",
+      "vigencia": "20030918",
+      "grupo": "00_reglamento"
+    },
+    {
+      "n": 46,
+      "id": "ib",
+      "titulo": "ITC-BT-01",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-01"
+    },
+    {
+      "n": 47,
+      "id": "ib-2",
+      "titulo": "ITC-BT-02",
+      "vigencia": "20250404",
+      "grupo": "ITC-BT-02"
+    },
+    {
+      "n": 48,
+      "id": "ib-3",
+      "titulo": "ITC-BT-03",
+      "vigencia": "20250904",
+      "grupo": "ITC-BT-03"
+    },
+    {
+      "n": 49,
+      "id": "ib-4",
+      "titulo": "ITC-BT-04",
+      "vigencia": "20200701",
+      "grupo": "ITC-BT-04"
+    },
+    {
+      "n": 50,
+      "id": "ib-5",
+      "titulo": "ITC-BT-05",
+      "vigencia": "20150630",
+      "grupo": "ITC-BT-05"
+    },
+    {
+      "n": 51,
+      "id": "ib-6",
+      "titulo": "ITC-BT-06",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-06"
+    },
+    {
+      "n": 52,
+      "id": "ib-7",
+      "titulo": "ITC-BT-07",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-07"
+    },
+    {
+      "n": 53,
+      "id": "ib-8",
+      "titulo": "ITC-BT-08",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-08"
+    },
+    {
+      "n": 54,
+      "id": "ib-9",
+      "titulo": "ITC-BT-09",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-09"
+    },
+    {
+      "n": 55,
+      "id": "ib-10",
+      "titulo": "ITC-BT-10",
+      "vigencia": "20150630",
+      "grupo": "ITC-BT-10"
+    },
+    {
+      "n": 56,
+      "id": "ib-11",
+      "titulo": "ITC-BT-11",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-11"
+    },
+    {
+      "n": 57,
+      "id": "ib-12",
+      "titulo": "ITC-BT-12",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-12"
+    },
+    {
+      "n": 58,
+      "id": "ib-13",
+      "titulo": "ITC-BT-13",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-13"
+    },
+    {
+      "n": 59,
+      "id": "ib-14",
+      "titulo": "ITC-BT-14",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-14"
+    },
+    {
+      "n": 60,
+      "id": "ib-15",
+      "titulo": "ITC-BT-15",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-15"
+    },
+    {
+      "n": 61,
+      "id": "ib-16",
+      "titulo": "ITC-BT-16",
+      "vigencia": "20150630",
+      "grupo": "ITC-BT-16"
+    },
+    {
+      "n": 62,
+      "id": "ib-17",
+      "titulo": "ITC-BT-17",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-17"
+    },
+    {
+      "n": 63,
+      "id": "ib-18",
+      "titulo": "ITC-BT-18",
+      "vigencia": "20100523",
+      "grupo": "ITC-BT-18"
+    },
+    {
+      "n": 64,
+      "id": "ib-19",
+      "titulo": "ITC-BT-19",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-19"
+    },
+    {
+      "n": 65,
+      "id": "ib-20",
+      "titulo": "ITC-BT-20",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-20"
+    },
+    {
+      "n": 66,
+      "id": "ib-21",
+      "titulo": "ITC-BT-21",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-21"
+    },
+    {
+      "n": 67,
+      "id": "ib-22",
+      "titulo": "ITC-BT-22",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-22"
+    },
+    {
+      "n": 68,
+      "id": "ib-23",
+      "titulo": "ITC-BT-23",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-23"
+    },
+    {
+      "n": 69,
+      "id": "ib-24",
+      "titulo": "ITC-BT-24",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-24"
+    },
+    {
+      "n": 70,
+      "id": "ib-25",
+      "titulo": "ITC-BT-25",
+      "vigencia": "20150630",
+      "grupo": "ITC-BT-25"
+    },
+    {
+      "n": 71,
+      "id": "ib-26",
+      "titulo": "ITC-BT-26",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-26"
+    },
+    {
+      "n": 72,
+      "id": "ib-27",
+      "titulo": "ITC-BT-27",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-27"
+    },
+    {
+      "n": 73,
+      "id": "ib-28",
+      "titulo": "ITC-BT-28",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-28"
+    },
+    {
+      "n": 74,
+      "id": "ib-29",
+      "titulo": "ITC-BT-29",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-29"
+    },
+    {
+      "n": 75,
+      "id": "ib-30",
+      "titulo": "ITC-BT-30",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-30"
+    },
+    {
+      "n": 76,
+      "id": "ib-31",
+      "titulo": "ITC-BT-31",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-31"
+    },
+    {
+      "n": 77,
+      "id": "ib-32",
+      "titulo": "ITC-BT-32",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-32"
+    },
+    {
+      "n": 78,
+      "id": "ib-33",
+      "titulo": "ITC-BT-33",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-33"
+    },
+    {
+      "n": 79,
+      "id": "ib-34",
+      "titulo": "ITC-BT-34",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-34"
+    },
+    {
+      "n": 80,
+      "id": "ib-35",
+      "titulo": "ITC-BT-35",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-35"
+    },
+    {
+      "n": 81,
+      "id": "ib-36",
+      "titulo": "ITC-BT-36",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-36"
+    },
+    {
+      "n": 82,
+      "id": "ib-37",
+      "titulo": "ITC-BT-37",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-37"
+    },
+    {
+      "n": 83,
+      "id": "ib-38",
+      "titulo": "ITC-BT-38",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-38"
+    },
+    {
+      "n": 84,
+      "id": "ib-39",
+      "titulo": "ITC-BT-39",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-39"
+    },
+    {
+      "n": 85,
+      "id": "ib-40",
+      "titulo": "ITC-BT-40",
+      "vigencia": "20190407",
+      "grupo": "ITC-BT-40"
+    },
+    {
+      "n": 86,
+      "id": "ib-41",
+      "titulo": "ITC-BT-41",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-41"
+    },
+    {
+      "n": 87,
+      "id": "ib-42",
+      "titulo": "ITC-BT-42",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-42"
+    },
+    {
+      "n": 88,
+      "id": "ib-43",
+      "titulo": "ITC-BT-43",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-43"
+    },
+    {
+      "n": 89,
+      "id": "ib-44",
+      "titulo": "ITC-BT-44",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-44"
+    },
+    {
+      "n": 90,
+      "id": "ib-45",
+      "titulo": "ITC-BT-45",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-45"
+    },
+    {
+      "n": 91,
+      "id": "ib-46",
+      "titulo": "ITC-BT-46",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-46"
+    },
+    {
+      "n": 92,
+      "id": "ib-47",
+      "titulo": "ITC-BT-47",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-47"
+    },
+    {
+      "n": 93,
+      "id": "ib-48",
+      "titulo": "ITC-BT-48",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-48"
+    },
+    {
+      "n": 94,
+      "id": "ib-49",
+      "titulo": "ITC-BT-49",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-49"
+    },
+    {
+      "n": 95,
+      "id": "ib-50",
+      "titulo": "ITC-BT-50",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-50"
+    },
+    {
+      "n": 96,
+      "id": "ib-51",
+      "titulo": "ITC-BT-51",
+      "vigencia": "20030918",
+      "grupo": "ITC-BT-51"
+    },
+    {
+      "n": 97,
+      "id": "ib-52",
+      "titulo": "ITC-BT-52",
+      "vigencia": "20220616",
+      "grupo": "ITC-BT-52"
+    },
+    {
+      "n": 98,
+      "id": "ir",
+      "titulo": "[Información relacionada]",
+      "vigencia": "20030918",
+      "grupo": "zz_informacion-relacionada"
+    }
+  ],
+  "archivos": {
+    "00_reglamento": "md/00_reglamento.md",
+    "ITC-BT-01": "md/ITC-BT-01.md",
+    "ITC-BT-02": "md/ITC-BT-02.md",
+    "ITC-BT-03": "md/ITC-BT-03.md",
+    "ITC-BT-04": "md/ITC-BT-04.md",
+    "ITC-BT-05": "md/ITC-BT-05.md",
+    "ITC-BT-06": "md/ITC-BT-06.md",
+    "ITC-BT-07": "md/ITC-BT-07.md",
+    "ITC-BT-08": "md/ITC-BT-08.md",
+    "ITC-BT-09": "md/ITC-BT-09.md",
+    "ITC-BT-10": "md/ITC-BT-10.md",
+    "ITC-BT-11": "md/ITC-BT-11.md",
+    "ITC-BT-12": "md/ITC-BT-12.md",
+    "ITC-BT-13": "md/ITC-BT-13.md",
+    "ITC-BT-14": "md/ITC-BT-14.md",
+    "ITC-BT-15": "md/ITC-BT-15.md",
+    "ITC-BT-16": "md/ITC-BT-16.md",
+    "ITC-BT-17": "md/ITC-BT-17.md",
+    "ITC-BT-18": "md/ITC-BT-18.md",
+    "ITC-BT-19": "md/ITC-BT-19.md",
+    "ITC-BT-20": "md/ITC-BT-20.md",
+    "ITC-BT-21": "md/ITC-BT-21.md",
+    "ITC-BT-22": "md/ITC-BT-22.md",
+    "ITC-BT-23": "md/ITC-BT-23.md",
+    "ITC-BT-24": "md/ITC-BT-24.md",
+    "ITC-BT-25": "md/ITC-BT-25.md",
+    "ITC-BT-26": "md/ITC-BT-26.md",
+    "ITC-BT-27": "md/ITC-BT-27.md",
+    "ITC-BT-28": "md/ITC-BT-28.md",
+    "ITC-BT-29": "md/ITC-BT-29.md",
+    "ITC-BT-30": "md/ITC-BT-30.md",
+    "ITC-BT-31": "md/ITC-BT-31.md",
+    "ITC-BT-32": "md/ITC-BT-32.md",
+    "ITC-BT-33": "md/ITC-BT-33.md",
+    "ITC-BT-34": "md/ITC-BT-34.md",
+    "ITC-BT-35": "md/ITC-BT-35.md",
+    "ITC-BT-36": "md/ITC-BT-36.md",
+    "ITC-BT-37": "md/ITC-BT-37.md",
+    "ITC-BT-38": "md/ITC-BT-38.md",
+    "ITC-BT-39": "md/ITC-BT-39.md",
+    "ITC-BT-40": "md/ITC-BT-40.md",
+    "ITC-BT-41": "md/ITC-BT-41.md",
+    "ITC-BT-42": "md/ITC-BT-42.md",
+    "ITC-BT-43": "md/ITC-BT-43.md",
+    "ITC-BT-44": "md/ITC-BT-44.md",
+    "ITC-BT-45": "md/ITC-BT-45.md",
+    "ITC-BT-46": "md/ITC-BT-46.md",
+    "ITC-BT-47": "md/ITC-BT-47.md",
+    "ITC-BT-48": "md/ITC-BT-48.md",
+    "ITC-BT-49": "md/ITC-BT-49.md",
+    "ITC-BT-50": "md/ITC-BT-50.md",
+    "ITC-BT-51": "md/ITC-BT-51.md",
+    "ITC-BT-52": "md/ITC-BT-52.md",
+    "zz_informacion-relacionada": "md/zz_informacion-relacionada.md"
+  },
+  "tablas": 73
+}

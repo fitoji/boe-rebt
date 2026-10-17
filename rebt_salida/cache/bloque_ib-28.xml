@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ib-28" tipo="precepto" titulo="ITC-BT-28">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo_num">ITC-BT-28</p>
+        <p class="anexo_tit">INSTALACIONES EN LOCALES DE PÚBLICA CONCURRENCIA</p>
+        <p class="parrafo_2">
+          <strong>0. ÍNDICE</strong>
+        </p>
+        <p class="parrafo_2">1. CAMPO DE APLICACIÓN</p>
+        <p class="parrafo">2. ALIMENTACIÓN DE LOS SERVICIOS DE SEGURIDAD</p>
+        <p class="parrafo_2">2.1 Generalidades y fuentes de alimentación</p>
+        <p class="parrafo">2.2 Fuentes propias de energía</p>
+        <p class="parrafo">2.3 Suministros complementarios o de seguridad</p>
+        <p class="parrafo_2">3. ALUMBRADO DE EMERGENCIA</p>
+        <p class="parrafo_2">3.1 Alumbrado de seguridad</p>
+        <p class="parrafo_2">3.1.1 Alumbrado de evacuación</p>
+        <p class="parrafo">3.1.2 Alumbrado ambiente o anti-pánico</p>
+        <p class="parrafo">3.1.3 Alumbrado de zonas de alto riesgo</p>
+        <p class="parrafo_2">3.2 Alumbrado de reemplazamiento</p>
+        <p class="parrafo">3.3 Lugares en que deberán instalarse alumbrado de emergencia</p>
+        <p class="parrafo_2">3.3.1 Con alumbrado de seguridad</p>
+        <p class="parrafo">3.3.2 Con alumbrado de reemplazamiento</p>
+        <p class="parrafo_2">3.4 Prescripciones de los aparatos para alumbrado de emergencia</p>
+        <p class="parrafo_2">3.4.1 Aparatos autónomos para alumbrado de emergencia</p>
+        <p class="parrafo">3.4.2 Luminaria alimentada por fuente central</p>
+        <p class="parrafo_2">4. PRESCRIPCIONES DE CARÁCTER GENERAL</p>
+        <p class="parrafo">5. PRESCRIPCIONES COMPLEMENTARIAS PARA LOCALES DE ESPECTÁCULOS Y ACTIVIDADES RECREATIVAS</p>
+        <p class="parrafo">6. PRESCRIPCIONES COMPLEMENTARIAS PARA LOCALES DE REUNIÓN Y TRABAJO</p>
+        <p class="parrafo_2">
+          <strong>1. CAMPO DE APLICACIÓN</strong>
+        </p>
+        <p class="parrafo_2">La presente instrucción se aplica a locales de pública concurrencia como:</p>
+        <p class="parrafo_2">
+          <strong>Locales de espectáculos y actividades recreativas:</strong>
+        </p>
+        <p class="parrafo_2">Cualquiera que sea su capacidad de ocupación, como por ejemplo, cines, teatros, auditorios, estadios, pabellones deportivos, plazas de toros, hipódromos, parques de atracciones y ferias fijas, salas de fiesta, discotecas, salas de juegos de azar.</p>
+        <p class="parrafo_2">
+          <strong>Locales de reunión, trabajo y usos sanitarios:</strong>
+        </p>
+        <p class="parrafo_2">– Cualquiera que sea su ocupación, los siguientes: Templos, Museos, Salas de conferencias y congresos, casinos, hoteles, hostales, bares, cafeterías, restaurantes o similares, zonas comunes en agrupaciones de establecimientos comerciales, aeropuertos, estaciones de viajeros, estacionamientos cerrados y cubiertos para más de 5 vehículos, hospitales, ambulatorios y sanatorios, asilos y guarderías</p>
+        <p class="parrafo">– Si la ocupación prevista es de más de 50 personas: bibliotecas, centros de enseñanza, consultorios médicos, establecimientos comerciales, oficinas con presencia de público, residencias de estudiantes, gimnasios, salas de exposiciones, centros culturales, clubes sociales y deportivos</p>
+        <p class="parrafo_2">La ocupación prevista de los locales se calculará como 1 persona por cada 0,8 m<sup>2</sup> de superficie útil, a excepción de pasillos, repartidores, vestíbulos y servicios.</p>
+        <p class="parrafo">Para las instalaciones en quirófanos y salas de intervención se establecen requisitos particulares en la ITC-BT-38.</p>
+        <p class="parrafo">Igualmente se aplican a aquellos locales clasificados en condiciones BD2, BD3 y BD4, según la norma UNE 20.460-3 y a todos aquellos locales no contemplados en los apartados anteriores, cuando tengan una capacidad de ocupación de más de 100 personas.</p>
+        <p class="parrafo">Esta instrucción tiene por objeto garantizar la correcta instalación y funcionamiento de los servicios de seguridad, en especial aquellas dedicadas a alumbrado que faciliten la evacuación segura de las personas o la iluminación de puntos vitales de los edificios.</p>
+        <p class="parrafo_2">
+          <strong>2. ALIMENTACIÓN DE LOS SERVICIOS DE SEGURIDAD</strong>
+        </p>
+        <p class="parrafo_2">En el presente apartado se definen las características de la alimentación de los servicios de seguridad tales como alumbrados de emergencia, sistemas contra incendios, ascensores u otros servicios urgentes indispensables que están fijados por las reglamentaciones específicas de las diferentes Autoridades competentes en materia de seguridad.</p>
+        <p class="parrafo">La alimentación para los servicios de seguridad, en función de lo que establezcan las reglamentaciones específicas, puede ser automática o no automática.</p>
+        <p class="parrafo">En una alimentación automática la puesta en servicio de la alimentación no depende de la intervención de un operador.</p>
+        <p class="parrafo">Una alimentación automática se clasifica, según la duración de conmutación, en las siguientes categorías:</p>
+        <p class="parrafo_2">– Sin corte: alimentación automática que puede estar asegurada de forma continua en las condiciones especificadas durante el periodo de transición, por ejemplo, en lo que se refiere a las variaciones de tensión y frecuencia.</p>
+        <p class="parrafo">– Con corte muy breve: alimentación automática disponible en 0,15 segundos como máximo.</p>
+        <p class="parrafo">– Con corte breve: alimentación automática disponible en 0,5 segundos como máximo.</p>
+        <p class="parrafo">– Con corte mediano: alimentación automática disponible en 15 segundos como máximo.</p>
+        <p class="parrafo">– Con corte largo: alimentación automática disponible en mas de 15 segundos.</p>
+        <p class="parrafo_2">
+          <strong>2.1 Generalidades y fuentes de alimentación</strong>
+        </p>
+        <p class="parrafo_2">Para los servicios de seguridad la fuente de energía debe ser elegida de forma que la alimentación esté asegurada durante un tiempo apropiado.</p>
+        <p class="parrafo">Para que los servicios de seguridad funcionen en caso de incendio, los equipos y materiales utilizados deben presentar, por construcción o por instalación, una resistencia al fuego de duración apropiada.</p>
+        <p class="parrafo">Se elegirán preferentemente medidas de protección contra los contactos indirectos sin corte automático al primer defecto. En el esquema IT debe preverse un controlador permanente de aislamiento que al primer defecto emita una señal acústica o visual.</p>
+        <p class="parrafo">Los equipos y materiales deberán disponerse de forma que se facilite su verificación periódica, ensayos y mantenimiento.</p>
+        <p class="parrafo">Se pueden utilizar las siguientes fuentes de alimentación:</p>
+        <p class="parrafo_2">– Baterías de acumuladores. Generalmente las baterías de arranque de los vehículos no satisfacen las prescripciones de alimentación para los servicios de seguridad</p>
+        <p class="parrafo">– Generadores independientes</p>
+        <p class="parrafo">– Derivaciones separadas de la red de distribución, efectivamente independientes de la alimentación normal</p>
+        <p class="parrafo_2">Las fuentes para servicios para servicios complementarios o de seguridad deben estar instaladas en lugar fijo y de forma que no puedan ser afectadas por el fallo de la fuente normal. Además, con excepción de los equipos autónomos, deberán cumplir las siguientes condiciones:</p>
+        <p class="parrafo_2">– se instalarán en emplazamiento apropiado, accesible solamente a las personas cualificadas o expertas.</p>
+        <p class="parrafo">– el emplazamiento estará convenientemente ventilado, de forma que los gases y los humos que produzcan no puedan propagarse en los locales accesibles a las personas.</p>
+        <p class="parrafo">– no se admiten derivaciones separadas, independientes y alimentadas por una red de distribución pública, salvo si se asegura que las dos derivaciones no puedan fallar simultáneamente.</p>
+        <p class="parrafo">– cuando exista una sola fuente para los servicios de seguridad, ésta no debe ser utilizada para otros usos. Sin embargo, cuando se dispone de varias fuentes, pueden utilizarse igualmente como fuentes de reemplazamiento, con la condición, de que en caso de fallo de una de ellas, la potencia todavía disponible sea suficiente para garantizar la puesta en funcionamiento de todos los servicios de seguridad, siendo necesario generalmente, el corte automático de los equipos no concernientes a la seguridad.</p>
+        <p class="parrafo_2">
+          <strong>2.2 Fuentes propias de energía</strong>
+        </p>
+        <p class="parrafo_2">Fuente propia de energía es la que esta constituida por baterías de acumuladores, aparatos autónomos o grupos electrógenos.</p>
+        <p class="parrafo">La puesta en funcionamiento se realizará al producirse la falta de tensión en los circuitos alimentados por los diferentes suministros procedentes de la Empresa o Empresas distribuidoras de energía eléctrica, o cuando aquella tensión descienda por debajo del 70% de su valor nominal.</p>
+        <p class="parrafo">La capacidad mínima de una fuente propia de energía será, como norma general, la precisa para proveer al alumbrado de seguridad en las condiciones señaladas en el apartado 3.1. de esta instrucción.</p>
+        <p class="parrafo_2">
+          <strong>2.3 Suministros complementarios o de seguridad</strong>
+        </p>
+        <p class="parrafo_2">Todos los locales de pública concurrencia deberán disponer de alumbrado de emergencia.</p>
+        <p class="parrafo">Deberán disponer de suministro de socorro los locales de espectáculos y actividades recreativas cualquiera que sea su ocupación y los locales de reunión, trabajo y usos sanitarios con una ocupación prevista de más de 300 personas.</p>
+        <p class="parrafo">Deberán disponer de suministro de reserva:</p>
+        <p class="parrafo_2">– Hospitales, clínicas, sanatorios, ambulatorios y centros de salud</p>
+        <p class="parrafo">– Estaciones de viajeros y aeropuertos</p>
+        <p class="parrafo">– Estacionamientos subterráneos para más de 100 vehículos</p>
+        <p class="parrafo">– Establecimientos comerciales o agrupaciones de éstos en centros comerciales de más de 2.000 m<sup>2</sup> de superficie</p>
+        <p class="parrafo">– Estadios y pabellones deportivos</p>
+        <p class="parrafo_2">Cuando un local se pueda considerar tanto en el grupo de locales que requieren suministro de socorro como en el grupo que requieren suministro de reserva, se instalará suministro de reserva</p>
+        <p class="parrafo">En aquellos locales singulares, tales como los establecimientos sanitarios, grandes hoteles de más de 300 habitaciones, locales de espectáculos con capacidad para mas de 1.000 espectadores, estaciones de viajeros, estacionamientos subterráneos con más de 100 plazas, aeropuertos y establecimientos comerciales o agrupaciones de éstos en centros comerciales de más de 2.000 m<sup>2</sup> de superficie, las fuentes propias de energía deberán poder suministrar, con independencia de los alumbrados especiales, la potencia necesaria para atender servicios urgentes indispensables cuando sean requeridos por la autoridad competente.</p>
+        <p class="parrafo_2">
+          <strong>3. ALUMBRADO DE EMERGENCIA</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones destinadas a alumbrado de emergencia tienen por objeto asegurar, en caso de fallo de la alimentación al alumbrado normal, la iluminación en los locales y accesos hasta las salidas, para una eventual evacuación del público o iluminar otros puntos que se señalen.</p>
+        <p class="parrafo">La alimentación del alumbrado de emergencia será automática con corte breve.</p>
+        <p class="parrafo">Se incluyen dentro de este alumbrado el alumbrado de seguridad y el alumbrado de reemplazamiento.</p>
+        <p class="parrafo_2">
+          <strong>3.1 Alumbrado de seguridad</strong>
+        </p>
+        <p class="parrafo_2">Es el alumbrado de emergencia previsto para garantizar la seguridad de las personas que evacuen una zona o que tienen que terminar un trabajo potencialmente peligroso antes de abandonar la zona.</p>
+        <p class="parrafo">El alumbrado de seguridad estará previsto para entrar en funcionamiento automáticamente cuando se produce el fallo del alumbrado general o cuando la tensión de éste baje a menos del 70% de su valor nominal.</p>
+        <p class="parrafo">La instalación de este alumbrado será fija y estará provista de fuentes propias de energía. Sólo se podrá utilizar el suministro exterior para proceder a su carga, cuando la fuente propia de energía esté constituida por baterías de acumuladores o aparatos autónomos automáticos.</p>
+        <p class="parrafo_2">3.1.1 Alumbrado de evacuación.</p>
+        <p class="parrafo_2">Es la parte del alumbrado de seguridad previsto para garantizar el reconocimiento y la utilización de los medios o rutas de evacuación cuando los locales estén o puedan estar ocupados.</p>
+        <p class="parrafo">En rutas de evacuación, el alumbrado de evacuación debe proporcionar, a nivel del suelo y en el eje de los pasos principales, una iluminancia horizontal mínima de 1 lux.</p>
+        <p class="parrafo">En los puntos en los que estén situados los equipos de las instalaciones de protección contra incendios que exijan utilización manual y en los cuadros de distribución del alumbrado, la iluminancia mínima será de 5 lux.</p>
+        <p class="parrafo">La relación entre la iluminancia máxima y la mínima en el eje de los pasos principales será menor de 40.</p>
+        <p class="parrafo">El alumbrado de evacuación deberá poder funcionar, cuando se produzca el fallo de la alimentación normal, como mínimo durante una hora, proporcionando la iluminancia prevista.</p>
+        <p class="parrafo_2">3.1.2 Alumbrado ambiente o anti-pánico</p>
+        <p class="parrafo_2">Es la parte del alumbrado de seguridad previsto para evitar todo riesgo de pánico y proporcionar una iluminación ambiente adecuada que permita a los ocupantes identificar y acceder a las rutas de evacuación e identificar obstáculos.</p>
+        <p class="parrafo">El alumbrado ambiente o anti-pánico debe proporcionar una iluminancia horizontal mínima de 0,5 lux en todo el espacio considerado, desde el suelo hasta una altura de 1 m.</p>
+        <p class="parrafo">La relación entre la iluminancia máxima y la mínima en todo el espacio considerado será menor de 40.</p>
+        <p class="parrafo">El alumbrado ambiente o anti-pánico deberá poder funcionar, cuando se produzca el fallo de la alimentación normal, como mínimo durante una hora, proporcionando la iluminancia prevista.</p>
+        <p class="parrafo_2">3.1.3 Alumbrado de zonas de alto riesgo</p>
+        <p class="parrafo_2">Es la parte del alumbrado de seguridad previsto para garantizar la seguridad de las personas ocupadas en actividades potencialmente peligrosas o que trabajan en un entorno peligroso. Permite la interrupción de los trabajos con seguridad para el operador y para los otros ocupantes del local.</p>
+        <p class="parrafo">El alumbrado de las zonas de alto riesgo debe proporcionar una iluminancia mínima de 15 lux o el 10% de la iluminancia normal, tomando siempre el mayor de los valores.</p>
+        <p class="parrafo">La relación entre la iluminancia máxima y la mínima en todo el espacio considerado será menor de 10.</p>
+        <p class="parrafo">El alumbrado de las zonas de alto riesgo deberá poder funcionar, cuando se produzca el fallo de la alimentación normal, como mínimo el tiempo necesario para abandonar la actividad o zona de alto riesgo.</p>
+        <p class="parrafo_2">
+          <strong>3.2 Alumbrado de reemplazamiento</strong>
+        </p>
+        <p class="parrafo_2">Parte del alumbrado de emergencia que permite la continuidad de las actividades normales.</p>
+        <p class="parrafo">Cuando el alumbrado de reemplazamiento proporcione una iluminancia inferior al alumbrado normal, se usará únicamente para terminar el trabajo con seguridad.</p>
+        <p class="parrafo_2">
+          <strong>3.3 Lugarres en que deberán instalarse alumbrado de emergencia</strong>
+        </p>
+        <p class="parrafo_2">3.3.1 Con alumbrado de seguridad</p>
+        <p class="parrafo_2">Es obligatorio situar el alumbrado de seguridad en las siguientes zonas de los locales de pública concurrencia:</p>
+        <p class="parrafo_2">a) en todos los recintos cuya ocupación sea mayor de 100 personas</p>
+        <p class="parrafo">b) los recorridos generales de evacuación de zonas destinadas a usos residencial u hospitalario y los de zonas destinadas a cualquier otro uso que estén previstos para la evacuación de más de 100 personas.</p>
+        <p class="parrafo">c) en los aseos generales de planta en edificios de acceso público.</p>
+        <p class="parrafo">d) en los estacionamientos cerrados y cubiertos para más de 5 vehículos, incluidos los pasillos y las escaleras que conduzcan desde aquellos hasta el exterior o hasta las zonas generales del edificio.</p>
+        <p class="parrafo">e) en los locales que alberguen equipos generales de las instalaciones de protección.</p>
+        <p class="parrafo">f) en las salidas de emergencia y en las señales de seguridad reglamentarias.</p>
+        <p class="parrafo">g) en todo cambio de dirección de la ruta de evacuación.</p>
+        <p class="parrafo">h) en toda intersección de pasillos con las rutas de evacuación.</p>
+        <p class="parrafo">i) en el exterior del edificio, en la vecindad inmediata a la salida</p>
+        <p class="parrafo">j) cerca<sup>(1)</sup> de las escaleras, de manera que cada tramo de escaleras reciba una iluminación directa.</p>
+        <p class="parrafo">k) cerca<sup>(1)</sup> de cada cambio de nivel.</p>
+        <p class="parrafo">l) cerca<sup>(1)</sup> de cada puesto de primeros auxilios.</p>
+        <p class="parrafo">m) cerca<sup>(1)</sup> de cada equipo manual destinado a la prevención y extinción de incendios.</p>
+        <p class="parrafo">n) en los cuadros de distribución de la instalación de alumbrado de las zonas indicadas anteriormente</p>
+        <p class="cita"><sup>(1)</sup> Cerca significa a una distancia inferior a 2 metros, medida horizontalmente</p>
+        <p class="parrafo_2">En las zonas incluidas en los apartados m) y n), el alumbrado de seguridad proporcionará una iluminancia mínima de 5 lux al nivel de operación.</p>
+        <p class="parrafo">Solo se instalará alumbrado de seguridad para zonas de alto riesgo en las zonas que así lo requieran, según lo establecido en 3.1.3.</p>
+        <p class="parrafo">También será necesario instalar alumbrado de evacuación, aunque no sea un local de pública concurrencia, en todas las escaleras de incendios, en particular toda escalera de evacuación de edificios para uso de viviendas excepto las unifamiliares; así como toda zona clasificada como de riesgo especial en el Articulo 19 de la Norma Básica de Edificación NBE-CPI-96.</p>
+        <p class="parrafo_2">3.3.2 Con alumbrado de reemplazamiento</p>
+        <p class="parrafo_2">En las zonas de hospitalización, la instalación de alumbrado de emergencia proporcionará una iluminancia no inferior de 5 lux y durante 2 horas como mínimo. Las salas de intervención, las destinadas a tratamiento intensivo, las salas de curas, paritorios, urgencias dispondrán de un alumbrado de reemplazamiento que proporcionará un nivel de iluminancia igual al del alumbrado normal durante 2 horas como mínimo.</p>
+        <p class="parrafo_2">
+          <strong>3.4 Prescripciones de los aparatos para alumbbrado de emergencia</strong>
+        </p>
+        <p class="parrafo_2">3.4.1 Aparatos autónomos para alumbrado de emergencia</p>
+        <p class="parrafo_2">Luminaria que proporciona alumbrado de emergencia de tipo permanente o no permanente en la que todos los elementos, tales como la batería, la lámpara, el conjunto de mando y los dispositivos de verificación y control, si existen, están contenidos dentro de la luminaria o a una distancia inferior a 1 m de ella.</p>
+        <p class="parrafo">Los aparatos autónomos destinados a alumbrado de emergencia deberán cumplir las normas UNE-EN 60.598-2-22 y la norma UNE 20.392 o UNE 20.062, según sea la luminaria para lámparas fluorescentes o incandescentes, respectivamente.</p>
+        <p class="parrafo_2">3.4.2 Luminaria alimentada por fuente central</p>
+        <p class="parrafo_2">Luminaria que proporciona alumbrado de emergencia de tipo permanente o no permanente y que está alimentada a partir de un sistema de alimentación de emergencia central, es decir, no incorporado en la luminaria.</p>
+        <p class="parrafo">Las luminarias que actúan como aparatos de emergencia alimentados por fuente central deberán cumplir lo expuesto en la norma UNE-EN 60.598-2-22.</p>
+        <p class="parrafo">Los distintos aparatos de control, mando y protección generales para las instalaciones del alumbrado de emergencia por fuente central entre los que figurará un voltímetro de clase 2,5 por lo menos, se dispondrán en un cuadro único, situado fuera de la posible intervención del público.</p>
+        <p class="parrafo">Las líneas que alimentan directamente los circuitos individuales de los alumbrados de emergencia alimentados por fuente central, estarán protegidas por interruptores automáticos con una intensidad nominal de 10 A como máximo. Una misma línea no podrá alimentar más de 12 puntos de luz o, si en la dependencia o local considerado existiesen varios puntos de luz para alumbrado de emergencia, éstos deberán ser repartidos, al menos, entre dos líneas diferentes, aunque su número sea inferior a doce.</p>
+        <p class="parrafo">Las canalizaciones que alimenten los alumbrados de emergencia alimentados por fuente central se dispondrán, cuando se instalen sobre paredes o empotradas en ellas, a 5 cm como mínimo, de otras canalizaciones eléctricas y, cuando se instalen en huecos de la construcción estarán separadas de éstas por tabiques incombustibles no metálicos.</p>
+        <p class="parrafo_2">
+          <strong>4. PRESCRIPCIONES DE CARÁCTER GENERAL</strong>
+        </p>
+        <p class="parrafo_2">Las instalaciones en los locales de pública concurrencia, cumplirán las condiciones de carácter general que a continuación se señalan.</p>
+        <p class="parrafo_2">a) El cuadro general de distribución deberá colocarse en el punto más próximo posible a la entrada de la acometida o derivación individual y se colocará junto o sobre él, los dispositivos de mando y protección establecidos en la instrucción ITC-BT-17. Cuando no sea posible la instalación del cuadro general en este punto, se instalará en dicho punto un dispositivo de mando y protección.</p>
+        <p class="parrafo">Del citado cuadro general saldrán las líneas que alimentan directamente los aparatos receptores o bien las líneas generales de distribución a las que se conectará mediante cajas o a través de cuadros secundarios de distribución los distintos circuitos alimentadores. Los aparatos receptores que consuman más de 16 amperios se alimentarán directamente desde el cuadro general o desde los secundarios.</p>
+        <p class="parrafo">b) El cuadro general de distribución e, igualmente, los cuadros secundarios, se instalarán en lugares a los que no tenga acceso el público y que estarán separados de los locales donde exista un peligro acusado de incendio o de pánico (cabinas de proyección, escenarios, salas de público, escaparates, etc.), por medio de elementos a prueba de incendios y puertas no propagadoras del fuego. Los contadores podrán instalarse en otro lugar, de acuerdo con la empresa distribuidora de energía eléctrica, y siempre antes del cuadro general.</p>
+        <p class="parrafo">c) En el cuadro general de distribución o en los secundarios se dispondrán dispositivos de mando y protección para cada una de las líneas generales de distribución y las de alimentación directa a receptores. Cerca de cada uno de los interruptores del cuadro se colocará una placa indicadora del circuito al que pertenecen.</p>
+        <p class="parrafo">d) En las instalaciones para alumbrado de locales o dependencias donde se reúna público, el número de líneas secundarias y su disposición en relación con el total de lámparas a alimentar deberá ser tal que el corte de corriente en una cualquiera de ellas no afecte a más de la tercera parte del total de lámparas instaladas en los locales o dependencias que se iluminan alimentadas por dichas líneas. Cada una de estas líneas estarán protegidas en su origen contra sobrecargas, cortocircuitos, y si procede contra contactos indirectos.</p>
+        <p class="parrafo">e) Las canalizaciones deben realizarse según lo dispuesto en las ITC-BT-19 e ITC-BT-20 y estarán constituidas por:</p>
+        <p class="parrafo_2">– Conductores aislados, de tensión asignada no inferior a 450/750 V, colocados bajo tubos o canales protectores, preferentemente empotrados en especial en las zonas accesibles al público.</p>
+        <p class="parrafo">– Conductores aislados, de tensión asignada no inferior a 450/750 V, con cubierta de protección, colocados en huecos de la construcción totalmente construidos en materiales incombustibles de resistencia al fuego RF-120, como mínimo.</p>
+        <p class="parrafo">– Conductores rígidos aislados, de tensión asignada no inferior a 0,6/1 kV, armados, colocados directamente sobre las paredes.</p>
+        <p class="parrafo_2">f) Los cables y sistemas de conducción de cables deben instalarse de manera que no se reduzcan las características de la estructura del edificio en la seguridad contra incendios.</p>
+        <p class="parrafo">Los cables eléctricos a utilizar en las instalaciones de tipo general y en el conexionado interior de cuadros eléctricos en este tipo de locales, serán no propagadores del incendio y con emisión de humos y opacidad reducida. Los cables con características equivalentes a las de la norma UNE 21.123 parte 4 ó 5; o a la norma UNE 21.1002 (según la tensión asignada del cable), cumplen con esta prescripción.</p>
+        <p class="parrafo">Los elementos de conducción de cables con características equivalentes a los clasificados como «no propagadores de la llama» de acuerdo con las normas UNE-EN 50.085-1 y UNE-EN 50.086-1, cumplen con esta prescripción.</p>
+        <p class="parrafo">Los cables eléctricos destinados a circuitos de servicios de seguridad no autónomos o a circuitos de servicios con fuentes autónomas centralizadas, deben mantener el servicio durante y después del incendio, siendo conformes a las especificaciones de la norma UNE-EN 50.200 y tendrán emisión de humos y opacidad reducida. Los cables con características equivalentes a la norma UNE 21.123 partes 4 ó 5, apartado 3.4.6, cumplen con la prescripción de emisión de humos y opacidad reducida.</p>
+        <p class="parrafo">g) Las fuentes propias de energía de corriente alterna a 50 Hz, no podrán dar tensión de retorno a la acometida o acometidas de la red de Baja Tensión pública que alimenten al local de pública concurrencia.</p>
+        <p class="parrafo_2">
+          <strong>5. PRESCRIPCIONES COMPLEMENTARIAS PARA LOCALES DE ESPECTÁCULOS Y ACTIVIDADES RECREATIVAS</strong>
+        </p>
+        <p class="parrafo_2">Además de las prescripciones generales señaladas en el capítulo anterior, se cumplirán en los locales de espectáculos las siguientes prescripciones complementarias:</p>
+        <p class="parrafo_2">a) A partir del cuadro general de distribución se instalarán líneas distribuidoras generales, accionadas por medio de interruptores omnipolares con la debida protección al menos, para cada uno de los siguientes grupos de dependencias o locales:</p>
+        <p class="parrafo_2">– Sala de público</p>
+        <p class="parrafo">– Vestíbulo, escaleras y pasillos de acceso a la sala desde la calle, y dependencias anexas a ellos.</p>
+        <p class="parrafo">– Escenario y dependencias anexas a él, tales como camerinos, pasillos de acceso a éstos, almacenes, etc.</p>
+        <p class="parrafo">– Cabinas cinematográficas o de proyectores para alumbrado.</p>
+        <p class="parrafo_2">Cada uno de los grupos señalados dispondrá de su correspondiente cuadro secundario de distribución, que deberá contener todos los dispositivos de protección. En otros cuadros se ubicarán los interruptores, conmutadores, combinadores, etc. que sean precisos para las distintas líneas, baterías, combinaciones de luz y demás efectos obtenidos en escena.</p>
+        <p class="parrafo">b) En las cabinas cinematográficas y en los escenarios así como en los almacenes y talleres anexos a éstos, se utilizarán únicamente canalizaciones constituidas por conductores aislados, de tensión asignada no inferior a 450/750V, colocados bajo tubos o canales protectores, preferentemente empotrados. Los dispositivos de protección contra sobreintensidades estarán constituidos siempre por interruptores automáticos magnetotérmicos; las canalizaciones móviles estarán constituidas por conductores con aislamiento del tipo doble o reforzado y los receptores portátiles tendrán un aislamiento de la clase II.</p>
+        <p class="parrafo">c) Los cuadros secundarios de distribución deberán estar colocados en locales independientes o en el interior de un recinto construido con material no combustible.</p>
+        <p class="parrafo">d) Será posible cortar, mediante interruptores omnipolares, cada una de las instalaciones eléctricas correspondientes a:</p>
+        <p class="parrafo_2">Camerinos</p>
+        <p class="parrafo">Almacenes</p>
+        <p class="parrafo">Talleres</p>
+        <p class="parrafo">Otros locales con peligro de incendio</p>
+        <p class="parrafo">Los reostatos, resistencias y receptores móviles del equipo escénico.</p>
+        <p class="parrafo_2">e) Las resistencias empleadas para efectos o juegos de luz o para otros usos, estarán montadas a suficiente distancia de los telones, bambalinas y demás material del decorado y protegidas suficientemente para que una anomalía en su funcionamiento no pueda producir daños. Estas precauciones se hacen extensivas a cuantos dispositivos eléctricos se utilicen y especialmente a las linternas de proyección y a las lámparas de arco de las mismas.</p>
+        <p class="parrafo">f) El alumbrado general deberá ser completado por un alumbrado de evacuación, conforme a las disposiciones del apartado 3.1.1, el cual funcionará permanentemente durante el espectáculo y hasta que el local sea evacuado por el público.</p>
+        <p class="parrafo">g) Se instalará iluminación de balizamiento en cada uno de los peldaños o rampas con una inclinación superior al 8% del local con la suficiente intensidad para que puedan iluminar la huella. En el caso de pilotos de balizado, se instalará a razón de 1 por cada metro lineal de la anchura o fracción.</p>
+        <p class="parrafo_2">La instalación de balizamiento debe estar construida de forma que el paso de alerta al de funcionamiento de emergencia se produzca cuando el valor de la tensión de alimentación descienda por debajo del 70% de su valor nominal.</p>
+        <p class="parrafo_2">
+          <strong>6. PRESCRIPCIONES COMPLEMENTARIAS PARA LOCALES DE REUNIÓN Y TRABAJO</strong>
+        </p>
+        <p class="parrafo_2">Además de las prescripciones generales señaladas en el capítulo 5, se cumplirán en los locales de reunión las siguientes prescripciones complementarias:</p>
+        <p class="parrafo_2">– A partir del cuadro general de distribución se instalarán líneas distribuidoras generales, accionadas por medio de interruptores omnipolares, al menos para cada uno de los siguientes grupos de dependencias o locales:</p>
+        <p class="parrafo_2">Salas de venta o reunión, por planta del edificio</p>
+        <p class="parrafo">Escaparates</p>
+        <p class="parrafo">Almacenes</p>
+        <p class="parrafo">Talleres</p>
+        <p class="parrafo">Pasillos, escaleras y vestíbulos</p>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a2-4" tipo="precepto" titulo="Artículo 22">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 22. Instaladores autorizados.</p>
+        <p class="parrafo">Las instalaciones eléctricas de baja tensión se ejecutarán por instaladores autorizados en baja tensión, autorizados para el ejercicio de la actividad según lo establecido en la correspondiente instrucción técnica complementaria, sin perjuicio de su posible proyecto y dirección de obra por técnicos titulados competentes.</p>
+        <p class="parrafo">Según lo establecido en el artículo 13.3 de la Ley 21/1992, de Industria, las autorizaciones concedidas por los correspondientes órganos competentes de las Comunidades Autónomas a los instaladores tendrán ámbito estatal.</p>
+      </version>
+      <version id_norma="BOE-A-2010-8190" fecha_publicacion="20100522" fecha_vigencia="20100523">
+        <p class="articulo">Artículo 22. Empresas instaladoras.</p>
+        <p class="parrafo">1. Las instalaciones eléctricas de baja tensión se ejecutarán por empresas instaladoras en baja tensión, que serán aquellas personas físicas o jurídicas que hayan presentado la declaración responsable de inicio de actividad según se establece en la correspondiente instrucción técnica complementaria. Ello se entiende sin perjuicio del posible proyecto y dirección de obra por técnicos titulados competentes que, en su caso, requieran las citadas instalaciones.</p>
+        <p class="parrafo">2. De acuerdo con la Ley 21/1992, de 16 de julio, de Industria, la declaración responsable habilita por tiempo indefinido a la empresa instaladora, desde el momento de su presentación ante la Administración competente, para el ejercicio de la actividad en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica por el art. 7.6 del Real Decreto 560/2010, de 7 de mayo. <a class="refPost">Ref. BOE-A-2010-8190#aseptimo</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a2" tipo="precepto" titulo="Artículo 2">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Artículo 2. Campo de aplicación.</p>
+        <p class="parrafo">1.<em> </em>El presente Reglamento se aplicará a las instalaciones que distribuyan la energía eléctrica, a las generadoras de electricidad para consumo propio y a las receptoras, en los siguientes límites de tensiones nominales:</p>
+        <p class="parrafo_2">a) Corriente alterna: igual o inferior a 1.000 voltios.</p>
+        <p class="parrafo">b) Corriente continua: igual o inferior a 1.500 voltios.</p>
+        <p class="parrafo_2">2. El presente Reglamento se aplicará:</p>
+        <p class="parrafo_2">a) A las nuevas instalaciones, a sus modificaciones y a sus ampliaciones.</p>
+        <p class="parrafo">b) A las instalaciones existentes antes de su entrada en vigor que sean objeto de modificaciones de importancia, reparaciones de importancia y a sus ampliaciones.</p>
+        <p class="parrafo">c) A las instalaciones existentes antes de su entrada en vigor, en lo referente al régimen de inspecciones, si bien los criterios técnicos aplicables en dichas inspecciones serán los correspondientes a la reglamentación con la que se aprobaron.</p>
+        <p class="parrafo">Se entenderá por modificaciones o reparaciones de importancia las que afectan a más del 50 por 100 de la potencia instalada. Igualmente se considerará modificación de importancia la que afecte a líneas completas de procesos productivos con nuevos circuitos y cuadros, aun con reducción de potencia.</p>
+        <p class="parrafo">3. Asimismo, se aplicará a las instalaciones existentes antes de su entrada en vigor, cuando su estado, situación o características impliquen un riesgo grave para las personas o los bienes, o se produzcan perturbaciones importantes en el normal funcionamiento de otras instalaciones, a juicio del órgano competente de la Comunidad Autónoma.</p>
+        <p class="parrafo">4. Se excluyen de la aplicación de este Reglamento las instalaciones y equipos de uso exclusivo en minas, material de tracción, automóviles, navíos, aeronaves, sistemas de comunicación, y los usos militares y demás instalaciones y equipos que estuvieran sujetos a reglamentación específica.</p>
+        <p class="parrafo">5. Las prescripciones del presente Reglamento y sus instrucciones técnicas complementarias (en adelante ITCs) son de carácter general unas, y específico, otras. Las específicas sustituirán, modificarán o complementarán a las generales, según los casos.</p>
+        <p class="parrafo">6. No se aplicarán las prescripciones generales, sino únicamente prescripciones específicas, que serán objeto de las correspondientes ITCs, a las instalaciones o equipos que utilizan «muy baja tensión» (hasta 50 V en corriente alterna y hasta 75 V en corriente continua), por ejemplo las redes informáticas y similares, siempre que su fuente de energía sea autónoma, no se alimenten de redes destinadas a otros suministros, o que tales instalaciones sean absolutamente independientes de las redes de baja tensión con valores por encima de los fijados para tales pequeñas tensiones.</p>
+      </version>
+      <version id_norma="BOE-A-2021-6879" fecha_publicacion="20210428" fecha_vigencia="20210701">
+        <p class="articulo">Artículo 2. Campo de aplicación.</p>
+        <p class="parrafo">1.<em> </em>El presente Reglamento se aplicará a las instalaciones que distribuyan la energía eléctrica, a las generadoras de electricidad para consumo propio y a las receptoras, en los siguientes límites de tensiones nominales:</p>
+        <p class="parrafo_2">a) Corriente alterna: igual o inferior a 1.000 voltios.</p>
+        <p class="parrafo">b) Corriente continua: igual o inferior a 1.500 voltios.</p>
+        <p class="parrafo_2">2. El presente Reglamento se aplicará:</p>
+        <p class="parrafo_2">a) A las nuevas instalaciones, a sus modificaciones y a sus ampliaciones.</p>
+        <p class="parrafo">b) A las modificaciones, reparaciones y ampliaciones, sean o no de importancia, de las instalaciones existentes antes de su entrada en vigor, solo en lo que afecta a la parte modificada, reparada o ampliada, y siempre y cuando se tomen las medidas necesarias para garantizar las condiciones de seguridad del conjunto de la instalación.</p>
+        <p class="parrafo">c) A las instalaciones existentes antes de su entrada en vigor, en lo referente al régimen de inspecciones, si bien los criterios técnicos aplicables en dichas inspecciones serán los correspondientes a la reglamentación con la que se aprobaron.</p>
+        <p class="parrafo">Se entenderá por modificaciones o reparaciones de importancia, a los efectos de la documentación exigible y de la obligatoriedad de inspección inicial, a las que afectan a más del 50 por 100 de la potencia instalada. Igualmente se considerará modificación de importancia la que afecte a líneas completas de procesos productivos con nuevos circuitos y cuadros, aun con reducción de potencia.</p>
+        <blockquote caduca="20210701" class="soloTexto">
+          <p class="parrafo">Téngase en cuenta que esta última actualización del apartado 2 establecida por el art. 1.1 del Real Decreto 298/2021, de 27 de abril. <a class="refPost">Ref. BOE-A-2021-6879#ap</a>, entra en vigor el 1 de julio de 2021 según determina su disposición final 2.</p>
+          <p class="cita_con_pleca">Redacción anterior:</p>
+          <p class="parrafo_2">"2. El presente Reglamento se aplicará:</p>
+          <p class="parrafo_2">a) A las nuevas instalaciones, a sus modificaciones y a sus ampliaciones.</p>
+          <p class="parrafo">b) A las instalaciones existentes antes de su entrada en vigor que sean objeto de modificaciones de importancia, reparaciones de importancia y a sus ampliaciones.</p>
+          <p class="parrafo">c) A las instalaciones existentes antes de su entrada en vigor, en lo referente al régimen de inspecciones, si bien los criterios técnicos aplicables en dichas inspecciones serán los correspondientes a la reglamentación con la que se aprobaron.</p>
+          <p class="parrafo">Se entenderá por modificaciones o reparaciones de importancia las que afectan a más del 50 por 100 de la potencia instalada. Igualmente se considerará modificación de importancia la que afecte a líneas completas de procesos productivos con nuevos circuitos y cuadros, aun con reducción de potencia."</p>
+        </blockquote>
+        <p class="parrafo">3. Asimismo, se aplicará a las instalaciones existentes antes de su entrada en vigor, cuando su estado, situación o características impliquen un riesgo grave para las personas o los bienes, o se produzcan perturbaciones importantes en el normal funcionamiento de otras instalaciones, a juicio del órgano competente de la Comunidad Autónoma.</p>
+        <p class="parrafo">4. Se excluyen de la aplicación de este Reglamento las instalaciones y equipos de uso exclusivo en minas, material de tracción, automóviles, navíos, aeronaves, sistemas de comunicación, y los usos militares y demás instalaciones y equipos que estuvieran sujetos a reglamentación específica.</p>
+        <p class="parrafo">5. Las prescripciones del presente Reglamento y sus instrucciones técnicas complementarias (en adelante ITCs) son de carácter general unas, y específico, otras. Las específicas sustituirán, modificarán o complementarán a las generales, según los casos.</p>
+        <p class="parrafo">6. No se aplicarán las prescripciones generales, sino únicamente prescripciones específicas, que serán objeto de las correspondientes ITCs, a las instalaciones o equipos que utilizan «muy baja tensión» (hasta 50 V en corriente alterna y hasta 75 V en corriente continua), por ejemplo las redes informáticas y similares, siempre que su fuente de energía sea autónoma, no se alimenten de redes destinadas a otros suministros, o que tales instalaciones sean absolutamente independientes de las redes de baja tensión con valores por encima de los fijados para tales pequeñas tensiones.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica, con efectos de 1 de julio de 2021, el apartado 2 por el art. 1.1 del Real Decreto 298/2021, de 27 de abril. <a class="refPost">Ref. BOE-A-2021-6879#ap</a></p>
+          <p class="nota_pie_2">Téngase en cuenta, para las empresas previamente habilitadas, la disposición transitoria única del citado Real Decreto.</p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

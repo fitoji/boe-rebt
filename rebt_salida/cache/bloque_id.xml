@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="id" tipo="encabezado" titulo="INSTRUCCIONES TÉCNICAS COMPLEMENTARIAS">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="anexo">INSTRUCCIONES TÉCNICAS COMPLEMENTARIAS</p>
+      </version>
+    </bloque>
+  </data>
+</response>

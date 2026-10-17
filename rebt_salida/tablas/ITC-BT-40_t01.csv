@@ -1,0 +1,11 @@
+Régimen de conexión,Fase R,Fase S,Fase T
+Monofásico.,90÷100%,,
+Monofásico.,10÷20%,,
+Monofásico.,0,,
+Trifásico.,90÷100%,90÷100%,90÷100%
+Trifásico.,10÷20%,10÷20%,10÷20%
+Trifásico.,0,0,0
+Trifásico.,90÷100%,60÷70%,60÷70%
+Trifásico.,60÷70%,60÷70%,60÷70%
+Trifásico.,30÷40%,60÷70%,60÷70%
+Trifásico.,0,60÷70%,60÷70%

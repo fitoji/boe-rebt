@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="dt-2" tipo="precepto" titulo="Disposición transitoria segunda">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <p class="articulo">Disposición transitoria segunda. Entidades de formación.</p>
+        <p class="parrafo_2">En tanto no se determinen por las Administraciones educativas las titulaciones académicas y profesionales correspondientes a la formación mínima requerida para el ejercicio de la actividad de instalador, esta formación podrá ser acreditada, sin efectos académicos, a través de la correspondiente certificación expedida por una entidad pública o privada que tenga capacidad para desarrollar actividades formativas en esta materia y cuente con la correspondiente autorización administrativa.</p>
+        <p class="parrafo">Los requisitos de las entidades de formación serán establecidos mediante la correspondiente Orden ministerial.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

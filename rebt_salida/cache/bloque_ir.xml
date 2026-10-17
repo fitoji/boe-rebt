@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ir" tipo="encabezado" titulo="[Información relacionada]">
+      <version id_norma="BOE-A-2002-18099" fecha_publicacion="20020918" fecha_vigencia="20030918">
+        <blockquote class="docrel">
+          <p class="inforel">Información relacionada</p>
+          <p class="nota_pie">Téngase en cuenta, en cuanto al uso del lenguaje no sexista, las referencias que se establecen en la disposición adicional única del Real Decreto 298/2021, de 27 de abril. <a class="refPost">Ref. BOE-A-2021-6879#da</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

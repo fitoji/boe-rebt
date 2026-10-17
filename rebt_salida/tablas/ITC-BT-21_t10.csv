@@ -1,0 +1,31 @@
+Elemento constructivo,Colocación del tubo antes de terminar la construcción y revestimiento (*),Preparación de la roza o alojamiento durante la construcción,Ejecución de la roza después de la construcción y revestimiento,Observaciones
+Muros de:,,,,"Únicamente en rozas verticales y en las horizontales situadas a una distancia del borde superior del muro inferior a 50 cm. La roza, en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo.
+ La roza en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo. No se colocarán los tubos en diagonal."
+ladrillo macizo,SI,X,SI,"Únicamente en rozas verticales y en las horizontales situadas a una distancia del borde superior del muro inferior a 50 cm. La roza, en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo.
+ La roza en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo. No se colocarán los tubos en diagonal."
+"ladrillo hueco, siendo el n.º de huecos en sentido transversal:",,,,"Únicamente en rozas verticales y en las horizontales situadas a una distancia del borde superior del muro inferior a 50 cm. La roza, en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo.
+ La roza en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo. No se colocarán los tubos en diagonal."
+– uno,SI,X,SI,"Únicamente en rozas verticales y en las horizontales situadas a una distancia del borde superior del muro inferior a 50 cm. La roza, en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo.
+ La roza en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo. No se colocarán los tubos en diagonal."
+– dos o tres,SI,X,SI,"Únicamente en rozas verticales y en las horizontales situadas a una distancia del borde superior del muro inferior a 50 cm. La roza, en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo.
+ La roza en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo. No se colocarán los tubos en diagonal."
+– más de tres,SI,X,SI,"Únicamente en rozas verticales y en las horizontales situadas a una distancia del borde superior del muro inferior a 50 cm. La roza, en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo.
+ La roza en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo. No se colocarán los tubos en diagonal."
+bloques macizos de hormigón,SI,X,X,"Únicamente en rozas verticales y en las horizontales situadas a una distancia del borde superior del muro inferior a 50 cm. La roza, en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo.
+ La roza en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo. No se colocarán los tubos en diagonal."
+bloques huecos de hormigón,SI,X,NO,"Únicamente en rozas verticales y en las horizontales situadas a una distancia del borde superior del muro inferior a 50 cm. La roza, en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo.
+ La roza en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo. No se colocarán los tubos en diagonal."
+hormigón en masa,SI,SI,X,"Únicamente en rozas verticales y en las horizontales situadas a una distancia del borde superior del muro inferior a 50 cm. La roza, en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo.
+ La roza en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo. No se colocarán los tubos en diagonal."
+hormigón armado,SI,SI,X,"Únicamente en rozas verticales y en las horizontales situadas a una distancia del borde superior del muro inferior a 50 cm. La roza, en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo.
+ La roza en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo. No se colocarán los tubos en diagonal."
+Forjados:,,,,"Únicamente en rozas verticales y en las horizontales situadas a una distancia del borde superior del muro inferior a 50 cm. La roza, en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo.
+ La roza en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo. No se colocarán los tubos en diagonal."
+placas de hormigón,SI,SI,NO,"Únicamente en rozas verticales y en las horizontales situadas a una distancia del borde superior del muro inferior a 50 cm. La roza, en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo.
+ La roza en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo. No se colocarán los tubos en diagonal."
+forjados con nervios,SI,SI,NO,"Únicamente en rozas verticales y en las horizontales situadas a una distancia del borde superior del muro inferior a 50 cm. La roza, en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo.
+ La roza en profundidad, sólo interesará a un tabiquillo de hueco por ladrillo. No se colocarán los tubos en diagonal."
+forjados con nervios y elementos de relleno,SI,SI,NO (**),(**)  Es admisible practicar un orificio en la cara inferior del forjado para introducir los tubos en un hueco longitudinal del mismo.
+forjados con viguetas y bovedillas,SI,SI,NO (**),(**)  Es admisible practicar un orificio en la cara inferior del forjado para introducir los tubos en un hueco longitudinal del mismo.
+forjados con viguetas y tableros y revoltón,SI,SI,NO (**),(**)  Es admisible practicar un orificio en la cara inferior del forjado para introducir los tubos en un hueco longitudinal del mismo.
+de rasilla,SI,SI,NO,(**)  Es admisible practicar un orificio en la cara inferior del forjado para introducir los tubos en un hueco longitudinal del mismo.
