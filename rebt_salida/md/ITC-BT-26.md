@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIONES INTERIORES EN VIVIENDAS. PRESCRIPCIONES GENERALES DE INSTALACIÓN
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. ÁMBITO DE APLICACIÓN
 
@@ -49,21 +48,17 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 #### 7.2 Condiciones generales
 
-### 1.
- ÁMBITO DE APLICACIÓN
+### 1. ÁMBITO DE APLICACIÓN
 
 Las prescripciones objeto de esta Instrucción son complementarias de las expuestas en la ITC-BT-19 y aplicables a las instalaciones interiores de las viviendas, así como en la medida que pueda afectarles, a las de locales comerciales, de oficinas y a las de cualquier otro local destinado a fines análogos.
 
-### 2.
- TENSIONES DE UTILIZACIÓN Y ESQUEMA DE CONEXIÓN
+### 2. TENSIONES DE UTILIZACIÓN Y ESQUEMA DE CONEXIÓN
 
 Las instalaciones de las viviendas se consideran que están alimentadas por una red de distribución pública de baja tensión según el esquema de distribución «TT» (ITC-BT-08) y a una tensión de 230 V en alimentación monofásica y 230/400 V en alimentación trifásica.
 
-### 3.
- TOMAS DE TIERRA
+### 3. TOMAS DE TIERRA
 
-#### 3.1
- Instalación
+#### 3.1 Instalación
 
 En toda nueva edificación se establecerá una toma de tierra de protección, según el siguiente sistema:
 
@@ -77,15 +72,13 @@ Estas conexiones se establecerán de manera fiable y segura, mediante soldadura 
 
 Las líneas de enlace con tierra se establecerán de acuerdo con la situación y número previsto de puntos de puesta a tierra. La naturaleza y sección de estos conductores estará de acuerdo con lo indicado para ellos en la Instrucción ITC-BT-18.
 
-#### 3.2
- Elementos a conectar a tierra
+#### 3.2 Elementos a conectar a tierra
 
 A la toma de tierra establecida se conectará toda masa metálica importante, existente en la zona de la instalación, y las masas metálicas accesibles de los aparatos receptores, cuando su clase de aislamiento o condiciones de instalación así lo exijan.
 
 A esta misma toma de tierra deberán conectarse las partes metálicas de los depósitos de gasóleo, de las instalaciones de calefacción general, de las instalaciones de agua, de las instalaciones de gas canalizado y de las antenas de radio y televisión.
 
-#### 3.3
- Puntos de puesta a tierra
+#### 3.3 Puntos de puesta a tierra
 
 Los puntos de puesta a tierra se situarán:
 
@@ -99,8 +92,7 @@ d) En el punto de ubicación de la caja general de protección.
 
 e) En cualquier local donde se prevea la instalación de elementos destinados a servicios generales o especiales, y que por su clase de aislamiento o condiciones de instalación, deban ponerse a tierra.
 
-#### 3.4
- Líneas principales de tierra. Derivaciones
+#### 3.4 Líneas principales de tierra. Derivaciones
 
 Las líneas principales y sus derivaciones se establecerán en las mismas canalizaciones que las de las líneas generales de alimentación y derivaciones individuales.
 
@@ -114,28 +106,23 @@ No podrán utilizarse como conductores de tierra las tuberías de agua, gas, cal
 
 Las conexiones en los conductores de tierra serán realizadas mediante dispositivos, con tornillos de apriete u otros similares, que garanticen una continua y perfecta conexión entre aquéllos.
 
-#### 3.5
- Conductores de protección
+#### 3.5 Conductores de protección
 
 Se instalarán conductores de protección acompañando a los conductores activos en todos los circuitos de la vivienda hasta los puntos de utilización.
 
-### 4.
- PROTECCIÓN CONTRA CONTACTOS INDIRECTOS
+### 4. PROTECCIÓN CONTRA CONTACTOS INDIRECTOS
 
 La protección contra contactos indirectos se realizará mediante la puesta a tierra de las masas y empleo de los dispositivos descritos en el apartado 2.1 de la ITC-BT-25.
 
-### 5.
- CUADRO GENERAL DE DISTRIBUCIÓN
+### 5. CUADRO GENERAL DE DISTRIBUCIÓN
 
 El cuadro general de distribución estará de acuerdo con lo indicado en la ITC-BT-17. En este mismo cuadro se dispondrán los bornes o pletinas para la conexión de los conductores de protección de la instalación interior con la derivación de la línea principal de tierra.
 
 El instalador fijará de forma permanente sobre el cuadro de distribución una placa, impresa con caracteres indelebles, en la que conste su nombre o marca comercial, fecha en que se realizó la instalación, así como la intensidad asignada del interruptor general automático, que de acuerdo con lo señalado en las Instrucciones ITC-BT-10 e ITC-BT-25, corresponda a la vivienda.
 
-### 6.
- CONDUCTORES
+### 6. CONDUCTORES
 
-#### 6.1
- Naturaleza y Secciones
+#### 6.1 Naturaleza y Secciones
 
 ##### 6.1.1 Conductores activos
 
@@ -157,47 +144,44 @@ Se realizarán conforme a lo establecido en el apartado 2.11 de la ITC-BT-19.
 
 Se admitirá no obstante, las conexiones en paralelo entre bases de toma de corriente cuando éstas estén juntas y dispongan de bornes de conexión previstos para la conexión de varios conductores.
 
-### 7.
- EJECUCIÓN DE LAS INSTALACIONES
+### 7. EJECUCIÓN DE LAS INSTALACIONES
 
-#### 7.1
- Sistema de instalación
+#### 7.1 Sistema de instalación
 
 Las instalaciones se realizarán mediante algunos de los siguientes sistemas:
 
 Instalaciones empotradas:
 
-– Cables aislados bajo tubo flexible
+– Cables aislados bajo tubo flexible
 
-– Cables aislados bajo tubo curvable
+– Cables aislados bajo tubo curvable
 
 Instalaciones superficiales:
 
-– Cables aislados bajo tubo curvable
+– Cables aislados bajo tubo curvable
 
-– Cables aislados bajo tubo rígido
+– Cables aislados bajo tubo rígido
 
-– Cables aislados bajo canal protectora cerrada
+– Cables aislados bajo canal protectora cerrada
 
-– Canalizaciones prefabricadas
+– Canalizaciones prefabricadas
 
 Las instalaciones deberán cumplir lo indicado en las ITC-BT-20 e ITC-BT-21.
 
-#### 7.2
- Condiciones generales
+#### 7.2 Condiciones generales
 
 En la ejecución de las instalaciones interiores de las viviendas se deberá tener en cuenta:
 
-– No se utilizará un mismo conductor neutro para varios circuitos.
+– No se utilizará un mismo conductor neutro para varios circuitos.
 
-– Todo conductor debe poder seccionarse en cualquier punto de la instalación en el que se realice una derivación del mismo, utilizando un dispositivo apropiado, tal como un borne de conexión, de forma que permita la separación completa de cada parte del circuito del resto de la instalación.
+– Todo conductor debe poder seccionarse en cualquier punto de la instalación en el que se realice una derivación del mismo, utilizando un dispositivo apropiado, tal como un borne de conexión, de forma que permita la separación completa de cada parte del circuito del resto de la instalación.
 
-– Las tomas de corriente en una misma habitación deben estar conectadas a la misma fase.
+– Las tomas de corriente en una misma habitación deben estar conectadas a la misma fase.
 
-– Las cubiertas, tapas o envolventes, mandos y pulsadores de maniobra de aparatos tales como mecanismos, interruptores, bases, reguladores, etc., instalados en cocinas, cuartos de baño, secaderos y, en general, en los locales húmedos o mojados, así como en aquellos en que las paredes y suelos sean conductores, serán de material aislante.
+– Las cubiertas, tapas o envolventes, mandos y pulsadores de maniobra de aparatos tales como mecanismos, interruptores, bases, reguladores, etc., instalados en cocinas, cuartos de baño, secaderos y, en general, en los locales húmedos o mojados, así como en aquellos en que las paredes y suelos sean conductores, serán de material aislante.
 
-– La instalación empotrada de estos aparatos se realizará utilizando cajas especiales para su empotramiento. Cuando estas cajas sean metálicas estarán aisladas interiormente o puestas a tierra.
+– La instalación empotrada de estos aparatos se realizará utilizando cajas especiales para su empotramiento. Cuando estas cajas sean metálicas estarán aisladas interiormente o puestas a tierra.
 
-– La instalación de estos aparatos en marcos metálicos podrá realizarse siempre que los aparatos utilizados estén concebidos de forma que no permitan la posible puesta bajo tensión del marco metálico, conectándose éste al sistema de tierras.
+– La instalación de estos aparatos en marcos metálicos podrá realizarse siempre que los aparatos utilizados estén concebidos de forma que no permitan la posible puesta bajo tensión del marco metálico, conectándose éste al sistema de tierras.
 
-– La utilización de estos aparatos empotrados en bastidores o tabiques de madera u otro material aislante, cumplirá lo indicado en la ITC-BT 49.
+– La utilización de estos aparatos empotrados en bastidores o tabiques de madera u otro material aislante, cumplirá lo indicado en la ITC-BT 49.

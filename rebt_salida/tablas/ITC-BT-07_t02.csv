@@ -1,9 +1,5 @@
 Tipo de Aislamiento seco,Temperatura máxima ºC,
 Tipo de Aislamiento seco,Servicio permanente,Cortocircuito t ≤ 5s
-"Policloruro de vinilo (PVC)
- S ≤ 300 mm^2
- S > 300 mm^2","70
- 70","160
- 140"
+Policloruro de vinilo (PVC) S ≤ 300 mm^2 S > 300 mm^2,70 70,160 140
 Polietileno reticulado (XLPE),90,250
 Etileno Propileno (EPR),90,250

@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIONES INTERIORES O RECEPTORAS. PROTECCIÓN CONTRA LOS CONTACTOS DIRECTOS E INDIRECTOS
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. INTRODUCCIÓN
 
@@ -45,56 +44,51 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 #### 4.5 Protección por separación eléctrica
 
-### 1.
- INTRODUCCIÓN
+### 1. INTRODUCCIÓN
 
 La presente instrucción describe las medidas destinadas a asegurar la protección de las personas y animales domésticos contra los choques eléctricos.
 
 En la protección contra los choques eléctricos se aplicarán las medidas apropiadas:
 
-– para la protección contra los contactos directos y contra los contactos indirectos.
+– para la protección contra los contactos directos y contra los contactos indirectos.
 
-– para la protección contra contactos directos.
+– para la protección contra contactos directos.
 
-– para la protección contra contactos indirectos.
+– para la protección contra contactos indirectos.
 
-### 2.
- PROTECCIÓN CONTRA CONTACTOS DIRECTOS E INDIRECTOS
+### 2. PROTECCIÓN CONTRA CONTACTOS DIRECTOS E INDIRECTOS
 
 La protección contra los choques eléctricos para contactos directos e indirectos a la vez se realiza mediante la utilización de muy baja tensión de seguridad MBTS, que debe cumplir las siguientes condiciones:
 
-– Tensión nominal en el campo I de acuerdo a la norma UNE 20.481 y la ITC-BT-36.
+– Tensión nominal en el campo I de acuerdo a la norma UNE 20.481 y la ITC-BT-36.
 
-– Fuente de alimentación de seguridad para MBTS de acuerdo con lo indicado en la norma UNE 20.460-4-41.
+– Fuente de alimentación de seguridad para MBTS de acuerdo con lo indicado en la norma UNE 20.460-4-41.
 
-– Los circuitos de instalaciones para MBTS, cumplirán lo que se indica en la Norma UNE 20.460-4-41 y en la ITC-BT-36.
+– Los circuitos de instalaciones para MBTS, cumplirán lo que se indica en la Norma UNE 20.460-4-41 y en la ITC-BT-36.
 
-### 3.
- PROTECCIÓN CONTRA CONTACTOS DIRECTOS
+### 3. PROTECCIÓN CONTRA CONTACTOS DIRECTOS
 
 Esta protección consiste en tomar las medidas destinadas a proteger las personas contra los peligros que pueden derivarse de un contacto con las partes activas de los materiales eléctricos.
 
 Salvo indicación contraria, los medios a utilizar vienen expuestos y definidos en la Norma UNE 20.460-4-41, que son habitualmente:
 
-– Protección por aislamiento de las partes activas.
+– Protección por aislamiento de las partes activas.
 
-– Protección por medio de barreras o envolventes.
+– Protección por medio de barreras o envolventes.
 
-– Protección por medio de obstáculos.
+– Protección por medio de obstáculos.
 
-– Protección por puesta fuera de alcance por alejamiento.
+– Protección por puesta fuera de alcance por alejamiento.
 
-– Protección complementaria por dispositivos de corriente diferencial residual.
+– Protección complementaria por dispositivos de corriente diferencial residual.
 
-#### 3.1
- Protección por aislamiento de las partes activas
+#### 3.1 Protección por aislamiento de las partes activas
 
 Las partes activas deberán estar recubiertas de un aislamiento que no pueda ser eliminado más que destruyéndolo.
 
 Las pinturas, barnices, lacas y productos similares no se considera que constituyan un aislamiento suficiente en el marco de la protección contra los contactos directos.
 
-#### 3.2
- Protección por medio de barreras o envolventes
+#### 3.2 Protección por medio de barreras o envolventes
 
 Las partes activas deben estar situadas en el interior de las envolventes o detrás de barreras que posean, como mínimo, el grado de protección IP XXB, según UNE 20.324. Si se necesitan aberturas mayores para la reparación de piezas o para el buen funcionamiento de los equipos, se adoptarán precauciones apropiadas para impedir que las personas o animales domésticos toquen las partes activas y se garantizará que las personas sean conscientes del hecho de que las partes activas no deben ser tocadas voluntariamente.
 
@@ -104,14 +98,13 @@ Las barreras o envolventes deben fijarse de manera segura y ser de una robustez 
 
 Cuando sea necesario suprimir las barreras, abrir las envolventes o quitar partes de éstas, esto no debe ser posible más que:
 
-– bien con la ayuda de una llave o de una herramienta;
+– bien con la ayuda de una llave o de una herramienta;
 
-– o bien, después de quitar la tensión de las partes activas protegidas por estas barreras o estas envolventes, no pudiendo ser restablecida la tensión hasta después de volver a colocar las barreras o las envolventes;
+– o bien, después de quitar la tensión de las partes activas protegidas por estas barreras o estas envolventes, no pudiendo ser restablecida la tensión hasta después de volver a colocar las barreras o las envolventes;
 
-– o bien, si hay interpuesta una segunda barrera que posee como mínimo el grado de protección IP2X o IP XXB, que no pueda ser quitada más que con la ayuda de una llave o de una herramienta y que impida todo contacto con las partes activas.
+– o bien, si hay interpuesta una segunda barrera que posee como mínimo el grado de protección IP2X o IP XXB, que no pueda ser quitada más que con la ayuda de una llave o de una herramienta y que impida todo contacto con las partes activas.
 
-#### 3.3
- Protección por medio de obstáculos
+#### 3.3 Protección por medio de obstáculos
 
 Esta medida no garantiza una protección completa y su aplicación se limita, en la práctica, a los locales de servicio eléctrico solo accesibles al personal autorizado.
 
@@ -119,14 +112,13 @@ Los obstáculos están destinados a impedir los contactos fortuitos con las part
 
 Los obstáculos deben impedir:
 
-– bien, un acercamiento físico no intencionado a las partes activas;
+– bien, un acercamiento físico no intencionado a las partes activas;
 
-– bien, los contactos no intencionados con las partes activas en el caso de intervenciones en equipos bajo tensión durante el servicio.
+– bien, los contactos no intencionados con las partes activas en el caso de intervenciones en equipos bajo tensión durante el servicio.
 
 Los obstáculos pueden ser desmontables sin la ayuda de una herramienta o de una llave; no obstante, deben estar fijados de manera que se impida todo desmontaje involuntario.
 
-#### 3.4
- Protección por puesta fuera de alcance por alejamiento
+#### 3.4 Protección por puesta fuera de alcance por alejamiento
 
 Esta medida no garantiza una protección completa y su aplicación se limita, en la práctica a los locales de servicio eléctrico solo accesibles al personal autorizado.
 
@@ -144,8 +136,7 @@ Cuando el espacio en el que permanecen y circulan normalmente personas está lim
 
 En los emplazamientos en que se manipulen corrientemente objetos conductores de gran longitud o voluminosos, las distancias prescritas anteriormente deben aumentarse teniendo en cuenta las dimensiones de estos objetos.
 
-#### 3.5
- Protección complementaria por dispositivos de corriente diferencial-residual
+#### 3.5 Protección complementaria por dispositivos de corriente diferencial-residual
 
 Esta medida de protección está destinada solamente a complementar otras medidas de protección contra los contactos directos.
 
@@ -155,13 +146,11 @@ Cuando se prevea que las corrientes diferenciales puedan ser no senoidales (como
 
 La utilización de tales dispositivos no constituye por sí mismo una medida de protección completa y requiere el empleo de una de las medidas de protección enunciadas en los apartados 3.1 a 3.4 de la presente instrucción.
 
-### 4.
- PROTECCIÓN CONTRA LOS CONTACTOS INDIRECTOS
+### 4. PROTECCIÓN CONTRA LOS CONTACTOS INDIRECTOS
 
 Esta protección se consigue mediante la aplicación de algunas de las medidas siguientes:
 
-#### 4.1
- Protección por corte automático de la alimentación
+#### 4.1 Protección por corte automático de la alimentación
 
 El corte automático de la alimentación después de la aparición de un fallo está destinado a impedir que una tensión de contacto de valor suficiente, se mantenga durante un tiempo tal que puede dar como resultado un riesgo.
 
@@ -193,17 +182,17 @@ Tabla 1
 
 
 <!-- tabla: tablas/ITC-BT-24_t01.csv -->
-| U_0  (V) | Tiempos de interrupción  (s) |
+| U_0 (V) | Tiempos de interrupción (s) |
 |---|---|
-| 230  400  > 400 | 0,4  0,2  0,1 |
+| 230 400 > 400 | 0,4 0,2 0,1 |
 
 En la norma UNE 20.460-4-41 se indican las condiciones especiales que deben cumplirse para permitir tiempos de interrupción mayores o condiciones especiales de instalación.
 
 En el esquema TN pueden utilizarse los dispositivos de protección siguientes:
 
-– Dispositivos de protección de máxima corriente, tales como fusibles, interruptores automáticos.
+– Dispositivos de protección de máxima corriente, tales como fusibles, interruptores automáticos.
 
-– Dispositivos de protección de corriente diferencial-residual.
+– Dispositivos de protección de corriente diferencial-residual.
 
 Cuando el conductor neutro y el conductor de protección sean comunes (esquemas TN-C), no podrá utilizarse dispositivos de protección de corriente diferencial-residual.
 
@@ -237,15 +226,15 @@ I_a es la corriente que asegura el funcionamiento automático del dispositivo de
 
 U es la tensión de contacto límite convencional (50, 24V u otras, según los casos). En el esquema TT, se utilizan los dispositivos de protección siguientes:
 
-– Dispositivos de protección de corriente diferencial-residual.
+– Dispositivos de protección de corriente diferencial-residual.
 
-– Dispositivos de protección de máxima corriente, tales como fusibles, interruptores automáticos. Estos dispositivos solamente son aplicables cuando la resistencia RA tiene un valor muy bajo.
+– Dispositivos de protección de máxima corriente, tales como fusibles, interruptores automáticos. Estos dispositivos solamente son aplicables cuando la resistencia RA tiene un valor muy bajo.
 
 Cuando el dispositivo de protección es un dispositivo de protección contra las sobreintensidades, debe ser:
 
-– bien un dispositivo que posea una característica de funcionamiento de tiempo inverso e Ia debe ser la corriente que asegure el funcionamiento automático en 5 s como máximo;
+– bien un dispositivo que posea una característica de funcionamiento de tiempo inverso e Ia debe ser la corriente que asegure el funcionamiento automático en 5 s como máximo;
 
-– o bien un dispositivo que posea una característica de funcionamiento instantánea e Ia debe ser la corriente que asegura el funcionamiento instantáneo.
+– o bien un dispositivo que posea una característica de funcionamiento instantánea e Ia debe ser la corriente que asegura el funcionamiento instantáneo.
 
 La utilización de dispositivos de protección de tensión de defecto no está excluida para aplicaciones especiales cuando no puedan utilizarse los dispositivos de protección antes señalados.
 
@@ -287,19 +276,19 @@ Figura 6. Esquema IT unido a tierra por impedancia Z y con las puestas a tierra 
 
 En el esquema IT, se utilizan los dispositivos de protección siguientes:
 
-– Controladores permanentes de aislamiento
+– Controladores permanentes de aislamiento
 
-– Dispositivos de protección de corriente diferencial-residual
+– Dispositivos de protección de corriente diferencial-residual
 
-– Dispositivos de protección de máxima corriente, tales como fusibles, interruptores automáticos.
+– Dispositivos de protección de máxima corriente, tales como fusibles, interruptores automáticos.
 
 Si se ha previsto un controlador permanente de primer defecto para indicar la aparición de un primer defecto de una parte activa a masa o a tierra, debe activar una señal acústica o visual.
 
 Después de la aparición de un primer defecto, las condiciones de interrupción de la alimentación en un segundo defecto deben ser las siguientes:
 
-– Cuando se pongan a tierra masas por grupos o individualmente, las condiciones de protección son las del esquema TT, salvo que el neutro no debe ponerse a tierra.
+– Cuando se pongan a tierra masas por grupos o individualmente, las condiciones de protección son las del esquema TT, salvo que el neutro no debe ponerse a tierra.
 
-– Cuando las masas estén interconectadas mediante un conductor de protección, colectivamente a tierra, se aplican las condiciones del esquema TN, con protección mediante un dispositivo contra sobreintensidades de forma que se cumplan las condiciones siguientes:
+– Cuando las masas estén interconectadas mediante un conductor de protección, colectivamente a tierra, se aplican las condiciones del esquema TN, con protección mediante un dispositivo contra sobreintensidades de forma que se cumplan las condiciones siguientes:
 
 a) si el neutro no esta distribuido: 2 x Z_s x I_a ≤ U
 
@@ -321,9 +310,9 @@ Tabla 2
 
 
 <!-- tabla: tablas/ITC-BT-24_t02.csv -->
-| Tensión nominal de la instalación  (U_0/U) | Tiempo de interrupción  (s) |  |
+| Tensión nominal de la instalación (U_0/U) | Tiempo de interrupción (s) |  |
 |---|---|---|
-| Tensión nominal de la instalación  (U_0/U) | Neutro no distribuido | Neutro distribuido |
+| Tensión nominal de la instalación (U_0/U) | Neutro no distribuido | Neutro distribuido |
 | 230/400 | 0,4 | 0,8 |
 | 400/690 | 0,2 | 0,4 |
 | 580/1000 | 0,1 | 0,2 |
@@ -338,23 +327,21 @@ Figura 8. Corriente de segundo defecto en el esquema IT con masa conectadas a la
 
 Si no es posible utilizar dispositivos de protección contra sobreintensidades de forma que se cumpla lo anterior, se utilizarán dispositivos de protección de corriente diferencial-residual para cada aparato de utilización o se realizará una conexión equipotencial complementaria según lo dispuesto en la norma UNE 20.460-4-41
 
-4.2
- Protección por empleo de equipos de la clase II o por aislamiento equivalente.
+4.2 Protección por empleo de equipos de la clase II o por aislamiento equivalente.
 
 Se asegura esta protección por:
 
-– Utilización de equipos con un aislamiento doble o reforzado (clase II).
+– Utilización de equipos con un aislamiento doble o reforzado (clase II).
 
-– Conjuntos de aparamenta construidos en fábrica y que posean aislamiento equivalente (doble o reforzado).
+– Conjuntos de aparamenta construidos en fábrica y que posean aislamiento equivalente (doble o reforzado).
 
-– Aislamientos suplementarios montados en el curso de la instalación eléctrica y que aíslen equipos eléctricos que posean únicamente un aislamiento principal.
+– Aislamientos suplementarios montados en el curso de la instalación eléctrica y que aíslen equipos eléctricos que posean únicamente un aislamiento principal.
 
-– Aislamientos reforzados montados en el curso de la instalación eléctrica y que aíslen las partes activas descubiertas, cuando por construcción no sea posible la utilización de un doble aislamiento.
+– Aislamientos reforzados montados en el curso de la instalación eléctrica y que aíslen las partes activas descubiertas, cuando por construcción no sea posible la utilización de un doble aislamiento.
 
 La norma UNE 20.460-4-41 describe el resto de características y revestimiento que deben cumplir las envolventes de estos equipos.
 
-#### 4.3
- Protección en los locales o emplazamientos no conductores
+#### 4.3 Protección en los locales o emplazamientos no conductores
 
 La norma UNE 20.460-4-41 indica las características de las protecciones y medios para estos casos.
 
@@ -384,9 +371,9 @@ Figura 10
 
 Las paredes y suelos aislantes deben presentar una resistencia no inferior a:
 
-– 50 kΩ, si la tensión nominal de la instalación no es superior a 500 V; y
+– 50 kΩ, si la tensión nominal de la instalación no es superior a 500 V; y
 
-– 100 kΩ, si la tensión nominal de la instalación es superior a 500 V,
+– 100 kΩ, si la tensión nominal de la instalación es superior a 500 V,
 
 Si la resistencia no es superior o igual, en todo punto, al valor prescrito, estas paredes y suelos se considerarán como elementos conductores desde el punto de vista de la protección contra las descargas eléctricas.
 
@@ -398,8 +385,7 @@ Deberá evitarse que la humedad pueda comprometer el aislamiento de las paredes 
 
 Deben adoptarse medidas adecuadas para evitar que los elementos conductores puedan transferir tensiones fuera del emplazamiento considerado.
 
-#### 4.4
- Protección mediante conexiones equipotenciales locales no conectadas a tierra
+#### 4.4 Protección mediante conexiones equipotenciales locales no conectadas a tierra
 
 Los conductores de equipotencialidad deben conectar todas las masas y todos los elementos conductores que sean simultáneamente accesibles.
 
@@ -407,14 +393,13 @@ La conexión equipotencial local así realizada no debe estar conectada a tierra
 
 Deben adoptarse disposiciones para asegurar el acceso de personas al emplazamiento considerado sin que éstas puedan ser sometidas a una diferencia de potencial peligrosa. Esto se aplica concretamente en el caso en que un suelo conductor, aunque aislado del terreno, está conectado a la conexión equipotencial local.
 
-#### 4.5
- Protección por separación eléctrica
+#### 4.5 Protección por separación eléctrica
 
 El circuito debe alimentarse a través de una fuente de separación, es decir:
 
-– un transformador de aislamiento,
+– un transformador de aislamiento,
 
-– una fuente que asegure un grado de seguridad equivalente al transformador de aislamiento anterior, por ejemplo un grupo motor generador que posea una separación equivalente.
+– una fuente que asegure un grado de seguridad equivalente al transformador de aislamiento anterior, por ejemplo un grupo motor generador que posea una separación equivalente.
 
 La norma UNE 20.460-4-41 enuncia el conjunto de prescripciones que debe garantizar esta protección.
 

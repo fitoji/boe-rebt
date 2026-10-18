@@ -30,19 +30,19 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 Los contadores y demás dispositivos para la medida de la energía eléctrica, podrán estar ubicados en:
 
-– módulos (cajas con tapas precintables)
+– módulos (cajas con tapas precintables)
 
-– paneles
+– paneles
 
-– armarios
+– armarios
 
 Todos ellos, constituirán conjuntos que deberán cumplir la norma UNE-EN 60.439 partes 1, 2 y 3.
 
 El grado de protección mínimo que deben cumplir estos conjuntos, de acuerdo con la norma UNE 20.324 y UNE-EN 50.102, respectivamente.
 
-– para instalaciones de tipo interior: IP40; IK 09
+– para instalaciones de tipo interior: IP40; IK 09
 
-– para instalaciones de tipo exterior: IP43; IK 09
+– para instalaciones de tipo exterior: IP43; IK 09
 
 Deberán permitir de forma directa la lectura de los contadores e interruptores horarios, así como la del resto de dispositivos de medida, cuando así sea preciso. Las partes transparentes que permiten la lectura directa, deberán ser resistentes a los rayos ultravioleta.
 
@@ -76,11 +76,11 @@ El emplazamiento de la Caja de Protección y Medida se efectuará de acuerdo a l
 
 Para suministros industriales, comerciales o de servicios con medida indirecta, dada la complejidad y diversidad que ofrecen, la solución a adoptar será la que se especifique en las requisitos particulares de la empresa suministradora para cada caso en concreto, partiendo de los siguientes principios:
 
-– fácil lectura del equipo de medida
+– fácil lectura del equipo de medida
 
-– acceso permanente a los fusibles generales de protección
+– acceso permanente a los fusibles generales de protección
 
-– garantías de seguridad y mantenimiento
+– garantías de seguridad y mantenimiento
 
 El usuario será responsable del quebrantamiento de los precintos que coloquen los organismos oficiales o las empresas suministradoras, así como de la rotura de cualquiera de los elementos que queden bajo su custodia, cuando el contador esté instalado dentro de su local o vivienda. En el caso de que el contador se instale fuera, será responsable el propietario del edificio.
 
@@ -88,11 +88,11 @@ El usuario será responsable del quebrantamiento de los precintos que coloquen l
 
 En el caso de:
 
-– edificios destinados a viviendas y locales comerciales
+– edificios destinados a viviendas y locales comerciales
 
-– edificios comerciales
+– edificios comerciales
 
-– edificios destinados a una concentración de industrias
+– edificios destinados a una concentración de industrias
 
 Los contadores y demás dispositivos para la medida de la energía eléctrica de cada uno de los usuarios y de los servicios generales del edificio, podrán concentrarse en uno o varios lugares, para cada uno de los cuales habrá de preverse en el edificio un armario o local adecuado a este fin, donde se colocarán los distintos elementos necesarios para su instalación.
 
@@ -100,9 +100,9 @@ Cuando el número de contadores a instalar sea superior a 16, será obligatoria 
 
 En función de la naturaleza y número de contadores, así como de las plantas del edificio, la concentración de los contadores se situará de la forma siguiente:
 
-– En edificios de hasta 12 plantas se colocarán en la planta baja, entresuelo o primer sótano. En edificios superiores a 12 plantas se podrá concentrar por plantas intermedias, comprendiendo cada concentración los contadores de 6 o más plantas.
+– En edificios de hasta 12 plantas se colocarán en la planta baja, entresuelo o primer sótano. En edificios superiores a 12 plantas se podrá concentrar por plantas intermedias, comprendiendo cada concentración los contadores de 6 o más plantas.
 
-– Podrán disponerse concentraciones por plantas cuando el número de contadores en cada una de las concentraciones sea superior a 16.
+– Podrán disponerse concentraciones por plantas cuando el número de contadores en cada una de las concentraciones sea superior a 16.
 
 ##### 2.2.1 En local
 
@@ -110,25 +110,25 @@ Este local que estará dedicado única y exclusivamente a este fin podrá, adem�
 
 El local cumplirá las condiciones de protección contra incendios que establece la NBECPI-96 para los locales de riesgo especial bajo y responderá a las siguientes condiciones:
 
-– estará situado en la planta baja, entresuelo o primer sótano, salvo cuando existan concentraciones por plantas, en un lugar lo más próximo posible a la entrada del edificio y a la canalización de las derivaciones individuales. Será de fácil y libre acceso, tal como portal o recinto de portería y el local nunca podrá coincidir con el de otros servicios tales como cuarto de calderas, concentración de contadores de agua, gas, telecomunicaciones, maquinaria de ascensores o de otros como almacén, cuarto trastero, de basuras, etc.
+– estará situado en la planta baja, entresuelo o primer sótano, salvo cuando existan concentraciones por plantas, en un lugar lo más próximo posible a la entrada del edificio y a la canalización de las derivaciones individuales. Será de fácil y libre acceso, tal como portal o recinto de portería y el local nunca podrá coincidir con el de otros servicios tales como cuarto de calderas, concentración de contadores de agua, gas, telecomunicaciones, maquinaria de ascensores o de otros como almacén, cuarto trastero, de basuras, etc.
 
-– no servirá nunca de paso ni de acceso a otros locales.
+– no servirá nunca de paso ni de acceso a otros locales.
 
-– estará construido con paredes de clase M0 y suelos de clase M1, separado de otros locales que presenten riesgos de incendio o produzcan vapores corrosivos y no estará expuesto a vibraciones ni humedades.
+– estará construido con paredes de clase M0 y suelos de clase M1, separado de otros locales que presenten riesgos de incendio o produzcan vapores corrosivos y no estará expuesto a vibraciones ni humedades.
 
-– dispondrá de ventilación y de iluminación suficiente para comprobar el buen funcionamiento de todos los componentes de la concentración.
+– dispondrá de ventilación y de iluminación suficiente para comprobar el buen funcionamiento de todos los componentes de la concentración.
 
-– cuando la cota del suelo sea inferior o igual a la de los pasillos o locales colindantes, deberán disponerse sumideros de desagüe para que en el caso de avería, descuido o rotura de tuberías de agua, no puedan producirse inundaciones en el local.
+– cuando la cota del suelo sea inferior o igual a la de los pasillos o locales colindantes, deberán disponerse sumideros de desagüe para que en el caso de avería, descuido o rotura de tuberías de agua, no puedan producirse inundaciones en el local.
 
-– las paredes donde debe fijarse la concentración de contadores tendrán una resistencia no inferior a la del tabicón de medio pie de ladrillo hueco.
+– las paredes donde debe fijarse la concentración de contadores tendrán una resistencia no inferior a la del tabicón de medio pie de ladrillo hueco.
 
-– el local tendrá una altura mínima de 2,30 m y una anchura mínima en paredes ocupadas por contadores de 1,50 m. Sus dimensiones serán tales que las distancias desde la pared donde se instale la concentración de contadores hasta el primer obstáculo que tenga enfrente sean de 1,10 m. La distancia entre los laterales de dicha concentración y sus paredes colindantes será de 20 cm. La resistencia al fuego del local corresponderá a lo establecido en la Norma NBECPI-96 para locales de riesgo especial bajo.
+– el local tendrá una altura mínima de 2,30 m y una anchura mínima en paredes ocupadas por contadores de 1,50 m. Sus dimensiones serán tales que las distancias desde la pared donde se instale la concentración de contadores hasta el primer obstáculo que tenga enfrente sean de 1,10 m. La distancia entre los laterales de dicha concentración y sus paredes colindantes será de 20 cm. La resistencia al fuego del local corresponderá a lo establecido en la Norma NBECPI-96 para locales de riesgo especial bajo.
 
-– la puerta de acceso abrirá hacia el exterior y tendrá una dimensión mínima de 0,70 x 2 m, su resistencia al fuego corresponderá a lo establecido para puertas de locales de riesgo especial bajo en la Norma NBE-CPI-96 y estará equipada con la cerradura que tenga normalizada la empresa distribuidora.
+– la puerta de acceso abrirá hacia el exterior y tendrá una dimensión mínima de 0,70 x 2 m, su resistencia al fuego corresponderá a lo establecido para puertas de locales de riesgo especial bajo en la Norma NBE-CPI-96 y estará equipada con la cerradura que tenga normalizada la empresa distribuidora.
 
-– dentro del local e inmediato a la entrada deberá instalarse un equipo autónomo de alumbrado de emergencia, de autonomía no inferior a 1 hora y proporcionando un nivel mínimo de iluminación de 5 lux.
+– dentro del local e inmediato a la entrada deberá instalarse un equipo autónomo de alumbrado de emergencia, de autonomía no inferior a 1 hora y proporcionando un nivel mínimo de iluminación de 5 lux.
 
-– en el exterior del local y lo más próximo a la puerta de entrada, deberá existir un extintor móvil, de eficacia mínima 21B, cuya instalación y mantenimiento será a cargo de la propiedad del edificio.
+– en el exterior del local y lo más próximo a la puerta de entrada, deberá existir un extintor móvil, de eficacia mínima 21B, cuya instalación y mantenimiento será a cargo de la propiedad del edificio.
 
 ##### 2.2.2 En armario
 
@@ -136,17 +136,17 @@ Si el número de contadores a centralizar es igual o inferior a 16, además de p
 
 Este armario, reunirá los siguientes requisitos:
 
-– estará situado en la planta baja, entresuelo o primer sótano del edificio, salvo cuando existan concentraciones por plantas, empotrado o adosado sobre un paramento de la zona común de la entrada lo más próximo a ella y a la canalización de las derivaciones individuales.
+– estará situado en la planta baja, entresuelo o primer sótano del edificio, salvo cuando existan concentraciones por plantas, empotrado o adosado sobre un paramento de la zona común de la entrada lo más próximo a ella y a la canalización de las derivaciones individuales.
 
-– no tendrá bastidores intermedios que dificulten la instalación o lectura de los contadores y demás dispositivos.
+– no tendrá bastidores intermedios que dificulten la instalación o lectura de los contadores y demás dispositivos.
 
-– desde la parte más saliente del armario hasta la pared opuesta deberá respetarse un pasillo de 1,5 m como mínimo.
+– desde la parte más saliente del armario hasta la pared opuesta deberá respetarse un pasillo de 1,5 m como mínimo.
 
-– los armarios tendrán una característica parallamas mínima, PF 30
+– los armarios tendrán una característica parallamas mínima, PF 30
 
-– las puertas de cierre, dispondrán de la cerradura que tenga normalizada la empresa suministradora.
+– las puertas de cierre, dispondrán de la cerradura que tenga normalizada la empresa suministradora.
 
-– dispondrá de ventilación y de iluminación suficiente y en sus inmediaciones, se instalará un extintor móvil, de eficacia mínima 21B, cuya instalación y mantenimiento será a cargo de la propiedad del edificio. Igualmente, se colocará una base de enchufe (toma de corriente) con toma de tierra de 16 A para servicios de mantenimiento.
+– dispondrá de ventilación y de iluminación suficiente y en sus inmediaciones, se instalará un extintor móvil, de eficacia mínima 21B, cuya instalación y mantenimiento será a cargo de la propiedad del edificio. Igualmente, se colocará una base de enchufe (toma de corriente) con toma de tierra de 16 A para servicios de mantenimiento.
 
 ### 3. CONCENTRACIÓN DE CONTADORES
 
@@ -166,7 +166,7 @@ El cableado que efectúa las uniones embarrado-contador-borne de salida podrá i
 
 Las concentraciones, estarán formadas eléctricamente, por las siguientes unidades funcionales:
 
-– Unidad funcional de interruptor general de maniobra
+– Unidad funcional de interruptor general de maniobra
 
 Su misión es dejar fuera de servicio, en caso de necesidad, toda la concentración de contadores. Será obligatoria para concentraciones de más de dos usuarios.
 
@@ -178,25 +178,25 @@ Cuando exista más de una línea general de alimentación se colocará un interr
 
 El interruptor será, como mínimo, de 160 A para previsiones de carga hasta 90 kW, y de 250 A para las superiores a ésta, hasta 150 kW.
 
-– Unidad funcional de embarrado general y fusibles de seguridad
+– Unidad funcional de embarrado general y fusibles de seguridad
 
 Contiene el embarrado general de la concentración y los fusibles de seguridad correspondiente a todos los suministros que estén conectados al mismo. Dispondrá de una protección aislante que evite contactos accidentales con el embarrado general al acceder a los fusibles de seguridad.
 
-– Unidad funcional de medida
+– Unidad funcional de medida
 
 Contiene los contadores, interruptores horarios y/o dispositivos de mando para la medida de la energía eléctrica.
 
-– Unidad funcional de mando (opcional)
+– Unidad funcional de mando (opcional)
 
 Contiene los dispositivos de mando para el cambio de tarifa de cada suministro.
 
-– Unidad funcional de embarrado de protección y bornes de salida
+– Unidad funcional de embarrado de protección y bornes de salida
 
 Contiene el embarrado de protección donde se conectarán los cables de protección de cada derivación individual así como los bornes de salida de las derivaciones individuales.
 
 El embarrado de protección, deberá estar señalizado con el símbolo normalizado de puesta a tierra y conectado a tierra.
 
-– Unidad funcional de telecomunicaciones (opcional)
+– Unidad funcional de telecomunicaciones (opcional)
 
 Contiene el espacio para el equipo de comunicación y adquisición de datos.
 

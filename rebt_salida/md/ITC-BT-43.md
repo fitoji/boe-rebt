@@ -34,8 +34,7 @@ La presente instrucción establece los requisitos generales de instalación de r
 
 De acuerdo al Articulo 6 del Reglamento Electrotécnico para Baja Tensión, los requisitos de todas las instrucciones relativas a receptores no sustituyen ni eximen el cumplimiento de lo establecido en la Directiva de Baja Tensión (73/23/CEE) y en la Directiva de Compatibilidad Electromagnética (89/336/CEE) para dichos receptores y sus elementos constitutivos, aun cuando los receptores no se suministren totalmente montados y el montaje final se realice durante la instalación, como por ejemplo algunos tipos de luminarias o equipos eléctricos de maquinas industriales, etc.
 
-### 2.
- GENERALIDADES
+### 2. GENERALIDADES
 
 #### 2.1 Condiciones generales de instalación
 
@@ -60,13 +59,11 @@ Esta clasificación no implica que los receptores puedan ser de cualquiera de lo
 
 El empleo de aparatos previstos para ser alimentados a muy baja tensión de seguridad (según ITC-BT-36), pero que incorporan circuitos que funcionan a una tensión superior a esta, no se considerarán de clase III a menos que las disposiciones constructivas aseguren entre los circuitos a distintas tensiones, un aislamiento equivalente al correspondiente a un transformador de seguridad según UNE-EN 60.742 o UNE-EN 61558-2-4
 
-#### 2.3
- Condiciones de utilización
+#### 2.3 Condiciones de utilización
 
 Las condiciones de utilización de los receptores dependerán de su clase y de las características de los locales donde sean instalados. A este respecto se tendrá en cuenta lo dispuesto en la ITC-BT-24. Los receptores de la Clase II y los de la Clase III se podrán utilizar sin tomar medida de protección adicional contra los contactos indirectos.
 
-#### 2.4
- Tensiones de alimentación
+#### 2.4 Tensiones de alimentación
 
 Los receptores no deberán, en general, conectarse a instalaciones cuya tensión asignada sea diferente a la indicada en el mismo. Sobre éstos podrá señalarse una única tensión asignada o una gama de tensiones que señale con sus límites inferior o superior las tensiones para su funcionamiento asignadas por el fabricante del aparato.
 
@@ -74,8 +71,7 @@ Los receptores de tensión asignada única, podrán funcionar en relación con �
 
 Los receptores podrán estar previstos para el cambio de su tensión asignada de alimentación, y cuando este cambio se realice por medio de dispositivos conmutadores, estarán dispuestos de manera que no pueda producirse una modificación accidental de los mismos.
 
-#### 2.5
- Conexión de receptores
+#### 2.5 Conexión de receptores
 
 Todo receptor será accionado por un dispositivo que puede ir incorporado al mismo o a la instalación alimentadora. Para este accionamiento se utilizará alguno de los dispositivos indicados en la ITC-BT-19.
 
@@ -89,24 +85,23 @@ En los receptores que produzcan calor, si las partes del mismo que puedan tocar 
 
 La conexión de los cables aptos para usos móviles a la instalación alimentadora se realizará utilizando:
 
-– Clavija y Toma de corriente
+– Clavija y Toma de corriente
 
-– Cajas de conexión
+– Cajas de conexión
 
-– Trole para el caso de vehículos a tracción eléctrica o aparatos movibles.
+– Trole para el caso de vehículos a tracción eléctrica o aparatos movibles.
 
 La conexión de cables aptos para usos móviles a los aparatos destinados a usos domésticos o análogos se realizará utilizando:
 
-– Cable flexible, con cubierta de protección, fijado permanentemente al aparato.
+– Cable flexible, con cubierta de protección, fijado permanentemente al aparato.
 
-– Cable flexible, con cubierta de protección, fijado al aparato por medio de un conector, de manera que las partes activas del mismo no sean accesibles cuando estén bajo tensión.
+– Cable flexible, con cubierta de protección, fijado al aparato por medio de un conector, de manera que las partes activas del mismo no sean accesibles cuando estén bajo tensión.
 
 La tensión asignada de los cables utilizados será como mínimo la tensión de alimentación y nunca inferior a 300/300 V. Sus secciones no serán inferiores a 0,5 mm^2. Las características del cable a emplear serán coherentes con su utilización prevista.
 
 Las clavijas utilizadas para la conexión de los receptores a las base de toma de corriente de la instalación de alimentación serán de los tipos indicados en las figuras ESC 10-1b, C2b, C4, C6 o ESB 25-5b, de la norma UNE 20315 o clavija conforme a la norma UNE EN 50075. Adicionalmente, los receptores no destinados a uso en viviendas podrán incorporar clavijas conforme a la serie de normas UNE EN 60309.
 
-2.6
- Utilización de receptores que desequilibren las fases o produzcan fuertes oscilaciones de la potencia absorbida
+2.6 Utilización de receptores que desequilibren las fases o produzcan fuertes oscilaciones de la potencia absorbida
 
 No se podrán instalar sin consentimiento expreso de la Empresa que suministra la energí a, aparatos receptores que produzcan desequilibrios importantes en las distribuciones polifásicas.
 
@@ -114,16 +109,15 @@ En los motores que accionan máquinas de par resistente muy variable y en otros 
 
 Cuando se compruebe que tales receptores no cumplen la condición indicada, o que producen perturbaciones en la red de distribución de energía de la Empresa distribuidora, ésta podrá, previa autorización del Organismo competente, negar el suministro a tales receptores y solicitar que se instalen los sistemas de corrección apropiados.
 
-#### 2.7
- Compensación del factor de potencia
+#### 2.7 Compensación del factor de potencia
 
 Las instalaciones que suministren energía a receptores de los que resulte un factor de potencia inferior a 1, podrán ser compensadas, pero sin que en ningún momento la energía absorbida por la red pueda ser capacitiva.
 
 La compensación del factor de potencia podrá hacerse de una de las dos formas siguientes:
 
-– Por cada receptor o grupo de receptores que funcionen simultáneamente y se conecten por medio de un sólo interruptor. En este caso el interruptor debe cortar la alimentación simultáneamente al receptor o grupo de receptores y al condensador.
+– Por cada receptor o grupo de receptores que funcionen simultáneamente y se conecten por medio de un sólo interruptor. En este caso el interruptor debe cortar la alimentación simultáneamente al receptor o grupo de receptores y al condensador.
 
-– Para la totalidad de la instalación. En este caso, la instalación de compensación ha de estar dispuesta para que, de forma automática, asegure que la variación del factor de potencia no sea mayor de un ± 10 % del valor medio obtenido durante un prolongado período de funcionamiento.
+– Para la totalidad de la instalación. En este caso, la instalación de compensación ha de estar dispuesta para que, de forma automática, asegure que la variación del factor de potencia no sea mayor de un ± 10 % del valor medio obtenido durante un prolongado período de funcionamiento.
 
 Cuando se instalen condensadores y la conexión de éstos con los receptores pueda ser cortada por medio de interruptores, los condensadores irán provistos de resistencias o reactancias de descarga a tierra.
 

@@ -216,9 +216,9 @@ CONECTOR
 
 Conjunto destinado a conectar eléctricamente un cable a un aparato eléctrico. Se compone de dos partes:
 
-– Una toma móvil, que es la parte que forma cuerpo con el conductor de alimentación.
+– Una toma móvil, que es la parte que forma cuerpo con el conductor de alimentación.
 
-– Una base, que es la parte incorporada o fijada al aparato de utilización.
+– Una base, que es la parte incorporada o fijada al aparato de utilización.
 
 CONEXIÓN EQUIPOTENCIAL
 
@@ -306,9 +306,9 @@ CORTE OMNIPOLAR
 
 Corte de todos los conductores activos. Puede ser:
 
-– Simultáneo, cuando la conexión y desconexión se efectúa al mismo tiempo en el conductor neutro o compensador y en las fases o polares.
+– Simultáneo, cuando la conexión y desconexión se efectúa al mismo tiempo en el conductor neutro o compensador y en las fases o polares.
 
-– No simultáneo, cuando la conexión del neutro o compensador se establece antes que las de las fases o polares y se desconectan éstas antes que el neutro o compensador.
+– No simultáneo, cuando la conexión del neutro o compensador se establece antes que las de las fases o polares y se desconectan éstas antes que el neutro o compensador.
 
 CUBIERTA DE UN CABLE
 
@@ -390,13 +390,13 @@ Son aquellas que tienen, en tiempo, una duración limitada a las circunstancias 
 
 Pueden ser:
 
-– DE REPARACIÓN. Las necesarias para paliar un incidente de explotación.
+– DE REPARACIÓN. Las necesarias para paliar un incidente de explotación.
 
-– DE TRABAJOS. Las realizadas para permitir cambios o transformaciones de las instalaciones, sin interrumpir la explotación.
+– DE TRABAJOS. Las realizadas para permitir cambios o transformaciones de las instalaciones, sin interrumpir la explotación.
 
-– SEMI-PERMANENTES. Las destinadas a modificaciones de duración limitada, en el marco de actividades habituales de los locales en los que se repitan periódicamente (Ferias).
+– SEMI-PERMANENTES. Las destinadas a modificaciones de duración limitada, en el marco de actividades habituales de los locales en los que se repitan periódicamente (Ferias).
 
-– DE OBRAS. Son las destinadas a la ejecución de trabajos de construcción de edificios y similares.
+– DE OBRAS. Son las destinadas a la ejecución de trabajos de construcción de edificios y similares.
 
 INTENSIDAD DE DEFECTO
 
@@ -410,11 +410,11 @@ INTERRUPTOR DE CONTROL DE POTENCIA Y MAGNETOTÉRMICO
 
 Aparato de conexión que integra todos los dispositivos necesarios para asegurar de forma coordinada:
 
-– Mando
+– Mando
 
-– Protección contra sobrecargas
+– Protección contra sobrecargas
 
-– Protección contra cortocircuitos
+– Protección contra cortocircuitos
 
 INTERRUPTOR DIFERENCIAL
 
@@ -434,11 +434,11 @@ Conjunto de las partes metálicas de un aparato que, en condiciones normales, es
 
 Las masas comprenden normalmente:
 
-– Las partes metálicas accesibles de los materiales y de los equipos eléctricos, separadas de las partes activas solamente por un aislamiento funcional, las cuales son susceptibles de ser puestas en tensión a consecuencia de un fallo de las disposiciones tomadas para asegurar su aislamiento. Este fallo puede resultar de un defecto del aislamiento funcional, o de las disposiciones de fijación y de protección.
+– Las partes metálicas accesibles de los materiales y de los equipos eléctricos, separadas de las partes activas solamente por un aislamiento funcional, las cuales son susceptibles de ser puestas en tensión a consecuencia de un fallo de las disposiciones tomadas para asegurar su aislamiento. Este fallo puede resultar de un defecto del aislamiento funcional, o de las disposiciones de fijación y de protección.
 
-– Por tanto, son masas las partes metálicas accesibles de los materiales eléctricos, excepto los de Clase II, las armaduras metálicas de los cables y las condiciones metálicas de agua, gas, etc.
+– Por tanto, son masas las partes metálicas accesibles de los materiales eléctricos, excepto los de Clase II, las armaduras metálicas de los cables y las condiciones metálicas de agua, gas, etc.
 
-– Los elementos metálicos en conexión eléctrica o en contacto con las superficies exteriores de materiales eléctricos, que estén separadas de las partes activas por aislamientos funcionales, lleven o no estas superficies exteriores algún elemento metálico.
+– Los elementos metálicos en conexión eléctrica o en contacto con las superficies exteriores de materiales eléctricos, que estén separadas de las partes activas por aislamientos funcionales, lleven o no estas superficies exteriores algún elemento metálico.
 
 Por tanto son masas: las piezas metálicas que forman parte de las canalizaciones eléctricas, los soportes de aparatos eléctricos con aislamiento funcional, y las piezas colocadas en contacto con la envoltura exterior de estos aparatos.
 
@@ -530,9 +530,9 @@ PROTECCIÓN CONTRA CHOQUES ELÉCTRICOS EN CASO DE DEFECTO
 
 Prevención de contactos peligros de personas o de animales con:
 
-– Masas
+– Masas
 
-– Elementos conductores susceptibles de ser puestos bajo tensión en caso de defecto.
+– Elementos conductores susceptibles de ser puestos bajo tensión en caso de defecto.
 
 PUNTO A POTENCIAL CERO
 
@@ -570,9 +570,9 @@ REDES DE DISTRIBUCIÓN PRIVADAS
 
 Son las destinadas, por un único usuario, a la distribución de energía eléctrica en Baja Tensión, a locales o emplazamiento de su propiedad o a otros especialmente autorizados por el Órgano Competente de la Administración. Las redes de distribución privadas pueden tener su origen:
 
-– En centrales de generación propia
+– En centrales de generación propia
 
-– En redes de distribución pública. En este caso, son aplicables en el punto de entrega de la energía, los preceptos fijados por los Reglamentos vigentes que regulen las actividades de distribución, comercialización y suministro de energía eléctrica, y en las especificaciones particulares de la empresa eléctrica, aprobadas oficialmente, si las hubiera.
+– En redes de distribución pública. En este caso, son aplicables en el punto de entrega de la energía, los preceptos fijados por los Reglamentos vigentes que regulen las actividades de distribución, comercialización y suministro de energía eléctrica, y en las especificaciones particulares de la empresa eléctrica, aprobadas oficialmente, si las hubiera.
 
 REDES DE DISTRIBUCIÓN PÚBLICA
 
@@ -580,9 +580,9 @@ Son las destinadas al suministro de energía eléctrica en Baja Tensión a vario
 
 Las redes de distribución pública pueden ser:
 
-– Pertenecientes a empresas distribuidoras de energía
+– Pertenecientes a empresas distribuidoras de energía
 
-– De propiedad particular o colectiva
+– De propiedad particular o colectiva
 
 RESISTENCIA LIMITADORA
 
@@ -610,9 +610,9 @@ La medida de aislamiento de un suelo se efectúa recubriendo el suelo con una te
 
 Se mide la tensión con la ayuda de un voltímetro de gran resistencia interna (R_i no inferior a 3.000 Ω, sucesivamente:
 
-– Entre un conductor de fase y la placa metálica, (U_2)
+– Entre un conductor de fase y la placa metálica, (U_2)
 
-– Entre este mismo conductor de fase y una toma de tierra, eléctricamente distinta T, de resistencia despreciable con relación a R_i, se mide la tensión U_1.
+– Entre este mismo conductor de fase y una toma de tierra, eléctricamente distinta T, de resistencia despreciable con relación a R_i, se mide la tensión U_1.
 
 La resistencia buscada viene dada por la fórmula:
 

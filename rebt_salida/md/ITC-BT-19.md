@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIONES INTERIORES O RECEPTORAS. PRESCRIPCIONES GENERALES
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. CAMPO DE APLICACIÓN
 
@@ -45,21 +44,17 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 #### 2.11 Conexiones
 
-### 1.
- CAMPO DE APLICACIÓN
+### 1. CAMPO DE APLICACIÓN
 
 Las prescripciones contenidas en esta Instrucción se extienden a las instalaciones interiores dentro del campo de aplicación del artículo 2 y con tensión asignada dentro de los márgenes de tensión fijados en el artículo 4 del Reglamento Electrotécnico para Baja Tensión.
 
-### 2.
- PRESCRIPCIONES DE CARÁCTER GENERAL
+### 2. PRESCRIPCIONES DE CARÁCTER GENERAL
 
-#### 2.1
- Regla general
+#### 2.1 Regla general
 
 La determinación de las características de la instalación deberá efectuarse de acuerdo con lo señalado en la Norma UNE 20.460-3.
 
-#### 2.2
- Conductores activos
+#### 2.2 Conductores activos
 
 ##### 2.2.1 Naturaleza de los conductores
 
@@ -91,8 +86,7 @@ Los conductores de la instalación deben ser fácilmente identificables, especia
 
 Cuando se considere necesario identificar tres fases diferentes, se utilizará también el color gris.
 
-#### 2.3
- Conductores de protección
+#### 2.3 Conductores de protección
 
 Se aplicará lo indicado en la Norma UNE 20.460-5-54 en su apartado 543. Como ejemplo, para los conductores de protección que estén constituidos por el mismo metal que los conductores de fase o polares, tendrán una sección mínima igual a la fijada en la tabla 2, en función de la sección de los conductores de fase o polares de la instalación; en caso de que sean de distinto material, la sección se determinará de forma que presente una conductividad equivalente a la que resulta de aplicar la tabla 2.
 
@@ -100,53 +94,50 @@ Tabla 2
 
 
 <!-- tabla: tablas/ITC-BT-19_t01.csv -->
-| Secciones de los conductores de fase o polares de la instalación  (mm^2) | Secciones mínimas de los conductores de protección  (mm^2) |
+| Secciones de los conductores de fase o polares de la instalación (mm^2) | Secciones mínimas de los conductores de protección (mm^2) |
 |---|---|
-| S ≤ 16  16< S ≤ 35  S > 35 | S (*)  16  S/2 |
-| (*) Con un mínimo de:  2,5 mm^2 si los conductores de protección no forman parte de la canalización de alimentación y tienen una protección mecánica  4 mm^2 si los conductores de protección no forman parte de la canalización de alimentación y no tienen una protección mecánica |  |
+| S ≤ 16 16< S ≤ 35 S > 35 | S (*) 16 S/2 |
+| (*) Con un mínimo de: 2,5 mm^2 si los conductores de protección no forman parte de la canalización de alimentación y tienen una protección mecánica 4 mm^2 si los conductores de protección no forman parte de la canalización de alimentación y no tienen una protección mecánica |  |
 
 Para otras condiciones se aplicará la norma UNE 20.460-5-54, apartado 543.
 
 En la instalación de los conductores de protección se tendrá en cuenta:
 
-– Si se aplican diferentes sistemas de protección en instalaciones próximas, se empleará para cada uno de los sistemas un conductor de protección distinto. Los sistemas a utilizar estarán de acuerdo con los indicados en la norma UNE 20.460-3. En los pasos a través de paredes o techos estarán protegidos por un tubo de adecuada resistencia mecánica, según ITC-BT 21 para canalizaciones empotradas.
+– Si se aplican diferentes sistemas de protección en instalaciones próximas, se empleará para cada uno de los sistemas un conductor de protección distinto. Los sistemas a utilizar estarán de acuerdo con los indicados en la norma UNE 20.460-3. En los pasos a través de paredes o techos estarán protegidos por un tubo de adecuada resistencia mecánica, según ITC-BT 21 para canalizaciones empotradas.
 
-– No se utilizará un conductor de protección común para instalaciones de tensiones nominales diferentes.
+– No se utilizará un conductor de protección común para instalaciones de tensiones nominales diferentes.
 
-– Si los conductores activos van en el interior de una envolvente común, se recomienda incluir también dentro de ella el conductor de protección, en cuyo caso presentará el mismo aislamiento que los otros conductores. Cuando el conductor de protección se instale fuera de esta canalización seguirá el curso de la misma.
+– Si los conductores activos van en el interior de una envolvente común, se recomienda incluir también dentro de ella el conductor de protección, en cuyo caso presentará el mismo aislamiento que los otros conductores. Cuando el conductor de protección se instale fuera de esta canalización seguirá el curso de la misma.
 
-– En una canalización móvil todos los conductores incluyendo el conductor de protección, irán por la misma canalización
+– En una canalización móvil todos los conductores incluyendo el conductor de protección, irán por la misma canalización
 
-– En el caso de canalizaciones que incluyan conductores con aislamiento mineral, la cubierta exterior de estos conductores podrá utilizarse como conductor de protección de los circuitos correspondientes, siempre que su continuidad quede perfectamente asegurada y su conductividad sea como mínimo igual a la que resulte de la aplicación de la Norma UNE 20.460-5-54, apartado 543.
+– En el caso de canalizaciones que incluyan conductores con aislamiento mineral, la cubierta exterior de estos conductores podrá utilizarse como conductor de protección de los circuitos correspondientes, siempre que su continuidad quede perfectamente asegurada y su conductividad sea como mínimo igual a la que resulte de la aplicación de la Norma UNE 20.460-5-54, apartado 543.
 
-– Cuando las canalizaciones estén constituidas por conductores aislados colocados bajo tubos de material ferromagnético, o por cables que contienen una armadura metálica, los conductores de protección se colocarán en los mismos tubos o formarán parte de los mismos cables que los conductores activos.
+– Cuando las canalizaciones estén constituidas por conductores aislados colocados bajo tubos de material ferromagnético, o por cables que contienen una armadura metálica, los conductores de protección se colocarán en los mismos tubos o formarán parte de los mismos cables que los conductores activos.
 
-– Los conductores de protección estarán convenientemente protegidos contra el deterioro mecánicos y químicos, especialmente en los pasos a través de los elementos de la construcción.
+– Los conductores de protección estarán convenientemente protegidos contra el deterioro mecánicos y químicos, especialmente en los pasos a través de los elementos de la construcción.
 
-– Las conexiones en estos conductores se realizarán por medio de uniones soldadas sin empleo de ácido o por piezas de conexión de apriete por rosca, debiendo ser accesibles para verificación y ensayo. Estas piezas serán de material inoxidable y los tornillos de apriete, si se usan, estarán previstos para evitar su desapriete. Se considera que los dispositivos que cumplan con la norma UNE-EN 60.998-2-1 cumplen con esta prescripción.
+– Las conexiones en estos conductores se realizarán por medio de uniones soldadas sin empleo de ácido o por piezas de conexión de apriete por rosca, debiendo ser accesibles para verificación y ensayo. Estas piezas serán de material inoxidable y los tornillos de apriete, si se usan, estarán previstos para evitar su desapriete. Se considera que los dispositivos que cumplan con la norma UNE-EN 60.998-2-1 cumplen con esta prescripción.
 
-– Se tomarán las precauciones necesarias para evitar el deterioro causado por efectos electroquímicos cuando las conexiones sean entre metales diferentes (por ejemplo cobre-aluminio).
+– Se tomarán las precauciones necesarias para evitar el deterioro causado por efectos electroquímicos cuando las conexiones sean entre metales diferentes (por ejemplo cobre-aluminio).
 
-#### 2.4
- Subdivisión de las instalaciones
+#### 2.4 Subdivisión de las instalaciones
 
 Las instalaciones se subdividirán de forma que las perturbaciones originadas por averías que puedan producirse en un punto de ellas, afecten solamente a ciertas partes de la instalación, por ejemplo a un sector del edificio, a un piso, a un solo local, etc., para lo cual los dispositivos de protección de cada circuito estarán adecuadamente coordinados y serán selectivos con los dispositivos generales de protección que les precedan.
 
 Toda instalación se dividirá en varios circuitos, según las necesidades, a fin de:
 
-– evitar las interrupciones innecesarias de todo el circuito y limitar las consecuencias de un fallo
+– evitar las interrupciones innecesarias de todo el circuito y limitar las consecuencias de un fallo
 
-– facilitar las verificaciones, ensayos y mantenimientos
+– facilitar las verificaciones, ensayos y mantenimientos
 
-– evitar los riesgos que podrían resultar del fallo de un solo circuito que pudiera dividirse, como por ejemplo si solo hay un circuito de alumbrado.
+– evitar los riesgos que podrían resultar del fallo de un solo circuito que pudiera dividirse, como por ejemplo si solo hay un circuito de alumbrado.
 
-#### 2.5
- Equilibrado de cargas
+#### 2.5 Equilibrado de cargas
 
 Para que se mantenga el mayor equilibrio posible en la carga de los conductores que forman parte de una instalación, se procurará que aquella quede repartida entre sus fases o conductores polares.
 
-#### 2.6
- Posibilidad de separación de la alimentación
+#### 2.6 Posibilidad de separación de la alimentación
 
 Se podrán desconectar de la fuente de alimentación de energía, las siguientes instalaciones:
 
@@ -156,18 +147,17 @@ b) Toda instalación con origen en un cuadro de mando o de distribución.
 
 Los dispositivos admitidos para esta desconexión, que garantizarán la separación omnipolar excepto en el neutro de las redes TN-C, son:
 
-– Los cortacircuitos fusibles
+– Los cortacircuitos fusibles
 
-– Los seccionadores
+– Los seccionadores
 
-– Los interruptores con separación de contactos mayor de 3 mm o con nivel de seguridad equivalente
+– Los interruptores con separación de contactos mayor de 3 mm o con nivel de seguridad equivalente
 
-– Los bornes de conexión, sólo en caso de derivación de un circuito
+– Los bornes de conexión, sólo en caso de derivación de un circuito
 
 Los dispositivos de desconexión se situarán y actuarán en un mismo punto de la instalación, y cuando esta condición resulte de difícil cumplimiento, se colocarán instrucciones o avisos aclaratorios. Los dispositivos deberán ser accesibles y estarán dispuestos de forma que permitan la fácil identificación de la parte de la instalación que separan.
 
-#### 2.7
- Posibilidad de conectar y desconectar en carga
+#### 2.7 Posibilidad de conectar y desconectar en carga
 
 Se instalarán dispositivos apropiados que permitan conectar y desconectar en carga en una sola maniobra, en:
 
@@ -193,30 +183,29 @@ j) Los circuitos de salida de generadores
 
 Los dispositivos admitidos para la conexión y desconexión en carga son:
 
-– Los interruptores manuales.
+– Los interruptores manuales.
 
-– Los cortacircuitos fusibles de accionamiento manual, o cualquier otro sistema aislado que permita estas maniobras siempre que tengan poder de corte y de cierre adecuado e independiente del operador.
+– Los cortacircuitos fusibles de accionamiento manual, o cualquier otro sistema aislado que permita estas maniobras siempre que tengan poder de corte y de cierre adecuado e independiente del operador.
 
-– Las clavijas de las tomas de corriente de intensidad nominal no superior a 16 A.
+– Las clavijas de las tomas de corriente de intensidad nominal no superior a 16 A.
 
 Deberán ser de corte omnipolar los dispositivos siguientes:
 
-– Los situados en el cuadro general y secundarios de toda instalación interior o receptora.
+– Los situados en el cuadro general y secundarios de toda instalación interior o receptora.
 
-– Los destinados a circuitos excepto en sistemas de distribución TN-C, en los que el corte del conductor neutro esta prohibido y excepto en los TN-S en los que se pueda asegurar que el conductor neutro esta al potencial de tierra.
+– Los destinados a circuitos excepto en sistemas de distribución TN-C, en los que el corte del conductor neutro esta prohibido y excepto en los TN-S en los que se pueda asegurar que el conductor neutro esta al potencial de tierra.
 
-– Los destinados a receptores cuya potencia sea superior a 1.000 W, salvo que prescripciones particulares admitan corte no omnipolar.
+– Los destinados a receptores cuya potencia sea superior a 1.000 W, salvo que prescripciones particulares admitan corte no omnipolar.
 
-– Los situados en circuitos que alimenten a lámparas de descarga o autotransformadores.
+– Los situados en circuitos que alimenten a lámparas de descarga o autotransformadores.
 
-– Los situados en circuitos que alimenten a instalaciones de tubos de descarga en alta tensión.
+– Los situados en circuitos que alimenten a instalaciones de tubos de descarga en alta tensión.
 
 En los demás casos, los dispositivos podrán no ser de corte omnipolar.
 
 El conductor neutro o compensador no podrá ser interrumpido salvo cuando el corte se establezca por interruptores omnipolares.
 
-#### 2.8
- Medidas de protección contra contactos directos o indirectos
+#### 2.8 Medidas de protección contra contactos directos o indirectos
 
 Las instalaciones eléctricas se establecerán de forma que no supongan riesgo para las personas y los animales domésticos tanto en servicio normal como cuando puedan presentarse averías previsibles.
 
@@ -224,8 +213,7 @@ En relación con estos riesgos, las instalaciones deberán proyectarse y ejecuta
 
 Estas medidas de protección son las señaladas en la Instrucción ITC-BT-24 y deberán cumplir lo indicado en la UNE 20.460, parte 4-41 y parte 4-47.
 
-#### 2.9
- Resistencia de aislamiento y rigidez dieléctrica
+#### 2.9 Resistencia de aislamiento y rigidez dieléctrica
 
 Las instalaciones deberán presentar una resistencia de aislamiento al menos igual a los valores indicados en la tabla siguiente:
 
@@ -235,7 +223,7 @@ Tabla 3
 <!-- tabla: tablas/ITC-BT-19_t02.csv -->
 | Tensión nominal de la instalación | Tensión de ensayo en corriente continua (v) | Resistencia de aislamiento (MΩ) |
 |---|---|---|
-| Muy Baja Tensión de Seguridad (MBTS)  Muy Baja Tensión de protección (MBTP) | 250 | ≥ 0,25 |
+| Muy Baja Tensión de Seguridad (MBTS) Muy Baja Tensión de protección (MBTP) | 250 | ≥ 0,25 |
 | Inferior o igual a 500 V, excepto caso anterior | 500 | ≥ 0,5 |
 | Superior a 500 V | 1000 | ≥ 1,0 |
 | Nota: Para instalaciones a MBTS y MBTP, véase la ITC-BT-36 |  |  |
@@ -254,9 +242,9 @@ La medida de aislamiento con relación a tierra, se efectuará uniendo a ésta e
 
 Cuando la resistencia de aislamiento obtenida resultara inferior al valor mínimo que le corresponda, se admitirá que la instalación es, no obstante correcta, si se cumplen las siguientes condiciones:
 
-– Cada aparato receptor presenta una resistencia de aislamiento por lo menos igual al valor señalado por la Norma UNE que le concierna o en su defecto 0,5 MΩ.
+– Cada aparato receptor presenta una resistencia de aislamiento por lo menos igual al valor señalado por la Norma UNE que le concierna o en su defecto 0,5 MΩ.
 
-– Desconectados los aparatos receptores, la instalación presenta la resistencia de aislamiento que le corresponda.
+– Desconectados los aparatos receptores, la instalación presenta la resistencia de aislamiento que le corresponda.
 
 La medida de la resistencia de aislamiento entre conductores polares, se efectúa después de haber desconectado todos los receptores, quedando los interruptores y cortacircuitos en la misma posición que la señalada anteriormente para la medida del aislamiento con relación a tierra. La medida de la resistencia de aislamiento se efectuará sucesivamente entre los conductores tomados dos a dos, comprendiendo el conductor neutro o compensador.
 
@@ -266,8 +254,7 @@ Durante este ensayo los dispositivos de interrupción se pondrán en la posició
 
 Las corrientes de fuga no serán superiores para el conjunto de la instalación o para cada uno de los circuitos en que ésta pueda dividirse a efectos de su protección, a la sensibilidad que presenten los interruptores diferenciales instalados como protección contra los contactos indirectos.
 
-#### 2.10
- Bases de toma de corriente
+#### 2.10 Bases de toma de corriente
 
 Las bases de toma de corriente utilizadas en las instalaciones interiores o receptoras serán del tipo indicado en las figuras C2a, C3a o ESB 25-5a de la norma UNE 20315. El tipo indicado en la figura C3a queda reservado para instalaciones en las que se requiera distinguir la fase del neutro, o disponer de una red de tierras específica.
 
@@ -277,7 +264,6 @@ Las bases móviles deberán ser del tipo indicado en las figuras ESC 10-1a, C2a 
 
 Las bases de toma de corriente del tipo indicado en las figuras C1a, las ejecuciones fijas de las figuras ESB 10-5a y ESC 10-1a, así como las clavijas de las figuras ESB 10-5b y C1b, recogidas en la norma UNE 20315, solo podrán comercializarse e instalarse para reposición de las existentes.
 
-#### 2.11
- Conexiones
+#### 2.11 Conexiones
 
 En ningún caso se permitirá la unión de conductores mediante conexiones y/o derivaciones por simple retorcimiento o arrollamiento entre sí de los conductores, sino que deberá realizarse siempre utilizando bornes de conexión montados individualmente o constituyendo bloques o regletas de conexión; puede permitirse asimismo, la utilización de bridas de conexión. Siempre deberán realizarse en el interior de cajas de empalme y/o de derivación salvo en los casos indicados en el apartado 3.1 de la ITC-BT-21. Si se trata de conductores de varios alambres cableados, las conexiones se realizarán de forma que la corriente se reparta por todos los alambres componentes y si el sistema adoptado es de tornillo de apriete entre una arandela metálica bajo su cabeza y una superficie metálica, los conductores de sección superior a 6 mm^2 deberán conectarse por medio de terminales adecuados, de forma que las conexiones no queden sometidas a esfuerzos mecánicos.

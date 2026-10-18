@@ -138,21 +138,21 @@ Como cargas permanentes se considerarán las cargas verticales debidas al propio
 
 Se considerarán las sobrecargas debidas a la presión del viento siguientes:
 
-– Sobre conductores: 50 daN/m^2
+– Sobre conductores: 50 daN/m^2
 
-– Sobre superficies planas: 100 daN/m^2
+– Sobre superficies planas: 100 daN/m^2
 
-– Sobre superficies cilíndricas de apoyos: 70 daN/m^2
+– Sobre superficies cilíndricas de apoyos: 70 daN/m^2
 
 La acción del viento sobre los conductores no se tendrá en cuenta en aquellos lugares en que por la configuración del terreno, o la disposición de las edificaciones, actúe en el sentido longitudinal de la línea.
 
 A los efectos de las sobrecargas motivadas por el hielo se clasificará el país en tres zonas:
 
-– Zona A: La situada a menos de 500 m de altitud sobre el nivel del mar. No se tendrá en cuenta sobrecarga alguna motivada por el hielo.
+– Zona A: La situada a menos de 500 m de altitud sobre el nivel del mar. No se tendrá en cuenta sobrecarga alguna motivada por el hielo.
 
-– Zona B: La situada a una altitud comprendida entre 500 y 1000 m. Los conductores desnudos se considerarán sometidos a la sobrecarga de un manguito de hielo de valor 180√d gramos por metro lineal, siendo d el diámetro del conductor en mm. En los cables en haz la sobrecarga se considerará de 60 √d gramos por metro lineal, siendo d el diámetro del cable en haz en mm. A efectos de cálculo se considera como diámetro de un cable en haz, 2,5 veces el diámetro del conductor de fase.
+– Zona B: La situada a una altitud comprendida entre 500 y 1000 m. Los conductores desnudos se considerarán sometidos a la sobrecarga de un manguito de hielo de valor 180√d gramos por metro lineal, siendo d el diámetro del conductor en mm. En los cables en haz la sobrecarga se considerará de 60 √d gramos por metro lineal, siendo d el diámetro del cable en haz en mm. A efectos de cálculo se considera como diámetro de un cable en haz, 2,5 veces el diámetro del conductor de fase.
 
-– Zona C: La situada a una altitud superior a 1000 m. Los conductores desnudos se considerarán sometidos a la sobrecarga de un manguito de hielo de valor 360√d gramos por metro lineal, siendo d el diámetro del conductor en mm. En los cables en haz la sobrecarga se considerará de 120 √d gramos por metro lineal, siendo del diámetro del cable en haz en mm. A efectos de cálculo se considera como diámetro de un cable en haz, 2,5 veces el diámetro del conductor de fase.
+– Zona C: La situada a una altitud superior a 1000 m. Los conductores desnudos se considerarán sometidos a la sobrecarga de un manguito de hielo de valor 360√d gramos por metro lineal, siendo d el diámetro del conductor en mm. En los cables en haz la sobrecarga se considerará de 120 √d gramos por metro lineal, siendo del diámetro del cable en haz en mm. A efectos de cálculo se considera como diámetro de un cable en haz, 2,5 veces el diámetro del conductor de fase.
 
 #### 2.2 Conductores
 
@@ -229,9 +229,9 @@ En general deberá respetarse una altura mínima al suelo de 2,5 metros. Lógica
 
 En las proximidades de aberturas en fachadas deben respetarse las siguientes distancias mínimas:
 
-– Ventanas: 0,30 metros al borde superior de la abertura y 0,50 metros al borde inferior y bordes laterales de la abertura.
+– Ventanas: 0,30 metros al borde superior de la abertura y 0,50 metros al borde inferior y bordes laterales de la abertura.
 
-– Balcones: 0,30 metros al borde superior de la abertura y 1,00 metros a los bordes laterales del balcón.
+– Balcones: 0,30 metros al borde superior de la abertura y 1,00 metros a los bordes laterales del balcón.
 
 Se tendrán en cuenta la existencia de salientes o marquesinas que puedan facilitar el posado de los conductores, pudiendo admitir, en éstos casos, una disminución de las distancias antes indicadas.
 
@@ -265,23 +265,23 @@ Los conductores desnudos mantendrán, en las condiciones más desfavorables, las
 
 Los conductores se instalarán fuera de una zona de protección, limitada por los planos que se señalan:
 
-– Sobre los tejados: Un plano paralelo al tejado, con una distancia vertical de 1,80 m del mismo, cuando se trate de conductores no puestos a tierra, y de 1,50 m cuando lo estén; así mismo para cualquier elemento que se encontrase instalado, o que se instale en el tejado, se respetarán las mismas distancias que las indicadas en la figura 1 para las chimeneas.
+– Sobre los tejados: Un plano paralelo al tejado, con una distancia vertical de 1,80 m del mismo, cuando se trate de conductores no puestos a tierra, y de 1,50 m cuando lo estén; así mismo para cualquier elemento que se encontrase instalado, o que se instale en el tejado, se respetarán las mismas distancias que las indicadas en la figura 1 para las chimeneas.
 
 Cuando la inclinación del tejado sea superior a 45 grados sexagesimales, el plano limitante de la zona de protección deberá considerarse a 1 metro de separación entre ambos.
 
-– Sobre terrazas y balcones: Un plano paralelo al suelo de la terraza o balcón, y a una distancia del mismo de 3 metros.
+– Sobre terrazas y balcones: Un plano paralelo al suelo de la terraza o balcón, y a una distancia del mismo de 3 metros.
 
-– En fachadas: La zona de protección queda limitada:
+– En fachadas: La zona de protección queda limitada:
 
 a) Por un plano vertical paralelo al muro de fachada sin aberturas, situado a 0,20 metros del mismo.
 
 b) Por un plano vertical paralelo al muro de fachada a una distancia de 1 metro de las ventanas, balcones, terrazas o cualquier otra abertura. Este plano vendrá, a su vez, limitado por los planos siguientes:
 
-– Un plano horizontal situado a una distancia vertical de 0,30 metros de la parte superior de la abertura de que se trate.
+– Un plano horizontal situado a una distancia vertical de 0,30 metros de la parte superior de la abertura de que se trate.
 
-– Dos planos verticales, uno a cada lado de la abertura, perpendicular a la fachada, y situados a 1 metro de distancia horizontal de los extremos de la abertura.
+– Dos planos verticales, uno a cada lado de la abertura, perpendicular a la fachada, y situados a 1 metro de distancia horizontal de los extremos de la abertura.
 
-– Un plano horizontal situado a 3 metros por debajo de los antepechos de las aberturas.
+– Un plano horizontal situado a 3 metros por debajo de los antepechos de las aberturas.
 
 Los límites de esta zona de protección se representan en la figura 1.
 
@@ -293,13 +293,13 @@ Figura 1. Zona de protección en edificios para la instalación de líneas eléc
 
 Las distancias (D) entre conductores desnudos de polaridades diferentes serán, como mínimo las siguientes:
 
-– En vanos hasta 4 metros: 0,10 m
+– En vanos hasta 4 metros: 0,10 m
 
-– En vanos de 4 a 6 metros: 0,15 m
+– En vanos de 4 a 6 metros: 0,15 m
 
-– En vanos de 6 a 30 metros: 0,20 m
+– En vanos de 6 a 30 metros: 0,20 m
 
-– En vanos de 30 a 50 metros: 0,30 m
+– En vanos de 30 a 50 metros: 0,30 m
 
 Para vanos mayores de 50 m se aplicará la fórmula D=0,55√F, en la que F es la flecha máxima en metros.
 
@@ -397,11 +397,11 @@ Cuando alguna de las líneas sea de conductores desnudos, establecidas en apoyos
 
 Las líneas de baja tensión, con conductores desnudos, deberán cruzar por encima de las de telecomunicación. Excepcionalmente podrán cruzar por debajo, debiendo adoptarse en este caso una de las soluciones siguientes:
 
-– Colocación entre las líneas de un dispositivo de protección formado por un haz de cables de acero, situado entre los conductores de ambas líneas, con la suficiente resistencia mecánica para soportar la caída de los conductores de la línea de telecomunicación en el caso de que se rompieran o desprendieran. Los cables de protección serán de acero galvanizado, y estarán puestos a tierra.
+– Colocación entre las líneas de un dispositivo de protección formado por un haz de cables de acero, situado entre los conductores de ambas líneas, con la suficiente resistencia mecánica para soportar la caída de los conductores de la línea de telecomunicación en el caso de que se rompieran o desprendieran. Los cables de protección serán de acero galvanizado, y estarán puestos a tierra.
 
-– Empleo de conductores aislados para 0,6/1 kV en el vano de cruce para líneas de baja tensión.
+– Empleo de conductores aislados para 0,6/1 kV en el vano de cruce para líneas de baja tensión.
 
-– Empleo de conductores aislados para 0,6/1 kV en el vano de cruce para la línea de telecomunicación.
+– Empleo de conductores aislados para 0,6/1 kV en el vano de cruce para la línea de telecomunicación.
 
 Cuando el cruce se efectúe en distintos apoyos, la distancia mínima entre los conductores desnudos de las líneas de baja tensión y los de las líneas de telecomunicación, será de 1 metro. Si el cruce se efectúa sobre apoyos comunes dicha distancia podrá reducirse a 0,50 metros.
 
@@ -449,13 +449,13 @@ Se exceptúa de la prescripción anterior las líneas de acceso a centrales gene
 
 Las líneas eléctricas de baja tensión podrán ir en los mismos apoyos que las de alta tensión cuando se cumplan las condiciones siguientes:
 
-– Los conductores de la línea de alta tensión tendrán una carga de rotura mínima de 480 daN, e irán colocados por encima de los de baja tensión.
+– Los conductores de la línea de alta tensión tendrán una carga de rotura mínima de 480 daN, e irán colocados por encima de los de baja tensión.
 
-– La distancia entre los conductores más próximos de las dos líneas será, por lo menos, igual a la separación de los conductores de la línea de alta tensión.
+– La distancia entre los conductores más próximos de las dos líneas será, por lo menos, igual a la separación de los conductores de la línea de alta tensión.
 
-– En los apoyos comunes, deberá colocarse una indicación, situada entre las líneas de baja y alta tensión, que advierta al personal que ha de realizar trabajos en baja tensión de los peligros que supone la presencia de una línea de alta tensión en la parte superior.
+– En los apoyos comunes, deberá colocarse una indicación, situada entre las líneas de baja y alta tensión, que advierta al personal que ha de realizar trabajos en baja tensión de los peligros que supone la presencia de una línea de alta tensión en la parte superior.
 
-– El aislamiento de la línea de baja tensión no será inferior al correspondiente de puesta a tierra de la línea de alta tensión.
+– El aislamiento de la línea de baja tensión no será inferior al correspondiente de puesta a tierra de la línea de alta tensión.
 
 3.9.2.2 Con otras líneas de baja tensión o de telecomunicación.
 
@@ -532,9 +532,9 @@ Tabla 4. Intensidad máxima admisible en amperios a temperatura ambiente de 40 �
 
 
 <!-- tabla: tablas/ITC-BT-06_t04.csv -->
-| Número de conductores por sección  mm² | Intensidad máxima en A |  |
+| Número de conductores por sección mm² | Intensidad máxima en A |  |
 |---|---|---|
-| Número de conductores por sección  mm² | Posada sobre fachadas | Tendida con fiador de acero |
+| Número de conductores por sección mm² | Posada sobre fachadas | Tendida con fiador de acero |
 | 2 x 16 Al | 73 | 81 |
 | 2 x 25 Al | 101 | 109 |
 | 4 x 16 Al | 67 | 72 |
@@ -547,9 +547,9 @@ Tabla 5. Intensidad máxima admisible en amperios a temperatura ambiente de 40 �
 
 
 <!-- tabla: tablas/ITC-BT-06_t05.csv -->
-| Número de conductores por sección  mm^2 | Intensidad máxima en A |  |
+| Número de conductores por sección mm^2 | Intensidad máxima en A |  |
 |---|---|---|
-| Número de conductores por sección  mm^2 | Posada sobre fachada | Tendida con fiador de acero |
+| Número de conductores por sección mm^2 | Posada sobre fachada | Tendida con fiador de acero |
 | 2 x 10 Cu | 77 | 85 |
 | 4 x 10 Cu | 65 | 72 |
 | 4 x 16 Cu | 86 | 95 |
@@ -598,7 +598,7 @@ Tabla 8. Intensidades máximas de cortocircuitos en kA para conductores de alumi
 
 
 <!-- tabla: tablas/ITC-BT-06_t08.csv -->
-| Sección del conductor mm^2 | Duración del cortocircuito  s |  |  |  |  |  |  |  |  |
+| Sección del conductor mm^2 | Duración del cortocircuito s |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|
 | Sección del conductor mm^2 | 0,1 | 0,2 | 0,3 | 0,5 | 1,0 | 1,5 | 2,0 | 2,5 | 3,0 |
 | 16 | 4,7 | 3,2 | 2,7 | 2,1 | 1,4 | 1,2 | 1,0 | 0,9 | 0,8 |
@@ -611,10 +611,10 @@ Tabla 9. Intensidades máximas de cortocircuitos en kA para conductores de cobre
 
 
 <!-- tabla: tablas/ITC-BT-06_t09.csv -->
-| Sección del conductor mm^2 | Duración del cortocircuito  s |  |  |  |  |  |  |  |  |
+| Sección del conductor mm^2 | Duración del cortocircuito s |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|
 | Sección del conductor mm^2 | 0,1 | 0,2 | 0,3 | 0,5 | 1,0 | 1,5 | 2,0 | 2,5 | 3,0 |
-| 10  16 | 4,81  7,34 | 3,29  5,23 | 2,70  4,29 | 2,11  3,35 | 1,52  2,40 | 1,26  1,99 | 1,11  1,74 | 1,00  1,57 | 0,92  1,44 |
+| 10 16 | 4,81 7,34 | 3,29 5,23 | 2,70 4,29 | 2,11 3,35 | 1,52 2,40 | 1,26 1,99 | 1,11 1,74 | 1,00 1,57 | 0,92 1,44 |
 
 4.3 Conductores desnudos de cobre y aluminio.
 

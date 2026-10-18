@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## SISTEMAS DE CONEXIÓN DEL NEUTRO Y DE LAS MASAS EN REDES DE DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. ESQUEMAS DE DISTRIBUCIÓN
 
@@ -23,8 +22,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 2. PRESCRIPCIONES ESPECIALES EN LAS REDES DE DISTRIBUCIÓN PARA LA APLICACIÓN DEL ESQUEMA TN
 
-### 1.
- ESQUEMAS DE DISTRIBUCIÓN
+### 1. ESQUEMAS DE DISTRIBUCIÓN
 
 Para la determinación de las características de las medidas de protección contra choques eléctricos en caso de defecto (contactos indirectos) y contra sobreintensidades, así como de las especificaciones de la aparamenta encargada de tales funciones, será preciso tener en cuenta el esquema de distribución empleado.
 
@@ -50,8 +48,7 @@ S = Las funciones de neutro y de protección, aseguradas por conductores separad
 
 C = Las funciones de neutro y de protección, combinadas en un solo conductor (conductor CPN).
 
-#### 1.1
- Esquema TN
+#### 1.1 Esquema TN
 
 Los esquemas TN tienen un punto de la alimentación, generalmente el neutro o compensador, conectado directamente a tierra y las masas de la instalación receptora conectadas a dicho punto mediante conductores de protección. Se distinguen tres tipos de esquemas TN según la disposición relativa del conductor neutro y del conductor de protección:
 
@@ -75,8 +72,7 @@ Figura 3. Esquema de distribución tipo TN-C-S
 
 En los esquemas TN cualquier intensidad de defecto franco fase-masa es una intensidad de cortocircuito. El bucle de defecto está constituido exclusivamente por elementos conductores metálicos.
 
-#### 1.2
- Esquema TT
+#### 1.2 Esquema TT
 
 El esquema TT tiene un punto de alimentación, generalmente el neutro o compensador, conectado directamente a tierra. Las masas de la instalación receptora están conectadas a una toma de tierra separada de la toma de tierra de la alimentación (figura 4).
 
@@ -88,8 +84,7 @@ En este esquema las intensidades de defecto fase-masa o fase-tierra pueden tener
 
 En general, el bucle de defecto incluye resistencia de paso a tierra en alguna parte del circuito de defecto, lo que no excluye la posibilidad de conexiones eléctricas voluntarias o no, entre la zona de la toma de tierra de las masas de la instalación y la de la alimentación. Aunque ambas tomas de tierra no sean independientes, el esquema sigue siendo un esquema TT si no se cumplen todas las condiciones del esquema TN. Dicho de otra forma, no se tienen en cuenta las posibles conexiones entre ambas zonas de toma de tierra para la determinación de las condiciones de protección.
 
-#### 1.3
- Esquema IT
+#### 1.3 Esquema IT
 
 El esquema IT no tiene ningún punto de la alimentación conectado directamente a tierra. Las masas de la instalación receptora están puestas directamente a tierra (figura 5).
 
@@ -103,10 +98,7 @@ La limitación del valor de la intensidad resultante de un primer defecto fase-m
 
 En este tipo de esquema se recomienda no distribuir el neutro.
 
-#### 1.4
- Aplicación
- 
- de los tres tipos de esquemas
+#### 1.4 Aplicación de los tres tipos de esquemas
 
 La elección de uno de los tres tipos de esquemas debe hacerse en función de las características técnicas y económicas de cada instalación. Sin embargo, hay que tener en cuenta los siguientes principios.
 
@@ -116,8 +108,7 @@ b) En instalaciones alimentadas en baja tensión, a partir de un centro de trans
 
 c) No obstante lo dicho en a), puede establecerse un esquema IT en parte o partes de una instalación alimentada directamente de una red de distribución pública mediante el uso de transformadores adecuados, en cuyo secundario y en la parte de la instalación afectada se establezcan las disposiciones que para tal esquema se citan en el apartado 1.3.
 
-2.
- PRESCRIPCIONES ESPECIALES EN LAS REDES DE DISTRIBUCIÓN PARA LA APLICACIÓN DEL ESQUEMA TN
+2. PRESCRIPCIONES ESPECIALES EN LAS REDES DE DISTRIBUCIÓN PARA LA APLICACIÓN DEL ESQUEMA TN
 
 Para que las masas de la instalación receptora puedan estar conectadas a neutro como medida de protección contra contactos indirectos, la red de alimentación debe cumplir las siguientes prescripciones especiales:
 

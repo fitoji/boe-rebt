@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIONES CON FINES ESPECIALES. FERIAS Y STANDS
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. CAMPO DE APLICACIÓN
 
@@ -55,8 +54,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 #### 6.7 Cajas, cuadros y armarios de control
 
-### 1.
- CAMPO DE APLICACIÓN
+### 1. CAMPO DE APLICACIÓN
 
 Las prescripciones de la presente instrucción se aplican a las instalaciones eléctricas temporales de ferias, exposiciones, muestras, stands, alumbrados festivos de calles, verbenas y manifestaciones análogas.
 
@@ -76,24 +74,19 @@ Instalación eléctrica temporal: Es una instalación eléctrica destinada a ser
 
 Origen de una instalación eléctrica temporal: Es el punto de la instalación permanente o de otra fuente de suministro desde la que se alimenta a las instalaciones eléctricas temporales.
 
-### 2.
- CARACTERÍSTICAS GENERALES
+### 2. CARACTERÍSTICAS GENERALES
 
-#### 2.1
- Alimentación
+#### 2.1 Alimentación
 
 La tensión nominal de las instalaciones eléctricas temporales en exposiciones, muestras, stands y parques de atracciones no será superior a 230/400 V en corriente alterna.
 
-#### 2.2
- Influencias externas
+#### 2.2 Influencias externas
 
 Las condiciones de influencias externas son las de los emplazamientos particulares, donde se realizan estas instalaciones, por ejemplo choques mecánicos, agua, temperaturas extremas, etc.
 
-### 3.
- PROTECCION PARA GARANTIZAR LA SEGURIDAD
+### 3. PROTECCION PARA GARANTIZAR LA SEGURIDAD
 
-#### 3.1
- Protección contra contactos directos e indirectos
+#### 3.1 Protección contra contactos directos e indirectos
 
 No se aceptan las medidas protectoras contra el contacto directo por medio de obstáculos ni por su colocación fuera del alcance.
 
@@ -101,8 +94,7 @@ No se aceptan medidas protectoras contra el contacto indirecto mediante un empla
 
 Cuando se utilice una MBTS, la protección contra contactos directos debe ser asegurada cualquiera que sea la tensión nominal asignada, mediante un aislamiento capaz de resistir un ensayo dieléctrico de 500 V durante un minuto.
 
-#### 3.2
- Medidas de protección en función de las influencias externas
+#### 3.2 Medidas de protección en función de las influencias externas
 
 Es recomendable que el corte automático de cables destinados a alimentar instalaciones temporales se realice mediante dispositivo diferencial cuya corriente diferencial residual asignada no supere 500 mA.
 
@@ -110,20 +102,17 @@ Estos dispositivos serán selectivos con los dispositivos diferenciales de los c
 
 Todos los circuitos de alumbrado además de las luminarias de emergencia y las tomas de corriente de valor asignado inferior a 32 A, deberán ser protegidos por un dispositivo diferencial cuya corriente asignada no supere los 30 mA.
 
-#### 3.3
- Medidas de protección contra sobreintensidades
+#### 3.3 Medidas de protección contra sobreintensidades
 
 Todos los circuitos deben estar protegidos contra sobreintensidades mediante un dispositivo de protección apropiado, situado en el origen del circuito.
 
-### 4.
- PROTECCIÓN CONTRA EL FUEGO
+### 4. PROTECCIÓN CONTRA EL FUEGO
 
 El riesgo de incendio es superior debido a la naturaleza temporal de las instalaciones y a la presencia de público. Esto debe tenerse en cuanta cuando se valoren las influencias externas, de acuerdo con la "naturaleza del material procesado o almacenado".
 
 El equipo eléctrico debe seleccionarse y construirse de forma que el aumento de su temperatura normal y el aumento de temperatura previsible, en el caso de que se produzca un posible fallo, no dé lugar a una situación peligrosa.
 
-### 5.
- PROTECCIÓN CONTRA ALTAS TEMPERATURAS
+### 5. PROTECCIÓN CONTRA ALTAS TEMPERATURAS
 
 El equipo de iluminación, como por ejemplo, las lámparas incandescentes, focos, pequeños proyectores y otros aparatos o dispositivos con superficies que alcanzan altas temperaturas, además de protegerse adecuadamente, deben disponerse suficientemente apartados de los materiales combustibles.
 
@@ -133,16 +122,13 @@ A menos que los artículos expuestos sean de naturaleza incombustible, los escap
 
 Los stands que contengan una concentración de aparatos eléctricos, accesorios de iluminación o lámparas, propensos a generar un calor superior al normal, tendrán una cubierta bien ventilada, construida con materiales incombustibles.
 
-### 6.
- APARAMENTA Y MONTAJE DE EQUIPOS
+### 6. APARAMENTA Y MONTAJE DE EQUIPOS
 
-#### 6.1
- Reglas comunes
+#### 6.1 Reglas comunes
 
 La aparamenta de mando y protección deberá estar situada en envolventes cerradas que no puedan abrirse o desmontarse más que con la ayuda de un útil o una llave, a excepción de sus accionamientos manuales. Los grados de protección para las canalizaciones y envolventes será IP 4X para instalaciones de interior e IP 45 para instalaciones de exterior, según UNE 20324.
 
-#### 6.2
- Cables eléctricos
+#### 6.2 Cables eléctricos
 
 Para instalaciones interiores los cables serán de tensión asignada mínima 300/500V según UNE 21.027 ó UNE 21.031 y aptos para servicios móviles.
 
@@ -152,15 +138,13 @@ Para alumbrados festivos se utilizan cables flexibles de características constr
 
 La longitud de los cables de conexión flexibles o cordones no sobrepasará los 2 m.
 
-#### 6.3
- Canalizaciones
+#### 6.3 Canalizaciones
 
 Las canalizaciones se realizarán mediante tubos o canales según lo dispuesto en la ITC-BT 20 y 21.
 
 Las canalizaciones metálicas o no metálicas deberán tener un grado de protección IP4X según UNE 20.324.
 
-#### 6.4
- Otros equipos
+#### 6.4 Otros equipos
 
 ##### 6.4.1 Luminarias
 
@@ -182,20 +166,16 @@ Las tomas de corriente instaladas en el suelo irán dentro de envolventes proteg
 
 Un sólo cable o cordón debe ser unido a una toma. No se deben utilizar adaptadores multivía. No se deben utilizar las bases múltiples, excepto las bases múltiples móviles, que se alimentaran desde una base fija con un cable de longitud máxima 2 m.
 
-#### 6.5
- Conexiones a tierra
+#### 6.5 Conexiones a tierra
 
 Cuando se instale un generador para suministrar alimentación a una instalación temporal, utilizando un sistema TN, TT o IT, debe tenerse cuidado para garantizar que la instalación está correctamente conectada a tierra.
 
 El conductor neutro o punto neutro del generador debe conectarse a las partes conductoras accesibles del generador.
 
-#### 6.6
- Conductores de protección
+#### 6.6 Conductores de protección
 
 Los conductores de protección tendrán una sección de acuerdo con el apartado 2.3 de la ITC-BT-19.
 
-#### 6.7
- Cajas,
- cuadros y armarios de control
+#### 6.7 Cajas, cuadros y armarios de control
 
 Las cajas destinadas a las conexiones eléctricas, cuadros y armarios deberán tener un grado de protección mínimo igual al indicado en 6.1.

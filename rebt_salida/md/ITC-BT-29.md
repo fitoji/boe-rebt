@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## PRESCRIPCIONES PARTICULARES PARA LAS INSTALACIONES ELÉCTRICAS DE LOS LOCALES CON RIESGO DE INCENDIO O EXPLOSIÓN
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. CAMPO DE APLICACIÓN
 
@@ -61,10 +60,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 #### 9.3 Requisitos de los conductos
 
-### 1.
- CAMPO DE APLICACIÓN
- 
- ^1
+### 1. CAMPO DE APLICACIÓN ^1
 
 La presente Instrucción tiene por objeto especificar las reglas esenciales para el diseño, ejecución, explotación, mantenimiento y reparación de las instalaciones eléctricas en emplazamientos en los que existe riesgo de explosión o de incendio debido a la presencia de sustancias inflamables para que dichas instalaciones y sus equipos no puedan ser, dentro de límites razonables, la causa de inflamación de dichas sustancias.
 
@@ -72,9 +68,9 @@ Dentro del concepto de atmósferas potencialmente explosivas se consideran aquel
 
 Debido a que son objeto de normativas específicas no se consideran incluidos en esta Instrucción las instalaciones eléctricas siguientes:
 
-– Las instalaciones correspondientes a los equipos excluidos del campo de aplicación del R.D. 400/1996, de 1 de marzo, por el que se dictan las disposiciones de aplicación de la Directiva del Parlamento Europeo y del Consejo 94/9/CE, relativa a los aparatos y sistemas de protección para uso en atmósferas potencialmente explosivas.
+– Las instalaciones correspondientes a los equipos excluidos del campo de aplicación del R.D. 400/1996, de 1 de marzo, por el que se dictan las disposiciones de aplicación de la Directiva del Parlamento Europeo y del Consejo 94/9/CE, relativa a los aparatos y sistemas de protección para uso en atmósferas potencialmente explosivas.
 
-– Cualquier otro entorno que disponga de una reglamentación particular.
+– Cualquier otro entorno que disponga de una reglamentación particular.
 
 En esta Instrucción sólo se consideran los riesgos asociados a la coexistencia en el espacio y tiempo de equipos e instalaciones eléctricas con atmósferas explosivas; para otras eventuales fuentes de ignición se aplicará lo dispuesto en las reglamentaciones pertinentes.
 
@@ -84,8 +80,7 @@ Además de la situación anterior, así como en atmósferas enriquecidas en oxí
 
 ^1 El alcance de esta Instrucción, en el marco del Reglamento Electrotécnico para Baja Tensión, se limita a los equipos e instalaciones eléctricas de baja tensión, en atmósferas potencialmente explosivas. Se llama la atención sobre el hecho de que el R.D. 400/1996, por el que se dictan las disposiciones de aplicación de la Directiva 94/9/CE, sobre aparatos y sistemas de protección para uso en atmósferas potencialmente explosivas, afecta a todo tipo de instalaciones en atmósferas potencialmente explosivas, incluyendo aquellas manifestaciones energéticas de origen no eléctrico.
 
-### 2.
- TERMINOLOGÍA
+### 2. TERMINOLOGÍA
 
 A los efectos de la presente Instrucción se entenderá:
 
@@ -111,8 +106,7 @@ Declaración CE de conformidad: Documento emitido por el fabricante, o por su re
 
 ^2 No se consideran las categorías del Grupo I por pertenecer a un entorno reglamentario ‒minas‒ distinto a este.
 
-### 3.
- FUNDAMENTOS PARA ALCANZAR LA SEGURIDAD
+### 3. FUNDAMENTOS PARA ALCANZAR LA SEGURIDAD
 
 El procedimiento para alcanzar un nivel de seguridad aceptable se fundamenta en el empleo de equipamiento construido y seleccionado de acuerdo a ciertas reglas así como en la adopción de medidas de seguridad especiales de instalación, inspección, mantenimiento y reparación, en relación con la acotación del riesgo de presencia de atmósfera explosiva mediante una clasificación de los emplazamientos en los que se pueden producir atmósferas explosivas.
 
@@ -120,8 +114,7 @@ Según la clasificación en que se incluye el emplazamiento, es necesario recurr
 
 Adicionalmente, es preciso llevar a cabo la explotación, conservación y mantenimiento de la instalación y sus componentes, dentro de unos límites estrictos, para que las condiciones de seguridad no se vean comprometidas durante su vida útil.
 
-### 4.
- CLASIFICACIÓN DE EMPLAZAMIENTOS
+### 4. CLASIFICACIÓN DE EMPLAZAMIENTOS
 
 Para establecer los requisitos que han de satisfacer los distintos elementos constitutivos de la instalación eléctrica en emplazamientos con atmósferas potencialmente explosivas, estos emplazamientos se agrupan en dos clases según la naturaleza de la sustancia inflamable, denominadas como Clase I si el riesgo es debido a gases, vapores o nieblas y como Clase II si el riesgo es debido a polvo.
 
@@ -173,65 +166,63 @@ A título orientativo, sin que esta lista sea exhaustiva, y salvo que el proyect
 
 – De Clase I:
 
-● Lugares donde se trasvasen líquidos volátiles inflamables de un recipiente a otro.
+● Lugares donde se trasvasen líquidos volátiles inflamables de un recipiente a otro.
 
-● Garajes y talleres de reparación de vehículos. Se excluyen los garajes de uso privado para estacionamiento de 5 vehículos o menos.
+● Garajes y talleres de reparación de vehículos. Se excluyen los garajes de uso privado para estacionamiento de 5 vehículos o menos.
 
-● Interior de cabinas de pintura donde se usen sistemas de pulverización y su entorno cercano cuando se utilicen disolventes.
+● Interior de cabinas de pintura donde se usen sistemas de pulverización y su entorno cercano cuando se utilicen disolventes.
 
-● Secaderos de material con disolventes inflamables.
+● Secaderos de material con disolventes inflamables.
 
-● Locales de extracción de grasas y aceites que utilicen disolventes inflamables.
+● Locales de extracción de grasas y aceites que utilicen disolventes inflamables.
 
-● Locales con depósitos de líquidos inflamables abiertos o que se puedan abrir.
+● Locales con depósitos de líquidos inflamables abiertos o que se puedan abrir.
 
-● Zonas de lavanderías y tintorerías en las que se empleen líquidos inflamables.
+● Zonas de lavanderías y tintorerías en las que se empleen líquidos inflamables.
 
-● Salas de gasógenos.
+● Salas de gasógenos.
 
-● Instalaciones donde se produzcan, manipulen, almacenen o consuman gases inflamables.
+● Instalaciones donde se produzcan, manipulen, almacenen o consuman gases inflamables.
 
-● Salas de bombas y/o de compresores de líquidos y gases inflamables.
+● Salas de bombas y/o de compresores de líquidos y gases inflamables.
 
-● Interiores de refrigeradores y congeladores en los que se almacenen materias inflamables en recipientes abiertos, fácilmente perforables o con cierres poco consistentes.
+● Interiores de refrigeradores y congeladores en los que se almacenen materias inflamables en recipientes abiertos, fácilmente perforables o con cierres poco consistentes.
 
 – De Clase II:
 
-● Zonas de trabajo, manipulación y almacenamiento de la industria alimentaria que maneja granos y derivados.
+● Zonas de trabajo, manipulación y almacenamiento de la industria alimentaria que maneja granos y derivados.
 
-● Zonas de trabajo y manipulación de industrias químicas y farmacéuticas en las que se produce polvo.
+● Zonas de trabajo y manipulación de industrias químicas y farmacéuticas en las que se produce polvo.
 
-● Emplazamientos de pulverización de carbón y de su utilización subsiguiente.
+● Emplazamientos de pulverización de carbón y de su utilización subsiguiente.
 
-● Plantas de coquización.
+● Plantas de coquización.
 
-● Plantas de producción y manipulación de azufre.
+● Plantas de producción y manipulación de azufre.
 
-● Zonas en las que se producen, procesan, manipulan o empaquetan polvos metálicos de materiales ligeros (Al, Mg, etc.)
+● Zonas en las que se producen, procesan, manipulan o empaquetan polvos metálicos de materiales ligeros (Al, Mg, etc.)
 
-● Almacenes y muelles de expedición donde los materiales pulverulentos se almacenan o manipulan en sacos y contenedores.
+● Almacenes y muelles de expedición donde los materiales pulverulentos se almacenan o manipulan en sacos y contenedores.
 
-● Zonas de tratamiento de textiles como algodón, etc.
+● Zonas de tratamiento de textiles como algodón, etc.
 
-● Plantas de fabricación y procesado de fibras.
+● Plantas de fabricación y procesado de fibras.
 
-● Plantas desmotadoras de algodón.
+● Plantas desmotadoras de algodón.
 
-● Plantas de procesado de lino.
+● Plantas de procesado de lino.
 
-● Talleres de confección.
+● Talleres de confección.
 
-● Industria de procesado de madera tales como carpinterías, etc.
+● Industria de procesado de madera tales como carpinterías, etc.
 
-5.
- REQUISITOS DE LOS EQUIPOS.
+5. REQUISITOS DE LOS EQUIPOS.
 
 Los equipos eléctricos y los sistemas de protección y sus componentes destinados a su empleo en emplazamientos comprendidos en el ámbito de ésta Instrucción, deberán cumplir las condiciones que se establecen en el R.D. 400/1996 de 1 de marzo.
 
 Para aquellos elementos que no entran en el ámbito del mencionado R.D. 400/1996 y para los que se estipule el cumplimiento de una norma, se considerarán conformes con las prescripciones de la presente Instrucción aquellos que estén amparados por las correspondientes certificaciones de conformidad otorgadas por Organismos de control autorizados según lo dispuesto en el R. D. 2200/1995, de 28 de diciembre.
 
-### 6.
- PRESCRIPCIONES GENERALES
+### 6. PRESCRIPCIONES GENERALES
 
 En todo lo que aquí no se indique explícitamente son de aplicación, en lo que corresponda, las demás Instrucciones de este Reglamento; caso de conflicto predominará la interpretación correspondiente a esta Instrucción.
 
@@ -243,11 +234,11 @@ Los equipos eléctricos se instalarán de acuerdo con las condiciones de su docu
 
 En el caso de circunstancias excepcionales, como por ejemplo, ciertas tareas de reparación que precisan soldadura, trabajos de investigación y desarrollo (operación en plantas piloto, realización de trabajos experimentales etc) no será necesario que se reúnan todos los requisitos de los capítulos 6, 7 y 8 siguientes, supuesto que la instalación va a estar en operación solo durante un periodo limitado, está bajo la supervisión de personal especialmente formado, y se reúnen las siguientes condiciones:
 
-– Se han tomado medidas para prevenir la aparición de atmósferas explosivas peligrosas.
+– Se han tomado medidas para prevenir la aparición de atmósferas explosivas peligrosas.
 
-– Se han tomado medidas para asegurar que el equipo eléctrico se desconecta en caso de formación de una atmósfera peligrosa.
+– Se han tomado medidas para asegurar que el equipo eléctrico se desconecta en caso de formación de una atmósfera peligrosa.
 
-– Se han tomado medidas para asegurar que las personas no van a resultar dañadas por incendios o explosiones.
+– Se han tomado medidas para asegurar que las personas no van a resultar dañadas por incendios o explosiones.
 
 y adicionalmente, estas medidas se han comunicado por escrito a personal que está familiarizado con los requisitos de esta Instrucción y con las normas que tratan de equipos e instalaciones en lugares con riesgo de explosión y tienen acceso a toda la información necesaria para llevar a cabo la actuación.
 
@@ -257,25 +248,25 @@ Para llevar a cabo estas operaciones será necesaria la previa elaboración de u
 
 Para instalaciones nuevas o ampliaciones de las existentes, en el ámbito de aplicación de la presente ITC, se incluirá la siguiente información (según corresponda) en el proyecto de la instalación:
 
-– Clasificación de emplazamientos y plano representativo.
+– Clasificación de emplazamientos y plano representativo.
 
-– Adecuación de la categoría de los equipos a los diferentes emplazamientos y zonas.
+– Adecuación de la categoría de los equipos a los diferentes emplazamientos y zonas.
 
-– Instrucciones de implantación, instalación y conexión de los aparatos y equipos.
+– Instrucciones de implantación, instalación y conexión de los aparatos y equipos.
 
-– Condiciones especiales de instalación y utilización.
+– Condiciones especiales de instalación y utilización.
 
 El propietario deberá conservar:
 
-– Copia del proyecto en su forma definitiva.
+– Copia del proyecto en su forma definitiva.
 
-– Manual de instrucciones de los equipos.
+– Manual de instrucciones de los equipos.
 
-– Declaraciones de Conformidad de los equipos.
+– Declaraciones de Conformidad de los equipos.
 
-– Documentos descriptivos del sistema para los de seguridad intrínseca.
+– Documentos descriptivos del sistema para los de seguridad intrínseca.
 
-– Todo documento que pueda ser relevante para las condiciones de seguridad.
+– Todo documento que pueda ser relevante para las condiciones de seguridad.
 
 #### 6.3 Mantenimiento y reparación
 
@@ -283,8 +274,7 @@ Las instalaciones objeto de esta instrucción se someterán a un mantenimiento q
 
 La reparación de equipos y sistemas de protección deberán ser llevados a cabo de forma que no comprometa la seguridad. Como criterio técnico se seguirá lo establecido en la norma CEI 60079-19.
 
-7.
- EMPLAZAMIENTOS DE CLASE I.
+7. EMPLAZAMIENTOS DE CLASE I.
 
 #### 7.1 Generalidades
 
@@ -318,8 +308,7 @@ La instalación de los equipos eléctricos se realizará de acuerdo a lo especif
 
 Adicionalmente se tendrá en cuenta que la utilización de equipos con modo de protección por inmersión en aceite "o" queda restringida a equipos de instalación fija y que no tengan elementos generadores de arco en el seno del líquido de protección. Para la instalación de sistemas de seguridad intrínseca, se tendrá en cuenta también, lo indicado en la Norma UNE-EN 50039.
 
-8.
- EMPLAZAMIENTOS DE CLASE II.
+8. EMPLAZAMIENTOS DE CLASE II.
 
 8.1 Generalidades.
 
@@ -353,8 +342,7 @@ La instalación de los equipos eléctricos destinados a emplazamientos de clase 
 
 Es necesario tener presente que si un equipo eléctrico dispone de un modo de protección para gases, no garantiza que su protección sea adecuada contra el riesgo de inflamación de polvo.
 
-9.
- SISTEMAS DE CABLEADO.
+9. SISTEMAS DE CABLEADO.
 
 9.1 Generalidades.
 
@@ -380,9 +368,9 @@ a) En instalaciones fijas:
 
 ● Cables construidos de modo que dispongan de una protección mecánica; se consideran como tales:
 
-– Los cables con aislamiento mineral y cubierta metálica, según UNE 21157 parte 1.
+– Los cables con aislamiento mineral y cubierta metálica, según UNE 21157 parte 1.
 
-– Los cables armados con alambre de acero galvanizado y con cubierta externa no metálica, según la serie UNE 21.123.
+– Los cables armados con alambre de acero galvanizado y con cubierta externa no metálica, según la serie UNE 21.123.
 
 Los cables a utilizar en las instalaciones fijas deben cumplir, respecto a la reacción al fuego, lo indicado en la norma UNE 20432-3.
 

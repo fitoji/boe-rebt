@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIONES DE ENLACE. DERIVACIONES INDIVIDUALES
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. DEFINICIÓN
 
@@ -17,8 +16,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ### 3. CABLES
 
-### 1.
- DEFINICIÓN
+### 1. DEFINICIÓN
 
 Derivación individual es la parte de la instalación que, partiendo de la línea general de alimentación suministra energía eléctrica a una instalación de usuario.
 
@@ -26,17 +24,17 @@ La derivación individual se inicia en el embarrado general y comprende los fusi
 
 Las derivaciones individuales estarán constituidas por:
 
-– Conductores aislados en el interior de tubos empotrados.
+– Conductores aislados en el interior de tubos empotrados.
 
-– Conductores aislados en el interior de tubos enterrados.
+– Conductores aislados en el interior de tubos enterrados.
 
-– Conductores aislados en el interior de tubos en montaje superficial.
+– Conductores aislados en el interior de tubos en montaje superficial.
 
-– Conductores aislados en el interior de canales protectoras cuya tapa sólo se pueda abrir con la ayuda de un útil.
+– Conductores aislados en el interior de canales protectoras cuya tapa sólo se pueda abrir con la ayuda de un útil.
 
-– Canalizaciones eléctricas prefabricadas que deberán cumplir la norma UNE-EN 60.439-2.
+– Canalizaciones eléctricas prefabricadas que deberán cumplir la norma UNE-EN 60.439-2.
 
-– Conductores aislados en el interior de conductos cerrados de obra de fábrica, proyectados y construidos al efecto.
+– Conductores aislados en el interior de conductos cerrados de obra de fábrica, proyectados y construidos al efecto.
 
 En los casos anteriores, los tubos y canales así como su instalación, cumplirán lo indicado en la ITC-BT-21, salvo en lo indicado en la presente instrucción.
 
@@ -44,8 +42,7 @@ Las canalizaciones incluirán, en cualquier caso, el conductor de protección.
 
 Cada derivación individual será totalmente independiente de las derivaciones correspondientes a otros usuarios.
 
-### 2.
- INSTALACIÓN
+### 2. INSTALACIÓN
 
 Los tubos y canales protectoras tendrán una sección nominal que permita ampliar la sección de los conductores inicialmente instalados en un 100%. En las mencionadas condiciones de instalación, los diámetros exteriores nominales mínimos de los tubos en derivaciones individuales serán de 32 mm. Cuando por coincidencia del trazado, se produzca una agrupación de dos o más derivaciones individuales, éstas podrán ser tendidas simultáneamente en el interior de un canal protector mediante cable con cubierta, asegurándose así la separación necesaria entre derivaciones individuales.
 
@@ -66,7 +63,7 @@ Tabla 1. Dimensiones mínimas de la canaladura o conducto de obra de fábrica
 | DIMENSIONES (m) |  |  |
 |---|---|---|
 | Número de derivaciones | ANCHURA L (m) |  |
-| Número de derivaciones | Profundidad P = 0,15 m  Una fila | Profundidad P = 0,30 m  Dos filas |
+| Número de derivaciones | Profundidad P = 0,15 m Una fila | Profundidad P = 0,30 m Dos filas |
 | Hasta 12 | 0 65 | 0 50 |
 | 13-24 | 1,25 | 0,65 |
 | 25-36 | 1,85 | 0,95 |
@@ -80,8 +77,7 @@ Con objeto de facilitar la instalación, cada 15 m se podrán colocar cajas de r
 
 Para el caso de cables aislados en el interior de tubos enterrados, la derivación individual cumplirá lo que se indica en la ITC-BT-07 para redes subterráneas, excepto en lo indicado en la presente instrucción.
 
-### 3.
- CABLES
+### 3. CABLES
 
 El número de conductores vendrá fijado por el número de fases necesarias para la utilización de los receptores de la derivación correspondiente y según su potencia, llevando cada línea su correspondiente conductor neutro así como el conductor de protección. En el caso de suministros individuales el punto de conexión del conductor de protección, se dejará a criterio del proyectista de la instalación. Además, cada derivación individual incluirá el hilo de mando para posibilitar la aplicación de diferentes tarifas. No se admitirá el empleo de conductor neutro común ni de conductor de protección común para distintos suministros.
 
@@ -109,8 +105,8 @@ A efectos de las intensidades admisibles por cada sección, se tendrá en cuenta
 
 b) La caída de tensión máxima admisible será:
 
-– Para el caso de contadores concentrados en más de un lugar: 0,5%.
+– Para el caso de contadores concentrados en más de un lugar: 0,5%.
 
-– Para el caso de contadores totalmente concentrados: 1%.
+– Para el caso de contadores totalmente concentrados: 1%.
 
 – Para el caso de derivaciones individuales en suministros para un único usuario en que no existe línea general de alimentación: 1,5%.

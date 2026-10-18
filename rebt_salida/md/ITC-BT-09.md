@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIONES DE ALUMBRADO EXTERIOR
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. CAMPO DE APLICACIÓN
 
@@ -49,20 +48,17 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ### 10. PUESTAS A TIERRA
 
-### 1.
- CAMPO DE APLICACIÓN
+### 1. CAMPO DE APLICACIÓN
 
 Esta instrucción complementaria, se aplicará a las instalaciones de alumbrado exterior, destinadas a iluminar zonas de dominio público o privado, tales como autopistas, carreteras, calles, plazas, parques, jardines, pasos elevados o subterráneos para vehículos o personas, caminos, etc. Igualmente se incluyen las instalaciones de alumbrado para cabinas telefónicas, anuncios publicitarios, mobiliario urbano en general, monumentos o similares así como todos receptores que se conecten a la red de alumbrado exterior. Se excluyen del ámbito de aplicación de esta instrucción la instalación para la iluminación de fuentes y piscinas y las de los semáforos y las balizas, cuando sean completamente autónomos.
 
-### 2.
- ACOMETIDAS DESDE LAS REDES DE DISTRIBUCIÓN DE LA COMPAÑÍA SUMINISTRADORA
+### 2. ACOMETIDAS DESDE LAS REDES DE DISTRIBUCIÓN DE LA COMPAÑÍA SUMINISTRADORA
 
 La acometida podrá ser subterránea o aérea con cables aislados, y se realizará de acuerdo con las prescripciones particulares de la compañía suministradora, aprobadas según lo previsto en este Reglamento para este tipo de instalaciones.
 
 La acometida finalizará en la caja general de protección y a continuación de la misma se dispondrá el equipo de medida.
 
-### 3.
- DIMENSIONAMIENTO DE LAS INSTALACIONES
+### 3. DIMENSIONAMIENTO DE LAS INSTALACIONES
 
 Las líneas de alimentación a puntos de luz con lámparas o tubos de descarga, estarán previstas para transportar la carga debida a los propios receptores, a sus elementos asociados, a sus corrientes armónicas, de arranque y desequilibrio de fases. Como consecuencia, la potencia aparente mínima en VA, se considerará 1,8 veces la potencia en vatios de las lámparas o tubos de descarga.
 
@@ -72,8 +68,7 @@ Además de lo indicado en párrafos anteriores, el factor de potencia de cada pu
 
 Con el fin de conseguir ahorros energéticos y siempre que sea posible, las instalaciones de alumbrado público se proyectarán con distintos niveles de iluminación, de forma que ésta decrezca durante las horas de menor necesidad de iluminación.
 
-### 4.
- CUADROS DE PROTECCIÓN, MEDIDA Y CONTROL
+### 4. CUADROS DE PROTECCIÓN, MEDIDA Y CONTROL
 
 Las líneas de alimentación a los puntos de luz y de control, cuando existan, partirán desde un cuadro de protección y control; las líneas estarán protegidas individualmente, con corte omnipolar, en este cuadro, tanto contra sobreintensidades (sobrecargas y cortocircuitos), como contra corrientes de defecto a tierra y contra sobretensiones cuando los equipos instalados lo precisen. La intensidad de defecto, umbral de desconexión de los interruptores diferenciales, que podrán ser de reenganche automático, será como máximo de 300 mA y la resistencia de puesta a tierra, medida en la puesta en servicio de la instalación, será como máximo de 30 Ω. No obstante se admitirán interruptores diferenciales de intensidad máxima de 500 mA o 1 A, siempre que la resistencia de puesta a tierra medida en la puesta en servicio de la instalación sea inferior o igual a 5 Ω y a 1 Ω, respectivamente.
 
@@ -83,18 +78,15 @@ La envolvente del cuadro, proporcionará un grado de protección mínima IP55 se
 
 Las partes metálicas del cuadro irán conectadas a tierra.
 
-### 5.
- REDES DE ALIMENTACIÓN
+### 5. REDES DE ALIMENTACIÓN
 
-#### 5.1
- Cables
+#### 5.1 Cables
 
 Los cables serán multipolares o unipolares con conductores de cobre y tensión asignada de 0,6/1 kV.
 
 El conductor neutro de cada circuito que parte del cuadro, no podrá ser utilizado por ningún otro circuito.
 
-#### 5.2
- Tipos
+#### 5.2 Tipos
 
 ##### 5.2.1 Redes subterráneas
 
@@ -122,11 +114,9 @@ La sección mínima a emplear, para todos los conductores incluido el neutro, se
 
 Se emplearán sistemas y materiales similares a los indicados para los circuitos de alimentación, la sección mínima de los conductores será 2,5 mm^2.
 
-### 6.
- SOPORTES DE LUMINARIAS
+### 6. SOPORTES DE LUMINARIAS
 
-#### 6.1
- Características
+#### 6.1 Características
 
 Los soportes de las luminarias de alumbrado exterior, se ajustarán a la normativa vigente (en el caso de que sean de acero deberán cumplir el RD 2642/85, RD 401/89 y OM de 16/5/89). Serán de materiales resistentes a las acciones de la intemperie o estarán debidamente protegidas contra éstas, no debiendo permitir la entrada de agua de lluvia ni la acumulación del agua de condensación. Los soportes, sus anclajes y cimentaciones, se dimensionarán de forma que resistan las solicitaciones mecánicas, particularmente teniendo en cuenta la acción del viento, con un coeficiente de seguridad no inferior a 2,5, considerando las luminarias completas instaladas en el soporte.
 
@@ -134,34 +124,29 @@ Los soportes que lo requieran, deberán poseer una abertura de dimensiones adecu
 
 Cuando por su situación o dimensiones, las columnas fijadas o incorporadas a obras de fábrica no permitan la instalación de los elementos de protección y maniobra en la base, podrán colocarse éstos en la parte superior, en lugar apropiado o en el interior de la obra de fábrica.
 
-#### 6.2
- Instalación eléctrica
+#### 6.2 Instalación eléctrica
 
 En la instalación eléctrica en el interior de los soportes, se deberán respetar los siguientes aspectos:
 
-– Los conductores serán de cobre, de sección mínima 2,5 mm^2, y de tensión asignada 0,6/1kV, como mínimo; no existirán empalmes en el interior de los soportes.
+– Los conductores serán de cobre, de sección mínima 2,5 mm^2, y de tensión asignada 0,6/1kV, como mínimo; no existirán empalmes en el interior de los soportes.
 
-– En los puntos de entrada de los cables al interior de los soportes, los cables tendrán una protección suplementaria de material aislante mediante la prolongación del tubo u otro sistema que lo garantice.
+– En los puntos de entrada de los cables al interior de los soportes, los cables tendrán una protección suplementaria de material aislante mediante la prolongación del tubo u otro sistema que lo garantice.
 
-– La conexión a los terminales, estará hecha deforma que no ejerza sobre los conductores ningún esfuerzo de tracción. Para las conexiones de los conductores de la red con los del soporte, se utilizarán elementos de derivación que contendrán los bornes apropiados, en número y tipo, así como los elementos de protección necesarios para el punto de luz.
+– La conexión a los terminales, estará hecha deforma que no ejerza sobre los conductores ningún esfuerzo de tracción. Para las conexiones de los conductores de la red con los del soporte, se utilizarán elementos de derivación que contendrán los bornes apropiados, en número y tipo, así como los elementos de protección necesarios para el punto de luz.
 
-### 7.
- LUMINARIAS
+### 7. LUMINARIAS
 
-#### 7.1
- Características
+#### 7.1 Características
 
 Las luminarias utilizadas en el alumbrado exterior serán conformes la norma UNE-EN 60.598-2-3 y la UNE-EN 60.598-2-5 en el caso de proyectores de exterior.
 
-7.2
- Instalación eléctrica de luminarias suspendidas.
+7.2 Instalación eléctrica de luminarias suspendidas.
 
 La conexión se realizará mediante cables flexibles, que penetren en la luminaria con la holgura suficiente para evitar que las oscilaciones de ésta provoquen esfuerzos perjudiciales en los cables y en los terminales de conexión, utilizándose dispositivos que no disminuyan el grado de protección de luminaria IP X3 según UNE 20.324.
 
 La suspensión de las luminarias se hará mediante cables de acero protegido contra la corrosión, de sección suficiente para que posea una resistencia mecánica con coeficiente de seguridad de no inferior a 3,5. La altura mínima sobre el nivel del suelo será de 6 m.
 
-### 8.
- EQUIPOS ELÉCTRICOS DE LOS PUNTOS DE LUZ
+### 8. EQUIPOS ELÉCTRICOS DE LOS PUNTOS DE LUZ
 
 Podrán ser de tipo interior o exterior, y su instalación será la adecuada al tipo utilizado.
 
@@ -169,8 +154,7 @@ Los equipos eléctricos para montaje exterior poseerán un grado de protección 
 
 Cada punto de luz deberá tener compensado individualmente el factor de potencia para que sea igual o superior a 0,90; asimismo deberá estar protegido contra sobreintensidades.
 
-### 9.
- PROTECCIÓN CONTRA CONTACTOS DIRECTOS E INDIRECTOS
+### 9. PROTECCIÓN CONTRA CONTACTOS DIRECTOS E INDIRECTOS
 
 Las luminarias serán de Clase I o de Clase II.
 
@@ -178,8 +162,7 @@ Las partes metálicas accesibles de los soportes de luminarias estarán conectad
 
 Cuando las luminarias sean de Clase I, deberán estar conectadas al punto de puesta a tierra del soporte, mediante cable unipolar aislado de tensión asignada 450/750V con recubrimiento de color verde-amarillo y sección mínima 2,5 mm^2 en cobre.
 
-### 10.
- PUESTAS A TIERRA
+### 10. PUESTAS A TIERRA
 
 La máxima resistencia de puesta a tierra será tal que, a lo largo de la vida de la instalación y en cualquier época del año, no se puedan producir tensiones de contacto mayores de 24 V, en las partes metálicas accesibles de la instalación (soportes, cuadros metálicos, etc.).
 
@@ -189,9 +172,9 @@ En las redes de tierra, se instalará como mínimo un electrodo de puesta a tier
 
 Los conductores de la red de tierra que unen los electrodos deberán ser:
 
-– Desnudos, de cobre, de 35 mm^2 de sección mínima, si forman parte de la propia red de tierra, en cuyo caso irán por fuera de las canalizaciones de los cables de alimentación.
+– Desnudos, de cobre, de 35 mm^2 de sección mínima, si forman parte de la propia red de tierra, en cuyo caso irán por fuera de las canalizaciones de los cables de alimentación.
 
-– Aislados, mediante cables de tensión asignada 450/750V, con recubrimiento de color verde-amarillo, con conductores de cobre, de sección mínima 16 mm^2 para redes subterráneas, y de igual sección que los conductores de fase para las redes posadas, en cuyo caso irán por el interior de las canalizaciones de los cables de alimentación.
+– Aislados, mediante cables de tensión asignada 450/750V, con recubrimiento de color verde-amarillo, con conductores de cobre, de sección mínima 16 mm^2 para redes subterráneas, y de igual sección que los conductores de fase para las redes posadas, en cuyo caso irán por el interior de las canalizaciones de los cables de alimentación.
 
 El conductor de protección que une de cada soporte con el electrodo o con la red de tierra, será de cable unipolar aislado, de tensión asignada 450/750 V, con recubrimiento de color verde-amarillo, y sección mínima de 16 mm^2 de cobre.
 

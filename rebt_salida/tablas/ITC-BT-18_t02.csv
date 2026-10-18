@@ -1,8 +1,2 @@
-"Sección de los conductores de fase de la instalación
- S (mm^2)","Sección mínima de los conductores de protección
- S_p (mm^2)"
-"S ≤ 16
- 16 < S ≤ 35
- S > 35","S_p= S
- S_p= 16
- S_p= S/2"
+Sección de los conductores de fase de la instalación S (mm^2),Sección mínima de los conductores de protección S_p (mm^2)
+S ≤ 16 16 < S ≤ 35 S > 35,S_p= S S_p= 16 S_p= S/2

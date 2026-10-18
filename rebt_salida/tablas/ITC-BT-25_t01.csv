@@ -1,24 +1,4 @@
-Circuito de utilización,"Potencia prevista por toma
- –
- W","Factor simultaneidad
- –
- Fs","Factor utilización
- –
- Fu","Tipo de toma
- –
- 
- ^(7)","Interruptor automático
- –
- A",Máximo n.º de puntos de utilización o tomas por circuito,"Conductores sección mínima
- –
- mm^2
- 
- ^(5)","Tubo o conducto
- –
- Diámetro
- mm
- 
- ^(3)"
+Circuito de utilización,Potencia prevista por toma – W,Factor simultaneidad – Fs,Factor utilización – Fu,Tipo de toma – ^(7),Interruptor automático – A,Máximo n.º de puntos de utilización o tomas por circuito,Conductores sección mínima – mm^2 ^(5),Tubo o conducto – Diámetro mm ^(3)
 C_1 Iluminación.,200,"0,75","0,5",Punto de luz^(9).,10,30,"1,5",16
 C_2 Tomas de uso general.,3.450,"0,2","0,25",Base 16 A 2p+T.,16,20,"2,5",20
 C_3 Cocina y horno.,5.400,"0,5","0,75",Base 25 A 2p+T.,25,2,6,25

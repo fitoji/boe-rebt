@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIONES CON FINES ESPECIALES. REQUISITOS PARTICULARES PARA LA INSTALACIÓN ELÉCTRICA EN QUIRÓFANOS Y SALAS DE INTERVENCIÓN
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. OBJETO Y CAMPO DE APLICACIÓN
 
@@ -49,8 +48,7 @@ Los receptores objeto de esta instrucción cumplirán los requisitos de las dire
 
 Además de las prescripciones generales para locales de usos sanitarios señaladas en la ITC-BT-28, se cumplirán las prescripciones particulares incluidas en la presente instrucción.
 
-### 2.
- CONDICIONES GENERALES DE SEGURIDAD E INSTALACIÓN
+### 2. CONDICIONES GENERALES DE SEGURIDAD E INSTALACIÓN
 
 Las salas de anestesia y demás dependencias donde puedan utilizarse anestésicos u otros productos inflamables, serán considerados como locales con riesgo de incendio o explosión Clase I, Zona 1, salvo indicación en contra, y como tales las instalaciones deberán satisfacer las indicaciones para ellas establecidas en la ITC-BT-29.
 
@@ -60,8 +58,7 @@ Cuando la instalación de alumbrado general se sitúe a una altura del suelo inf
 
 Las características de aislamiento de los conductores, responderán a lo dispuesto en la ITC-BT 19 y, en su caso, la ITC-BT-29.
 
-#### 2.1
- Medidas de protección
+#### 2.1 Medidas de protección
 
 ##### 2.1.1 Puesta a tierra de protección
 
@@ -101,8 +98,7 @@ Los dispositivos alimentados a través de un transformador de aislamiento no deb
 
 Las instalaciones con Muy Baja Tensión de Seguridad (MBTS) tendrán una tensión asignada no superior a 24 V en corriente alterna y 50 V en corriente continua y cumplirá lo establecido en la ITC-BT-36.
 
-#### 2.2
- Suministros complementarios
+#### 2.2 Suministros complementarios
 
 Además del suministro complementario de reserva requerido en la ITC-BT 28 será obligatorio disponer de un suministro especial complementario, por ejemplo con baterías, para hacer frente a las necesidades de la lámpara de quirófano o sala de intervención y equipos de asistencia vital, debiendo entrar en servicio automáticamente en menos de 0,5 segundos (corte breve) y con una autonomía no inferior a 2 horas. La lámpara de quirófano o sala de intervención siempre estará alimentada a través de un transformador de aislamiento (ver figura 1).
 
@@ -112,8 +108,7 @@ Figura 1. Ejemplo de un esquema general de la instalación eléctrica de un quir
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image60.png)
 
-#### 2.3
- Medidas contra el riesgo de incendio o explosión
+#### 2.3 Medidas contra el riesgo de incendio o explosión
 
 Para los quirófanos o salas de intervención en los que se empleen mezclas anestésicas gaseosas o agentes desinfectantes inflamables, la figura 2 muestra las zonas G y M, que deberán ser consideradas como zonas de la Clase I; Zona 1 y Clase I; Zona 2, respectivamente, conforme a lo establecido en la ITC-BT-29. La zona M, situada debajo de la mesa de operaciones (ver figura 2), podrá considerarse como zona sin riesgo de incendio o explosión cuando se asegure una ventilación de 15 renovaciones de aire /hora.
 
@@ -125,26 +120,25 @@ Figura 2. Zonas con riesgo de incendio y explosión en el quirófano, cuando se 
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image61.png)
 
-#### 2.4
- Control y mantenimiento
+#### 2.4 Control y mantenimiento
 
 ##### 2.4.1 Antes de la puesta en servicio de la instalación
 
 La empresa instaladora autorizada deberá proporcionar un informe escrito sobre los resultados de los controles realizados al término de la ejecución de la instalación, que comprenderá, al menos:
 
-– el funcionamiento de las medidas de protección
+– el funcionamiento de las medidas de protección
 
-– la continuidad de los conductores activos y de los conductores de protección y puesta a tierra.
+– la continuidad de los conductores activos y de los conductores de protección y puesta a tierra.
 
-– la resistencia de las conexiones de los conductores de protección y de las conexiones de equipotencialidad
+– la resistencia de las conexiones de los conductores de protección y de las conexiones de equipotencialidad
 
-– la resistencia de aislamiento entre conductores activos y tierra en cada circuito
+– la resistencia de aislamiento entre conductores activos y tierra en cada circuito
 
-– la resistencia de puesta a tierra
+– la resistencia de puesta a tierra
 
-– la resistencia de aislamiento de suelos antielectrostáticos, y
+– la resistencia de aislamiento de suelos antielectrostáticos, y
 
-– el funcionamiento de todos los suministros complementarios.
+– el funcionamiento de todos los suministros complementarios.
 
 ##### 2.4.2 Después de su puesta en servicio
 
@@ -160,8 +154,7 @@ Además de las inspecciones periódicas establecidas en la ITC-BT 05, se realiza
 
 Todos los controles realizados serán recogidos en un "Libro de Mantenimiento" de cada quirófano o sala de intervención, en el que se expresen los resultados obtenidos y las fechas en que se efectuaron, con firma del técnico que los realizó. En el mismo, deberán reflejarse con detalle las anomalías observadas, para disponer de antecedentes que puedan servir de base a la corrección de deficiencias.
 
-3.
- CONDICIONES ESPECIALES DE INSTALACIÓN DE RECEPTORES EN QUIRÓFANOS Y SALAS DE INTERVENCIÓN
+3. CONDICIONES ESPECIALES DE INSTALACIÓN DE RECEPTORES EN QUIRÓFANOS Y SALAS DE INTERVENCIÓN
 
 Todas las masas metálicas de los receptores invasivos eléctricamente deben conectarse a través de un conductor de protección a un embarrado común de puesta a tierra de protección (PT en figura 1) y éste, a su vez, a la puesta a tierra general del edificio.
 

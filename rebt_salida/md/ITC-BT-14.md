@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIONES DE ENLACE. LÍNEA GENERAL DE ALIMENTACIÓN
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. DEFINICIÓN
 
@@ -17,8 +16,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ### 3. CABLES
 
-### 1.
- DEFINICIÓN
+### 1. DEFINICIÓN
 
 Es aquella que enlaza la Caja General de Protección con la centralización de contadores.
 
@@ -26,24 +24,23 @@ De una misma línea general de alimentación pueden hacerse derivaciones para di
 
 Las líneas generales de alimentación estarán constituidas por:
 
-– Conductores aislados en el interior de tubos empotrados.
+– Conductores aislados en el interior de tubos empotrados.
 
-– Conductores aislados en el interior de tubos enterrados.
+– Conductores aislados en el interior de tubos enterrados.
 
-– Conductores aislados en el interior de tubos en montaje superficial.
+– Conductores aislados en el interior de tubos en montaje superficial.
 
-– Conductores aislados en el interior de canales protectoras cuya tapa sólo se pueda abrir con la ayuda de un útil.
+– Conductores aislados en el interior de canales protectoras cuya tapa sólo se pueda abrir con la ayuda de un útil.
 
-– Canalizaciones eléctricas prefabricadas que deberán cumplir la norma UNE-EN-60.439-2.
+– Canalizaciones eléctricas prefabricadas que deberán cumplir la norma UNE-EN-60.439-2.
 
-– Conductores aislados en el interior de conductos cerrados de obra de fábrica, proyectados y construidos al efecto.
+– Conductores aislados en el interior de conductos cerrados de obra de fábrica, proyectados y construidos al efecto.
 
 En los casos anteriores, los tubos y canales así como su instalación, cumplirán lo indicado en la ITC-BT-21, salvo en lo indicado en la presente instrucción.
 
 Las canalizaciones incluirán en cualquier caso, el conductor de protección.
 
-### 2.
- INSTALACIÓN
+### 2. INSTALACIÓN
 
 El trazado de la línea general de alimentación será lo más corto y rectilíneo posible, discurriendo por zonas de uso común.
 
@@ -57,8 +54,7 @@ Las uniones de los tubos rígidos serán roscadas o embutidas, de modo que no pu
 
 Además, cuando la línea general de alimentación discurra verticalmente lo hará por el interior de una canaladura o conducto de obra de fábrica empotrado o adosado al hueco de la escalera por lugares de uso común. La línea general de alimentación no podrá ir adosada o empotrada a la escalera o zona de uso común cuando estos recintos sean protegidos conforme a lo establecido en la NBE-CPI-96. Se evitarán las curvas, los cambios de dirección y la influencia térmica de otras canalizaciones del edificio. Este conducto será registrable y precintable en cada planta y se establecerán cortafuegos cada tres plantas, como mínimo y sus paredes tendrán una resistencia al fuego de RF 120 según NBE-CPI-96. Las tapas de registro tendrán una resistencia al fuego mínima, RF 30. Las dimensiones mínimas del conducto serán de 30 x 30 cm y se destinará única y exclusivamente a alojar la línea general de alimentación y el conductor de protección.
 
-### 3.
- CABLES
+### 3. CABLES
 
 Los conductores a utilizar, tres de fase y uno de neutro, serán de cobre o aluminio, unipolares y aislados, siendo su tensión asignada 0,6/1 kV.
 
@@ -76,9 +72,9 @@ Para el cálculo de la sección de los cables se tendrá en cuenta, tanto la má
 
 La caída de tensión máxima permitida será:
 
-– Para líneas generales de alimentación destinadas a contadores totalmente centralizados: 0,5 por 100.
+– Para líneas generales de alimentación destinadas a contadores totalmente centralizados: 0,5 por 100.
 
-– Para líneas generales de alimentación destinadas a centralizaciones parciales de contadores: 1 por 100.
+– Para líneas generales de alimentación destinadas a centralizaciones parciales de contadores: 1 por 100.
 
 La intensidad máxima admisible a considerar será la fijada en la UNE 20.460 -5-523 con los factores de corrección correspondientes a cada tipo de montaje, de acuerdo con la previsión de potencias establecidas en la ITC-BT-10.
 

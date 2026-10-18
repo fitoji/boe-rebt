@@ -40,21 +40,21 @@ Cuando se precise proyecto, de acuerdo con lo establecido en el apartado 3, ést
 
 En la memoria del proyecto se expresarán especialmente:
 
-– Datos relativos al propietario;
+– Datos relativos al propietario;
 
-– Emplazamiento, características básicas y uso al que se destina;
+– Emplazamiento, características básicas y uso al que se destina;
 
-– Características y secciones de los conductores a emplear;
+– Características y secciones de los conductores a emplear;
 
-– Características y diámetros de los tubos para canalizaciones;
+– Características y diámetros de los tubos para canalizaciones;
 
-– Relación nominal de los receptores que se prevean instalar y su potencia, sistemas y dispositivos de seguridad adoptados y cuantos detalles sean necesarios de acuerdo con la importancia de la instalación proyectada y para que se ponga de manifiesto el cumplimiento de las prescripciones del Reglamento y sus Instrucciones Técnicas Complementarias.
+– Relación nominal de los receptores que se prevean instalar y su potencia, sistemas y dispositivos de seguridad adoptados y cuantos detalles sean necesarios de acuerdo con la importancia de la instalación proyectada y para que se ponga de manifiesto el cumplimiento de las prescripciones del Reglamento y sus Instrucciones Técnicas Complementarias.
 
-– Esquema unifilar de la instalación y características de los dispositivos de corte y protección adoptados, puntos de utilización y secciones de los conductores.
+– Esquema unifilar de la instalación y características de los dispositivos de corte y protección adoptados, puntos de utilización y secciones de los conductores.
 
-– Croquis de su trazado;
+– Croquis de su trazado;
 
-– Cálculos justificativos del diseño.
+– Cálculos justificativos del diseño.
 
 Los planos serán los suficientes en número y detalle, tanto para dar una idea clara de las disposiciones que pretenden adoptarse en las instalaciones, como para que la Empresa instaladora que ejecute la instalación disponga de todos los datos necesarios para la realización de la misma.
 
@@ -64,23 +64,23 @@ La Memoria Técnica de Diseño (MTD) se redactará sobre impresos, según modelo
 
 En especial, se incluirán los siguientes datos:
 
-– Los referentes al propietario;
+– Los referentes al propietario;
 
-– Identificación de la persona que firma la memoria y justificación de su competencia;
+– Identificación de la persona que firma la memoria y justificación de su competencia;
 
-– Emplazamiento de la instalación;
+– Emplazamiento de la instalación;
 
-– Uso al que se destina;
+– Uso al que se destina;
 
-– Relación nominal de los receptores que se prevea instalar y su potencia;
+– Relación nominal de los receptores que se prevea instalar y su potencia;
 
-– Cálculos justificativos de las características de la línea general de alimentación, derivaciones individuales y líneas secundarias, sus elementos de protección y sus puntos de utilización;
+– Cálculos justificativos de las características de la línea general de alimentación, derivaciones individuales y líneas secundarias, sus elementos de protección y sus puntos de utilización;
 
-– Pequeña memoria descriptiva;
+– Pequeña memoria descriptiva;
 
-– Esquema unifilar de la instalación y características de los dispositivos de corte y protección adoptados, puntos de utilización y secciones de los conductores.
+– Esquema unifilar de la instalación y características de los dispositivos de corte y protección adoptados, puntos de utilización y secciones de los conductores.
 
-– Croquis de su trazado;
+– Croquis de su trazado;
 
 3. INSTALACIONES QUE PRECISAN PROYECTO.
 
@@ -91,15 +91,15 @@ En especial, se incluirán los siguientes datos:
 | Grupo | Tipo de Instalación | Límites |
 |---|---|---|
 | a | Las correspondientes a industrias, en general. | P > 20 kW. |
-| b | Las correspondientes a:  – Locales húmedos, polvorientos o con riesgo de corrosión.  – Bombas de extracción o elevación de agua, sean industriales o no. | P > 10 kW. |
-| c | Las correspondientes a:  – Locales mojados.  – Generadores y convertidores.  – Conductores aislados para caldeo, excluyendo las de viviendas. | P > 10 kW. |
-| d | – De carácter temporal para alimentación de maquinaria de obras en construcción.  – De carácter temporal en locales o emplazamientos abiertos. | P > 50 kW. |
+| b | Las correspondientes a: – Locales húmedos, polvorientos o con riesgo de corrosión. – Bombas de extracción o elevación de agua, sean industriales o no. | P > 10 kW. |
+| c | Las correspondientes a: – Locales mojados. – Generadores y convertidores. – Conductores aislados para caldeo, excluyendo las de viviendas. | P > 10 kW. |
+| d | – De carácter temporal para alimentación de maquinaria de obras en construcción. – De carácter temporal en locales o emplazamientos abiertos. | P > 50 kW. |
 | e | Las de edificios destinados principalmente a viviendas, locales comerciales y oficinas, que no tengan la consideración de locales de pública concurrencia, en edificación vertical u horizontal. | P > 100 kW por caja gral. de protección. |
 | f | Las correspondientes a viviendas unifamiliares. | P > 50 kW. |
 | g | Las de aparcamientos o estacionamientos que requieren ventilación forzada. | Cualquiera que sea su ocupación. |
 | h | Las de aparcamientos o estacionamientos que disponen de ventilación natural. | De más de 5 plazas de estacionamiento. |
 | i | Las correspondientes a locales de pública concurrencia. | Sin límite. |
-| j | Las correspondientes a:  – Líneas de baja tensión con apoyos comunes con las de alta tensión.  – Máquinas de elevación y transporte.  – Las que utilicen tensiones especiales.  – Las destinadas a rótulos luminosos salvo que se consideren instalaciones de Baja tensión según lo establecido en la ITC-BT-44.  – Cercas eléctricas.  – Redes aéreas o subterráneas de distribución. | Sin límite de potencia. |
+| j | Las correspondientes a: – Líneas de baja tensión con apoyos comunes con las de alta tensión. – Máquinas de elevación y transporte. – Las que utilicen tensiones especiales. – Las destinadas a rótulos luminosos salvo que se consideren instalaciones de Baja tensión según lo establecido en la ITC-BT-44. – Cercas eléctricas. – Redes aéreas o subterráneas de distribución. | Sin límite de potencia. |
 | k | – Instalaciones de alumbrado exterior. | P > 5 kW. |
 | l | Las correspondientes a locales con riesgo de incendio o explosión, excepto aparcamientos o estacionamientos. | Sin límite. |
 | m | Las de quirófanos y salas de intervención. | Sin límite. |

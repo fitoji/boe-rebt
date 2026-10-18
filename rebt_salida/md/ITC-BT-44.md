@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIÓN DE RECEPTORES. RECEPTORES PARA ALUMBRADO
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. OBJETO Y CAMPO DE APLICACIÓN
 
@@ -39,18 +38,15 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ### 5. RÓTULOS LUMINOSOS
 
-### 1.
- OBJETO Y CAMPO DE APLICACIÓN
+### 1. OBJETO Y CAMPO DE APLICACIÓN
 
 La presente instrucción se aplica a las instalaciones de receptores para alumbrado (luminarias). Se entiende como receptor para alumbrado, el equipo o dispositivo que utiliza la energía eléctrica para la iluminación de espacios interiores o exteriores.
 
 En esta instrucción no se incluyen prescripciones relativas al alumbrado exterior recogido en la ITC-BT-09 ni al alumbrado de emergencia en locales de pública concurrencia recogido en la ITC-BT-28.
 
-### 2.
- CONDICIONES PARTICULARES PARA LOS RECEPTORES PARA ALUMBRADO Y SUS COMPONENTES
+### 2. CONDICIONES PARTICULARES PARA LOS RECEPTORES PARA ALUMBRADO Y SUS COMPONENTES
 
-#### 2.1
- Luminarias
+#### 2.1 Luminarias
 
 Las luminarias serán conformes a los requisitos establecidos en las normas de la serie UNE-EN 60598.
 
@@ -72,15 +68,13 @@ Cuando la luminaria tiene la conexión a la red en su interior, es necesario que
 
 Las partes metálicas accesibles de las luminarias que no sean de Clase II o Clase III, deberán tener un elemento de conexión para su puesta a tierra. Se entiende como accesibles aquellas partes incluidas dentro del volumen de accesibilidad definido en la ITC-BT-24.
 
-#### 2.2
- Lámparas
+#### 2.2 Lámparas
 
 Queda prohibido el uso de lámparas de gases con descargas a alta tensión (como por ejemplo neón) en el interior de las viviendas.
 
 En el interior de locales comerciales y en el interior de edificios, se permitirá su instalación cuando su ubicación esftuéera del volumen de accesibilidad o cuando se instalen barreras o envolventes separadoras, tal como se define en la ITC-BT-24.
 
-#### 2.3
- Portalámparas
+#### 2.3 Portalámparas
 
 Deberán ser de alguno de los tipos, formas y dimensiones especificados en la norma UNE-EN 60.061-2.
 
@@ -88,11 +82,9 @@ Cuando en la misma instalación existan lámparas que han de ser alimentadas a d
 
 Cuando se empleen portalámparas con contacto central, debe conectarse a éste el conductor de fase o polar, y el neutro al contacto correspondiente a la parte exterior.
 
-### 3.
- CONDICIONES DE INSTALACIÓN DE LOS RECEPTORES PARA ALUMBRADO
+### 3. CONDICIONES DE INSTALACIÓN DE LOS RECEPTORES PARA ALUMBRADO
 
-#### 3.1
- Condiciones generales
+#### 3.1 Condiciones generales
 
 En instalaciones de iluminación con lámparas de descarga realizadas en locales en los que funcionen máquinas con movimiento alternativo o rotatorio rápido, se deberán tomar las medidas necesarias para evitar la posibilidad de accidentes causados por ilusión óptica originada por el efecto estroboscópico.
 
@@ -104,8 +96,7 @@ Para receptores con lámparas de descarga, la carga mínima prevista en voltiamp
 
 En el caso de receptores con lámparas de descarga será obligatoria la compensación del factor de potencia hasta un valor mínimo de 0,9, y no se admitirá compensación en conjunto de un grupo de receptores en una instalación de régimen de carga variable, salvo que dispongan de un sistema de compensación automático con variación de su capacidad siguiendo el régimen de carga.
 
-#### 3.2
- Condiciones específicas
+#### 3.2 Condiciones específicas
 
 Para instalaciones que alimenten tubos luminosos de descarga con tensiones asignadas de salida en vacío comprendidas entre 1 kV y 10 kV, se aplicará lo dispuesto en la UNE-EN 50.107. No obstante, se considerarán como instalaciones de baja tensión las destinadas a lámparas o tubos de descarga, cualquiera que sean las tensiones de funcionamiento de éstas, siempre que constituyan un conjunto o unidad con los transformadores de alimentación y demás elementos, no presenten al exterior más que conductores de conexión en baja tensión y dispongan de barreras o envolventes con sistemas de enclavamiento adecuados, que impidan alcanzar partes interiores del conjunto sin que sea cortada automáticamente la tensión de alimentación al mismo.
 
@@ -115,14 +106,12 @@ La instalación irá provista de un interruptor de corte omnipolar, situado en l
 
 Todos los condensadores que formen parte del equipo auxiliar eléctrico de las lámparas de descarga para corregir el factor de potencia de los balastos, deberán llevar conectada una resistencia que asegure que la tensión en bornes del condensador no sea mayor de 50 V transcurridos 60 s desde la desconexión del receptor.
 
-### 4.
- UTILIZACIÓN DE MUY BAJAS TENSIONES PARA ALUMBRADO
+### 4. UTILIZACIÓN DE MUY BAJAS TENSIONES PARA ALUMBRADO
 
 En las caldererías, grandes depósitos metálicos, cascos navales, etc. y, en general, en lugares análogos, los aparatos de iluminación portátiles serán alimentados con una tensión de seguridad no superior a 24 V, excepto si son alimentados por medio de transformadores de separación.
 
 En instalaciones con lámparas de muy baja tensión (p.e. 12 V) debe preverse la utilización de transformadores adecuados, para asegurar una adecuada protección térmica, contra cortocircuitos y sobrecargas y contra los choques eléctricos.
 
-### 5.
- RÓTULOS LUMINOSOS
+### 5. RÓTULOS LUMINOSOS
 
 Para los rótulos luminosos y para instalaciones que los alimentan con tensiones asignadas de salida en vacío comprendidas entre 1 y 10 kV se aplicará lo dispuesto en la norma UNE-EN 50.107.

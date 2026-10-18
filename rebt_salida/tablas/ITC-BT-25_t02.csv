@@ -1,51 +1,29 @@
 Estancia,Circuito,Mecanismo,N.º mínimo,Superf./longitud
 Acceso.,C_1,Pulsador timbre.,1,
-Vestíbulo.,C_1,"Punto de luz.
- Interruptor 10 A.","1
- 1",–
+Vestíbulo.,C_1,Punto de luz. Interruptor 10 A.,1 1,–
 Vestíbulo.,C_2,Base 16 A 2p+T.,1,–
-Sala de estar o salón.,C_1,"Punto de luz.
- Interruptor 10 A.","1
- 1","Hasta 10 m^2 (dos si S > 10 m^2).
- Uno por cada punto de luz."
+Sala de estar o salón.,C_1,Punto de luz. Interruptor 10 A.,1 1,Hasta 10 m^2 (dos si S > 10 m^2). Uno por cada punto de luz.
 Sala de estar o salón.,C_2,Base 16 A 2p+T.,3^(1),"Una por cada 6 m^2, redondeado al entero superior."
 Sala de estar o salón.,C_8,Toma de calefacción.,1,Hasta 10 m^2 (dos si S > 10 m^2).
 Sala de estar o salón.,C_9,Toma de aire acondicionado.,1,Hasta 10 m^2 (dos si S > 10 m^2).
-Dormitorios.,C_1,"Puntos de luz.
- Interruptor 10 A.","1
- 1","Hasta 10 m^2 (dos si S > 10 m^2).
- Uno por cada punto de luz."
+Dormitorios.,C_1,Puntos de luz. Interruptor 10 A.,1 1,Hasta 10 m^2 (dos si S > 10 m^2). Uno por cada punto de luz.
 Dormitorios.,C_2,Base 16 A 2p+T.,3^(1),"Una por cada 6 m^2, redondeado al entero superior."
 Dormitorios.,C_8,Toma de calefacción.,1,–
 Dormitorios.,C_9,Toma de aire acondicionado.,1,–
-Baños.,C_1,"Puntos de luz.
- Interruptor 10 A.","1
- 1",–
+Baños.,C_1,Puntos de luz. Interruptor 10 A.,1 1,–
 Baños.,C_5,Base 16 A 2p+T.,1,–
 Baños.,C_8,Toma de calefacción.,1,–
-Pasillos o distribuidores.,C_1,"Puntos de luz.
- Interruptor/Conmutador 10 A.","1
- 1","Uno cada 5 m de longitud.
- Uno en cada acceso."
+Pasillos o distribuidores.,C_1,Puntos de luz. Interruptor/Conmutador 10 A.,1 1,Uno cada 5 m de longitud. Uno en cada acceso.
 Pasillos o distribuidores.,C_2,Base 16 A 2p + T.,1,Hasta 5 m (dos si L > 5 m).
 Pasillos o distribuidores.,C_8,Toma de calefacción.,1,–
-Cocina.,C_1,"Puntos de luz.
- Interruptor 10 A.","1
- 1","Hasta 10 m^2 (dos si S > 10 m^2).
- Uno por cada punto de luz."
+Cocina.,C_1,Puntos de luz. Interruptor 10 A.,1 1,Hasta 10 m^2 (dos si S > 10 m^2). Uno por cada punto de luz.
 Cocina.,C_2,Base 16 A 2p + T.,2,Extractor y frigorífico.
 Cocina.,C_3,Base 25 A 2p + T.,1,Cocina/horno.
 Cocina.,C_4,Base 16 A 2p + T.,3,"Lavadora, lavavajillas y termo."
 Cocina.,C_5,Base 16 A 2p + T.,3^(2),Encima del plano de trabajo.
 Cocina.,C_8,Toma calefacción.,1,–
 Cocina.,C_10,Base 16 A 2p + T.,1,Secadora.
-Terrazas y Vestidores.,C_1,"Puntos de luz.
- Interruptor 10 A.","1
- 1","Hasta 10 m^2 (dos si S > 10 m^2).
- Uno por cada punto de luz."
-Garajes unifamiliares y otros.,C_1,"Puntos de luz.
- Interruptor 10 A.","1
- 1","Hasta 10 m^2 (dos si S > 10 m^2).
- Uno por cada punto de luz."
+Terrazas y Vestidores.,C_1,Puntos de luz. Interruptor 10 A.,1 1,Hasta 10 m^2 (dos si S > 10 m^2). Uno por cada punto de luz.
+Garajes unifamiliares y otros.,C_1,Puntos de luz. Interruptor 10 A.,1 1,Hasta 10 m^2 (dos si S > 10 m^2). Uno por cada punto de luz.
 Garajes unifamiliares y otros.,C_2,Base 16 A 2p + T.,1,Hasta 10 m^2 (dos si S > 10 m^2).
 Garajes unifamiliares y otros.,C_13,Base de toma de corriente^(3).,1,–

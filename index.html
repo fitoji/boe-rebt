@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>REBT — Reglamento Electrotécnico de Baja Tensión</title>
+<link rel="stylesheet" href="assets/github-markdown.css">
+<link rel="stylesheet" href="assets/nunito.css">
+<style>
+  :root{
+    --bg:#f7f7f7;
+    --panel:#ffffff;
+    --border:#d1d5db;
+    --text:#111827;
+    --muted:#6b7280;
+    --accent:#2563eb;
+    --accent-hover:#1d4ed8;
+    --chip:#eef2ff;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:'Nunito',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.6}
+  body{display:flex;flex-direction:column;min-height:100vh}
+  header{
+    background:var(--panel);border-bottom:1px solid var(--border);padding:16px 24px;position:sticky;top:0;z-index:100;display:flex;flex-wrap:wrap;align-items:center;gap:16px
+  }
+  h1{font-size:1.25rem;margin:0;display:flex;align-items:center;gap:10px}
+  h1 .sigla{font-weight:800;letter-spacing:.05em}
+  .controls{display:flex;align-items:center;gap:10px;margin-left:auto;flex-wrap:wrap}
+  button{
+    background:var(--accent);color:#fff;border:none;padding:8px 14px;border-radius:6px;font-size:.9rem;cursor:pointer;font-weight:600
+  }
+  button:hover{background:var(--accent-hover)}
+  button.secondary{background:#f3f4f6;color:var(--text)}
+  button.secondary:hover{background:#e5e7eb}
+  button:disabled{opacity:.5;cursor:not-allowed}
+  input[type="file"]{font-size:.9rem;color:var(--muted)}
+  .badge{display:inline-block;width:24px;height:24px;line-height:24px;text-align:center;border-radius:4px;background:#e5e7eb;color:var(--muted);font-size:.8rem;font-weight:700;flex-shrink:0}
+  .badge.itc{background:var(--chip);color:var(--accent)}
+  main{display:flex;flex:1;overflow:hidden}
+  aside{
+    width:320px;max-width:45vw;background:var(--panel);border-right:1px solid var(--border);overflow:auto;display:flex;flex-direction:column
+  }
+  .aside-header{padding:16px 20px;border-bottom:1px solid var(--border);background:#f9fafb}
+  .aside-header h2{margin:0 0 8px 0;font-size:.95rem;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+  .search{width:100%;padding:8px 10px;border:1px solid var(--border);border-radius:6px;font-size:.9rem;margin-bottom:12px;background:#fff}
+  ul#indice{list-style:none;margin:0;padding:0;overflow:auto;flex:1}
+  ul#indice li{padding:0}
+  ul#indice a{
+    display:block;padding:10px 16px;color:var(--text);text-decoration:none;border-bottom:1px solid #f3f4f6;cursor:pointer;transition:background .1s
+  }
+  ul#indice a:hover{background:#f9fafb}
+  ul#indice a.activa{background:var(--chip);color:var(--accent);font-weight:700;border-left:3px solid var(--accent)}
+  .subtitulo{font-size:.82rem;color:var(--muted);margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;padding-left:34px}
+  section{flex:1;overflow:auto;padding:32px 40px;position:relative}
+  article.markdown-body{max-width:900px;margin:0 auto;padding-bottom:80px}
+  article.markdown-body h1{font-size:1.75rem;margin-top:0;border-bottom:1px solid var(--border);padding-bottom:8px}
+  article.markdown-body h2{font-size:1.4rem;margin-top:2rem;border-bottom:1px solid #e5e7eb;padding-bottom:6px}
+  article.markdown-body h3{font-size:1.15rem;margin-top:1.5rem}
+  article.markdown-body h4{font-size:1rem;margin-top:1.25rem}
+  article.markdown-body p{margin:1rem 0}
+  article.markdown-body ul,article.markdown-body ol{margin:1rem 0 1rem 1.5rem}
+  article.markdown-body code{background:#f3f4f6;padding:.15em .4em;border-radius:4px;font-size:.9em;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+  article.markdown-body pre{background:#f3f4f6;border:1px solid var(--border);border-radius:6px;padding:12px;overflow:auto}
+  article.markdown-body pre code{background:transparent;padding:0;font-size:inherit}
+  article.markdown-body table{border-collapse:collapse;width:100%;margin:1rem 0}
+  article.markdown-body th,article.markdown-body td{border:1px solid var(--border);padding:6px 10px;text-align:left}
+  article.markdown-body blockquote{border-left:3px solid var(--border);margin:1rem 0;padding-left:1rem;color:var(--muted)}
+  article.markdown-body img{max-width:100%;height:auto}
+  article.markdown-body a{color:var(--accent);text-decoration:underline}
+  article.markdown-body a.internal{color:var(--accent);text-decoration:none;font-weight:600}
+  article.markdown-body a.internal:hover{text-decoration:underline}
+  .nav-bottom{position:sticky;bottom:0;background:rgba(247,247,247,.9);border-top:1px solid var(--border);padding:12px 40px;display:flex;justify-content:space-between;align-items:center;gap:12px;z-index:50}
+  .nav-bottom button{flex:1}
+  .toolbar{margin-bottom:14px;display:flex;gap:8px;flex-wrap:wrap}
+  .capitulo-meta{font-size:.85rem;color:var(--muted);margin-bottom:6px}
+  .capitulo-titulo{font-size:1.5rem;margin:0 0 2px 0}
+  .anclaje::before{content:"#";position:absolute;margin-left:-1.1em;color:#cbd5e1;opacity:0;transition:opacity .15s}
+  .anclaje:hover::before{opacity:1}
+  .vacío{color:var(--muted);font-style:italic;text-align:center;padding:2rem}
+
+  /* ===== FORZAR MODO LIGHT en todo el documento y contenido markdown ===== */
+  html, body { color-scheme: light !important; }
+  section { color-scheme: light !important; }
+  article.markdown-body,
+  article.markdown-body * { color-scheme: light !important; }
+  article.markdown-body { background:#ffffff !important; color:#111827 !important; font-family:'Nunito',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif !important; }
+  article.markdown-body h1,
+  article.markdown-body h2,
+  article.markdown-body h3,
+  article.markdown-body h4,
+  article.markdown-body h5,
+  article.markdown-body h6 { color:#111827 !important; border-color:#d1d5db !important; }
+  article.markdown-body a { color:#2563eb !important; }
+  article.markdown-body code { background:#f3f4f6 !important; color:#111827 !important; }
+  article.markdown-body pre { background:#f3f4f6 !important; border:1px solid #d1d5db !important; color:#111827 !important; }
+  article.markdown-body pre code { background:transparent !important; color:#111827 !important; }
+  article.markdown-body blockquote { border-left-color:#d1d5db !important; color:#6b7280 !important; background:#f9fafb !important; }
+  article.markdown-body table th { background:#f3f4f6 !important; color:#111827 !important; }
+  article.markdown-body table td { background:#ffffff !important; color:#111827 !important; border-color:#d1d5db !important; }
+  article.markdown-body img { background:#ffffff !important; }
+
+  @media (max-width:900px){
+    aside{width:260px}
+    section{padding:20px 20px}
+    header{padding:14px 16px}
+    .controls{margin-left:0}
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1><span class="sigla">REBT</span> Reglamento Electrotécnico de Baja Tensión</h1>
+  <div class="controls">
+    <button id="btnAbrir">📂 Seleccionar carpeta de Markdown</button>
+    <input type="file" id="carpeta" webkitdirectory directory multiple style="display:none">
+    <button id="btnLimpiar" class="secondary" disabled>Limpiar</button>
+    <span id="estado" style="font-size:.85rem;color:var(--muted);margin-left:10px"></span>
+    <span id="api" style="font-size:.8rem;color:var(--muted);margin-left:10px"></span>
+  </div>
+</header>
+
+<main>
+  <aside>
+    <div class="aside-header">
+      <h2>Índice</h2>
+      <input type="text" id="buscador" placeholder="Buscar capítulo…">
+    </div>
+    <ul id="indice" role="list"></ul>
+  </aside>
+
+  <section>
+    <div id="vacio" class="vacío">Selecciona la carpeta <code>rebt_salida/md/</code> para cargar los capítulos.</div>
+    <div id="contenido" style="display:none"></div>
+  </section>
+</main>
+
+<div class="nav-bottom">
+  <button id="btnAnt" disabled>◀ Anterior</button>
+  <div style="font-size:.85rem;color:var(--muted);font-weight:600" id="progreso">—</div>
+  <button id="btnSig" disabled>Siguiente ▶</button>
+</div>
+
+<script src="assets/marked.min.js"></script>
+<script>
+(()=>{
+  const $ = id => document.getElementById(id);
+  const btnAbrir = $("btnAbrir");
+  const input = $("carpeta");
+  const btnLimpiar = $("btnLimpiar");
+  const estado = $("estado");
+  const apiSpan = $("api");
+  const lista = $("indice");
+  const vacio = $("vacio");
+  const contenido = $("contenido");
+  const btnAnt = $("btnAnt");
+  const btnSig = $("btnSig");
+  const progreso = $("progreso");
+
+  let archivos = []; // {nombre, ruta, texto, titulo, orden, clave}
+  let idxActual = -1;
+
+  // ---------- Orden ----------
+  function ordenClave(nombre){
+    const base = nombre.replace(/\.md$/i,"");
+    if(base === "00_reglamento") return `00__${base}`;
+    const m = base.match(/^ITC-BT-(\d+)$/i);
+    if(m) return `01__${String(Number(m[1])).padStart(4,"0")}__${base}`;
+    if(base === "zz_informacion-relacionada") return `99__${base}`;
+    return `98__${base}`;
+  }
+
+  function extraerTitulo(texto, nombre){
+    let cuerpo = texto;
+    const fmMatch = texto.match(/^---\s*\n([\s\S]*?)\n---\s*\n/);
+    if(fmMatch) cuerpo = texto.slice(fmMatch[0].length);
+    const primera = cuerpo.match(/^#{2,6}\s+(.+)/m);
+    if(primera) return primera[1].trim();
+    const base = nombre.replace(/\.md$/i,"");
+    return base.replace(/[-_]/g," ").replace(/\b\w/g,c=>c.toUpperCase());
+  }
+
+  function slug(texto){
+    return texto.toLowerCase()
+      .normalize("NFD").replace(/[\u0300-\u036f]/g,"")
+      .replace(/[^a-z0-9]+/g,"-")
+      .replace(/^-+|-+$/g,"");
+  }
+
+  // ---------- Lectura de carpeta ----------
+  async function leerArchivos(archivosFile){
+    archivos = [];
+    const md = Array.from(archivosFile).filter(f=>f.name.toLowerCase().endsWith(".md"));
+    if(!md.length){ estado.textContent="No se encontraron archivos .md"; return; }
+    for(const f of md){
+      const texto = await f.text();
+      const clave = (f.webkitRelativePath || f.name).replace(/^.*[\\/]/,"");
+      archivos.push({
+        nombre: clave.replace(/\.md$/i,""),
+        ruta: f.webkitRelativePath || f.name,
+        texto,
+        titulo: extraerTitulo(texto, clave),
+        orden: ordenClave(clave),
+        clave
+      });
+    }
+    archivos.sort((a,b)=>a.orden.localeCompare(b.orden));
+    estado.textContent = `${archivos.length} capítulo(s) cargado(s)`;
+    btnLimpiar.disabled = false;
+    btnAbrir.disabled = true;
+    input.disabled = true;
+    renderIndice();
+    irA(0);
+  }
+
+  async function leerSistemaArchivos(dirHandle){
+    archivos = [];
+    const md = [];
+    for await(const handle of dirHandle.values()){
+      if(handle.kind==="file" && handle.name.toLowerCase().endsWith(".md")){
+        md.push(handle);
+      }
+    }
+    if(!md.length){ estado.textContent="No se encontraron archivos .md"; return; }
+    for(const handle of md){
+      const f = await handle.getFile();
+      const texto = await f.text();
+      archivos.push({
+        nombre: handle.name.replace(/\.md$/i,""),
+        ruta: handle.name,
+        texto,
+        titulo: extraerTitulo(texto, handle.name),
+        orden: ordenClave(handle.name),
+        clave: handle.name.replace(/\.md$/i,"")
+      });
+    }
+    archivos.sort((a,b)=>a.orden.localeCompare(b.orden));
+    estado.textContent = `${archivos.length} capítulo(s) cargado(s)`;
+    btnLimpiar.disabled = false;
+    btnAbrir.disabled = true;
+    input.disabled = true;
+    renderIndice();
+    irA(0);
+  }
+
+  async function seleccionarCarpeta(){
+    if(window.showDirectoryPicker){
+      apiSpan.textContent = "(API de sistema de archivos)";
+      try{
+        const dir = await window.showDirectoryPicker();
+        await leerSistemaArchivos(dir);
+      }catch(e){
+        if(e.name!=="AbortError") console.error(e);
+        input.click();
+      }
+    }else{
+      apiSpan.textContent = "(selector de archivos)";
+      input.click();
+    }
+  }
+
+  input.addEventListener("change", async ()=>{
+    await leerArchivos(Array.from(input.files||[]));
+  });
+
+  btnAbrir.addEventListener("click", seleccionarCarpeta);
+
+  btnLimpiar.addEventListener("click",()=>{
+    archivos = []; idxActual = -1;
+    input.value = ""; input.disabled = false; btnAbrir.disabled = false; btnLimpiar.disabled = true;
+    estado.textContent = ""; apiSpan.textContent = "";
+    lista.innerHTML = "";
+    vacio.style.display = "block";
+    contenido.style.display = "none";
+    btnAnt.disabled = btnSig.disabled = true;
+    progreso.textContent = "—";
+  });
+
+  // ---------- Índice ----------
+  function renderIndice(){
+    lista.innerHTML = "";
+    const filtro = $("buscador").value.toLowerCase();
+    archivos.forEach((cap,i)=>{
+      if(filtro && !cap.titulo.toLowerCase().includes(filtro) && !cap.nombre.toLowerCase().includes(filtro)) return;
+      const li = document.createElement("li");
+      const esITC = /^ITC-BT-/.test(cap.nombre);
+      const a = document.createElement("a");
+      a.href="#";
+      a.className = i===0 ? "activa" : "";
+      a.dataset.indice = i;
+      const badge = document.createElement("span");
+      badge.className = "badge"+(esITC?" itc":"");
+      badge.textContent = esITC ? cap.nombre.replace("ITC-BT-","") : cap.nombre.replace("00_","").toUpperCase().slice(0,2);
+      const titulo = document.createElement("span");
+      titulo.textContent = cap.titulo;
+      a.appendChild(badge);
+      a.appendChild(titulo);
+      const sub = document.createElement("div");
+      sub.className="subtitulo";
+      sub.textContent = cap.nombre;
+      li.appendChild(a);
+      li.appendChild(sub);
+      a.addEventListener("click",(e)=>{ e.preventDefault(); irA(i); });
+      lista.appendChild(li);
+    });
+    if(idxActual>=0) marcarActivo(idxActual);
+  }
+
+  $("buscador").addEventListener("input", renderIndice);
+
+  function marcarActivo(i){
+    Array.from(lista.querySelectorAll("a")).forEach((a,k)=>{
+      a.classList.toggle("activa", k===i);
+      if(k===i) a.scrollIntoView({block:"nearest"});
+    });
+  }
+
+  // ---------- Renderizado ----------
+  function irA(i){
+    if(i<0||i>=archivos.length) return;
+    idxActual = i;
+    const cap = archivos[i];
+    vacio.style.display = "none";
+    contenido.style.display = "block";
+    btnAnt.disabled = i<=0;
+    btnSig.disabled = i>=archivos.length-1;
+    progreso.textContent = `${i+1} / ${archivos.length}`;
+    marcarActivo(i);
+
+    // quitar frontmatter y renderizar
+    let cuerpo = cap.texto;
+    const fmMatch = cap.texto.match(/^---\s*\n([\s\S]*?)\n---\s*\n/);
+    if(fmMatch) cuerpo = cap.texto.slice(fmMatch[0].length);
+    // reescribir imágenes remotas del BOE a rutas locales (offline)
+    cuerpo = cuerpo.replace(/https:\/\/www\.boe\.es\/datos\/imagenes\/disp\/([^ )]+)/g, (m, ruta)=>{
+      const nombre = ruta.split("/").pop();
+      return "rebt_salida/imgs/" + nombre;
+    });
+
+    contenido.innerHTML = `
+      <article class="markdown-body">
+        <div class="capitulo-meta">${escapeHtml(cap.nombre)} · ${escapeHtml(cap.ruta)}</div>
+        <h1 id="inicio">${escapeHtml(cap.titulo)}</h1>
+        <div class="cuerpo">${marked.parse(cuerpo)}</div>
+      </article>
+    `;
+    const cuerpoEl = contenido.querySelector(".cuerpo");
+    anclarEncabezados(cuerpoEl);
+    prepararImagenes(cuerpoEl);
+    window.scrollTo({top:0,behavior:"smooth"});
+    // actualizar hash sin recargar
+    try{ history.replaceState(null,"", `#${cap.clave}`); }catch(e){}
+  }
+
+  function prepararImagenes(container){
+    container.querySelectorAll("img").forEach(img=>{
+      img.loading="lazy";
+      img.style.display="block";
+      img.style.margin="1rem auto";
+      img.style.border="1px solid var(--border)";
+      img.style.borderRadius="6px";
+      img.style.background="#fff";
+      if(!img.alt || img.alt==="imagen") img.alt="Imagen del Reglamento";
+      img.addEventListener("error",()=>{
+        img.style.display="none";
+        const ph=document.createElement("div");
+        ph.textContent="[Imagen no disponible]";
+        ph.style.padding="2rem";
+        ph.style.textAlign="center";
+        ph.style.color="var(--muted)";
+        ph.style.border="1px dashed var(--border)";
+        ph.style.borderRadius="6px";
+        ph.style.background="#f9fafb";
+        img.parentNode.insertBefore(ph,img);
+      });
+    });
+  }
+
+  function anclarEncabezados(container){
+    container.querySelectorAll("h1,h2,h3,h4,h5,h6").forEach(h=>{
+      const id = slug(h.textContent) || "seccion";
+      h.id = id;
+      h.classList.add("anclaje");
+      // enlace interno al titular
+      const link = document.createElement("a");
+      link.className="internal";
+      link.href = `#${id}`;
+      link.textContent = " ¶";
+      h.appendChild(link);
+    });
+  }
+
+  btnAnt.addEventListener("click",()=> irA(idxActual-1));
+  btnSig.addEventListener("click",()=> irA(idxActual+1));
+
+  // hash inicial
+  window.addEventListener("load",()=>{
+    const hash = location.hash.replace(/^#/,"");
+    if(hash){
+      const i = archivos.findIndex(a=>a.clave===hash);
+      // solo si ya cargaron; si no, se aplicará tras cargar
+      if(i>=0){ setTimeout(()=>irA(i),0); }
+    }
+  });
+
+  // después de cargar, si había hash pendiente
+  const _leer = leerArchivos;
+  window.__cargarHash = null;
+})();
+
+function escapeHtml(texto){
+  return String(texto).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+</script>
+</body>
+</html>

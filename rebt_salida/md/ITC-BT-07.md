@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## REDES SUBTERRÁNEAS PARA DISTRIBUCIÓN EN BAJA TENSIÓN
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. CABLES
 
@@ -55,8 +54,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 #### 3.3 Otros cables o sistemas de instalación
 
-### 1.
- CABLES
+### 1. CABLES
 
 Los conductores de los cables utilizados en las líneas subterráneas serán de cobre o de aluminio y estarán aislados con mezclas apropiadas de compuestos poliméricos. Estarán además debidamente protegidos contra la corrosión que pueda provocar el terreno donde se instalen y tendrán la resistencia mecánica suficiente para soportar los esfuerzos a que puedan estar sometidos.
 
@@ -90,11 +88,9 @@ Tabla 1. Sección mínima del conductor neutro en función de la sección de los
 | 300 | 150 |
 | 400 | 185 |
 
-### 2.
- EJECUCIÓN DE LAS INSTALACIONES
+### 2. EJECUCIÓN DE LAS INSTALACIONES
 
-#### 2.1
- Instalación de cables aislados
+#### 2.1 Instalación de cables aislados
 
 Las canalizaciones se dispondrán, en general, por terrenos de dominio público, y en zonas perfectamente delimitadas, preferentemente bajo las aceras. El trazado será lo más rectilíneo posible y a poder ser paralelo a referencias fijas como líneas en fachada y bordillos. Asimismo, deberán tenerse en cuenta los radios de curvatura mínimos, fijados por los fabricantes (o en su defecto los indicados en las normas de la serie UNE 20.435), a respetar en los cambios de dirección.
 
@@ -110,11 +106,11 @@ Cuando existan impedimentos que no permitan lograr las mencionadas profundidades
 
 Para conseguir que el cable quede correctamente instalado sin haber recibido daño alguno, y que ofrezca seguridad frente a excavaciones hechas por terceros, en la instalación de los cables se seguirán las instrucciones descritas a continuación:
 
-– El lecho de la zanja que va a recibir el cable será liso y estará libre de aristas vivas, cantos, piedras, etc... En el mismo se dispondrá una capa de arena de mina o de río lavada, de espesor mínimo 0,05 m sobre la que se colocará el cable. Por encima del cable irá otra capa de arena o tierra cribada de unos 0,10 m de espesor. Ambas capas cubrirán la anchura total de la zanja, la cual será suficiente para mantener 0,05 m entre los cables y las paredes laterales.
+– El lecho de la zanja que va a recibir el cable será liso y estará libre de aristas vivas, cantos, piedras, etc... En el mismo se dispondrá una capa de arena de mina o de río lavada, de espesor mínimo 0,05 m sobre la que se colocará el cable. Por encima del cable irá otra capa de arena o tierra cribada de unos 0,10 m de espesor. Ambas capas cubrirán la anchura total de la zanja, la cual será suficiente para mantener 0,05 m entre los cables y las paredes laterales.
 
-– Por encima de la arena todos los cables deberán tener una protección mecánica, como por ejemplo, losetas de hormigón, placas protectoras de plástico, ladrillos o rasillas colocadas transversalmente. Podrá admitirse el empleo de otras protecciones mecánicas equivalentes. Se colocará también una cinta de señalización que advierta de la existencia del cable eléctrico de baja tensión. Su distancia mínima al suelo será de 0,10 m, y a la parte superior del cable de 0,25 m.
+– Por encima de la arena todos los cables deberán tener una protección mecánica, como por ejemplo, losetas de hormigón, placas protectoras de plástico, ladrillos o rasillas colocadas transversalmente. Podrá admitirse el empleo de otras protecciones mecánicas equivalentes. Se colocará también una cinta de señalización que advierta de la existencia del cable eléctrico de baja tensión. Su distancia mínima al suelo será de 0,10 m, y a la parte superior del cable de 0,25 m.
 
-– Se admitirá también la colocación de placas con la doble misión de protección mecánica y de señalización.
+– Se admitirá también la colocación de placas con la doble misión de protección mecánica y de señalización.
 
 ##### 2.1.2 En canalizaciones entubadas
 
@@ -190,9 +186,9 @@ En tales galerías se admite la instalación de cables eléctricos de alta tensi
 
 Las condiciones de seguridad más destacables que deben cumplir este tipo de instalación son:
 
-– estanqueidad de los cierres, y
+– estanqueidad de los cierres, y
 
-– buena renovación de aire en el cuerpo ocupado por los cables eléctricos, para evitar acumulaciones de gas y condensación de humedades, y mejorar la disipación de calor
+– buena renovación de aire en el cuerpo ocupado por los cables eléctricos, para evitar acumulaciones de gas y condensación de humedades, y mejorar la disipación de calor
 
 ##### 2.1.4 En atarjeas o canales revisables
 
@@ -210,28 +206,21 @@ Normalmente, este tipo de instalación sólo se empleará en subestaciones u otr
 
 Cuando la intensidad a transportar sea superior a la admisible por un solo conductor se podrá instalar más de un conductor por fase, según los siguientes criterios:
 
-– emplear conductores del mismo material, sección y longitud.
+– emplear conductores del mismo material, sección y longitud.
 
-– los cables se agruparán al tresbolillo, en ternas dispuestas en uno o varios niveles, por ejemplo:
+– los cables se agruparán al tresbolillo, en ternas dispuestas en uno o varios niveles, por ejemplo:
 
 – tres ternas en un nivel: _R^S_T, _T^S_R, _R^S_T
 
 – tres ternas apiladas en tres niveles:
 
-_R
- ^S
- _T
+_R ^S _T
 
-_T
- ^S
- _R
+_T ^S _R
 
-_R
- ^S
- _T
+_R ^S _T
 
-#### 2.2
- Condiciones generales para cruzamiento, proximidades y paralelismo
+#### 2.2 Condiciones generales para cruzamiento, proximidades y paralelismo
 
 Los cables subterráneos, cuando estén enterrados directamente en el terreno, deberán cumplir, además de los requisitos reseñados en el presente punto, las condiciones que pudieran imponer otros Organismos Competentes, como consecuencia de disposiciones legales, cuando sus instalaciones fueran afectadas por tendidos de cables subterráneos de baja tensión.
 
@@ -313,16 +302,13 @@ Cuando no puedan respetarse estas distancias en los cables directamente enterrad
 
 La canalización de la acometida eléctrica, en la entrada al edificio, deberá taponarse hasta conseguir una estanqueidad adecuada.
 
-#### 2.3
- Puesta a tierra y continuidad del neutro
+#### 2.3 Puesta a tierra y continuidad del neutro
 
 La puesta a tierra y continuidad del neutro se atendrá a lo establecido en los capítulos 3.6 y 3.7 de la ITC-BT 06.
 
-### 3.
- INTENSIDADES MÁXIMAS ADMISIBLES
+### 3. INTENSIDADES MÁXIMAS ADMISIBLES
 
-3.1
- Intensidades máximas permanentes en los conductores de los cables:
+3.1 Intensidades máximas permanentes en los conductores de los cables:
 
 En las tablas que siguen se dan los valores indicados en la Norma UNE 20.435.
 
@@ -345,7 +331,7 @@ Tabla 2. Cables aislados con aislamiento seco; temperatura máxima, en ºC, asig
 | Tipo de Aislamiento seco | Temperatura máxima ºC |  |
 |---|---|---|
 | Tipo de Aislamiento seco | Servicio permanente | Cortocircuito t ≤ 5s |
-| Policloruro de vinilo (PVC)  S ≤ 300 mm^2  S > 300 mm^2 | 70  70 | 160  140 |
+| Policloruro de vinilo (PVC) S ≤ 300 mm^2 S > 300 mm^2 | 70 70 | 160 140 |
 | Polietileno reticulado (XLPE) | 90 | 250 |
 | Etileno Propileno (EPR) | 90 | 250 |
 
@@ -368,23 +354,23 @@ Tabla 3. Intensidad máxima admisible en amperios para cables tetrapolares con c
 | 3 x 150 Al + 50 Cu | 150 | 305 |
 | 3 x 240 Al + 80 Cu | 240 | 395 |
 
-– Temperatura máxima en el conductor: 90 ºC.
+– Temperatura máxima en el conductor: 90 ºC.
 
-– Temperatura del terreno: 25 ºC.
+– Temperatura del terreno: 25 ºC.
 
-– Profundidad de instalación: 0,70 m.
+– Profundidad de instalación: 0,70 m.
 
-– Resistividad térmica del terreno: 1 K.m/W
+– Resistividad térmica del terreno: 1 K.m/W
 
 Tabla 4. Intensidad máxima admisible, en amperios, para cables con conductores de aluminio en instalación enterrada (servicio permanente)
 
 
 <!-- tabla: tablas/ITC-BT-07_t04.csv -->
-| Sección nominal  mm^2 | Terna de cables unipolares (1) (2) |  |  | 1 cable tripolar o tetrapolar (3) |  |  |
+| Sección nominal mm^2 | Terna de cables unipolares (1) (2) |  |  | 1 cable tripolar o tetrapolar (3) |  |  |
 |---|---|---|---|---|---|---|
-| Sección nominal  mm^2 | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image4.png)  ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image5.png) |  |  | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image6.png)  ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image7.png) |  |  |
-| Sección nominal  mm^2 | Tipo de aislamiento |  |  |  |  |  |
-| Sección nominal  mm^2 | XLPE | EPR | PVC | XLPE | EPR | PVC |
+| Sección nominal mm^2 | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image4.png) ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image5.png) |  |  | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image6.png) ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image7.png) |  |  |
+| Sección nominal mm^2 | Tipo de aislamiento |  |  |  |  |  |
+| Sección nominal mm^2 | XLPE | EPR | PVC | XLPE | EPR | PVC |
 | 16 | 97 | 94 | 86 | 90 | 86 | 76 |
 | 25 | 125 | 120 | 110 | 115 | 110 | 98 |
 | 35 | 150 | 145 | 130 | 140 | 135 | 120 |
@@ -424,11 +410,11 @@ Tabla 5. Intensidad máxima admisible, en amperios, para cables con conductores 
 
 
 <!-- tabla: tablas/ITC-BT-07_t05.csv -->
-| Sección nominal  mm^2 | Terna de cables unipolares (1) (2) |  |  | 1 cable tripolar o tetrapolar (3) |  |  |
+| Sección nominal mm^2 | Terna de cables unipolares (1) (2) |  |  | 1 cable tripolar o tetrapolar (3) |  |  |
 |---|---|---|---|---|---|---|
-| Sección nominal  mm^2 | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image4.png)  ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image5.png) |  |  | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image6.png)  ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image7.png) |  |  |
-| Sección nominal  mm^2 | Tipo de aislamiento |  |  |  |  |  |
-| Sección nominal  mm^2 | XLPE | EPR | PVC | XLPE | EPR | PVC |
+| Sección nominal mm^2 | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image4.png) ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image5.png) |  |  | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image6.png) ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image7.png) |  |  |
+| Sección nominal mm^2 | Tipo de aislamiento |  |  |  |  |  |
+| Sección nominal mm^2 | XLPE | EPR | PVC | XLPE | EPR | PVC |
 | 6 | 72 | 70 | 63 | 66 | 64 | 56 |
 | 10 | 96 | 94 | 85 | 88 | 85 | 75 |
 | 16 | 125 | 120 | 110 | 115 | 110 | 97 |
@@ -570,19 +556,19 @@ Tabla 10. Intensidad máxima admisible, en amperios, en servicio permanente, par
 
 – Temperatura máxima en el conductor: 90 ºC.
 
-– Temperatura del aire ambiente: 40 ºC.
+– Temperatura del aire ambiente: 40 ºC.
 
-– Disposición que permita una eficaz renovación del aire.
+– Disposición que permita una eficaz renovación del aire.
 
 Tabla 11. Intensidad máxima admisible, en amperios, en servicio permanente para cables con conductores de aluminio en instalación al aire en galerías ventiladas (temperatura ambiente 40 ºC)
 
 
 <!-- tabla: tablas/ITC-BT-07_t11.csv -->
-| Sección nominal  mm^2 | Tres cables unipolares (1) |  |  | 1 cable trifásico |  |  |
+| Sección nominal mm^2 | Tres cables unipolares (1) |  |  | 1 cable trifásico |  |  |
 |---|---|---|---|---|---|---|
-| Sección nominal  mm^2 | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image4.png) |  |  | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image6.png)  ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image7.png) |  |  |
-| Sección nominal  mm^2 | Tipo de aislamiento |  |  |  |  |  |
-| Sección nominal  mm^2 | XLPE | EPR | PVC | XLPE | EPR | PVC |
+| Sección nominal mm^2 | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image4.png) |  |  | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image6.png) ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image7.png) |  |  |
+| Sección nominal mm^2 | Tipo de aislamiento |  |  |  |  |  |
+| Sección nominal mm^2 | XLPE | EPR | PVC | XLPE | EPR | PVC |
 | 16 | 67 | 65 | 55 | 64 | 63 | 51 |
 | 25 | 93 | 90 | 75 | 85 | 82 | 68 |
 | 35 | 115 | 110 | 90 | 105 | 100 | 82 |
@@ -600,9 +586,9 @@ Tabla 11. Intensidad máxima admisible, en amperios, en servicio permanente para
 
 – Temperatura del aire: 40 ºC
 
-– Un cable trifásico al aire o un conjunto (terna) de cables unipolares en contacto mutuo.
+– Un cable trifásico al aire o un conjunto (terna) de cables unipolares en contacto mutuo.
 
-– Disposición que permita una eficaz renovación del aire.
+– Disposición que permita una eficaz renovación del aire.
 
 (1) Incluye el conductor neutro, si existiese.
 
@@ -610,11 +596,11 @@ Tabla 12. Intensidad máxima admisible, en amperios, en servicio permanente para
 
 
 <!-- tabla: tablas/ITC-BT-07_t12.csv -->
-| Sección nominal  mm^2 | Tres cables unipolares (1) |  |  | 1 cable trifásico |  |  |
+| Sección nominal mm^2 | Tres cables unipolares (1) |  |  | 1 cable trifásico |  |  |
 |---|---|---|---|---|---|---|
-| Sección nominal  mm^2 | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image4.png) |  |  | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image6.png)  ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image7.png) |  |  |
-| Sección nominal  mm^2 | Tipo de aislamiento |  |  |  |  |  |
-| Sección nominal  mm^2 | XLPE | EPR | PVC | XLPE | EPR | PVC |
+| Sección nominal mm^2 | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image4.png) |  |  | ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image6.png) ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image7.png) |  |  |
+| Sección nominal mm^2 | Tipo de aislamiento |  |  |  |  |  |
+| Sección nominal mm^2 | XLPE | EPR | PVC | XLPE | EPR | PVC |
 | 6 | 46 | 45 | 38 | 44 | 43 | 36 |
 | 10 | 64 | 62 | 53 | 61 | 60 | 50 |
 | 16 | 86 | 83 | 71 | 82 | 80 | 65 |
@@ -634,9 +620,9 @@ Tabla 12. Intensidad máxima admisible, en amperios, en servicio permanente para
 
 – Temperatura del aire: 40 ºC
 
-– Un cable trifásico al aire o un conjunto (terna) de cables unipolares en contacto mutuo.
+– Un cable trifásico al aire o un conjunto (terna) de cables unipolares en contacto mutuo.
 
-– Disposición que permita una eficaz renovación del aire.
+– Disposición que permita una eficaz renovación del aire.
 
 (1) Incluye el conductor neutro, si existiese.
 
@@ -680,8 +666,7 @@ Tabla 15. Factor de corrección para agrupaciones de cables trifásicos
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image20.png)
 
-#### 3.2
- Intensidades de cortocircuito admisibles en los conductores
+#### 3.2 Intensidades de cortocircuito admisibles en los conductores
 
 En las tablas 16 y 17 se indican las densidades de corriente de cortocircuito admisibles en los conductores de aluminio y de cobre de los cables aislados con diferentes materiales en función de los tiempos de duración del cortocircuito.
 
@@ -709,9 +694,6 @@ Tabla 17. Densidad de corriente de cortocircuito, en A/mm^2, para conductores de
 | Sección ≤ 300 mm^2 | 364 | 257 | 210 | 163 | 115 | 94 | 81 | 73 | 66 |
 | Sección > 300 mm^2 | 322 | 228 | 186 | 144 | 102 | 83 | 72 | 64 | 59 |
 
-#### 3.3
- Otros
- 
- cables o sistemas de instalación
+#### 3.3 Otros cables o sistemas de instalación
 
 Para cualquier otro tipo de cable u otro sistema no contemplados en esta Instrucción, así como para cables que no figuran en las tablas anteriores, deberá consultarse la norma UNE 20.435 o calcularse según la norma UNE 21.144.

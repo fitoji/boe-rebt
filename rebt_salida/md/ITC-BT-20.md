@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIONES INTERIORES O RECEPTORAS. SISTEMAS DE INSTALACIÓN
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. GENERALIDADES
 
@@ -47,18 +46,15 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ### 3. PASO A TRAVÉS DE ELEMENTOS DE LA CONSTRUCCIÓN
 
-### 1.
- GENERALIDADES
+### 1. GENERALIDADES
 
 Los sistemas de instalación que se describen en esta Instrucción Técnica deberán tener en consideración los principios fundamentales de la norma UNE 20.460-5-52.
 
-### 2.
- SISTEMAS DE INSTALACIÓN
+### 2. SISTEMAS DE INSTALACIÓN
 
 La selección del tipo de canalización en cada instalación particular se realizara escogiendo, en función de las influencias externas, el que se considere más adecuado de entre los descritos para conductores y cables en la norma UNE 20.460-5-52.
 
-#### 2.1
- Prescripciones Generales
+#### 2.1 Prescripciones Generales
 
 Circuitos de potencia
 
@@ -68,9 +64,9 @@ Separación de circuitos
 
 No deben instalarse circuitos de potencia y circuitos de muy baja tensión de seguridad (MBTS ó MBTP) en las mismas canalizaciones, a menos que cada cable esté aislado para la tensión más alta presente o se aplique una de las disposiciones siguientes:
 
-– que cada conductor de un cable de varios conductores esté aislado para la tensión más alta presente en el cable;
+– que cada conductor de un cable de varios conductores esté aislado para la tensión más alta presente en el cable;
 
-– que los conductores estén aislados para su tensión e instalados en un compartimento separado de un conducto o de una canal, si la separación garantiza el nivel de aislamiento requerido para la tensión más elevada.
+– que los conductores estén aislados para su tensión e instalados en un compartimento separado de un conducto o de una canal, si la separación garantiza el nivel de aislamiento requerido para la tensión más elevada.
 
 ##### 2.1.1 Disposiciones
 
@@ -84,17 +80,17 @@ a) La protección contra contactos indirectos estará asegurada por alguno de lo
 
 b) Las canalizaciones eléctricas estarán convenientemente protegidas contra los posibles peligros que pueda presentar su proximidad a canalizaciones, y especialmente se tendrá en cuenta:
 
-– La elevación de la temperatura, debida a la proximidad con una conducción de fluido caliente.
+– La elevación de la temperatura, debida a la proximidad con una conducción de fluido caliente.
 
-– La condensación
+– La condensación
 
-– La inundación, por avería en una conducción de líquidos; en este caso se tomarán todas las disposiciones convenientes para asegurar su evacuación
+– La inundación, por avería en una conducción de líquidos; en este caso se tomarán todas las disposiciones convenientes para asegurar su evacuación
 
-– La corrosión, por avería en una conducción que contenga un fluido corrosivo
+– La corrosión, por avería en una conducción que contenga un fluido corrosivo
 
-– La explosión, por avería en una conducción que contenga un fluido inflamable
+– La explosión, por avería en una conducción que contenga un fluido inflamable
 
-– La intervención por mantenimiento o avería en una de las canalizaciones puede realizarse sin dañar al resto
+– La intervención por mantenimiento o avería en una de las canalizaciones puede realizarse sin dañar al resto
 
 ##### 2.1.2 Accesibilidad
 
@@ -106,8 +102,7 @@ Las canalizaciones eléctricas se establecerán de forma que mediante la conveni
 
 Las canalizaciones pueden considerarse suficientemente diferenciadas unas de otras, bien por la naturaleza o por el tipo de los conductores que la componen, o bien por sus dimensiones o por su trazado. Cuando la identificación pueda resultar difícil, debe establecerse un plano de la instalación que permita, en todo momento, esta identificación mediante etiquetas o señales de aviso indelebles y legibles.
 
-#### 2.2
- Condiciones particulares
+#### 2.2 Condiciones particulares
 
 Los sistemas de instalación de las canalizaciones en función de los tipos de conductores o cables deben estar de acuerdo con la tabla 1, siempre y cuando las influencias externas estén de acuerdo con las prescripciones de las normas de canalizaciones correspondientes. Los sistemas de instalación de las canalizaciones, en función de la situación deben estar de acuerdo con la tabla 2.
 
@@ -122,7 +117,7 @@ Tabla 1. Elección de las canalizaciones
 | Conductores aislados |  | – | – | + | * | + | – | + | – |
 | Cables con cubierta | Multipolares | + | + | + | + | + | + | 0 | + |
 | Cables con cubierta | Unipolares | 0 | + | + | + | + | + | 0 | + |
-| +: Admitido  –: No admitido  0: No aplicable o no utilizado en la práctica  *: Se admiten conductores aislados si la tapa sólo puede abrirse con un útil o con una acción manual importante y la canal es IP 4X o IP XXD |  |  |  |  |  |  |  |  |  |
+| +: Admitido –: No admitido 0: No aplicable o no utilizado en la práctica *: Se admiten conductores aislados si la tapa sólo puede abrirse con un útil o con una acción manual importante y la canal es IP 4X o IP XXD |  |  |  |  |  |  |  |  |  |
 
 Tabla 2. Situación de las canalizaciones
 
@@ -138,7 +133,7 @@ Tabla 2. Situación de las canalizaciones
 | Empotrados en estructuras |  | + | + | + | + | + | 0 | – | – |
 | En montaje superficial |  | – | + | + | + | + | + | + | – |
 | Aéreo |  | – | – | (*) | + | – | + | + | + |
-| +: Admitido  –: No admitido  0: No aplicable o no utilizado en la práctica  (*): No se utilizan en la práctica salvo en instalaciones cortas y destinadas a la alimentación de máquinas o elementos de movilidad restringida |  |  |  |  |  |  |  |  |  |
+| +: Admitido –: No admitido 0: No aplicable o no utilizado en la práctica (*): No se utilizan en la práctica salvo en instalaciones cortas y destinadas a la alimentación de máquinas o elementos de movilidad restringida |  |  |  |  |  |  |  |  |  |
 
 ##### 2.2.1 Conductores aislados bajo tubos protectores
 
@@ -150,23 +145,23 @@ Estas instalaciones se establecerán con cables de tensiones asignadas no inferi
 
 Para la ejecución de las canalizaciones se tendrán en cuenta las siguientes prescripciones:
 
-– Se fijarán sobre las paredes por medio de bridas, abrazaderas, o collares de forma que no perjudiquen las cubiertas de los mismos.
+– Se fijarán sobre las paredes por medio de bridas, abrazaderas, o collares de forma que no perjudiquen las cubiertas de los mismos.
 
-– Con el fin de que los cables no sean susceptibles de doblarse por efecto de su propio peso, los puntos de fijación de los mismos estarán suficientemente próximos. La distancia entre dos puntos de fijación sucesivos, no excederá de 0,40 metros.
+– Con el fin de que los cables no sean susceptibles de doblarse por efecto de su propio peso, los puntos de fijación de los mismos estarán suficientemente próximos. La distancia entre dos puntos de fijación sucesivos, no excederá de 0,40 metros.
 
-– Cuando los cables deban disponer de protección mecánica por el lugar y condiciones de instalación en que se efectúe la misma, se utilizarán cables armados. En caso de no utilizar estos cables, se establecerá una protección mecánica complementaria sobre los mismos.
+– Cuando los cables deban disponer de protección mecánica por el lugar y condiciones de instalación en que se efectúe la misma, se utilizarán cables armados. En caso de no utilizar estos cables, se establecerá una protección mecánica complementaria sobre los mismos.
 
-– Se evitará curvar los cables con un radio demasiado pequeño y salvo prescripción en contra fijada en la Norma UNE correspondiente al cable utilizado, este radio no será inferior a 10 veces el diámetro exterior del cable.
+– Se evitará curvar los cables con un radio demasiado pequeño y salvo prescripción en contra fijada en la Norma UNE correspondiente al cable utilizado, este radio no será inferior a 10 veces el diámetro exterior del cable.
 
-– Los cruces de los cables con canalizaciones no eléctricas se podrán efectuar por la parte anterior o posterior a éstas, dejando una distancia mínima de 3 cm entre la superficie exterior de la canalización no eléctrica y la cubierta de los cables cuando el cruce se efectúe por la parte anterior de aquélla.
+– Los cruces de los cables con canalizaciones no eléctricas se podrán efectuar por la parte anterior o posterior a éstas, dejando una distancia mínima de 3 cm entre la superficie exterior de la canalización no eléctrica y la cubierta de los cables cuando el cruce se efectúe por la parte anterior de aquélla.
 
-– Los puntos de fijación de los cables estarán suficientemente próximos para evitar que esta distancia pueda quedar disminuida. Cuando el cruce de los cables requiera su empotramiento para respetar la separación mínima de 3 cm, se seguirá lo dispuesto en el apartado 2.2.1 de la presente instrucción. Cuando el cruce se realice bajo molduras, se seguirá lo dispuesto en el apartado 2.2.8 de la presente instrucción.
+– Los puntos de fijación de los cables estarán suficientemente próximos para evitar que esta distancia pueda quedar disminuida. Cuando el cruce de los cables requiera su empotramiento para respetar la separación mínima de 3 cm, se seguirá lo dispuesto en el apartado 2.2.1 de la presente instrucción. Cuando el cruce se realice bajo molduras, se seguirá lo dispuesto en el apartado 2.2.8 de la presente instrucción.
 
-– Los extremos de los cables serán estancos cuando las características de los locales o emplazamientos así lo exijan, utilizándose a este fin cajas u otros dispositivos adecuados. La estanqueidad podrá quedar asegurada con la ayuda de prensaestopas.
+– Los extremos de los cables serán estancos cuando las características de los locales o emplazamientos así lo exijan, utilizándose a este fin cajas u otros dispositivos adecuados. La estanqueidad podrá quedar asegurada con la ayuda de prensaestopas.
 
-– Los cables con aislamiento mineral, cuando lleven cubiertas metálicas, no deberán utilizarse en locales que puedan presentar riesgo de corrosión para las cubiertas metálicas de estos cables, salvo que esta cubierta este protegida adecuadamente contra la corrosión.
+– Los cables con aislamiento mineral, cuando lleven cubiertas metálicas, no deberán utilizarse en locales que puedan presentar riesgo de corrosión para las cubiertas metálicas de estos cables, salvo que esta cubierta este protegida adecuadamente contra la corrosión.
 
-– Los empalmes y conexiones se harán por medio de cajas o dispositivos equivalentes provistos de tapas desmontables que aseguren a la vez la continuidad de la protección mecánica establecida, el aislamiento y la inaccesibilidad de las conexiones y permitiendo su verificación en caso necesario.
+– Los empalmes y conexiones se harán por medio de cajas o dispositivos equivalentes provistos de tapas desmontables que aseguren a la vez la continuidad de la protección mecánica establecida, el aislamiento y la inaccesibilidad de las conexiones y permitiendo su verificación en caso necesario.
 
 ##### 2.2.3 Conductores aislados enterrados
 
@@ -228,25 +223,25 @@ Las molduras podrán ser reemplazadas por guarniciones de puertas, astrágalos o
 
 Las molduras cumplirán las siguientes condiciones:
 
-– Las ranuras tendrán unas dimensiones tales que permitan instalar sin dificultad por ellas a los conductores o cables. En principio, no se colocará más de un conductor por ranura, admitiéndose, no obstante, colocar varios conductores siempre que pertenezcan al mismo circuito y la ranura presente dimensiones adecuadas para ello.
+– Las ranuras tendrán unas dimensiones tales que permitan instalar sin dificultad por ellas a los conductores o cables. En principio, no se colocará más de un conductor por ranura, admitiéndose, no obstante, colocar varios conductores siempre que pertenezcan al mismo circuito y la ranura presente dimensiones adecuadas para ello.
 
-– La anchura de las ranuras destinadas a recibir cables rígidos de sección igual o inferior a 6 mm^2 serán, como mínimo, de 6 mm.
+– La anchura de las ranuras destinadas a recibir cables rígidos de sección igual o inferior a 6 mm^2 serán, como mínimo, de 6 mm.
 
 Para la instalación de las molduras se tendrá en cuenta:
 
-– Las molduras no presentarán discontinuidad alguna en toda la longitud donde contribuyen a la protección mecánica de los conductores. En los cambios de dirección, los ángulos de las ranuras serán obtusos.
+– Las molduras no presentarán discontinuidad alguna en toda la longitud donde contribuyen a la protección mecánica de los conductores. En los cambios de dirección, los ángulos de las ranuras serán obtusos.
 
-– Las canalizaciones podrán colocarse al nivel del techo o inmediatamente encima de los rodapiés. En ausencia de éstos, la parte inferior de la moldura estará, como mínimo, a 10 cm por encima del suelo.
+– Las canalizaciones podrán colocarse al nivel del techo o inmediatamente encima de los rodapiés. En ausencia de éstos, la parte inferior de la moldura estará, como mínimo, a 10 cm por encima del suelo.
 
-– En el caso de utilizarse rodapiés ranurados, el conductor aislado más bajo estará, como mínimo, a 1,5 cm por encima del suelo.
+– En el caso de utilizarse rodapiés ranurados, el conductor aislado más bajo estará, como mínimo, a 1,5 cm por encima del suelo.
 
-– Cuando no puedan evitarse cruces de estas canalizaciones con las destinadas a otro uso (agua, gas, etc.), se utilizará una moldura especialmente concebida para estos cruces o preferentemente un tubo rígido empotrado que sobresaldrá por una y otra parte del cruce. La separación entre dos canalizaciones que se crucen será, como mínimo de 1 cm en el caso de utilizar molduras especiales para el cruce y 3 cm, en el caso de utilizar tubos rígidos empotrados.
+– Cuando no puedan evitarse cruces de estas canalizaciones con las destinadas a otro uso (agua, gas, etc.), se utilizará una moldura especialmente concebida para estos cruces o preferentemente un tubo rígido empotrado que sobresaldrá por una y otra parte del cruce. La separación entre dos canalizaciones que se crucen será, como mínimo de 1 cm en el caso de utilizar molduras especiales para el cruce y 3 cm, en el caso de utilizar tubos rígidos empotrados.
 
-– Las conexiones y derivaciones de los conductores se hará mediante dispositivos de conexión con tornillo o sistemas equivalentes.
+– Las conexiones y derivaciones de los conductores se hará mediante dispositivos de conexión con tornillo o sistemas equivalentes.
 
-– Las molduras no estarán totalmente empotradas en la pared ni recubiertas por papeles, tapicerías o cualquier otro material, debiendo quedar su cubierta siempre al aire.
+– Las molduras no estarán totalmente empotradas en la pared ni recubiertas por papeles, tapicerías o cualquier otro material, debiendo quedar su cubierta siempre al aire.
 
-– Antes de colocar las molduras de madera sobre una pared, debe asegurarse que la pared está suficientemente seca; en caso contrario, las molduras se separarán de la pared por medio de un producto hidrófugo.
+– Antes de colocar las molduras de madera sobre una pared, debe asegurarse que la pared está suficientemente seca; en caso contrario, las molduras se separarán de la pared por medio de un producto hidrófugo.
 
 ##### 2.2.9 Conductores aislados en bandeja o soporte de bandejas
 
@@ -260,23 +255,22 @@ Las canalizaciones prefabricadas para iluminación deberán ser conformes con la
 
 Las características de las canalizaciones de uso general deberán ser conformes con las especificaciones de la Norma UNE EN 60439-2
 
-### 3.
- PASO A TRAVÉS DE ELEMENTOS DE LA CONSTRUCCIÓN
+### 3. PASO A TRAVÉS DE ELEMENTOS DE LA CONSTRUCCIÓN
 
 El paso de las canalizaciones a través de elementos de la construcción, tales como muros, tabiques y techos, se realizará de acuerdo con las siguientes prescripciones:
 
-– En toda la longitud de los pasos de canalizaciones no se dispondrán empalmes o derivaciones de cables.
+– En toda la longitud de los pasos de canalizaciones no se dispondrán empalmes o derivaciones de cables.
 
-– Las canalizaciones estarán suficientemente protegidas contra los deterioros mecánicos, las acciones químicas y los efectos de la humedad. Esta protección se exigirá de forma continua en toda la longitud del paso.
+– Las canalizaciones estarán suficientemente protegidas contra los deterioros mecánicos, las acciones químicas y los efectos de la humedad. Esta protección se exigirá de forma continua en toda la longitud del paso.
 
-– Si se utilizan tubos no obturados para atravesar un elemento constructivo que separe dos locales de humedades marcadamente diferentes, se dispondrán de modo que se impida la entrada y acumulación de agua en el local menos húmedo, curvándolos convenientemente en su extremo hacia el local más húmedo. Cuando los pasos desemboquen al exterior se instalará en el extremo del tubo una pipa de porcelana o vidrio, o de otro material aislante adecuado, dispuesta de modo que el paso exterior-interior de los conductores se efectúe en sentido ascendente.
+– Si se utilizan tubos no obturados para atravesar un elemento constructivo que separe dos locales de humedades marcadamente diferentes, se dispondrán de modo que se impida la entrada y acumulación de agua en el local menos húmedo, curvándolos convenientemente en su extremo hacia el local más húmedo. Cuando los pasos desemboquen al exterior se instalará en el extremo del tubo una pipa de porcelana o vidrio, o de otro material aislante adecuado, dispuesta de modo que el paso exterior-interior de los conductores se efectúe en sentido ascendente.
 
-– En el caso que las canalizaciones sean de naturaleza distinta a uno y otro lado del paso, éste se efectuará por la canalización utilizada en el local cuyas prescripciones de instalación sean más severas.
+– En el caso que las canalizaciones sean de naturaleza distinta a uno y otro lado del paso, éste se efectuará por la canalización utilizada en el local cuyas prescripciones de instalación sean más severas.
 
-– Para la protección mecánica de los cables en la longitud del paso, se dispondrán éstos en el interior de tubos normales cuando aquella longitud no exceda de 20 cm y si excede, se dispondrán tubos conforme a la tabla 3 de la Instrucción ITC-BT-21. Los extremos de los tubos metálicos sin aislamiento interior estarán provistos de boquillas aislantes de bordes redondeados o de dispositivo equivalente, o bien los bordes de los tubos estarán convenientemente redondeados, siendo suficiente para los tubos metálicos con aislamiento interior que éste último sobresalga ligeramente del mismo. También podrán emplearse para proteger los conductores los tubos de vidrio o porcelana o de otro material aislante adecuado de suficiente resistencia mecánica. No necesitan protección suplementaria los cables provistos de una armadura metálica ni los cables con aislamiento mineral, siempre y cuando su cubierta no sea atacada por materiales de los elementos a atravesar.
+– Para la protección mecánica de los cables en la longitud del paso, se dispondrán éstos en el interior de tubos normales cuando aquella longitud no exceda de 20 cm y si excede, se dispondrán tubos conforme a la tabla 3 de la Instrucción ITC-BT-21. Los extremos de los tubos metálicos sin aislamiento interior estarán provistos de boquillas aislantes de bordes redondeados o de dispositivo equivalente, o bien los bordes de los tubos estarán convenientemente redondeados, siendo suficiente para los tubos metálicos con aislamiento interior que éste último sobresalga ligeramente del mismo. También podrán emplearse para proteger los conductores los tubos de vidrio o porcelana o de otro material aislante adecuado de suficiente resistencia mecánica. No necesitan protección suplementaria los cables provistos de una armadura metálica ni los cables con aislamiento mineral, siempre y cuando su cubierta no sea atacada por materiales de los elementos a atravesar.
 
-– Si el elemento constructivo que debe atravesarse separa dos locales con las mismas características de humedad, pueden practicarse aberturas en el mismo que permitan el paso de los conductores respetando en cada caso las separaciones indicadas para el tipo de canalización de que se trate.
+– Si el elemento constructivo que debe atravesarse separa dos locales con las mismas características de humedad, pueden practicarse aberturas en el mismo que permitan el paso de los conductores respetando en cada caso las separaciones indicadas para el tipo de canalización de que se trate.
 
-– Los pasos con conductores aislados bajo molduras no excederán de 20 cm; en los demás casos el paso se efectuará por medio de tubos.
+– Los pasos con conductores aislados bajo molduras no excederán de 20 cm; en los demás casos el paso se efectuará por medio de tubos.
 
-– En los pasos de techos por medio de tubo, éste estará obturado mediante cierre estanco y su extremidad superior saldrá por encima del suelo una altura al menos igual a la de los rodapiés, si existen, o a 10 centímetros en otro caso. Cuando el paso se efectúe por otro sistema, se obturará igualmente mediante material incombustible, de clase y resistencia al fuego, como mínimo, igual a la de los materiales de los elementos que atraviesa.
+– En los pasos de techos por medio de tubo, éste estará obturado mediante cierre estanco y su extremidad superior saldrá por encima del suelo una altura al menos igual a la de los rodapiés, si existen, o a 10 centímetros en otro caso. Cuando el paso se efectúe por otro sistema, se obturará igualmente mediante material incombustible, de clase y resistencia al fuego, como mínimo, igual a la de los materiales de los elementos que atraviesa.

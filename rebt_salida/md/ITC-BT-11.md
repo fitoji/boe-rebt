@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## REDES DE DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA. ACOMETIDAS
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. ACOMETIDAS
 
@@ -29,11 +28,9 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 #### 1.4 Características de los cables y conductores
 
-### 1.
- ACOMETIDAS
+### 1. ACOMETIDAS
 
-#### 1.1
- Definición
+#### 1.1 Definición
 
 Parte de la instalación de la red de distribución, que alimenta la caja o cajas generales de protección o unidad funcional equivalente (en adelante CGP).
 
@@ -109,8 +106,7 @@ El proyecto e instalación de los distintos tramos de la acometida se realizará
 
 En el paso de acometidas subterráneas a aéreas, el cable irá protegido desde la profundidad establecida según ITC-BT-07 y hasta una altura mínima de 2,5 m por encima del nivel del suelo, mediante un conducto rígido de las características indicadas en el apartado 1.2.1., de esta instrucción.
 
-#### 1.3
- Instalación
+#### 1.3 Instalación
 
 Con carácter general, las acometidas se realizarán siguiendo los trazados más cortos, realizando conexiones cuando éstas sean necesarias mediante sistemas o dispositivos apropiados. En todo caso se realizarán de forma que el aislamiento de los conductores se mantenga hasta los elementos de conexión de la CGP.
 
@@ -126,10 +122,10 @@ Los conductores o cables serán aislados, de cobre o aluminio y los materiales u
 
 Por cuanto se refiere a las secciones de los conductores y al número de los mismos, se calcularán teniendo en cuenta los siguientes aspectos:
 
-– Máxima carga prevista de acuerdo con la ITC-BT-10.
+– Máxima carga prevista de acuerdo con la ITC-BT-10.
 
-– Tensión de suministro.
+– Tensión de suministro.
 
-– Intensidades máximas admisibles para el tipo de conductor y las condiciones de su instalación.
+– Intensidades máximas admisibles para el tipo de conductor y las condiciones de su instalación.
 
-– La caída de tensión máxima admisible. Esta caída de tensión será la que la empresa distribuidora tenga establecida, en su reparto de caídas de tensión en los elementos que constituyen la red, para que en la caja o cajas generales de protección esté dentro de los límites establecidos por el Reglamento por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica.
+– La caída de tensión máxima admisible. Esta caída de tensión será la que la empresa distribuidora tenga establecida, en su reparto de caídas de tensión en los elementos que constituyen la red, para que en la caja o cajas generales de protección esté dentro de los límites establecidos por el Reglamento por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica.

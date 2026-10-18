@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIONES CON FINES ESPECIALES. PISCINAS Y FUENTES
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. CAMPO DE APLICACIÓN
 
@@ -39,16 +38,13 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 4. PRESCRIPCIONES PARTICULARES DE EQUIPOS ELÉCTRICOS DE BAJA TENSIÓN INSTALADOS EN EL VOLUMEN 1 DE LAS PISCINAS Y OTROS BAÑOS
 
-### 1.
- CAMPO DE APLICACIÓN
+### 1. CAMPO DE APLICACIÓN
 
 Esta ITC trata de las prescripciones de las instalaciones eléctricas de las piscinas, pediluvios y fuentes ornamentales.
 
-### 2.
- PISCINAS Y PEDILUVIOS
+### 2. PISCINAS Y PEDILUVIOS
 
-#### 2.1
- Clasificación de los volúmenes
+#### 2.1 Clasificación de los volúmenes
 
 Se definen los volúmenes sobre los cuales se indican las medidas de protección que se enumeran en los apartados siguientes, como:
 
@@ -56,25 +52,25 @@ a) ZONA 0: Esta zona comprende el interior de los recipientes, incluyendo cualqu
 
 b) ZONA 1: Esta zona esta limitada por:
 
-– Zona 0;
+– Zona 0;
 
-– un plano vertical a 2 m del borde del recipiente;
+– un plano vertical a 2 m del borde del recipiente;
 
-– el suelo o la superficie susceptible de ser ocupada por personas;
+– el suelo o la superficie susceptible de ser ocupada por personas;
 
-– el plano horizontal a 2,5 m por encima del suelo o la superficie
+– el plano horizontal a 2,5 m por encima del suelo o la superficie
 
 Cuando la piscina contiene trampolines, bloques de salida de competición, toboganes u otros componentes susceptibles de ser ocupados por personas, la zona 1 comprende la zona limitada por:
 
-– un plano vertical situado a 1,5 m alrededor de los trampolines, bloques de salida de competición, toboganes y otros componentes tales como esculturas, recipientes decorativos
+– un plano vertical situado a 1,5 m alrededor de los trampolines, bloques de salida de competición, toboganes y otros componentes tales como esculturas, recipientes decorativos
 
-– el plano horizontal situado 2,5 m por encima de la superficie más alta destinada a ser ocupada por personas.
+– el plano horizontal situado 2,5 m por encima de la superficie más alta destinada a ser ocupada por personas.
 
 c) ZONA 2: Esta zona está limitada por:
 
-– el plano vertical externo a la Zona 1 y el plano paralelo a 1,5 m del anterior;
+– el plano vertical externo a la Zona 1 y el plano paralelo a 1,5 m del anterior;
 
-– el suelo o superficie destinada a ser ocupada por personas y el plano horizontal situado a 2,5 m por encima del suelo o superficie
+– el suelo o superficie destinada a ser ocupada por personas y el plano horizontal situado a 2,5 m por encima del suelo o superficie
 
 No existe Zona 2 para fuentes. Ejemplos de estos volúmenes se indican en las figuras 1, 2, 3 4 y 5.
 
@@ -84,22 +80,21 @@ Los cuartos de maquinas, definidos como aquellos locales que tengan como mínimo
 
 Dichos locales cumplirán lo indicado en la ITC-BT-30 para locales húmedos o mojados, según corresponda.
 
-#### 2.2
- Prescripciones generales
+#### 2.2 Prescripciones generales
 
 Los equipos eléctricos (incluyendo canalizaciones, empalmes, conexiones, etc.) presentarán el grado de protección siguiente, de acuerdo con la UNE 20.324:
 
-– Zona 0:
+– Zona 0:
 
 IP X8
 
-– Zona 1:
+– Zona 1:
 
 IP X5
 
 IP X4, para piscinas en el interior de edificios que normalmente no se limpian con chorros de agua
 
-– Zona 2:
+– Zona 2:
 
 IP X2, para ubicaciones interiores
 
@@ -109,9 +104,9 @@ IP X5, en aquellas localizaciones que puedan ser alcanzadas por los chorros de a
 
 Cuando se usa MBTS, cualquiera que sea su tensión asignada, la protección contra los contactos directos debe proporcionarse mediante:
 
-– barreras o cubiertas que proporcionen un grado de protección mínimo IP 2X ó IP XXB, según UNE 20.324, o
+– barreras o cubiertas que proporcionen un grado de protección mínimo IP 2X ó IP XXB, según UNE 20.324, o
 
-– un aislamiento capaz de soportar una tensión de ensayo de 500 V en corriente alterna, durante 1 minuto
+– un aislamiento capaz de soportar una tensión de ensayo de 500 V en corriente alterna, durante 1 minuto
 
 Las medidas de protección contra los contactos directos por medio de obstáculos o por puesta fuera de alcance por alejamiento, no son admisibles
 
@@ -123,11 +118,11 @@ Con la excepción de las fuentes mencionadas en el capítulo siguiente, en las Z
 
 En la Zona 2 y los equipos para uso en el interior de recipientes que solo estén destinados a funcionar cuando las personas están fuera de la Zona 0, deben alimentarse por circuitos protegidos:
 
-– bien por MBTS, con la fuente de alimentación de seguridad instalada fuera de las Zonas 0,1 y 2, o
+– bien por MBTS, con la fuente de alimentación de seguridad instalada fuera de las Zonas 0,1 y 2, o
 
-– bien por desconexión automática de la alimentación, mediante un interruptor diferencial de corriente máxima 30 mA, o
+– bien por desconexión automática de la alimentación, mediante un interruptor diferencial de corriente máxima 30 mA, o
 
-– por separación eléctrica cuya fuente de separación alimente un único elemento del equipo y que esté instalada fuera de la Zona 0, 1 y 2.
+– por separación eléctrica cuya fuente de separación alimente un único elemento del equipo y que esté instalada fuera de la Zona 0, 1 y 2.
 
 Las tomas de corriente de los circuitos que alimentan los equipos para uso en el interior de recipientes que solo estén destinados a funcionar cuando las personas están fuera de la Zona 0, así como el dispositivo de control de dichos equipos deben incorporar una señal de advertencia al usuario de que dicho equipo solo debe usarse cuando la piscina no está ocupada por personas.
 
@@ -155,80 +150,75 @@ Elementos tales como interruptores, programadores, y bases de toma de corriente 
 
 No obstante, para las piscinas pequeñas, en las que la instalación de bases de toma de corriente fuera del volumen 1 no sea posible, se admitirán bases de toma de corriente, preferentemente no metálicas, si se instalan fuera del alcance de la mano (al menos 1,25 m) a partir del límite del volumen 0 y al menos 0,3 metros por encima del suelo, estando protegidas, además por una de las medidas siguientes:
 
-– protegidas por MBTS, de tensión nominal no superior a 25 V en corriente alterna o 60 V en corriente continua, estando instalada la fuente de seguridad fuera de los volúmenes 0 y 1;
+– protegidas por MBTS, de tensión nominal no superior a 25 V en corriente alterna o 60 V en corriente continua, estando instalada la fuente de seguridad fuera de los volúmenes 0 y 1;
 
-– protegidas por corte automático de la alimentación mediante un dispositivo de protección por corte diferencial-residual de corriente nominal como máximo igual a 30 mA
+– protegidas por corte automático de la alimentación mediante un dispositivo de protección por corte diferencial-residual de corriente nominal como máximo igual a 30 mA
 
-– alimentación individual por separación eléctrica, estando la fuente de separación fuera de los volúmenes 0 y 1
+– alimentación individual por separación eléctrica, estando la fuente de separación fuera de los volúmenes 0 y 1
 
 En el volumen 2 se podrán instalar base de toma de corriente e interruptores siempre que estén protegidos por una de las siguientes medidas:
 
-– MBTS, con la fuente de seguridad instalada fuera de los volúmenes 0, 1 y 2 protegidas por corte automático de la alimentación mediante un dispositivo de protección por corte diferencial-residual de corriente nominal como máximo igual a 30 mA
+– MBTS, con la fuente de seguridad instalada fuera de los volúmenes 0, 1 y 2 protegidas por corte automático de la alimentación mediante un dispositivo de protección por corte diferencial-residual de corriente nominal como máximo igual a 30 mA
 
-– alimentación individual por separación eléctrica, estando la fuente de separación fuera de los volúmenes 0, 1 y 2
+– alimentación individual por separación eléctrica, estando la fuente de separación fuera de los volúmenes 0, 1 y 2
 
 En los volúmenes 0 y 1 solo se podrán instalar equipos de uso específico en piscinas, si cumplen las prescripciones del capitulo 3 siguiente.
 
 Los equipos destinados a utilizarse únicamente cuando las personas están fuera del volumen 0 se podrán colocar en cualquier volumen si se alimentan por circuitos protegidos por una de las siguientes formas:
 
-– bien por MBTS, con la fuente de alimentación de seguridad instalada fuera de las Zonas 0,1 y 2, o
+– bien por MBTS, con la fuente de alimentación de seguridad instalada fuera de las Zonas 0,1 y 2, o
 
-– bien por desconexión automática de la alimentación, mediante un interruptor diferencial de corriente máxima 30 mA, o
+– bien por desconexión automática de la alimentación, mediante un interruptor diferencial de corriente máxima 30 mA, o
 
-– por separación eléctrica cuya fuente de separación alimente un único elemento del equipo y que esté instalada fuera de la Zona 0, 1 y 2.
+– por separación eléctrica cuya fuente de separación alimente un único elemento del equipo y que esté instalada fuera de la Zona 0, 1 y 2.
 
 Las bombas eléctricas deberán cumplir lo indicado en UNE-EN 60.335-2-41.
 
 Los eventuales elementos calefactores eléctricos instalados debajo del suelo de la piscina se admiten si cumplen una de las siguientes condiciones:
 
-– estén protegidos por MBTS, estando la fuente de seguridad instalada fuera de los volúmenes 0, 1 y 2, o
+– estén protegidos por MBTS, estando la fuente de seguridad instalada fuera de los volúmenes 0, 1 y 2, o
 
-– están blindados por una malla o cubierta metálica puesta a tierra o unida a la línea equipotencial suplementaria mencionada en el apartado 2.2.1 y que sus circuitos de alimentación estén protegidos por un dispositivo de corriente diferencia-residual de corriente nominal como máximo de 30 mA.
+– están blindados por una malla o cubierta metálica puesta a tierra o unida a la línea equipotencial suplementaria mencionada en el apartado 2.2.1 y que sus circuitos de alimentación estén protegidos por un dispositivo de corriente diferencia-residual de corriente nominal como máximo de 30 mA.
 
-### 3.
- FUENTES
+### 3. FUENTES
 
 En las fuentes se diferencian sólo dos volúmenes 0 y 1 tal como se describe en la figura 5.
 
-#### 3.1
- Requisitos del volumen 0 y 1 de las fuentes
+#### 3.1 Requisitos del volumen 0 y 1 de las fuentes
 
 Se deberán emplear una de las siguientes medidas de protección:
 
-– Protección mediante (MBTS) muy baja tensión de seguridad hasta un valor de 12V en corriente alterna ó 30V en corriente continua. La protección contra el contacto directo debe estar asegurada.
+– Protección mediante (MBTS) muy baja tensión de seguridad hasta un valor de 12V en corriente alterna ó 30V en corriente continua. La protección contra el contacto directo debe estar asegurada.
 
-– Corte automático mediante dispositivo de protección por corriente diferencialresidual asignada no superior a 30 mA.
+– Corte automático mediante dispositivo de protección por corriente diferencialresidual asignada no superior a 30 mA.
 
-– Separación eléctrica mediante fuente situada fuera del volumen 0.
+– Separación eléctrica mediante fuente situada fuera del volumen 0.
 
 Para poder cumplir las medidas de protección anteriores, se requiere además que:
 
-– El equipo eléctrico sea inaccesible, por ejemplo, por rejillas que sólo puedan retirarse mediante herramientas apropiadas.
+– El equipo eléctrico sea inaccesible, por ejemplo, por rejillas que sólo puedan retirarse mediante herramientas apropiadas.
 
-– Se utilicen sólo equipos de clase I ó III o especialmente diseñados para fuentes.
+– Se utilicen sólo equipos de clase I ó III o especialmente diseñados para fuentes.
 
-– Las luminarias cumplan lo indicado en la norma UNE-EN 60.598-2-18.
+– Las luminarias cumplan lo indicado en la norma UNE-EN 60.598-2-18.
 
-– Las bases de enchufe no están permitidas en estos volúmenes.
+– Las bases de enchufe no están permitidas en estos volúmenes.
 
-– Las bombas eléctricas cumplan lo indicado en la norma UNE-EN 60.335-2-41.
+– Las bombas eléctricas cumplan lo indicado en la norma UNE-EN 60.335-2-41.
 
-#### 3.2
- Conexión equipotencial suplementaria
+#### 3.2 Conexión equipotencial suplementaria
 
 En los volúmenes 0 y 1 debe instalarse una conexión equipotencial suplementaria local. Todas las partes conductoras accesibles de tamaño apreciable, por ejemplo: surtidores, elementos metálicos y sistemas de tuberías metálicas deberán estar interconectadas conductivamente por un conductor de conexión equipotencial.
 
-#### 3.3
- Protección contra la penetración del agua en los equipos eléctricos
+#### 3.3 Protección contra la penetración del agua en los equipos eléctricos
 
 Los equipos eléctricos deberán tener un grado de protección mínimo contra la penetración del agua, según:
 
-– Volumen 0 IPX8
+– Volumen 0 IPX8
 
-– Volumen 1 IPX5
+– Volumen 1 IPX5
 
-#### 3.4
- Canalizaciones
+#### 3.4 Canalizaciones
 
 Los cables resistirán permanentemente los efectos ambientales en el lugar de la instalación
 
@@ -238,8 +228,7 @@ Los cables para el equipo eléctrico en el volumen 0 deben instalarse lo más le
 
 En los volúmenes 0 y 1 los cables y su instalación serán de las características indicadas en la ITC-BT-30, para locales mojados y los cables deberán colocarse mecánicamente protegidos en el interior de canalizaciones que cumplan la resistencia al impacto, código 5, según UNE-EN 50.086-1.
 
-4.
- PRESCRIPCIONES PARTICULARES DE EQUIPOS ELÉCTRICOS DE BAJA TENSIÓN INSTALADOS EN EL VOLUMEN 1 DE LAS PISCINAS Y OTROS BAÑOS
+4. PRESCRIPCIONES PARTICULARES DE EQUIPOS ELÉCTRICOS DE BAJA TENSIÓN INSTALADOS EN EL VOLUMEN 1 DE LAS PISCINAS Y OTROS BAÑOS
 
 Los equipos eléctricos fijos especialmente destinados a ser utilizados en las piscinas y otros baños (por ejemplo equipo de filtrado, contracorrientes, etc.) alimentados en baja tensión, que no sea MBTS, limitada a 12 V en corriente alterna ó 30 V en corriente continua, se admiten en el volumen 1, siempre que cumplan los siguientes requisitos:
 
@@ -251,19 +240,19 @@ c) Cuando el registro (o puerta) esté abierta, el grado de protección para los
 
 d) La alimentación de estos equipos estará protegida:
 
-– bien por MBTS con una tensión asignada no superior a 25 V en corriente alterna ó 60 V en corriente continua, siempre que la fuente de alimentación de seguridad esté situada fuera de los volúmenes 0, 1 y 2, o
+– bien por MBTS con una tensión asignada no superior a 25 V en corriente alterna ó 60 V en corriente continua, siempre que la fuente de alimentación de seguridad esté situada fuera de los volúmenes 0, 1 y 2, o
 
-– bien por un dispositivo de corte diferencial como máximo de 30 mA, o
+– bien por un dispositivo de corte diferencial como máximo de 30 mA, o
 
-– por separación eléctrica, cuya fuente de separación esté instalada fuera de los volúmenes 0, 1 y 2.
+– por separación eléctrica, cuya fuente de separación esté instalada fuera de los volúmenes 0, 1 y 2.
 
 Para las piscinas pequeñas donde no es posible instalar luminarias fuera del volumen 1, su instalación se admite a 1,25 m a partir del borde del volumen 0 y estarán protegidas:
 
-– bien por MBTS, o
+– bien por MBTS, o
 
-– bien por un dispositivo de corte diferencial como máximo de 30 mA, o
+– bien por un dispositivo de corte diferencial como máximo de 30 mA, o
 
-– bien por separación eléctrica, cuya fuente de separación esté instalada fuera de los volúmenes 0 y 1.
+– bien por separación eléctrica, cuya fuente de separación esté instalada fuera de los volúmenes 0 y 1.
 
 Además las luminarias deben poseer una envolvente con un aislamiento de clase II o similar y protección a los choques AG2 (choques medios) según UNE 20.460-3.
 

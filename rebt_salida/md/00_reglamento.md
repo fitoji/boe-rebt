@@ -210,7 +210,7 @@ Se entiende por instalación eléctrica todo conjunto de aparatos y de circuitos
 
 
 <!-- tabla: tablas/00_reglamento_t01.csv -->
-|  | Corriente alterna  (Valor eficaz) | Corriente continua  (Valor medio aritmético) |
+|  | Corriente alterna (Valor eficaz) | Corriente continua (Valor medio aritmético) |
 |---|---|---|
 | Muy baja tensión. | Un ≤ 50V | Un ≤ 75V |
 | Tensión usual. | 50 < Un ≤ 500V | 75 < Un ≤ 750V |

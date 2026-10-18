@@ -60,9 +60,9 @@ Cualquiera que sea su capacidad de ocupación, como por ejemplo, cines, teatros,
 
 Locales de reunión, trabajo y usos sanitarios:
 
-– Cualquiera que sea su ocupación, los siguientes: Templos, Museos, Salas de conferencias y congresos, casinos, hoteles, hostales, bares, cafeterías, restaurantes o similares, zonas comunes en agrupaciones de establecimientos comerciales, aeropuertos, estaciones de viajeros, estacionamientos cerrados y cubiertos para más de 5 vehículos, hospitales, ambulatorios y sanatorios, asilos y guarderías
+– Cualquiera que sea su ocupación, los siguientes: Templos, Museos, Salas de conferencias y congresos, casinos, hoteles, hostales, bares, cafeterías, restaurantes o similares, zonas comunes en agrupaciones de establecimientos comerciales, aeropuertos, estaciones de viajeros, estacionamientos cerrados y cubiertos para más de 5 vehículos, hospitales, ambulatorios y sanatorios, asilos y guarderías
 
-– Si la ocupación prevista es de más de 50 personas: bibliotecas, centros de enseñanza, consultorios médicos, establecimientos comerciales, oficinas con presencia de público, residencias de estudiantes, gimnasios, salas de exposiciones, centros culturales, clubes sociales y deportivos
+– Si la ocupación prevista es de más de 50 personas: bibliotecas, centros de enseñanza, consultorios médicos, establecimientos comerciales, oficinas con presencia de público, residencias de estudiantes, gimnasios, salas de exposiciones, centros culturales, clubes sociales y deportivos
 
 La ocupación prevista de los locales se calculará como 1 persona por cada 0,8 m^2 de superficie útil, a excepción de pasillos, repartidores, vestíbulos y servicios.
 
@@ -82,15 +82,15 @@ En una alimentación automática la puesta en servicio de la alimentación no de
 
 Una alimentación automática se clasifica, según la duración de conmutación, en las siguientes categorías:
 
-– Sin corte: alimentación automática que puede estar asegurada de forma continua en las condiciones especificadas durante el periodo de transición, por ejemplo, en lo que se refiere a las variaciones de tensión y frecuencia.
+– Sin corte: alimentación automática que puede estar asegurada de forma continua en las condiciones especificadas durante el periodo de transición, por ejemplo, en lo que se refiere a las variaciones de tensión y frecuencia.
 
-– Con corte muy breve: alimentación automática disponible en 0,15 segundos como máximo.
+– Con corte muy breve: alimentación automática disponible en 0,15 segundos como máximo.
 
-– Con corte breve: alimentación automática disponible en 0,5 segundos como máximo.
+– Con corte breve: alimentación automática disponible en 0,5 segundos como máximo.
 
-– Con corte mediano: alimentación automática disponible en 15 segundos como máximo.
+– Con corte mediano: alimentación automática disponible en 15 segundos como máximo.
 
-– Con corte largo: alimentación automática disponible en mas de 15 segundos.
+– Con corte largo: alimentación automática disponible en mas de 15 segundos.
 
 #### 2.1 Generalidades y fuentes de alimentación
 
@@ -104,21 +104,21 @@ Los equipos y materiales deberán disponerse de forma que se facilite su verific
 
 Se pueden utilizar las siguientes fuentes de alimentación:
 
-– Baterías de acumuladores. Generalmente las baterías de arranque de los vehículos no satisfacen las prescripciones de alimentación para los servicios de seguridad
+– Baterías de acumuladores. Generalmente las baterías de arranque de los vehículos no satisfacen las prescripciones de alimentación para los servicios de seguridad
 
-– Generadores independientes
+– Generadores independientes
 
-– Derivaciones separadas de la red de distribución, efectivamente independientes de la alimentación normal
+– Derivaciones separadas de la red de distribución, efectivamente independientes de la alimentación normal
 
 Las fuentes para servicios para servicios complementarios o de seguridad deben estar instaladas en lugar fijo y de forma que no puedan ser afectadas por el fallo de la fuente normal. Además, con excepción de los equipos autónomos, deberán cumplir las siguientes condiciones:
 
-– se instalarán en emplazamiento apropiado, accesible solamente a las personas cualificadas o expertas.
+– se instalarán en emplazamiento apropiado, accesible solamente a las personas cualificadas o expertas.
 
-– el emplazamiento estará convenientemente ventilado, de forma que los gases y los humos que produzcan no puedan propagarse en los locales accesibles a las personas.
+– el emplazamiento estará convenientemente ventilado, de forma que los gases y los humos que produzcan no puedan propagarse en los locales accesibles a las personas.
 
-– no se admiten derivaciones separadas, independientes y alimentadas por una red de distribución pública, salvo si se asegura que las dos derivaciones no puedan fallar simultáneamente.
+– no se admiten derivaciones separadas, independientes y alimentadas por una red de distribución pública, salvo si se asegura que las dos derivaciones no puedan fallar simultáneamente.
 
-– cuando exista una sola fuente para los servicios de seguridad, ésta no debe ser utilizada para otros usos. Sin embargo, cuando se dispone de varias fuentes, pueden utilizarse igualmente como fuentes de reemplazamiento, con la condición, de que en caso de fallo de una de ellas, la potencia todavía disponible sea suficiente para garantizar la puesta en funcionamiento de todos los servicios de seguridad, siendo necesario generalmente, el corte automático de los equipos no concernientes a la seguridad.
+– cuando exista una sola fuente para los servicios de seguridad, ésta no debe ser utilizada para otros usos. Sin embargo, cuando se dispone de varias fuentes, pueden utilizarse igualmente como fuentes de reemplazamiento, con la condición, de que en caso de fallo de una de ellas, la potencia todavía disponible sea suficiente para garantizar la puesta en funcionamiento de todos los servicios de seguridad, siendo necesario generalmente, el corte automático de los equipos no concernientes a la seguridad.
 
 #### 2.2 Fuentes propias de energía
 
@@ -136,15 +136,15 @@ Deberán disponer de suministro de socorro los locales de espectáculos y activi
 
 Deberán disponer de suministro de reserva:
 
-– Hospitales, clínicas, sanatorios, ambulatorios y centros de salud
+– Hospitales, clínicas, sanatorios, ambulatorios y centros de salud
 
-– Estaciones de viajeros y aeropuertos
+– Estaciones de viajeros y aeropuertos
 
-– Estacionamientos subterráneos para más de 100 vehículos
+– Estacionamientos subterráneos para más de 100 vehículos
 
-– Establecimientos comerciales o agrupaciones de éstos en centros comerciales de más de 2.000 m^2 de superficie
+– Establecimientos comerciales o agrupaciones de éstos en centros comerciales de más de 2.000 m^2 de superficie
 
-– Estadios y pabellones deportivos
+– Estadios y pabellones deportivos
 
 Cuando un local se pueda considerar tanto en el grupo de locales que requieren suministro de socorro como en el grupo que requieren suministro de reserva, se instalará suministro de reserva
 
@@ -286,11 +286,11 @@ d) En las instalaciones para alumbrado de locales o dependencias donde se reúna
 
 e) Las canalizaciones deben realizarse según lo dispuesto en las ITC-BT-19 e ITC-BT-20 y estarán constituidas por:
 
-– Conductores aislados, de tensión asignada no inferior a 450/750 V, colocados bajo tubos o canales protectores, preferentemente empotrados en especial en las zonas accesibles al público.
+– Conductores aislados, de tensión asignada no inferior a 450/750 V, colocados bajo tubos o canales protectores, preferentemente empotrados en especial en las zonas accesibles al público.
 
-– Conductores aislados, de tensión asignada no inferior a 450/750 V, con cubierta de protección, colocados en huecos de la construcción totalmente construidos en materiales incombustibles de resistencia al fuego RF-120, como mínimo.
+– Conductores aislados, de tensión asignada no inferior a 450/750 V, con cubierta de protección, colocados en huecos de la construcción totalmente construidos en materiales incombustibles de resistencia al fuego RF-120, como mínimo.
 
-– Conductores rígidos aislados, de tensión asignada no inferior a 0,6/1 kV, armados, colocados directamente sobre las paredes.
+– Conductores rígidos aislados, de tensión asignada no inferior a 0,6/1 kV, armados, colocados directamente sobre las paredes.
 
 f) Los cables y sistemas de conducción de cables deben instalarse de manera que no se reduzcan las características de la estructura del edificio en la seguridad contra incendios.
 
@@ -308,13 +308,13 @@ Además de las prescripciones generales señaladas en el capítulo anterior, se 
 
 a) A partir del cuadro general de distribución se instalarán líneas distribuidoras generales, accionadas por medio de interruptores omnipolares con la debida protección al menos, para cada uno de los siguientes grupos de dependencias o locales:
 
-– Sala de público
+– Sala de público
 
-– Vestíbulo, escaleras y pasillos de acceso a la sala desde la calle, y dependencias anexas a ellos.
+– Vestíbulo, escaleras y pasillos de acceso a la sala desde la calle, y dependencias anexas a ellos.
 
-– Escenario y dependencias anexas a él, tales como camerinos, pasillos de acceso a éstos, almacenes, etc.
+– Escenario y dependencias anexas a él, tales como camerinos, pasillos de acceso a éstos, almacenes, etc.
 
-– Cabinas cinematográficas o de proyectores para alumbrado.
+– Cabinas cinematográficas o de proyectores para alumbrado.
 
 Cada uno de los grupos señalados dispondrá de su correspondiente cuadro secundario de distribución, que deberá contener todos los dispositivos de protección. En otros cuadros se ubicarán los interruptores, conmutadores, combinadores, etc. que sean precisos para las distintas líneas, baterías, combinaciones de luz y demás efectos obtenidos en escena.
 

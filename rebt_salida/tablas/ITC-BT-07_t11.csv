@@ -1,12 +1,7 @@
-"Sección nominal
- mm^2",Tres cables unipolares (1),,,1 cable trifásico,,
-"Sección nominal
- mm^2",![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image4.png),,,"![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image6.png)
- ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image7.png)",,
-"Sección nominal
- mm^2",Tipo de aislamiento,,,,,
-"Sección nominal
- mm^2",XLPE,EPR,PVC,XLPE,EPR,PVC
+Sección nominal mm^2,Tres cables unipolares (1),,,1 cable trifásico,,
+Sección nominal mm^2,![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image4.png),,,![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image6.png) ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image7.png),,
+Sección nominal mm^2,Tipo de aislamiento,,,,,
+Sección nominal mm^2,XLPE,EPR,PVC,XLPE,EPR,PVC
 16,67,65,55,64,63,51
 25,93,90,75,85,82,68
 35,115,110,90,105,100,82

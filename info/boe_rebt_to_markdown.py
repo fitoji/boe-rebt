@@ -130,7 +130,9 @@ def inline_text(el: ET.Element) -> str:
                 parts.append(ch.tail)
 
     walk(el)
-    return re.sub(r"[ \t\u00a0]+", " ", "".join(parts)).strip()
+    # El XML del BOE viene pretty-printed: los saltos de línea internos de un
+    # <p> (p. ej. "0.\n   ÍNDICE") son maquetación y colapsan a un espacio.
+    return re.sub(r"\s+", " ", "".join(parts)).strip()
 
 
 def slugify(s: str, maxlen: int = 60) -> str:

@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIONES INTERIORES O RECEPTORAS. PROTECCIÓN CONTRA SOBREINTENSIDADES
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. PROTECCIÓN DE LAS INSTALACIONES
 
@@ -17,21 +16,19 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 #### 1.2 Aplicación de las medidas de protección
 
-### 1.
- PROTECCIÓN DE LAS INSTALACIONES
+### 1. PROTECCIÓN DE LAS INSTALACIONES
 
-#### 1.1
- Protección contra sobreintensidades
+#### 1.1 Protección contra sobreintensidades
 
 Todo circuito estará protegido contra los efectos de las sobreintensidades que puedan presentarse en el mismo, para lo cual la interrupción de este circuito se realizará en un tiempo conveniente o estará dimensionado para las sobreintensidades previsibles.
 
 Las sobreintensidades pueden estar motivadas por:
 
-– Sobrecargas debidas a los aparatos de utilización o defectos de aislamiento de gran impedancia.
+– Sobrecargas debidas a los aparatos de utilización o defectos de aislamiento de gran impedancia.
 
-– Cortocircuitos.
+– Cortocircuitos.
 
-– Descargas eléctricas atmosféricas
+– Descargas eléctricas atmosféricas
 
 a) Protección contra sobrecargas. El límite de intensidad de corriente admisible en un conductor ha de quedar en todo caso garantizada por el dispositivo de protección utilizado.
 
@@ -53,8 +50,7 @@ La norma UNE 20.460-4-43 recoge en su articulado todos los aspectos requeridos p
 
 436 Limitación de las sobreintensidades por las características de alimentación.
 
-#### 1.2
- Aplicación de las medidas de protección
+#### 1.2 Aplicación de las medidas de protección
 
 La norma UNE 20.460-4-473 define la aplicación de las medidas de protección expuestas en la norma UNE 20.460-4-43 según sea por causa de sobrecargas o cortocircuito, señalando en cada caso su emplazamiento u omisión, resumiendo los diferentes casos en la siguiente tabla.
 
@@ -66,10 +62,10 @@ Tabla 1
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Circuitos | SN ≥ SF |  |  |  | SN < SF |  |  |  | 3 F |  |  | F + N |  | 2 F |  |
 | Esquemas | F | F | F | N | F | F | F | N | F | F | F | F | N | F | F |
-| TN – C | P | P | P | - | P | P | P | ‒    _(1) | P | P | P | P | - | P | P |
-| TN – S | P | P | P | - | P | P | P | P    _(3)(5) | P | P | P | P | - | P | P |
-| TT | P | P | P | - | P | P | P | P    _(3)(5) | P | P | P    _(2)(4) | P | - | P | P    _(2) |
-| IT | P | P | P | P    _(3)(6) | P | P | P | P    _(3)(6) | P | P | P | P | P    _(6)(3) | P | P    _(2) |
+| TN – C | P | P | P | - | P | P | P | ‒ _(1) | P | P | P | P | - | P | P |
+| TN – S | P | P | P | - | P | P | P | P _(3)(5) | P | P | P | P | - | P | P |
+| TT | P | P | P | - | P | P | P | P _(3)(5) | P | P | P _(2)(4) | P | - | P | P _(2) |
+| IT | P | P | P | P _(3)(6) | P | P | P | P _(3)(6) | P | P | P | P | P _(6)(3) | P | P _(2) |
 
 NOTAS:
 

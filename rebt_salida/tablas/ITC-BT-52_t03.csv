@@ -1,10 +1,5 @@
-Alimentación de la estación de recarga,"Base de toma de corriente o conector del tipo descrito en:
- 
- ^(1)",Intensidad asignada del punto de conexión,Interruptor automático de protección del punto de conexión,Modo de carga previsto,Ubicación posible del punto de conexión,,
-Alimentación de la estación de recarga,"Base de toma de corriente o conector del tipo descrito en:
- 
- ^(1)",Intensidad asignada del punto de conexión,Interruptor automático de protección del punto de conexión,Modo de carga previsto,Viviendas unifamiliares,"Aparcamientos en edificios
- de viviendas",Otras instalaciones
+Alimentación de la estación de recarga,Base de toma de corriente o conector del tipo descrito en: ^(1),Intensidad asignada del punto de conexión,Interruptor automático de protección del punto de conexión,Modo de carga previsto,Ubicación posible del punto de conexión,,
+Alimentación de la estación de recarga,Base de toma de corriente o conector del tipo descrito en: ^(1),Intensidad asignada del punto de conexión,Interruptor automático de protección del punto de conexión,Modo de carga previsto,Viviendas unifamiliares,Aparcamientos en edificios de viviendas,Otras instalaciones
 Monofásica,Base de toma de corriente: UNE 20315-1-2. Fig. C2a.,–,10 A^(2),1 o 2,Sí,Sí,No
 Monofásica,Base de toma de corriente: UNE 20315-2-11. Fig. C7a.,–,10 A^(2),1 o 2,Sí,Sí,No
 Monofásica,"UNE-EN 62196-2, tipo 2^(3)",16 A,^(4),3,Sí,Sí,Sí

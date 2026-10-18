@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIONES CON FINES ESPECIALES. CERCAS ELÉCTRICAS PARA GANADO
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. OBJETO Y CAMPO DE APLICACIÓN
 
@@ -25,19 +24,17 @@ Se entiende por cerca eléctrica para ganado, a una barrera para animales que co
 
 Se entiende por alimentador de cerca eléctrica, al aparato destinado a suministrar regularmente impulsos de tensión a la cerca a la que está conectado.
 
-### 2.
- ALIMENTACIÓN
+### 2. ALIMENTACIÓN
 
 El alimentador de cerca eléctrica puede estar alimentado a su vez mediante una de las siguientes formas:
 
-– Conectado a una red de distribución de energía eléctrica.
+– Conectado a una red de distribución de energía eléctrica.
 
-– Conectado a baterías o acumuladores cuya carga se realiza mediante una red de distribución de energía eléctrica.
+– Conectado a baterías o acumuladores cuya carga se realiza mediante una red de distribución de energía eléctrica.
 
-– Conectados a baterías o acumuladores autónomos, es decir que no están destinados a ser conectados a una red de distribución de energía eléctrica.
+– Conectados a baterías o acumuladores autónomos, es decir que no están destinados a ser conectados a una red de distribución de energía eléctrica.
 
-### 3.
- PRESCRIPCIONES PARTICULARES
+### 3. PRESCRIPCIONES PARTICULARES
 
 Los alimentadores de cercas eléctricas conectados a una red de distribución de energía eléctrica, deberán cumplir la norma UNE-EN 60.335-2-76 y su circuito de alimentación las prescripciones de las ITC-BT-22, ITC-BT-23 e ITC-BT-24.
 

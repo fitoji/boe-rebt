@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIÓN DE RECEPTORES. TRANSFORMADORES Y AUTOTRANSFORMADORES. REACTANCIAS Y RECTIFICADORES. CONDENSADORES
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. OBJETO Y CAMPO DE APLICACIÓN
 
@@ -23,15 +22,13 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ### 3. PROTECCIÓN DE LOS TRANSFORMADORES CONTRA SOBREINTENSIDAD
 
-### 1.
- OBJETO Y CAMPO DE APLICACIÓN
+### 1. OBJETO Y CAMPO DE APLICACIÓN
 
 El objeto de la presente Instrucción es determinar los requisitos de instalación de los transformadores, autotransformadores, reactancias, rectificadores y condensadores.
 
 Los receptores objeto de esta Instrucción cumplirán los requisitos de las Directivas europeas aplicables conforme a lo establecido en el artículo 6 del Reglamento Electrotécnico para Baja Tensión.
 
-### 2.
- CONDICIONES GENERALES DE INSTALACIÓN
+### 2. CONDICIONES GENERALES DE INSTALACIÓN
 
 La instalación de los receptores incluidos en la presente Instrucción satisfarán, según los casos, las especificaciones aplicables a los locales (o emplazamientos) donde hayan de ser instalados.
 
@@ -39,8 +36,7 @@ Las conexiones de estos receptores se realizarán con los elementos de conexión
 
 Estos receptores serán instalados de forma que dispongan de ventilación suficiente para su refrigeración correcta.
 
-2.1
- Transformadores y autotransformadores.
+2.1 Transformadores y autotransformadores.
 
 Los transformadores que puedan estar al alcance de personas no especializadas, estarán construidos o situados de manera, que sus arrollamientos y elementos bajo tensión, si ésta es superior a 50 V, sean inaccesibles.
 
@@ -52,21 +48,19 @@ El empleo de autotransformadores no será admitido si los dos circuitos conectad
 
 En la conexión de un autotransformador a una fuente de alimentación con conductor neutro, el borne del extremo del arrollamiento común al primario y al secundario, se unirá al conductor neutro.
 
-#### 2.2
- Reactancias y rectificadores
+#### 2.2 Reactancias y rectificadores
 
 La instalación de reactancias y rectificadores responderán a los mismos requisitos generales que los señalados para los transformadores.
 
 En relación con los rectificadores, se tendrá en cuenta, además:
 
-– Cuando los rectificadores no se opongan, de por sí, al paso accidental de la corriente alterna al circuito que alimentan en corriente continua o al retorno de ésta al circuito de corriente alterna, se instalarán asociados a un dispositivo adecuado que impida esta eventualidad.
+– Cuando los rectificadores no se opongan, de por sí, al paso accidental de la corriente alterna al circuito que alimentan en corriente continua o al retorno de ésta al circuito de corriente alterna, se instalarán asociados a un dispositivo adecuado que impida esta eventualidad.
 
-– Las canalizaciones correspondientes a las corrientes de diferente naturaleza, serán distintas y estarán convenientemente señalizadas o separadas entre sí.
+– Las canalizaciones correspondientes a las corrientes de diferente naturaleza, serán distintas y estarán convenientemente señalizadas o separadas entre sí.
 
-– Los circuitos correspondientes a la corriente continua se instalarán siguiendo las prescripciones que correspondan a su tensión asignada.
+– Los circuitos correspondientes a la corriente continua se instalarán siguiendo las prescripciones que correspondan a su tensión asignada.
 
-#### 2.3
- Condensadores
+#### 2.3 Condensadores
 
 Los condensadores que no lleven alguna indicación de temperatura máxima admisible no se podrán utilizar en lugares donde la temperatura ambiente sea 50 ºC o mayor.
 
@@ -78,7 +72,6 @@ Los condensadores deberán estar adecuadamente protegidos, cuando se vayan a uti
 
 Los aparatos de mando y protección de los condensadores deberán soportar en régimen permanente, de 1,5 a 1,8 veces la intensidad nominal asignada del condensador, a fin de tener en cuenta los armónicos y las tolerancias sobre las capacidades.
 
-### 3.
- PROTECCIÓN DE LOS TRANSFORMADORES CONTRA SOBREINTENSIDAD
+### 3. PROTECCIÓN DE LOS TRANSFORMADORES CONTRA SOBREINTENSIDAD
 
 Todo transformador estará protegido por un dispositivo de corte por sobreintensidad u otro sistema equivalente. Este dispositivo estará de acuerdo con las características que figuran en la placa del transformador, y con la utilización de dicho transformador.

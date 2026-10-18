@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIONES EN LOCALES DE CARACTERÍSTICAS ESPECIALES
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. INSTALACIONES EN LOCALES HÚMEDOS
 
@@ -57,15 +56,13 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 #### 9.1 Clasificación de las influencias externas
 
-### 1.
- INSTALACIONES EN LOCALES HÚMEDOS
+### 1. INSTALACIONES EN LOCALES HÚMEDOS
 
 Locales o emplazamientos húmedos son aquellos cuyas condiciones ambientales se manifiestan momentánea o permanentemente bajo la forma de condensación en el techo y paredes, manchas salinas o moho aún cuando no aparezcan gotas, ni el techo o paredes estén impregnados de agua.
 
 En estos locales o emplazamientos el material eléctrico cuando no se utilice muy bajas tensiones de seguridad, cumplirá con las siguientes condiciones:
 
-#### 1.1
- Canalizaciones eléctricas
+#### 1.1 Canalizaciones eléctricas
 
 Las canalizaciones serán estancas, utilizándose, para terminales, empalmes y conexiones de las mismas, sistemas o dispositivos que presenten el grado de protección correspondiente a la caída vertical de gotas de agua (IPX1). Este requisito lo deberán cumplir las canalizaciones prefabricadas.
 
@@ -73,9 +70,9 @@ Las canalizaciones serán estancas, utilizándose, para terminales, empalmes y c
 
 Los conductores tendrán una tensión asignada de 450/750V y discurrirán por el interior de tubos:
 
-– Empotrados: según lo especificado en la Instrucción ITC-BT-21.
+– Empotrados: según lo especificado en la Instrucción ITC-BT-21.
 
-– En superficie: según lo especificado en la ITC-BT-21, pero que dispondrán de un grado de resistencia a la corrosión 3.
+– En superficie: según lo especificado en la ITC-BT-21, pero que dispondrán de un grado de resistencia a la corrosión 3.
 
 ##### 1.1.2 Instalación de cables aislados con cubierta en el interior de canales aislantes
 
@@ -85,24 +82,21 @@ Se instalarán en superficie y las conexiones, empalmes y derivaciones se realiz
 
 Los conductores tendrán una tensión asignada de 0,6/1 kV y discurrirán por:
 
-– En el interior de huecos de la construcción
+– En el interior de huecos de la construcción
 
-– Fijados en superficie mediante dispositivos hidrófugos y aislantes.
+– Fijados en superficie mediante dispositivos hidrófugos y aislantes.
 
-#### 1.2
- Aparamenta
+#### 1.2 Aparamenta
 
 Las cajas de conexión, interruptores, tomas de corriente y, en general, toda la aparamenta utilizada, deberá presentar el grado de protección correspondiente a la caída vertical de gotas de agua, IPX1. Sus cubiertas y las partes accesibles de los órganos de accionamiento no serán metálicos.
 
-#### 1.3
- Receptores de alumbrado y aparatos portátiles de alumbrado
+#### 1.3 Receptores de alumbrado y aparatos portátiles de alumbrado
 
 Los receptores de alumbrado estarán protegidos contra la caída vertical de agua, IPX1 y no serán de clase 0.
 
 Los aparatos de alumbrado portátiles serán de la Clase II, según la Instrucción ITC-BT-43.
 
-### 2.
- INSTALACIONES EN LOCALES MOJADOS
+### 2. INSTALACIONES EN LOCALES MOJADOS
 
 Locales o emplazamientos mojados son aquellos en que los suelos, techos y paredes estén o puedan estar impregnados de humedad y donde se vean aparecer, aunque sólo sea temporalmente, lodo o gotas gruesas de agua debido a la condensación o bien estar cubiertos con vaho durante largos períodos.
 
@@ -110,8 +104,7 @@ Se considerarán como locales o emplazamientos mojados los lavaderos públicos, 
 
 En estos locales o emplazamientos se cumplirán, además de las condiciones para locales húmedos del apartado 1, las siguientes:
 
-#### 2.1
- Canalizaciones
+#### 2.1 Canalizaciones
 
 Las canalizaciones serán estancas, utilizándose para terminales, empalmes y conexiones de las mismas, sistemas y dispositivos que presenten el grado de protección correspondiente a las proyecciones de agua, IPX4. Las canalizaciones prefabricadas tendrán el mismo grado de protección IPX4.
 
@@ -119,36 +112,31 @@ Las canalizaciones serán estancas, utilizándose para terminales, empalmes y co
 
 Los conductores tendrán una tensión asignada de 450/750 V y discurrirán por el interior de tubos:
 
-– Empotrados: según lo especificado en la ITC-BT-21.
+– Empotrados: según lo especificado en la ITC-BT-21.
 
-– En superficie: según lo especificado en la ITC-BT-21, pero que dispondrán de un grado de resistencia a la corrosión 4.
+– En superficie: según lo especificado en la ITC-BT-21, pero que dispondrán de un grado de resistencia a la corrosión 4.
 
 ##### 2.1.2 Instalación de cables aislados con cubierta en el interior de canales aislantes
 
 Los conductores tendrán una tensión asignada de 450/750 V y discurrirán por el interior de canales que se instalarán en superficie y las conexiones, empalmes y derivaciones se realizarán en el interior de cajas.
 
-#### 2.2
- Aparamenta
+#### 2.2 Aparamenta
 
 Se instalarán los aparatos de mando y protección y tomas de corriente fuera de estos locales. Cuando esto no se pueda cumplir, los citados aparatos serán, del tipo protegido contra las proyecciones de agua, IPX4, o bien se instalarán en el interior de cajas que les proporcionen un grado de protección equivalente.
 
-#### 2.3
- Dispositivos de protección
+#### 2.3 Dispositivos de protección
 
 De acuerdo con lo establecido en la ITC-BT-22, se instalará, en cualquier caso, un dispositivo de protección en el origen de cada circuito derivado de otro que penetre en el local mojado.
 
-#### 2.4
- Aparatos móviles o portátiles
+#### 2.4 Aparatos móviles o portátiles
 
 Queda prohibido en estos locales la utilización de aparatos móviles o portátiles, excepto cuando se utilice como sistema de protección la separación de circuitos o el empleo de muy bajas tensiones de seguridad, MBTS según la Instrucción ITC-BT-36.
 
-#### 2.5
- Receptores de alumbrado
+#### 2.5 Receptores de alumbrado
 
 Los receptores de alumbrado estarán protegidos contra las proyecciones de agua, IPX4. No serán de clase 0.
 
-### 3.
- INSTALACIONES EN LOCALES CON RIESGO DE CORROSIÓN
+### 3. INSTALACIONES EN LOCALES CON RIESGO DE CORROSIÓN
 
 Locales o emplazamientos con riesgo de corrosión son aquellos en los que existan gases o vapores que puedan atacar a los materiales elé ctricos utilizados en la instalación.
 
@@ -156,34 +144,31 @@ Se considerarán como locales con riesgo de corrosión: las fábricas de product
 
 En estos locales o emplazamientos se cumplirán las prescripciones señaladas para las instalaciones en locales mojados, debiendo protegerse además, la parte exterior de los aparatos y canalizaciones con un revestimiento inalterable a la acción de dichos gases o vapores.
 
-### 4.
- INSTALACIONES EN LOCALES POLVORIENTOS SIN RIESGO DE INCENDIO O EXPLOSIÓN
+### 4. INSTALACIONES EN LOCALES POLVORIENTOS SIN RIESGO DE INCENDIO O EXPLOSIÓN
 
 Los locales o emplazamientos polvorientos son aquellos en que los equipos eléctricos están expuestos al contacto con el polvo en cantidad suficiente como para producir su deterioro o un defecto de aislamiento.
 
 En estos locales o emplazamientos se cumplirán las siguientes condiciones:
 
-– Las canalizaciones eléctricas prefabricadas o no, tendrán un grado de protección mínimo IP5X (considerando la envolvente como categoría 1 según la norma UNE 20.324), salvo que las características del local exijan uno más elevado.
+– Las canalizaciones eléctricas prefabricadas o no, tendrán un grado de protección mínimo IP5X (considerando la envolvente como categoría 1 según la norma UNE 20.324), salvo que las características del local exijan uno más elevado.
 
-– Los equipos o aparamenta utilizados tendrán un grado de protección mínimo IP5X (considerando la envolvente como categoría 1 según la norma UNE 20.324) o estará en el interior de una envolvente que proporcione el mismo grado de protección IP 5X, salvo que las características del local exijan uno más elevado.
+– Los equipos o aparamenta utilizados tendrán un grado de protección mínimo IP5X (considerando la envolvente como categoría 1 según la norma UNE 20.324) o estará en el interior de una envolvente que proporcione el mismo grado de protección IP 5X, salvo que las características del local exijan uno más elevado.
 
-### 5.
- INSTALACIONES EN LOCALES A TEMPERATURA ELEVADA
+### 5. INSTALACIONES EN LOCALES A TEMPERATURA ELEVADA
 
 Locales o emplazamientos a temperatura elevada son aquellos donde la temperatura del aire ambiente es susceptible de sobrepasar frecuentemente los 40 ºC, o bien se mantiene permanentemente por encima de los 35 ºC.
 
 En estos locales o emplazamientos se cumplirán las siguientes condiciones:
 
-– Los cables aislados con materias plásticas o elastómeras podrán utilizarse para una temperatura ambiente de hasta 50 ºC aplicando el factor de reducción, para los valores de la intensidad máxima admisible, señalados en la norma UNE 20.460-5-523.
+– Los cables aislados con materias plásticas o elastómeras podrán utilizarse para una temperatura ambiente de hasta 50 ºC aplicando el factor de reducción, para los valores de la intensidad máxima admisible, señalados en la norma UNE 20.460-5-523.
 
 Para temperaturas ambientes superiores a 50 ºC se utilizarán cables especiales con un aislamiento que presente una mayor estabilidad térmica.
 
-– En estos locales son admisibles las canalizaciones con conductores desnudos sobre soportes aislantes. Los soportes estarán construidos con un material cuyas propiedades y estabilidad queden garantizadas a la temperatura de utilización.
+– En estos locales son admisibles las canalizaciones con conductores desnudos sobre soportes aislantes. Los soportes estarán construidos con un material cuyas propiedades y estabilidad queden garantizadas a la temperatura de utilización.
 
-– Los aparatos utilizados deberán poder soportar los esfuerzos resultantes a que se verán sometidos debido a las condiciones ambientales. Su temperatura de funcionamiento a plena carga no deberá sobrepasar el valor máximo fijado en la especificación del material.
+– Los aparatos utilizados deberán poder soportar los esfuerzos resultantes a que se verán sometidos debido a las condiciones ambientales. Su temperatura de funcionamiento a plena carga no deberá sobrepasar el valor máximo fijado en la especificación del material.
 
-### 6.
- INSTALACIONES EN LOCALES A MUY BAJA TEMPERATURA
+### 6. INSTALACIONES EN LOCALES A MUY BAJA TEMPERATURA
 
 Locales o emplazamientos a muy baja temperatura son aquellos donde pueden presentarse y mantenerse temperaturas ambientales inferiores a -20 ºC.
 
@@ -191,65 +176,61 @@ Se considerarán como locales a temperatura muy baja las cámaras de congelació
 
 En estos locales o emplazamientos se cumplirán las siguientes condiciones:
 
-– El aislamiento y demás elementos de protección del material eléctrico utilizado, deberá ser tal que no sufra deterioro alguno a la temperatura de utilización.
+– El aislamiento y demás elementos de protección del material eléctrico utilizado, deberá ser tal que no sufra deterioro alguno a la temperatura de utilización.
 
-– Los aparatos eléctricos deberán poder soportar los esfuerzos resultantes a que se verán sometidos debido a las condiciones ambientales.
+– Los aparatos eléctricos deberán poder soportar los esfuerzos resultantes a que se verán sometidos debido a las condiciones ambientales.
 
-### 7.
- INSTALACIONES EN LOCALES EN QUE EXISTAN BATERÍAS DE ACUMULADORES
+### 7. INSTALACIONES EN LOCALES EN QUE EXISTAN BATERÍAS DE ACUMULADORES
 
 Los locales en que deban disponerse baterí as de acumuladores con posibilidad de desprendimiento de gases, se considerarán como locales o emplazamientos con riesgo de corrosión debiendo cumplir, además de las prescripciones señaladas para estos locales, las siguientes:
 
-– El equipo eléctrico utilizado estará protegido contra los efectos de vapores y gases desprendidos por el electrolito.
+– El equipo eléctrico utilizado estará protegido contra los efectos de vapores y gases desprendidos por el electrolito.
 
-– Los locales deberán estar provistos de una ventilación natural o forzada que garantice una renovación perfecta y rápida del aire. Los vapores evacuados no deben penetrar en locales contiguos.
+– Los locales deberán estar provistos de una ventilación natural o forzada que garantice una renovación perfecta y rápida del aire. Los vapores evacuados no deben penetrar en locales contiguos.
 
-– La iluminación artificial se realizará únicamente mediante lámparas eléctricas de incandescencia o de descarga.
+– La iluminación artificial se realizará únicamente mediante lámparas eléctricas de incandescencia o de descarga.
 
-– Las luminarias serán de material apropiado para soportar el ambiente corrosivo y evitar la penetración de gases en su interior.
+– Las luminarias serán de material apropiado para soportar el ambiente corrosivo y evitar la penetración de gases en su interior.
 
-– Los acumuladores que no aseguren por sí mismos y permanentemente un aislamiento suficiente entre partes en tensión y tierra, deberán ser instalados con un aislamiento suplementario. Este aislamiento no podrá ser afectado por la humedad.
+– Los acumuladores que no aseguren por sí mismos y permanentemente un aislamiento suficiente entre partes en tensión y tierra, deberán ser instalados con un aislamiento suplementario. Este aislamiento no podrá ser afectado por la humedad.
 
-– Los acumuladores estarán dispuestos de manera que pueda realizarse fácilmente la sustitución y el mantenimiento de cada elemento. Los pasillos de servicio tendrán una anchura mínima de 0,75 metros.
+– Los acumuladores estarán dispuestos de manera que pueda realizarse fácilmente la sustitución y el mantenimiento de cada elemento. Los pasillos de servicio tendrán una anchura mínima de 0,75 metros.
 
-– Si la tensión de servicio en corriente continua es superior a 75 voltios con relación a tierra y existen partes desnudas bajo tensión que puedan tocarse inadvertidamente, el suelo de los pasillos de servicio será eléctricamente aislante.
+– Si la tensión de servicio en corriente continua es superior a 75 voltios con relación a tierra y existen partes desnudas bajo tensión que puedan tocarse inadvertidamente, el suelo de los pasillos de servicio será eléctricamente aislante.
 
-– Las piezas desnudas bajo tensión, cuando entre éstas existan tensiones superiores a 75 voltios en corriente continua, deberán instalarse de manera que sea imposible tocarlas simultánea e inadvertidamente.
+– Las piezas desnudas bajo tensión, cuando entre éstas existan tensiones superiores a 75 voltios en corriente continua, deberán instalarse de manera que sea imposible tocarlas simultánea e inadvertidamente.
 
-### 8.
- INSTALACIONES EN LOCALES AFECTOS A UN SERVICIO ELÉCTRICO
+### 8. INSTALACIONES EN LOCALES AFECTOS A UN SERVICIO ELÉCTRICO
 
 Locales o emplazamientos afectos a un servicio eléctrico son aquellos que se destinan a la explotación de instalaciones eléctricas y, en general, sólo tienen acceso a los mismos personas cualificadas para ello. Se considerarán como locales o emplazamientos afectos a un servicio eléctrico: los laboratorios de ensayos, las salas de mando y distribución instaladas en locales independientes de las salas de máquinas de centrales, centros de transformación, etc.
 
 En estos locales se cumplirán las siguientes condiciones:
 
-– Estarán obligatoriamente cerrados con llave cuando no haya en ellos personal de servicio.
+– Estarán obligatoriamente cerrados con llave cuando no haya en ellos personal de servicio.
 
-– El acceso a estos locales deberá tener al menos una altura libre de 2 metros y una anchura mínima de 0,7 metros. Las puertas se abrirán hacia el exterior.
+– El acceso a estos locales deberá tener al menos una altura libre de 2 metros y una anchura mínima de 0,7 metros. Las puertas se abrirán hacia el exterior.
 
-– Si la instalación contiene instrumentos de medida que deban ser observados o aparatos que haya que manipular constante o habitualmente, tendrá un pasillo de servicio de una anchura mínima de 1,10 metros. No obstante, ciertas partes del local o de la instalación que no estén bajo tensión podrán sobresalir en el pasillo de servicio, siempre que su anchura no quede reducida en esos lugares a menos de 0,80 metros. Cuando existan a los lados del pasillo de servicio piezas desnudas bajo tensión, no protegidas, aparatos a manipular o instrumentos a observar, la distancia entre equipos eléctricos instalados enfrente unos de otros, será como mínimo de 1,30 metros.
+– Si la instalación contiene instrumentos de medida que deban ser observados o aparatos que haya que manipular constante o habitualmente, tendrá un pasillo de servicio de una anchura mínima de 1,10 metros. No obstante, ciertas partes del local o de la instalación que no estén bajo tensión podrán sobresalir en el pasillo de servicio, siempre que su anchura no quede reducida en esos lugares a menos de 0,80 metros. Cuando existan a los lados del pasillo de servicio piezas desnudas bajo tensión, no protegidas, aparatos a manipular o instrumentos a observar, la distancia entre equipos eléctricos instalados enfrente unos de otros, será como mínimo de 1,30 metros.
 
-– El pasillo de servicio tendrá una altura de 1,90 metros, como mínimo. Si existen en su parte superior piezas no protegidas bajo tensión, la altura libre hasta esas piezas no será inferior a 2,30 metros.
+– El pasillo de servicio tendrá una altura de 1,90 metros, como mínimo. Si existen en su parte superior piezas no protegidas bajo tensión, la altura libre hasta esas piezas no será inferior a 2,30 metros.
 
-– Sólo se permitirá colocar en el pasillo de servicio los objetos necesarios para el empleo de aparatos instalados.
+– Sólo se permitirá colocar en el pasillo de servicio los objetos necesarios para el empleo de aparatos instalados.
 
-– Los locales que tengan personal de servicio permanente, estarán dotados de un alumbrado de seguridad.
+– Los locales que tengan personal de servicio permanente, estarán dotados de un alumbrado de seguridad.
 
-– Los locales que estén bajo rasante deberán disponer de un sumidero.
+– Los locales que estén bajo rasante deberán disponer de un sumidero.
 
-### 9.
- INSTALACIONES EN OTROS LOCALES DE CARACTERÍSTICAS ESPECIALES
+### 9. INSTALACIONES EN OTROS LOCALES DE CARACTERÍSTICAS ESPECIALES
 
 Cuando en los locales o emplazamientos donde se tengan que establecer instalaciones eléctricas concurran circunstancias especiales no especificadas en estas Instrucciones y que puedan originar peligro para las personas o cosas, se tendrá en cuenta lo siguiente:
 
-– Los equipos eléctricos deberán seleccionarse e instalarse en función de las influencias externas definidas en la Norma UNE 20.460-3, a las que dichos materiales pueden estar sometidos de forma que garanticen su funcionamiento y la fiabilidad de las medidas de protección
+– Los equipos eléctricos deberán seleccionarse e instalarse en función de las influencias externas definidas en la Norma UNE 20.460-3, a las que dichos materiales pueden estar sometidos de forma que garanticen su funcionamiento y la fiabilidad de las medidas de protección
 
-– Cuando un equipo no posea por su construcción, las características correspondientes a las influencias externas del local (o las derivadas de su ubicación), podrá utilizarse a condición de que se le proporcione, durante la realización de la instalación, una protección complementaria adecuada. Esta protección no deberá perjudicar las condiciones de funcionamiento del material así protegido.
+– Cuando un equipo no posea por su construcción, las características correspondientes a las influencias externas del local (o las derivadas de su ubicación), podrá utilizarse a condición de que se le proporcione, durante la realización de la instalación, una protección complementaria adecuada. Esta protección no deberá perjudicar las condiciones de funcionamiento del material así protegido.
 
-– Cuando se produzcan simultáneamente diferentes influencias externas, sus efectos podrá ser independientes o influirse mutuamente, y los grados de protección deberán seleccionarse en consecuencia.
+– Cuando se produzcan simultáneamente diferentes influencias externas, sus efectos podrá ser independientes o influirse mutuamente, y los grados de protección deberán seleccionarse en consecuencia.
 
-#### 9.1
- Clasificación de las influencias externas
+#### 9.1 Clasificación de las influencias externas
 
 La norma UNE 20.460-3 establece una clasificación y una codificación de las influencias que deben ser tenidas en cuenta para el proyecto y la ejecución de las instalaciones eléctricas.
 

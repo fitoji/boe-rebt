@@ -1,6 +1,5 @@
 Tensión nominal de la instalación,Tensión de ensayo en corriente continua (v),Resistencia de aislamiento (MΩ)
-"Muy Baja Tensión de Seguridad (MBTS)
- Muy Baja Tensión de protección (MBTP)",250,"≥ 0,25"
+Muy Baja Tensión de Seguridad (MBTS) Muy Baja Tensión de protección (MBTP),250,"≥ 0,25"
 "Inferior o igual a 500 V, excepto caso anterior",500,"≥ 0,5"
 Superior a 500 V,1000,"≥ 1,0"
 "Nota: Para instalaciones a MBTS y MBTP, véase la ITC-BT-36",,

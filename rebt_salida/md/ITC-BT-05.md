@@ -52,9 +52,9 @@ Las instalaciones eléctricas en baja tensión de especial relevancia que se cit
 
 Las inspecciones podrán ser:
 
-– Iniciales: Antes de la puesta en servicio de las instalaciones.
+– Iniciales: Antes de la puesta en servicio de las instalaciones.
 
-– Periódicas;
+– Periódicas;
 
 4.1 Inspecciones iniciales.
 
@@ -110,17 +110,17 @@ Es todo aquél que la razón o la experiencia determina que constituye un peligr
 
 Se consideran tales los incumplimientos de las medidas de seguridad que pueden provocar el desencadenamiento de los peligros que se pretenden evitar con tales medidas, en relación con:
 
-– Contactos directos, en cualquier tipo de instalación;
+– Contactos directos, en cualquier tipo de instalación;
 
-– Locales de pública concurrencia;
+– Locales de pública concurrencia;
 
-– Locales con riesgo de incendio o explosión;
+– Locales con riesgo de incendio o explosión;
 
-– Locales de características especiales;
+– Locales de características especiales;
 
-– Instalaciones con fines especiales;
+– Instalaciones con fines especiales;
 
-– Quirófanos y salas de intervención.
+– Quirófanos y salas de intervención.
 
 6.2 Defecto Grave.
 
@@ -128,37 +128,37 @@ Es el que no supone un peligro inmediato para la seguridad de las personas o de 
 
 Dentro de este grupo y con carácter no exhaustivo, se consideran los siguientes defectos graves:
 
-– Falta de conexiones equipotenciales, cuando éstas fueran requeridas;
+– Falta de conexiones equipotenciales, cuando éstas fueran requeridas;
 
-– Inexistencia de medidas adecuadas de seguridad contra contactos indirectos;
+– Inexistencia de medidas adecuadas de seguridad contra contactos indirectos;
 
-– Falta de aislamiento de la instalación;
+– Falta de aislamiento de la instalación;
 
-– Falta de protección adecuada contra cortocircuitos y sobrecargas en los conductores, en función de la intensidad máxima admisible en los mismos, de acuerdo con sus características y condiciones de instalación;
+– Falta de protección adecuada contra cortocircuitos y sobrecargas en los conductores, en función de la intensidad máxima admisible en los mismos, de acuerdo con sus características y condiciones de instalación;
 
-– Falta de continuidad de los conductores de protección;
+– Falta de continuidad de los conductores de protección;
 
-– Valores elevados de resistencia de tierra en relación con las medidas de seguridad adoptadas.
+– Valores elevados de resistencia de tierra en relación con las medidas de seguridad adoptadas.
 
-– Defectos en la conexión de los conductores de protección a las masas, cuando estas conexiones fueran preceptivas;
+– Defectos en la conexión de los conductores de protección a las masas, cuando estas conexiones fueran preceptivas;
 
-– Sección insuficiente de los conductores de protección;
+– Sección insuficiente de los conductores de protección;
 
-– Existencia de partes o puntos de la instalación cuya defectuosa ejecución pudiera ser origen de averías o daños;
+– Existencia de partes o puntos de la instalación cuya defectuosa ejecución pudiera ser origen de averías o daños;
 
-– Naturaleza o características no adecuadas de los conductores utilizados;
+– Naturaleza o características no adecuadas de los conductores utilizados;
 
-– Falta de sección de los conductores, en relación con las caídas de tensión admisibles para las cargas previstas;
+– Falta de sección de los conductores, en relación con las caídas de tensión admisibles para las cargas previstas;
 
-– Falta de identificación de los conductores "neutro" y "de protección";
+– Falta de identificación de los conductores "neutro" y "de protección";
 
-– Empleo de materiales, aparatos o receptores que no se ajusten a las especificaciones vigentes.
+– Empleo de materiales, aparatos o receptores que no se ajusten a las especificaciones vigentes.
 
-– Ampliaciones o modificaciones de una instalación que no se hubieran tramitado según lo establecido en la ITC -BT 04.
+– Ampliaciones o modificaciones de una instalación que no se hubieran tramitado según lo establecido en la ITC -BT 04.
 
-– Carencia del número de circuitos mínimos estipulados
+– Carencia del número de circuitos mínimos estipulados
 
-– La sucesiva reiteración o acumulación de defectos leves.
+– La sucesiva reiteración o acumulación de defectos leves.
 
 6.3 Defecto Leve.
 

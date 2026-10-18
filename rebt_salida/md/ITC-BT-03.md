@@ -174,11 +174,11 @@ Se entenderá satisfecho el requisito del párrafo anterior cuando el referido p
 
 2.1.2 Equipos:
 
-– Telurómetro;
+– Telurómetro;
 
-– Medidor de aislamiento, según ITC MIE-BT 19;
+– Medidor de aislamiento, según ITC MIE-BT 19;
 
-– Multímetro o tenaza, para las siguientes magnitudes:
+– Multímetro o tenaza, para las siguientes magnitudes:
 
 Tensión alterna y continua hasta 500 V;
 
@@ -186,31 +186,31 @@ Intensidad alterna y continua hasta 20 A;
 
 Resistencia;
 
-– Medidor de corrientes de fuga, con resolución mejor o igual que 1 mA;
+– Medidor de corrientes de fuga, con resolución mejor o igual que 1 mA;
 
-– Detector de tensión;
+– Detector de tensión;
 
-– Analizador registrador de potencia y energía para corriente alterna trifásica, con capacidad de medida de las siguientes magnitudes: potencia activa; tensión alterna; intensidad alterna; factor de potencia;
+– Analizador registrador de potencia y energía para corriente alterna trifásica, con capacidad de medida de las siguientes magnitudes: potencia activa; tensión alterna; intensidad alterna; factor de potencia;
 
-– Equipo verificador de la sensibilidad de disparo de los interruptores diferenciales, capaz de verificar la característica intensidad-tiempo;
+– Equipo verificador de la sensibilidad de disparo de los interruptores diferenciales, capaz de verificar la característica intensidad-tiempo;
 
-– Equipo verificador de la continuidad de conductores;
+– Equipo verificador de la continuidad de conductores;
 
-– Medidor de impedancia de bucle, con sistema de medición independiente o con compensación del valor de la resistencia de los cables de prueba y con una resolución mejor o igual que 0,1 Ω;
+– Medidor de impedancia de bucle, con sistema de medición independiente o con compensación del valor de la resistencia de los cables de prueba y con una resolución mejor o igual que 0,1 Ω;
 
-– Herramientas comunes y equipo auxiliar;
+– Herramientas comunes y equipo auxiliar;
 
-– Luxómetro con rango de medida adecuado para el alumbrado de emergencia
+– Luxómetro con rango de medida adecuado para el alumbrado de emergencia
 
 #### 2.2. Categoría Especialista
 
 Además de los medios anteriores, deberán contar con los siguientes, según proceda:
 
-– Analizador de redes, de armónicos y de perturbaciones de red;
+– Analizador de redes, de armónicos y de perturbaciones de red;
 
-– electrodos para la medida del aislamiento de los suelos;
+– electrodos para la medida del aislamiento de los suelos;
 
-– aparato comprobador del dispositivo de vigilancia del nivel de aislamiento de los quirófanos;
+– aparato comprobador del dispositivo de vigilancia del nivel de aislamiento de los quirófanos;
 
 2.3 Herramientas, equipos y medios de protección individual.
 

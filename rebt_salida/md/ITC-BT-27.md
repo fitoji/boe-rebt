@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIONES INTERIORES EN VIVIENDAS. LOCALES QUE CONTIENEN UNA BAÑERA O DUCHA
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. CAMPO DE APLICACIÓN
 
@@ -33,8 +32,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ### 4. FIGURAS DE LA CLASIFICACIÓN DE LOS VOLÚMENES
 
-### 1.
- CAMPO DE APLICACIÓN
+### 1. CAMPO DE APLICACIÓN
 
 Las prescripciones objeto de esta Instrucción son aplicables a las instalaciones interiores de viviendas, así como en la medida que pueda afectarles, a las de locales comerciales, de oficinas y a las de cualquier otro local destinado a fines análogos que contengan una bañera o una ducha o una ducha prefabricada o una bañera de hidromasaje o aparato para uso análogo.
 
@@ -42,11 +40,9 @@ Para lugares que contengan baños o duchas para tratamiento médico o para minus
 
 Para duchas de emergencia en zonas industriales, son de aplicación las reglas generales.
 
-### 2.
- EJECUCIÓN DE LAS INSTALACIONES
+### 2. EJECUCIÓN DE LAS INSTALACIONES
 
-#### 2.1
- Clasificación de los volúmenes
+#### 2.1 Clasificación de los volúmenes
 
 Para las instalaciones de estos locales se tendrán en cuenta los cuatro volúmenes 0, 1, 2 y 3 que se definen a continuación. En el apartado 5 de la presente instrucción se presentan figuras aclaratorias para la clasificación de los volúmenes, teniendo en cuenta la influencia de las paredes y del tipo de baño o ducha. Los falsos techos y las mamparas no se consideran barreras a los efectos de la separación de volúmenes.
 
@@ -94,31 +90,29 @@ Además, cuando la altura del techo exceda los 2,25 m por encima del suelo, el e
 
 El volumen 3 comprende cualquier espacio por debajo de la bañera o ducha que sea accesible sólo mediante el uso de una herramienta siempre que el cierre de dicho volumen garantice una protección como mínimo IP X4. Esta clasificación no es aplicable al espacio situado por debajo de las bañeras de hidromasaje y cabinas.
 
-#### 2.2
- Protección para garantizar la seguridad
+#### 2.2 Protección para garantizar la seguridad
 
 Cuando se utiliza MBTS, cualquiera que sea su tensión asignada, la protección contra contactos directos debe estar proporcionada por:
 
-– barreras o envolventes con un grado de protección mínimo IP2X o IPXXB, según UNE 20.324 o
+– barreras o envolventes con un grado de protección mínimo IP2X o IPXXB, según UNE 20.324 o
 
-– aislamiento capaz de soportar una tensión de ensayo de 500 V en valor eficaz en alterna durante 1 minuto.
+– aislamiento capaz de soportar una tensión de ensayo de 500 V en valor eficaz en alterna durante 1 minuto.
 
 Una conexión equipotencial local suplementaria debe unir el conductor de protección asociado con las partes conductoras accesibles de los equipos de clase I en los volúmenes 1, 2 y 3, incluidas las tomas de corriente y las siguientes partes conductoras externas de los volúmenes 0, 1, 2 y 3:
 
-– Canalizaciones metálicas de los servicios de suministro y desagües (por ejemplo agua, gas);
+– Canalizaciones metálicas de los servicios de suministro y desagües (por ejemplo agua, gas);
 
-– Canalizaciones metálicas de calefacciones centralizadas y sistemas de aire acondicionado;
+– Canalizaciones metálicas de calefacciones centralizadas y sistemas de aire acondicionado;
 
-– Partes metálicas accesibles de la estructura del edificio. Los marcos metálicos de puertas, ventanas y similares no se consideran partes externas accesibles, a no ser que estén conectadas a la estructura metálica del edificio.
+– Partes metálicas accesibles de la estructura del edificio. Los marcos metálicos de puertas, ventanas y similares no se consideran partes externas accesibles, a no ser que estén conectadas a la estructura metálica del edificio.
 
-– Otras partes conductoras externas, por ejemplo partes que son susceptibles de transferir tensiones.
+– Otras partes conductoras externas, por ejemplo partes que son susceptibles de transferir tensiones.
 
 Estos requisitos no se aplican al volumen 3, en recintos en los que haya una cabina de ducha prefabricada con sus propios sistemas de drenaje, distintos de un cuarto de baño, por ejemplo un dormitorio.
 
 Las bañeras y duchas metálicas deben considerarse partes conductoras externas susceptibles de transferir tensiones, a menos que se instalen de forma que queden aisladas de la estructura y de otras partes metálicas del edificio. Las bañeras y duchas metálicas pueden considerarse aisladas del edificio, si la resistencia de aislamiento entre el área de los baños y duchas y la estructura del edificio, medido de acuerdo con la norma UNE 20.460-6-61, anexo A, es de cómo mínimo 100 kΩ.
 
-#### 2.3
- Elección e instalación de los materiales eléctricos
+#### 2.3 Elección e instalación de los materiales eléctricos
 
 Tabla 1
 
@@ -127,13 +121,12 @@ Tabla 1
 |  | Grado de Protección | Cableado | Mecanismos ^(2) | Otros aparatos fijos ^(3) |
 |---|---|---|---|---|
 | Volumen 0 | IPX7 | Limitado al necesario para alimentar los aparatos eléctricos fijos situados en este volumen | No permitida | Aparatos que únicamente pueden ser instalados en el volumen 0 y deben ser adecuados a las condiciones de este volumen |
-| Volumen 1 | IPX4  IPX2, por encima del nivel más alto de un difusor fijo.  IPX5, en equipo eléctrico de bañeras de hidromasaje y en los baños comunes en los que se puedan producir chorros de agua durante la limpieza de  los mismos^(1). | Limitado al necesario para alimentar los aparatos eléctricos fijos situados en los volúmenes 0 y 1 | No permitida, con la excepción de interruptores de circuitos MBTS alimentados a una tensión nominal de 12V de valor eficaz en alterna o de 30V en continua, estando la fuente de alimentación instalada fuera de los volúmenes 0, 1 y 2. | Aparatos alimentados a MBTS no superior a 12 V ca ó 30 V cc  Calentadores de agua, bombas de ducha y equipo eléctrico para bañeras de hidromasaje que cumplan con su norma aplicable, si su alimentación está protegida adicionalmente con un dispositivo de protección de corriente diferencial de valor no superior a los 30 mA, según la norma UNE 20.460-4-41. |
-| Volumen 2 | IPX4  IPX2, por encima del nivel más alto de un difusor fijo.  IPX5, en los baños comunes en los que se puedan producir chorros de agua durante la limpieza de los mismos (1) | Limitado al necesario para alimentar los aparatos eléctricos fijos situados en los volúmenes 0, 1 y 2, y la parte del volumen 3 situado por debajo de la bañera o ducha. | No permitida, con la excepción de interruptores o bases de circuitos MBTS cuya fuente de alimentación este instalada fuera de los volúmenes 0, 1 y 2. Se permiten también la instalación de bloques de alimentación de afeitadoras que cumplan con la UNE-EN 60.742 o UNE-EN 61558-2-5 | Todos los permitidos para el volumen 1. Luminarias, ventiladores, calefactores, y unidades móviles para bañeras de hidromasaje que cumplan con su norma aplicable, si su alimentación está protegida adicionalmente con un dispositivo de protección de corriente diferencial de valor no superior a los 30 mA, según la norma UNE 20.460-4-41. |
+| Volumen 1 | IPX4 IPX2, por encima del nivel más alto de un difusor fijo. IPX5, en equipo eléctrico de bañeras de hidromasaje y en los baños comunes en los que se puedan producir chorros de agua durante la limpieza de los mismos^(1). | Limitado al necesario para alimentar los aparatos eléctricos fijos situados en los volúmenes 0 y 1 | No permitida, con la excepción de interruptores de circuitos MBTS alimentados a una tensión nominal de 12V de valor eficaz en alterna o de 30V en continua, estando la fuente de alimentación instalada fuera de los volúmenes 0, 1 y 2. | Aparatos alimentados a MBTS no superior a 12 V ca ó 30 V cc Calentadores de agua, bombas de ducha y equipo eléctrico para bañeras de hidromasaje que cumplan con su norma aplicable, si su alimentación está protegida adicionalmente con un dispositivo de protección de corriente diferencial de valor no superior a los 30 mA, según la norma UNE 20.460-4-41. |
+| Volumen 2 | IPX4 IPX2, por encima del nivel más alto de un difusor fijo. IPX5, en los baños comunes en los que se puedan producir chorros de agua durante la limpieza de los mismos (1) | Limitado al necesario para alimentar los aparatos eléctricos fijos situados en los volúmenes 0, 1 y 2, y la parte del volumen 3 situado por debajo de la bañera o ducha. | No permitida, con la excepción de interruptores o bases de circuitos MBTS cuya fuente de alimentación este instalada fuera de los volúmenes 0, 1 y 2. Se permiten también la instalación de bloques de alimentación de afeitadoras que cumplan con la UNE-EN 60.742 o UNE-EN 61558-2-5 | Todos los permitidos para el volumen 1. Luminarias, ventiladores, calefactores, y unidades móviles para bañeras de hidromasaje que cumplan con su norma aplicable, si su alimentación está protegida adicionalmente con un dispositivo de protección de corriente diferencial de valor no superior a los 30 mA, según la norma UNE 20.460-4-41. |
 | Volumen 3 | IPX5, en los baños comunes, cuando se puedan producir chorros de agua durante la limpieza de los mismos. | Limitado al necesario para alimentar los aparatos eléctricos fijos situados en los volúmenes 0, 1, 2 y 3. | Se permiten las bases sólo si están protegidas bien por un transformador de aislamiento; o por MBTS; o por un interruptor automático de la alimentación con un dispositivo de protección por corriente diferencial de valor no superior a los 30 mA, todos ellos según los requisitos de la norma UNE 20.460-4-41. | Se permiten los aparatos sólo si están protegidos bien por un transformador de aislamiento; o por MBTS; o por un dispositivo de protección de corriente diferencial de valor no superior a los 30 mA, todos ellos según los requisitos de la norma UNE 20.460-4-41. |
-| (1) Los baños comunes comprenden los baños que se encuentran en escuelas, fábricas, centros deportivos, etc. e incluyen todos los utilizados por el público en general.  (2) Los cordones aislantes de interruptores de tirador están permitidos en los volúmenes 1 y 2, siempre que cumplan con los requisitos de la norma UNE-EN 60.669 -1.  (3) Los calefactores bajo suelo pueden instalarse bajo cualquier volumen siempre y cuando debajo de estos volúmenes estén cubiertos por una malla metálica puesta a tierra o por una cubierta metálica conectada a una conexión equipotencial local suplementaria según el apartado 2 2. |  |  |  |  |
+| (1) Los baños comunes comprenden los baños que se encuentran en escuelas, fábricas, centros deportivos, etc. e incluyen todos los utilizados por el público en general. (2) Los cordones aislantes de interruptores de tirador están permitidos en los volúmenes 1 y 2, siempre que cumplan con los requisitos de la norma UNE-EN 60.669 -1. (3) Los calefactores bajo suelo pueden instalarse bajo cualquier volumen siempre y cuando debajo de estos volúmenes estén cubiertos por una malla metálica puesta a tierra o por una cubierta metálica conectada a una conexión equipotencial local suplementaria según el apartado 2 2. |  |  |  |  |
 
-3.
- REQUISITOS PARTICULARES PARA LA INSTALACIÓN DE BAÑERAS DE HIDROMASAJE, CABINAS DE DUCHA CON CIRCUITOS ELÉCTRICOS Y APARATOS ANÁLOGOS
+3. REQUISITOS PARTICULARES PARA LA INSTALACIÓN DE BAÑERAS DE HIDROMASAJE, CABINAS DE DUCHA CON CIRCUITOS ELÉCTRICOS Y APARATOS ANÁLOGOS
 
 El hecho de que en estos aparatos, en los espacios comprendidos entre la bañera y el suelo y las paredes y el techo de las cabinas y las paredes y techos del local donde se instalan, coexista equipo eléctrico tanto de baja tensión como de Muy Baja Tensión de Seguridad (MBTS) con tuberías o depósitos de agua u otros líquidos, hace necesario que se requieran condiciones especiales de instalación.
 
@@ -145,8 +138,7 @@ Todas las cajas de conexión localizadas en paredes y suelo del local bajo la ba
 
 No se admiten empalmes en los cables y canalizaciones que discurran por los volúmenes determinados por dichas superficies salvo si estos se realizan con cajas que cumplan el requisito anterior.
 
-### 4.
- FIGURAS DE LA CLASIFICACIÓN DE LOS VOLÚMENES
+### 4. FIGURAS DE LA CLASIFICACIÓN DE LOS VOLÚMENES
 
 Figura 1. BAÑERA
 
@@ -160,8 +152,7 @@ Figura 2. BAÑERA CON PARED FIJA
 
 Figura 3. DUCHA
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image48.png)
- ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image49.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image48.png) ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image49.png)
 
 Figura 4. DUCHA CON PARED FIJA
 
@@ -173,8 +164,7 @@ Figura 5. DUCHA SIN PLATO
 
 Figura 6. DUCHA SIN PLATO PERO CON PARED FIJA. DIFUSOR FIJO
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image52.png)
- ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image53.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image52.png) ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image53.png)
 
 Figura 7. CABINA DE DUCHA PREFABRICADA
 

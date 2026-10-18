@@ -1,8 +1,2 @@
-"U_0
- (V)","Tiempos de interrupción
- (s)"
-"230
- 400
- > 400","0,4
- 0,2
- 0,1"
+U_0 (V),Tiempos de interrupción (s)
+230 400 > 400,"0,4 0,2 0,1"

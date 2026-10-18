@@ -40,13 +40,13 @@ La capacidad de instalación se corresponderá como mínimo al valor de la inten
 
 Los circuitos de protección privados se ejecutarán según lo dispuesto en la ITC-BT-17 y constarán como mínimo de:
 
-– Un interruptor general automático de corte omnipolar con accionamiento manual, de intensidad nominal mínima de 25 A y dispositivos de protección contra sobrecargas y cortocircuitos. El interruptor general es independiente del interruptor para el control de potencia (ICP) y no puede ser sustituido por éste.
+– Un interruptor general automático de corte omnipolar con accionamiento manual, de intensidad nominal mínima de 25 A y dispositivos de protección contra sobrecargas y cortocircuitos. El interruptor general es independiente del interruptor para el control de potencia (ICP) y no puede ser sustituido por éste.
 
-– Uno o varios interruptores diferenciales que garanticen la protección contra contactos indirectos de todos los circuitos, con una intensidad diferencial-residual máxima de 30 mA e intensidad asignada superior o igual que la del interruptor general. Cuando se usen interruptores diferenciales en serie, habrá que garantizar que todos los circuitos quedan protegidos frente a intensidades diferenciales-residuales de 30 mA como máximo, pudiéndose instalar otros diferenciales de intensidad superior a 30 mA en serie, siempre que se cumpla lo anterior.
+– Uno o varios interruptores diferenciales que garanticen la protección contra contactos indirectos de todos los circuitos, con una intensidad diferencial-residual máxima de 30 mA e intensidad asignada superior o igual que la del interruptor general. Cuando se usen interruptores diferenciales en serie, habrá que garantizar que todos los circuitos quedan protegidos frente a intensidades diferenciales-residuales de 30 mA como máximo, pudiéndose instalar otros diferenciales de intensidad superior a 30 mA en serie, siempre que se cumpla lo anterior.
 
 Para instalaciones de viviendas alimentadas con redes diferentes a las de tipo TT, que eventualmente pudieran autorizarse, la protección contra contactos indirectos se realizará según se indica en el apartado 4.1 de la ITC-BT-24.
 
-– Dispositivos de protección contra sobretensiones, si fuese necesario, conforme a la ITC-BT-23.
+– Dispositivos de protección contra sobretensiones, si fuese necesario, conforme a la ITC-BT-23.
 
 2.2 Previsión para instalaciones de sistemas de automatización, gestión técnica de la energía y seguridad
 
@@ -122,7 +122,7 @@ Tabla 1. Características eléctricas de los circuitos^(1).
 
 
 <!-- tabla: tablas/ITC-BT-25_t01.csv -->
-| Circuito de utilización | Potencia prevista por toma  –  W | Factor simultaneidad  –  Fs | Factor utilización  –  Fu | Tipo de toma  –    ^(7) | Interruptor automático  –  A | Máximo n.º de puntos de utilización o tomas por circuito | Conductores sección mínima  –  mm^2    ^(5) | Tubo o conducto  –  Diámetro  mm    ^(3) |
+| Circuito de utilización | Potencia prevista por toma – W | Factor simultaneidad – Fs | Factor utilización – Fu | Tipo de toma – ^(7) | Interruptor automático – A | Máximo n.º de puntos de utilización o tomas por circuito | Conductores sección mínima – mm^2 ^(5) | Tubo o conducto – Diámetro mm ^(3) |
 |---|---|---|---|---|---|---|---|---|
 | C_1 Iluminación. | 200 | 0,75 | 0,5 | Punto de luz^(9). | 10 | 30 | 1,5 | 16 |
 | C_2 Tomas de uso general. | 3.450 | 0,2 | 0,25 | Base 16 A 2p+T. | 16 | 20 | 2,5 | 20 |
@@ -166,31 +166,31 @@ Tabla 2
 | Estancia | Circuito | Mecanismo | N.º mínimo | Superf./longitud |
 |---|---|---|---|---|
 | Acceso. | C_1 | Pulsador timbre. | 1 |  |
-| Vestíbulo. | C_1 | Punto de luz.  Interruptor 10 A. | 1  1 | – |
+| Vestíbulo. | C_1 | Punto de luz. Interruptor 10 A. | 1 1 | – |
 | Vestíbulo. | C_2 | Base 16 A 2p+T. | 1 | – |
-| Sala de estar o salón. | C_1 | Punto de luz.  Interruptor 10 A. | 1  1 | Hasta 10 m^2 (dos si S > 10 m^2).  Uno por cada punto de luz. |
+| Sala de estar o salón. | C_1 | Punto de luz. Interruptor 10 A. | 1 1 | Hasta 10 m^2 (dos si S > 10 m^2). Uno por cada punto de luz. |
 | Sala de estar o salón. | C_2 | Base 16 A 2p+T. | 3^(1) | Una por cada 6 m^2, redondeado al entero superior. |
 | Sala de estar o salón. | C_8 | Toma de calefacción. | 1 | Hasta 10 m^2 (dos si S > 10 m^2). |
 | Sala de estar o salón. | C_9 | Toma de aire acondicionado. | 1 | Hasta 10 m^2 (dos si S > 10 m^2). |
-| Dormitorios. | C_1 | Puntos de luz.  Interruptor 10 A. | 1  1 | Hasta 10 m^2 (dos si S > 10 m^2).  Uno por cada punto de luz. |
+| Dormitorios. | C_1 | Puntos de luz. Interruptor 10 A. | 1 1 | Hasta 10 m^2 (dos si S > 10 m^2). Uno por cada punto de luz. |
 | Dormitorios. | C_2 | Base 16 A 2p+T. | 3^(1) | Una por cada 6 m^2, redondeado al entero superior. |
 | Dormitorios. | C_8 | Toma de calefacción. | 1 | – |
 | Dormitorios. | C_9 | Toma de aire acondicionado. | 1 | – |
-| Baños. | C_1 | Puntos de luz.  Interruptor 10 A. | 1  1 | – |
+| Baños. | C_1 | Puntos de luz. Interruptor 10 A. | 1 1 | – |
 | Baños. | C_5 | Base 16 A 2p+T. | 1 | – |
 | Baños. | C_8 | Toma de calefacción. | 1 | – |
-| Pasillos o distribuidores. | C_1 | Puntos de luz.  Interruptor/Conmutador 10 A. | 1  1 | Uno cada 5 m de longitud.  Uno en cada acceso. |
+| Pasillos o distribuidores. | C_1 | Puntos de luz. Interruptor/Conmutador 10 A. | 1 1 | Uno cada 5 m de longitud. Uno en cada acceso. |
 | Pasillos o distribuidores. | C_2 | Base 16 A 2p + T. | 1 | Hasta 5 m (dos si L > 5 m). |
 | Pasillos o distribuidores. | C_8 | Toma de calefacción. | 1 | – |
-| Cocina. | C_1 | Puntos de luz.  Interruptor 10 A. | 1  1 | Hasta 10 m^2 (dos si S > 10 m^2).  Uno por cada punto de luz. |
+| Cocina. | C_1 | Puntos de luz. Interruptor 10 A. | 1 1 | Hasta 10 m^2 (dos si S > 10 m^2). Uno por cada punto de luz. |
 | Cocina. | C_2 | Base 16 A 2p + T. | 2 | Extractor y frigorífico. |
 | Cocina. | C_3 | Base 25 A 2p + T. | 1 | Cocina/horno. |
 | Cocina. | C_4 | Base 16 A 2p + T. | 3 | Lavadora, lavavajillas y termo. |
 | Cocina. | C_5 | Base 16 A 2p + T. | 3^(2) | Encima del plano de trabajo. |
 | Cocina. | C_8 | Toma calefacción. | 1 | – |
 | Cocina. | C_10 | Base 16 A 2p + T. | 1 | Secadora. |
-| Terrazas y Vestidores. | C_1 | Puntos de luz.  Interruptor 10 A. | 1  1 | Hasta 10 m^2 (dos si S > 10 m^2).  Uno por cada punto de luz. |
-| Garajes unifamiliares y otros. | C_1 | Puntos de luz.  Interruptor 10 A. | 1  1 | Hasta 10 m^2 (dos si S > 10 m^2).  Uno por cada punto de luz. |
+| Terrazas y Vestidores. | C_1 | Puntos de luz. Interruptor 10 A. | 1 1 | Hasta 10 m^2 (dos si S > 10 m^2). Uno por cada punto de luz. |
+| Garajes unifamiliares y otros. | C_1 | Puntos de luz. Interruptor 10 A. | 1 1 | Hasta 10 m^2 (dos si S > 10 m^2). Uno por cada punto de luz. |
 | Garajes unifamiliares y otros. | C_2 | Base 16 A 2p + T. | 1 | Hasta 10 m^2 (dos si S > 10 m^2). |
 | Garajes unifamiliares y otros. | C_13 | Base de toma de corriente^(3). | 1 | – |
 

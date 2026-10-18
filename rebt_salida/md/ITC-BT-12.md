@@ -8,8 +8,7 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ## INSTALACIONES DE ENLACE. ESQUEMAS
 
-### 0.
- ÍNDICE
+### 0. ÍNDICE
 
 ### 1. INSTALACIONES DE ENLACE
 
@@ -29,11 +28,9 @@ fuente: https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
 
 ##### 2.2.3 Colocación de contadores en forma centralizada en más de un lugar
 
-### 1.
- INSTALACIONES DE ENLACE
+### 1. INSTALACIONES DE ENLACE
 
-#### 1.1
- Definición
+#### 1.1 Definición
 
 Se denominan instalaciones de enlace, aquellas que unen la caja general de protección o cajas generales de protección, incluidas éstas, con las instalaciones interiores o receptoras del usuario.
 
@@ -43,20 +40,19 @@ Estas instalaciones se situarán y discurrirán siempre por lugares de uso comú
 
 #### 1.2 Partes que constituyen las instalaciones de enlace
 
-– Caja General de Protección (CGP)
+– Caja General de Protección (CGP)
 
-– Línea General de Alimentación (LGA)
+– Línea General de Alimentación (LGA)
 
-– Elementos para la Ubicación de Contadores (CC)
+– Elementos para la Ubicación de Contadores (CC)
 
-– Derivación Individual (DI)
+– Derivación Individual (DI)
 
-– Caja para Interruptor de Control de Potencia (ICP)
+– Caja para Interruptor de Control de Potencia (ICP)
 
-– Dispositivos Generales de Mando y Protección (DGMP)
+– Dispositivos Generales de Mando y Protección (DGMP)
 
-### 2.
- ESQUEMAS
+### 2. ESQUEMAS
 
 Leyenda
 

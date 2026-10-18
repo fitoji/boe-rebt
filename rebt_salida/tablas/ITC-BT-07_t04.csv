@@ -1,13 +1,7 @@
-"Sección nominal
- mm^2",Terna de cables unipolares (1) (2),,,1 cable tripolar o tetrapolar (3),,
-"Sección nominal
- mm^2","![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image4.png)
- ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image5.png)",,,"![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image6.png)
- ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image7.png)",,
-"Sección nominal
- mm^2",Tipo de aislamiento,,,,,
-"Sección nominal
- mm^2",XLPE,EPR,PVC,XLPE,EPR,PVC
+Sección nominal mm^2,Terna de cables unipolares (1) (2),,,1 cable tripolar o tetrapolar (3),,
+Sección nominal mm^2,![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image4.png) ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image5.png),,,![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image6.png) ![imagen](https://www.boe.es/datos/imagenes/disp/2002/224/18099_image7.png),,
+Sección nominal mm^2,Tipo de aislamiento,,,,,
+Sección nominal mm^2,XLPE,EPR,PVC,XLPE,EPR,PVC
 16,97,94,86,90,86,76
 25,125,120,110,115,110,98
 35,150,145,130,140,135,120

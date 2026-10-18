@@ -100,17 +100,17 @@ En la instalación interior la alimentación alternativa (red o generador) podr�
 
 En el caso en el que esté previsto realizar maniobras de transferencia de carga sin corte, la conexión de la instalación generadora asistida con la Red de Distribución Pública se hará en un punto único y deberán cumplirse los siguientes requisitos:
 
-– Sólo podrán realizar maniobras de transferencia de carga sin corte los generadores de potencia superior a 100 kVA
+– Sólo podrán realizar maniobras de transferencia de carga sin corte los generadores de potencia superior a 100 kVA
 
-– En el momento de interconexión entre el generador y la red de distribución pública, se desconectará el neutro del generador de tierra.
+– En el momento de interconexión entre el generador y la red de distribución pública, se desconectará el neutro del generador de tierra.
 
-– El sistema de conmutación deberá instalarse junto a los aparatos de medida de la Red de Distribución pública, con accesibilidad para la empresa distribuidora.
+– El sistema de conmutación deberá instalarse junto a los aparatos de medida de la Red de Distribución pública, con accesibilidad para la empresa distribuidora.
 
-– Deberá incluirse un sistema de protección que imposibilite el envío de potencia del generador a la red.
+– Deberá incluirse un sistema de protección que imposibilite el envío de potencia del generador a la red.
 
-– Deberán incluirse sistemas de protección por tensión del generador fuera de límites, frecuencia fuera de límites, sobrecarga y cortocircuito, enclavamiento para no poder energizar la línea sin tensión y protección por fuera de sincronismo.
+– Deberán incluirse sistemas de protección por tensión del generador fuera de límites, frecuencia fuera de límites, sobrecarga y cortocircuito, enclavamiento para no poder energizar la línea sin tensión y protección por fuera de sincronismo.
 
-– Dispondrá de un equipo de sincronización y no se podrá mantener la interconexión más de 5 segundos.
+– Dispondrá de un equipo de sincronización y no se podrá mantener la interconexión más de 5 segundos.
 
 El conmutador llevará un contacto auxiliar que permita conectar a una tierra propia el neutro de la generación, en los casos que se prevea la transferencia de carga sin corte.
 
@@ -162,11 +162,11 @@ Podrá prescindirse de este equipo si la conexión pudiera efectuarse como gener
 
 La conexión de la central a la red de distribución pública deberá efectuarse cuando en la operación de sincronización las diferencias entre las magnitudes eléctricas del generador y la red no sean superiores a las siguientes:
 
-– Diferencia de tensiones: ± 8 %
+– Diferencia de tensiones: ± 8 %
 
-– Diferencia de frecuencia: ± 0,1Hz
+– Diferencia de frecuencia: ± 0,1Hz
 
-– Diferencia de fase: ± 10º
+– Diferencia de fase: ± 10º
 
 Los puntos donde no exista equipo de sincronismo y sea posible la puesta en paralelo, entre la generación y la Red de Distribución Pública, dispondrán de un enclavamiento que impida la puesta en paralelo.
 
@@ -208,13 +208,13 @@ Los circuitos de salida de los generadores se dotarán de las protecciones estab
 
 Las protecciones mínimas a disponer serán las siguientes, con independencia de que estos ajustes podrían verse modificados por la normativa del sector eléctrico en función del generador al que aplique:
 
-– De sobreintensidad, mediante relés directos magnetotérmicos o solución equivalente.
+– De sobreintensidad, mediante relés directos magnetotérmicos o solución equivalente.
 
-– De mínima tensión instantáneos, conectados entre las tres fases y neutro y que actuarán, en un tiempo inferior a 0,5 segundos, a partir de que la tensión llegue al 85% de su valor asignado.
+– De mínima tensión instantáneos, conectados entre las tres fases y neutro y que actuarán, en un tiempo inferior a 0,5 segundos, a partir de que la tensión llegue al 85% de su valor asignado.
 
-– De sobretensión, conectado entre una fase y neutro, y cuya actuación debe producirse en un tiempo inferior a 0,5 segundos, a partir de que la tensión llegue al 110% de su valor asignado.
+– De sobretensión, conectado entre una fase y neutro, y cuya actuación debe producirse en un tiempo inferior a 0,5 segundos, a partir de que la tensión llegue al 110% de su valor asignado.
 
-– De máxima y mínima frecuencia, conectado entre fases, y cuya actuación debe producirse cuando la frecuencia sea inferior a 49 Hz o superior a 51 Hz durante más de 5 períodos.
+– De máxima y mínima frecuencia, conectado entre fases, y cuya actuación debe producirse cuando la frecuencia sea inferior a 49 Hz o superior a 51 Hz durante más de 5 períodos.
 
 ### 8. INSTALACIONES DE PUESTA A TIERRA
 
